@@ -1,0 +1,101 @@
+{
+  "company_count": 17,
+  "topic_count": 4,
+  "alias_count": 28,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "air_liquide",
+      "short_name": "Air Liquide",
+      "tier": ""
+    },
+    {
+      "id": "linde",
+      "short_name": "Linde",
+      "tier": ""
+    },
+    {
+      "id": "air_products",
+      "short_name": "Air Products",
+      "tier": ""
+    },
+    {
+      "id": "nel",
+      "short_name": "Nel ASA",
+      "tier": ""
+    },
+    {
+      "id": "itm_power",
+      "short_name": "ITM Power",
+      "tier": ""
+    },
+    {
+      "id": "siemens_energy",
+      "short_name": "Siemens Energy",
+      "tier": ""
+    },
+    {
+      "id": "thyssenkrupp_nucera",
+      "short_name": "thyssenkrupp nucera",
+      "tier": ""
+    },
+    {
+      "id": "mcphy",
+      "short_name": "McPhy Energy",
+      "tier": ""
+    },
+    {
+      "id": "plug_power",
+      "short_name": "Plug Power",
+      "tier": ""
+    },
+    {
+      "id": "bloom_energy",
+      "short_name": "Bloom Energy",
+      "tier": ""
+    },
+    {
+      "id": "ballard",
+      "short_name": "Ballard Power Systems",
+      "tier": ""
+    },
+    {
+      "id": "fuelcell",
+      "short_name": "FuelCell Energy",
+      "tier": ""
+    },
+    {
+      "id": "cummins",
+      "short_name": "Cummins",
+      "tier": ""
+    },
+    {
+      "id": "chart",
+      "short_name": "Chart Industries",
+      "tier": ""
+    },
+    {
+      "id": "nikola",
+      "short_name": "Nikola",
+      "tier": ""
+    },
+    {
+      "id": "hyundai",
+      "short_name": "Hyundai Motor",
+      "tier": ""
+    },
+    {
+      "id": "toyota",
+      "short_name": "Toyota Motor",
+      "tier": ""
+    }
+  ]
+}
