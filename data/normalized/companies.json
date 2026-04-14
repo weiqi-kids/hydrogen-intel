@@ -1,0 +1,249 @@
+{
+  "companies": [
+    {
+      "id": "air_liquide",
+      "name": "Air Liquide",
+      "short_name": "液化空氣",
+      "position": "upstream",
+      "role": "工業氣體",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "linde",
+      "name": "Linde",
+      "short_name": "林德",
+      "position": "upstream",
+      "role": "工業氣體",
+      "x": 0.106,
+      "y": 0.34
+    },
+    {
+      "id": "air_products",
+      "name": "Air Products",
+      "short_name": "Air Products",
+      "position": "upstream",
+      "role": "工業氣體",
+      "x": 0.163,
+      "y": 0.34
+    },
+    {
+      "id": "nel",
+      "name": "Nel ASA",
+      "short_name": "Nel ASA",
+      "position": "upstream",
+      "role": "電解槽",
+      "x": 0.219,
+      "y": 0.34
+    },
+    {
+      "id": "itm_power",
+      "name": "ITM Power",
+      "short_name": "ITM Power",
+      "position": "upstream",
+      "role": "電解槽",
+      "x": 0.275,
+      "y": 0.34
+    },
+    {
+      "id": "siemens_energy",
+      "name": "Siemens Energy",
+      "short_name": "西門子能源",
+      "position": "upstream",
+      "role": "電解槽/能源設備",
+      "x": 0.331,
+      "y": 0.34
+    },
+    {
+      "id": "thyssenkrupp_nucera",
+      "name": "thyssenkrupp nucera",
+      "short_name": "thyssenkrupp nucera",
+      "position": "upstream",
+      "role": "電解槽",
+      "x": 0.388,
+      "y": 0.34
+    },
+    {
+      "id": "mcphy",
+      "name": "McPhy Energy",
+      "short_name": "McPhy Energy",
+      "position": "upstream",
+      "role": "電解槽",
+      "x": 0.444,
+      "y": 0.34
+    },
+    {
+      "id": "plug_power",
+      "name": "Plug Power",
+      "short_name": "Plug Power",
+      "position": "midstream",
+      "role": "氫燃料電池系統",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "bloom_energy",
+      "name": "Bloom Energy",
+      "short_name": "Bloom Energy",
+      "position": "midstream",
+      "role": "固態燃料電池",
+      "x": 0.556,
+      "y": 0.34
+    },
+    {
+      "id": "ballard",
+      "name": "Ballard Power Systems",
+      "short_name": "Ballard Power Systems",
+      "position": "midstream",
+      "role": "燃料電池",
+      "x": 0.613,
+      "y": 0.34
+    },
+    {
+      "id": "fuelcell",
+      "name": "FuelCell Energy",
+      "short_name": "FuelCell Energy",
+      "position": "midstream",
+      "role": "燃料電池",
+      "x": 0.669,
+      "y": 0.34
+    },
+    {
+      "id": "cummins",
+      "name": "Cummins",
+      "short_name": "康明斯",
+      "position": "midstream",
+      "role": "動力系統",
+      "x": 0.725,
+      "y": 0.34
+    },
+    {
+      "id": "chart",
+      "name": "Chart Industries",
+      "short_name": "查特工業",
+      "position": "midstream",
+      "role": "儲氫設備",
+      "x": 0.781,
+      "y": 0.34
+    },
+    {
+      "id": "nikola",
+      "name": "Nikola",
+      "short_name": "Nikola",
+      "position": "downstream",
+      "role": "氫能卡車",
+      "x": 0.838,
+      "y": 0.34
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai Motor",
+      "short_name": "現代汽車",
+      "position": "downstream",
+      "role": "氫能車",
+      "x": 0.894,
+      "y": 0.34
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota Motor",
+      "short_name": "豐田",
+      "position": "downstream",
+      "role": "氫能車",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "air_liquide",
+      "target": "plug_power",
+      "strength": 2
+    },
+    {
+      "source": "air_liquide",
+      "target": "bloom_energy",
+      "strength": 2
+    },
+    {
+      "source": "linde",
+      "target": "plug_power",
+      "strength": 2
+    },
+    {
+      "source": "linde",
+      "target": "bloom_energy",
+      "strength": 2
+    },
+    {
+      "source": "air_products",
+      "target": "plug_power",
+      "strength": 2
+    },
+    {
+      "source": "nel",
+      "target": "plug_power",
+      "strength": 2
+    },
+    {
+      "source": "itm_power",
+      "target": "linde",
+      "strength": 2
+    },
+    {
+      "source": "siemens_energy",
+      "target": "air_liquide",
+      "strength": 2
+    },
+    {
+      "source": "siemens_energy",
+      "target": "linde",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp_nucera",
+      "target": "air_liquide",
+      "strength": 2
+    },
+    {
+      "source": "plug_power",
+      "target": "nikola",
+      "strength": 2
+    },
+    {
+      "source": "ballard",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "cummins",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "cummins",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "chart",
+      "target": "air_liquide",
+      "strength": 2
+    },
+    {
+      "source": "chart",
+      "target": "linde",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_hdro",
+      "name": "Defiance Next Gen H2 ETF",
+      "ticker": "HDRO",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "氫能產業 ETF"
+    }
+  ]
+}
