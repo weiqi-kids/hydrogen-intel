@@ -1,1 +1,349 @@
-[]
+[
+  {
+    "id": "unknown-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "KELAG Has Opened Carinthia's First Electrolysis Plant in Arnoldstein",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-002",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Zhongke Launches Green Hydrogen and Zero-Carbon Methanol Project in Xinjiang",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-003",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hyphen and Enertrag Sign Cooperation Agreement with GIZ to Strengthen Namibian Participation in the Green Hydrogen Value Chain",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-004",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Powers Amber Grid’s €3.3B Energy Independence Strategy",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1775887627755.jpeg\" alt=\"Green Hydrogen Powers Amber Grid&#8217;s €3.3B Energy Independence Strategy\" /></p>Ever wonder",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-005",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Fuel Cells Training System Strengthens South Africa’s Green Hydrogen Skills",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1775747723882.jpeg\" alt=\"Hydrogen Fuel Cells Training System Strengthens South Africa’s Green Hydrogen Skills\" /></p>Th",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-006",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Nobian Secures RFNBO Certification for Green Hydrogen Production at Frankfurt Site",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1775747095504.jpeg\" alt=\"Nobian Secures RFNBO Certification for Green Hydrogen Production at Frankfurt Site\" /></p>This",
+    "sources": []
+  },
+  {
+    "id": "plug_power-2026-04-13-007",
+    "date": "2026-04-13",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Production Ramps Up with Plug Power’s 275 MW Electrolyzers for Courant Project",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1775653433400.jpeg\" alt=\"Green Hydrogen Production Ramps Up with Plug Power’s 275 MW Electrolyzers for Courant Project\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-017",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Green Hydrogen Market: Global Industry Analysis, Trends, Growth, and Forecast - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOODZwaUxvTGx2Z2tpQWVSV1Q1ZUl1Sk45LWhOZ2hKWFpLekhEaXZCLUNfa255ZmNWZm40RHMyZFVCdTNpMWFhZlF1bVVpMGFRenNXRWNwcWVibC1IRHY0dXdiOTd2RmFRQ010bEpMa3",
+    "sources": []
+  },
+  {
+    "id": "itm_power-2026-04-09-013",
+    "date": "2026-04-09",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power Secures £86.5M Investment to Scale Electrolyzer - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc09LV09Cc2Qxd1RCOVl6aF9RTGZza3Y1WFNKby1CTzBpUjNHLXdocVQ1cnVOLUNSVUdhdVVPc0tPODZjbUdZbVNQa0hRekxLaW1RQ2I4amU3VG9YNkdmUy1BeGFGOEdVS2hnd3AyZj",
+    "sources": []
+  },
+  {
+    "id": "plug_power-2026-04-06-010",
+    "date": "2026-04-06",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Advances 4% on Biggest Electrolyzer Project Yet and Clear Path to Profitability - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNLU55NjIxMENodGNEbDNFTlNSeVZRU29nQ2VFMXdVNVpxX1ExeTBfR2ZCZm5nQkR4ajBNcE9jMHhINGZ5dlpXQVpfQkxKR25MYmlCMFFGS3ZEQmUyWTZRaDdERnJaV2dyZWFma3Q5cz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-014",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Mapping Catalyst Failure to Advance Clean Hydrogen Fuel Production - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbll2OVRUS0FUSFgtN2JkWklWN2lPemZ2MGhia2Q0anQ4SU1hSlhCSEh3ZDFEdUt1bzF4MzU1WV9pT2lNWUJkQ3RHNVBmd3hlT0pGUXByRTNVN3diZTY0bENRT2l3MDRscjhobkllZk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-008",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Production: Electrolysis - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xNTRVTkdkSnBLbVZvMHdpVEk1LUR3dnF0VkhuVjlkcnExYjVTbzNZbjBmSjFyenNFeXFfSW1pWUVTSU5QOVdZMnNiTnhQN0xINGhBWFMxRlJNdHVpVnJEcDdsMFJJWkpTdldSTTItMG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-01-018",
+    "date": "2026-03-01",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Electrolyzers for Hydrogen Production – Technical and Economic Characteristics - World Bank",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjBRSVM5WnFZbGFjejhwU3FDSFNwS2Fub2VBYkE1ODNFNUxvWnFUNHlSZFdkdWdBdFAwNjMzd1BMWDhSMTVVNG1QM0N4SXBhTXFTN0NFbDc1dHBOVU5vZm1GWEFEeFNwRmRzaEpObF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-25-025",
+    "date": "2026-02-25",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ANALYSIS | How to cut green hydrogen production costs, according to the World Bank - Hydrogen Insight",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOeG9pdmpOUWR1b1daTkFqQjc3cGFQUXhrT3V4S21jTkdMd05rMFRqX1BzdTZNa2c0NG15eEZ0cTBtYzNtX05sVlYtZUd4Y09VT0NtemoxdVJ0NURHUkRRQjhtYjVaWlFxOFp5RTdhX2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-24-012",
+    "date": "2026-02-24",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "From Water to Watts: Electrolyzers & Fuel Cells are the muscle behind the Hydrogen Revolution - Electropages",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaE9UeHhjRWtxNnNFUlVURDFNVDA2eXhxbzlBSDlXWjVCQ0I5NzdWLVZ3SFVXQ2Q3TDhLTmVIdEhoZmlaaV9qRUFZYXl1clFaTmdId193WWF4TVZPTXh5YloyUklaV1gtMnA3NHpFcl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-20-020",
+    "date": "2026-01-20",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Global green hydrogen cost breakdown by scenario 2020-2030 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVnd0QW9BUXJPZ205NlFFbjJENGtTb2FmZjFPX1JxZWFLcFlEeng1V2x2TXFaaDYxWmRzLWpDcXFHRFJPS3ktOHZpUlFXYzB4V0NxcDNkUkhOc3JMZWFwYWNpcVJKRWoxbXMwZ0Z1Y1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-20-027",
+    "date": "2026-01-20",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green hydrogen cost development by country 2050 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUlwMW92R3ZNSGEwS3BQV083dTBiOVpFNWtaeWtGOXJCbXhfaUJQa0wzNndlV0x6WHpRbG53TWstajFlNU1WNEp1SjV3M3dDQ29IY1B1aHRXSVZYUURZd3JvUG1IaVgxSlY0M0lIcm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-20-028",
+    "date": "2026-01-20",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green hydrogen production and import costs in Europe 2024-2030 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlRBYndTeDFDV2ExSEJQaC0tUmZJcG5qa2IweDh2RkIweDYzclBraU8wa1NMYnhMMVFQVUVIdG1pU09qVC1zNWw0b01hVm5HZWhTOUZ6YUJjUkoxeEJGZFFaZElqNzFjMmtOYm9rcG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-17-009",
+    "date": "2026-01-17",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Ionomers: Behind-the-Scenes Influencer Determining the Performance of Membrane Electrode Assemblies in PEM Fuel Cells/Electrolyzers - ACS Publications",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZ2RDSHdFaTFDQnQxdmtXZXhPdjNxUW9yT1h1Z21lREN6SUtaMHNSVTNFRFUzN1lBR1JvRTV4aVRKejIyeFRrYUxnQ3NFY2RXN3MwRjhfekR3OGt1Y0djczRzdWM?oc=5\" target=\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-08-023",
+    "date": "2026-01-08",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "The breakthrough that finally makes green hydrogen cost-competitive - Oil & Gas 360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONTJ0X0gtQXoyS29OZjM2ZGlidWY4Mzh2OTAyZHpIeW9abVRBMG1MTkNBT2pUV1lPYTJWelpHamVIN1FxZ1hXNXRqVVhuY28tRldkZHRBMlIwYnFhWlJQbERscl9CaXliOXZ1NGVScz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-01-021",
+    "date": "2026-01-01",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "New solar co-electrolysis route cuts green hydrogen cost below fossil hydrogen - EurekAlert!",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWTNaMlB5bXNWWUEzMHJhUjNiSUtJMF9TNzlCUlI2bFJVRFVkMUJSWXZFVkthc21YQzJIbU1zTEo3RGtrR3daZW9DWGlmNzc2aXliR201TEFKOENr?oc=5\" target=\"_blank\">New",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-18-015",
+    "date": "2025-12-18",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Throwback Thursday Story: Bosch Commissions Its First In-House Electrolyzer with Hybrion Electrolysis Stacks - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSjFHSWRTRmd6eGxRQXlud201cXNCV2hIcllyWEtrUW5lc3ppQ0d4aGFtdXl1SkxhMGxUQktSa0xLamx0MnJTRjFKQWNnc0xXdThGWkRabHNzN3dKM3AzaEdMdmhHaVJlOGdJdGlxZm",
+    "sources": []
+  },
+  {
+    "id": "plug_power-2025-12-04-016",
+    "date": "2025-12-04",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Signs LOI with Hy2gen for 5MW PEM Electrolyzer in France - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOSkRYVW9fTFZzc2RaUDdlblJaTjZPdHhOUk9hZTRpYTBxSHZtOVZzZTNFMFBjbDBtbUpXQnNFampLZlc4dmVLN0tZN3dFX1FfOFptcnluOHBQbnNEQlFZWVhsMTlUR3R2bDdZVnhnXz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-18-011",
+    "date": "2025-11-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Integration of concentrated solar power with solid oxide electrolysis for green hydrogen production: a comprehensive review - Frontiers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUk9HX0RKMmd5NTF3eE9mcmV1YmdLU09BS1VybTZjd0JBOFhUbUxDMlp5b3VaQmVSd3VGSVZLQnBwbEQ5QUxNbm5TRVJ3WDZCc2ZBTzdxYmpuQmRpWDhEMUx3WnQ5WHFnTlJNVVQzYV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-29-024",
+    "date": "2025-10-29",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "US scientists cut 47% green hydrogen production cost using wastewater - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2ZzdF94UjR2amFFVkJhaGxUekNVYlFzeG9WSXJQN19DN0V2RmxqT0JTcFNEanJmRHdha1N3S1ZlWkd2Vzl1amNZWHVLQWl2ajl1a1ZiWGZiWkQwZkpTRnJVWjhZMnRHRW1VSUE2eF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-15-022",
+    "date": "2025-10-15",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Breakthrough brings $1/kg cost green hydrogen closer - ioplus.nl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0tGODd6QXJ1LTdUT2lLcWlmQ05nZFF0SFFWbmp5dFJxNVBBcHBEaG1NUHhWb0VMakVqeTZZR2M0RlBmU2NXZ09OeGZ3dWVVN0xfcWpNamhSY0JWbGo4S3FQYXZBN0plZGtQZFhubV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-25-019",
+    "date": "2025-08-25",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Three Considerations to Make Green Hydrogen a Reality in India - RMI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdElsWTNyVXJXV0ZKMTRYcUV4TThETlBJdjVMRGJXQ3VINGRYOEtaTDN3d0dBSTV6UUlhdWh5VEVsMldFeUwzMDZRdDlrYzBtQngzcWhFSlpuZ0VqTEJ1WUN2aGpheUluRU9GTkxMSV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-10-026",
+    "date": "2025-07-10",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Production Pathways for India - RMI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8tRjBFZEhabHpObzRIRDRUdUlmRlpyX1l3U2dWMTRYQWJpbTM5bmJYTVE4XzdSQ2FPUktjQzZMNmhfbUQzM09yRk55Q3BYa0xEZk5ZNTdfc2lKaE4ydlJ6UVNHY2F6N0xQRHJlTDZ3?o",
+    "sources": []
+  }
+]
