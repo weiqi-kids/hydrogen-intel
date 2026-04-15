@@ -1,5 +1,29 @@
 [
   {
+    "id": "unknown-2026-04-15-001",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen at the Heart of Egypt’s National Clean Hydrogen Program",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1776074885153.jpeg\" alt=\"Green Hydrogen at the Heart of Egypt’s National Clean Hydrogen Program\" /></p>Picture this: a ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-002",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Africa: AfDB’s SEFA Launches $20 Million Call for Proposals",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1776027888916.jpeg\" alt=\"Green Hydrogen Africa: AfDB’s SEFA Launches $20 Million Call for Proposals\" /></p>Chances are ",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-001",
     "date": "2026-04-14",
     "companies": [],
@@ -139,6 +163,20 @@
     "sources": []
   },
   {
+    "id": "plug_power-2026-04-02-003",
+    "date": "2026-04-02",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Awarded 275 MW Electrolyzer Contract for Hy2gen's Courant Project - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNX3N3OEJ4bUdUM2tVdms4RHNJQzhnY2hDMFkxZV9RbTBWa01SUXBJVU5ONUV4LVFsVnk5SC1jVHlrZWhPR2tob1pYZ2hrcFZVTWFIZTVyWUVaclFCX3FROEJPdGNlMHluWjF5VGdPT0",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-26-008",
     "date": "2026-03-26",
     "companies": [],
@@ -184,6 +222,18 @@
     "impact": "neutral",
     "title": "From Water to Watts: Electrolyzers & Fuel Cells are the muscle behind the Hydrogen Revolution - Electropages",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaE9UeHhjRWtxNnNFUlVURDFNVDA2eXhxbzlBSDlXWjVCQ0I5NzdWLVZ3SFVXQ2Q3TDhLTmVIdEhoZmlaaV9qRUFZYXl1clFaTmdId193WWF4TVZPTXh5YloyUklaV1gtMnA3NHpFcl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-27-004",
+    "date": "2026-01-27",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen's Reality Check: Market Trends & Regional Developments - IDTechEx",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGlyQnBObzRQVDNKZ3h6V2hjMFEybl9PaUlYVndSbkxlWmFkYmhERHZLMkhYaDF2Q2o5MFFZb1M2U0xKWFRkUHBqVXhteGtGeEtYT2w0TlpFRUNwS1dNVUxmZnZqd3FBWkRhZWl4WH",
     "sources": []
   },
   {
