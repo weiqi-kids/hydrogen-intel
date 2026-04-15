@@ -6,6 +6,7 @@ companies:
   ticker: AI.PA
   market: EURONEXT
   currency: EUR
+  rss_url: https://www.airliquide.com/group/press-releases-news/rss
   position: upstream
   role: 工業氣體
   description: 全球第二大工業氣體供應商
@@ -97,6 +98,7 @@ companies:
   ticker: PLUG
   market: NASDAQ
   currency: USD
+  rss_url: https://www.ir.plugpower.com/rss/news-releases.xml
   position: midstream
   role: 氫燃料電池系統
   description: 氫燃料電池系統與綠氫生產
@@ -113,6 +115,7 @@ companies:
   ticker: BE
   market: NYSE
   currency: USD
+  rss_url: https://investor.bloomenergy.com/rss/news-releases.xml
   position: midstream
   role: 固態燃料電池
   description: 固態氧化物燃料電池系統
@@ -125,6 +128,7 @@ companies:
   ticker: BLDP
   market: NASDAQ
   currency: USD
+  rss_url: https://www.ballard.com/investor-hub/rss
   position: midstream
   role: 燃料電池
   description: PEM 燃料電池模組
@@ -136,6 +140,7 @@ companies:
   ticker: FCEL
   market: NASDAQ
   currency: USD
+  rss_url: https://investor.fce.com/rss/news-releases.xml
   position: midstream
   role: 燃料電池
   description: 碳酸鹽燃料電池發電平台
@@ -146,6 +151,7 @@ companies:
   ticker: CMI
   market: NYSE
   currency: USD
+  rss_url: https://www.cummins.com/news/rss.xml
   position: midstream
   role: 動力系統
   description: PEM 電解槽與燃料電池（Accelera）

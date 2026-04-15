@@ -1,0 +1,26 @@
+# Hydrogen energy industry news feeds
+
+feeds:
+  # Industry media
+  - id: fuelcellsworks
+    name: Fuel Cells Works
+    url: https://fuelcellsworks.com/feed/
+    description: Hydrogen and fuel cell industry news leader
+  - id: hydrogen_fuel_news
+    name: Hydrogen Fuel News
+    url: https://www.hydrogenfuelnews.com/feed/
+    description: Hydrogen fuel cell technology and alternative energy news
+  - id: electrek_hydrogen
+    name: Electrek
+    url: https://electrek.co/feed/
+    description: Green energy, EV and hydrogen news
+
+  # Google News topic feeds
+  - id: google_news_hydrogen
+    name: Google News - Hydrogen Energy
+    url: https://news.google.com/rss/search?q=hydrogen+energy+fuel+cell+electrolyzer&hl=en
+    description: Google News aggregation for hydrogen energy industry
+  - id: google_news_green_hydrogen
+    name: Google News - Green Hydrogen
+    url: https://news.google.com/rss/search?q=green+hydrogen+production+cost&hl=en
+    description: Google News aggregation for green hydrogen
