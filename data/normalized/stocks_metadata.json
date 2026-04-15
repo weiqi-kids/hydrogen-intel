@@ -1,77 +1,77 @@
 {
   "air_liquide": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 313
+    "count": 374
   },
   "linde": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "air_products": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "nel": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 307
+    "count": 366
   },
   "itm_power": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 311
+    "count": 372
   },
   "siemens_energy": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 311
+    "count": 370
   },
   "thyssenkrupp_nucera": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 311
+    "count": 370
   },
   "plug_power": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "bloom_energy": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "ballard": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "fuelcell": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "cummins": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "chart": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "hyundai": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 298
+    "count": 359
   },
   "toyota": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 302
+    "count": 360
   }
 }

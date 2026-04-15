@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:09:26.298691+00:00",
+  "updated_at": "2026-04-15T12:03:26.982556+00:00",
   "companies": {
     "air_liquide": {
       "name": "Air Liquide",
@@ -10,25 +10,25 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 6411,
           "pct_held": 0.0,
-          "value": 1203344
+          "value": 1206806
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 8600,
           "pct_held": 0.0,
-          "value": 1614219
+          "value": 1618864
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 7531,
           "pct_held": 0.0,
-          "value": 1413568
+          "value": 1417635
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 529,
           "pct_held": 0.0,
-          "value": 99293
+          "value": 99578
         }
       ]
     },
@@ -175,7 +175,7 @@
           "holder": "Eagle Bay Advisors LLC",
           "shares": 1055,
           "pct_held": 0.0,
-          "value": 100805
+          "value": 100119
         }
       ]
     },
@@ -188,31 +188,31 @@
           "holder": "Scopus Asset Management, LP",
           "shares": 267139,
           "pct_held": 0.03,
-          "value": 45536515
+          "value": 45386914
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 4915,
           "pct_held": 0.0,
-          "value": 837810
+          "value": 835058
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 9192,
           "pct_held": 0.0,
-          "value": 1566868
+          "value": 1561720
         },
         {
           "holder": "DRW Securities, LLC",
           "shares": 30808,
           "pct_held": 0.0,
-          "value": 5251531
+          "value": 5234279
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 410,
           "pct_held": 0.0,
-          "value": 69888
+          "value": 69658
         }
       ]
     },
@@ -225,61 +225,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 332430,
           "pct_held": 0.26,
-          "value": 2776621
+          "value": 2752520
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 207801,
           "pct_held": 0.16,
-          "value": 1735657
+          "value": 1720592
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 94451,
           "pct_held": 0.07,
-          "value": 788901
+          "value": 782054
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 83399,
           "pct_held": 0.07,
-          "value": 696590
+          "value": 690543
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 50213,
           "pct_held": 0.04,
-          "value": 419404
+          "value": 415763
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
           "shares": 53719,
           "pct_held": 0.04,
-          "value": 448687
+          "value": 444793
         },
         {
           "holder": "College Retirement Equities Fd.-College Retirement Equities Fd. - Tota",
           "shares": 20342,
           "pct_held": 0.02,
-          "value": 169906
+          "value": 168431
         },
         {
           "holder": "Fidelity Concord Street TRT-Fidelity SAI Intl Small Cap Index Fd.",
           "shares": 7230,
           "pct_held": 0.01,
-          "value": 60388
+          "value": 59864
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 15120,
           "pct_held": 0.01,
-          "value": 126289
+          "value": 125193
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 16189,
           "pct_held": 0.01,
-          "value": 135218
+          "value": 134044
         }
       ]
     },

@@ -1,10 +1,23 @@
 {
   "date": "2026-04-15",
-  "total_events": 2,
-  "by_company": {},
+  "total_events": 5,
+  "by_company": {
+    "siemens_energy": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "green_hydrogen_cost": {
-      "count": 2,
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
