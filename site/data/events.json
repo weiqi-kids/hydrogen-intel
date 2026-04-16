@@ -62,6 +62,70 @@
     "sources": []
   },
   {
+    "id": "nel-2026-04-15-003",
+    "date": "2026-04-15",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Executive Pay Overhaul Meets a Crucial Revenue Test - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPS3l3UEtCTEJ6WWVJY204a0xfLTN1MlVUS3BSeVYzOFAwWHJCRzNabC1Ib1dkWWs5RjI5TFc2cXpWcHVic2l1dXBDZktYSlM1ZXZIS0dHWV9XM2pWOUFlODhOb0F0RUNnMU9obnE0TT",
+    "sources": []
+  },
+  {
+    "id": "toyota-2026-04-15-006",
+    "date": "2026-04-15",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Isuzu teams up with Toyota on new light-duty fuel cell truck - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUJETF9ROVZUbFJ5Qm5mWTFLNERiOE9WclhOcVJOd2RKejNZeWxfY3c5Q01oWkU1WVh0blB5MGxVQWZjMDVvaUgwNi1lZ2VJT2J0c1lTOXVHN2M5cURDdkVnYnNQNEtvTEppV29MMF",
+    "sources": []
+  },
+  {
+    "id": "toyota-2026-04-15-007",
+    "date": "2026-04-15",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "negative",
+    "title": "Isuzu Delays Heavy-Duty Hydrogen Truck Launch by Three Years — Then Announces a New Light-Duty Fuel Cell Truck with Toyota Two Days Later",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-008",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Malo Tests First Green Hydrogen Station in Brittany at Port",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-010",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Photreon project targets direct solar hydrogen production without electrolysis - Quantum Commodity Intelligence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVl4Uzlsb094WG82VnNQYmh5NkY1X2ljX1hXVldKeTV2Tl9KZ1RIazBEUThXaDhIeEl1QkRWZzRDM1YyazJIWXdhWDZ6Mnl5SkZTaGgtbzhwMl9XbmFaeUxpNFdvRnBhekJzWEtvVU",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-001",
     "date": "2026-04-14",
     "companies": [],
@@ -389,6 +453,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-03-009",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogenera to Supply 2MW Green Hydrogen System for German Project in Ukraine - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcW9obERURUt6THhGSXRlQi1EZXZtWk9NZUEzcFc5Y3kwLW9DclBvYzZTOC12Qy16c3BqVW4taUpNT1FiOTRrSlgtMURhbkMxbzBWTFhMNVZPRzV5bTVXS0NNZXR4Z25jdlJoTGc0Xz",
+    "sources": []
+  },
+  {
     "id": "plug_power-2026-04-02-003",
     "date": "2026-04-02",
     "companies": [
@@ -444,6 +520,18 @@
     "sources": []
   },
   {
+    "id": "thyssenkrupp_nucera-2026-03-18-005",
+    "date": "2026-03-18",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "thyssenkrupp nucera: FY 2025/26 guidance updated: higher order intake, lower sales and EBIT, driven by project costs - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0NnUzRhRHNqTGNneVZEb0lsR3IybWNVdkhJNWRVektTNS00SUxYZ25kcTBRRG1fd2ZGM0pCdFdZM1BEbWhycDZUemRTNG5FZTR3NEstSkxqUlJtSlRKVnJfV2gzclhzVjJKY3RVbn",
+    "sources": []
+  },
+  {
     "id": "thyssenkrupp_nucera-2026-03-17-021",
     "date": "2026-03-17",
     "companies": [
@@ -467,6 +555,18 @@
     "impact": "neutral",
     "title": "thyssenkrupp Leads 260 MW Green Hydrogen Project in India - Fuel Cells Works",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT091QUtvV3ppNnZFQXY3VDF6eURVSGZkdHJ1RHV0Z2E3Q3pYby1qcEd0SGJIbXdHWW5BZmRVeHIyY2RDMlpfRjVPWkZDcXNocHhiUklqclpITEhQNFVtS0VxZjczZ0Z3NlBWYVZja0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-011",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Generation Market to Reach $281.9 Billion by 2030 — The Clean Energy Revolution Begins - AltEnergyMag",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUwtMl9DQTh3S3NmRmQyd25jTllpemVzTXNQOGRsM1Zfb256WmY3aGU2WVdDQzk3NDBaeTUtZk85T2lMVDJLOW5oNXBYc2xwRUZRMkZ4eDZOQUZyTHlwX3JSSTVnOWszYTIwb1JobW",
     "sources": []
   },
   {
@@ -690,6 +790,20 @@
     "sources": []
   },
   {
+    "id": "itm_power-2026-01-27-004",
+    "date": "2026-01-27",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power wins front-end engineering roles on green hydrogen developments in Australia and Canada - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5RR01BMy1nZ2txUldCZ2pNbG5HSFFjbDNxcExLNmNfT1hUYTJlYzlXMXM2enVzU2g1NFczRE02S2hlakx1Z01weWQ1OWVYX01WaUJ6VG5aRHBDcC1Jb1JmdXNDbDhMbFczTTR3VFRZZl",
+    "sources": []
+  },
+  {
     "id": "nel-2026-01-23-007",
     "date": "2026-01-23",
     "companies": [
@@ -699,6 +813,18 @@
     "impact": "neutral",
     "title": "Nel ASA Stock Forecast 2026–2030 | Future Outlook - Capital.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBrZmZRQklncW11cE5FMV93UDZCekhCV3hqcW9pOC1TalJSRF9hbEZfTm90UTNzS1hWalJHaTJ3eFhVdUdMWERDOWhqVVE5NGxpYmV6S1hvWnhia01SNGRkWnF6OHVscENWc2c?oc=5\" ",
+    "sources": []
+  },
+  {
+    "id": "nel-2026-01-23-001",
+    "date": "2026-01-23",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA stock forecast: Third-party price targets - Capital.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZlhBWlR5TXJOT2pOOTZJWkVXcjFha2NQV3pxb3RoVnR6SWxCUEM1bHYyeGctOWdBSlhEbzJZYU1xSUNjbm9wQ2VCOG5VWDRxNFhHemZXZ2d2N0E2QlZvU1VteUlxOFRu?oc=5\" tar",
     "sources": []
   },
   {
@@ -873,6 +999,18 @@
     "impact": "positive",
     "title": "Breakthrough brings $1/kg cost green hydrogen closer - ioplus.nl",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0tGODd6QXJ1LTdUT2lLcWlmQ05nZFF0SFFWbmp5dFJxNVBBcHBEaG1NUHhWb0VMakVqeTZZR2M0RlBmU2NXZ09OeGZ3dWVVN0xfcWpNamhSY0JWbGo4S3FQYXZBN0plZGtQZFhubV",
+    "sources": []
+  },
+  {
+    "id": "nel-2025-10-14-002",
+    "date": "2025-10-14",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nel ASA Q2 2025 presentation: revenue plunges 48% as hydrogen projects stall - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUZsT1FlcWhlbEE1akc2Y1pPRE1UV0JzRDF5XzYxZU1HaFVSMFpyeWdlWlJVdzNhTnpnTWZxTEFUQXM1QWdhWFZzSVV5YjRUYnlNYW5FMDR6eWpXTUlYSUFGYkhpV3NvU1hReVFjTm",
     "sources": []
   },
   {
