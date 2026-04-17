@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-17",
+  "date_range": {
+    "start": "2026-04-11",
+    "end": "2026-04-17"
+  },
+  "generated_at": "2026-04-17T09:07:45.626313Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "siemens_energy-2026-04-15-018",
+      "date": "2026-04-15",
+      "title": "Siemens Energy's Record Rally Faces a Crucial Earnings Test - AD HOC NEWS",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "siemens_energy": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-11 ~ 2026-04-17）共 6 則事件，重點為「Siemens Energy's Record Rally Faces a Crucial E...」。西門子能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "西門子能源",
+        "reason": "綠氫成本趨勢值得關注，可能影響供應鏈佈局。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

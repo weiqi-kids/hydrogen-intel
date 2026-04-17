@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:07:45.564937Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-04-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA (D7G.F) Drops 4.2% Pre-Market on April 17 Ahead of Earnings - Meyka",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA (D7G.F) Drops 4.2% Pre-Market on April 17 Ahead o...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA (D7G.F) Drops 4.2% Pre-Market on April 17 Ahead of Earnings - Meyka",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
