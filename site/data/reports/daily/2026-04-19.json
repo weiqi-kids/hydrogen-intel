@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T08:42:07.459651Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-04-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Stock Jumps on Repeat Order Ahead of Earnings - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA Stock Jumps on Repeat Order Ahead of Earnings - A...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA Stock Jumps on Repeat Order Ahead of Earnings - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
