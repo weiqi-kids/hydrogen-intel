@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T09:47:32.907810Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-04-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel Hydrogen (Aktie/ Tech): Electrolyzer Demand Surge Tests Production Scale-Up - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-04-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy's Quiet Period Precedes a Pivotal Earnings Test - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "plug_power-2026-04-20-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Plug Power Inc stock (US72919P2020): Is green hydrogen execution now the real test? - AD HOC NEWS",
+      "companies": [
+        "plug_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "plug_power-2026-04-20-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Plug Power Inc stock (US72919P1003): Is green hydrogen execution strong enough to unlock investor up - AD HOC NEWS",
+      "companies": [
+        "plug_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "plug_power",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Plug Power、Nel ASA、西門子能源相關動態：「Nel Hydrogen (Aktie/ Tech): Electrolyzer Demand Surge Tes...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel Hydrogen (Aktie/ Tech): Electrolyzer Demand Surge Tests Production Scale-...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy's Quiet Period Precedes a Pivotal Earnings Test - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

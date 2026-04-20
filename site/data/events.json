@@ -1,5 +1,59 @@
 [
   {
+    "id": "nel-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel Hydrogen (Aktie/ Tech): Electrolyzer Demand Surge Tests Production Scale-Up - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE9qd2dDSlNkSGZjUlF6dTYtR3dWOGI2TzYwTnM2YkNBTnZOSHpJRDN4eXJZdnJaVEJpVUN5cGVrZ0F0YjRTNkVNZEZaM3BhMi0wM29adHFQb1pidjBxcGdXX2dTRWNKVC12cTdZOT",
+    "sources": []
+  },
+  {
+    "id": "siemens_energy-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy's Quiet Period Precedes a Pivotal Earnings Test - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2xWTTQ2RVZ6VUFTU3FHb0drY2h0c3RIZnJBdWRvenV4OVBSbnFRVVRWSkJoSTRRcTZlUXRUNUJVTE5YUGQ5YVVLUl83RFhvVlB2ZTlZSHN1QnRRMFhJR0hUcjRKUHhtOEZVUmVMYk",
+    "sources": []
+  },
+  {
+    "id": "plug_power-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Inc stock (US72919P2020): Is green hydrogen execution now the real test? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbERuSEpfTjl5VXNmM2NBRHEzdEFKZEhxQ1VWblhuQTNlRF91c2dRaHYxSjJydmZDa2dLaXBxWEJLQkxxeXljT3RtczBSTExpZDd1ZVE5WHhfOXNHMkVHNTdOMWZDWTlRRnd4RlNpeD",
+    "sources": []
+  },
+  {
+    "id": "plug_power-2026-04-20-009",
+    "date": "2026-04-20",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Inc stock (US72919P1003): Is green hydrogen execution strong enough to unlock investor up - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDBtRXh2c2MtX1pzLWlBX1Rsb0NzNHZFclRGbjI1dzh3TEpKTGlhOWVUSUlTNzZKVzVlZ21xX25XSnRHX1RQTmlrN280TGtsZEN4U0N4MGh0UXltRGllM0RfcjE3WGZ5akRyR0FwNW",
+    "sources": []
+  },
+  {
     "id": "nel-2026-04-19-002",
     "date": "2026-04-19",
     "companies": [
@@ -9,6 +63,18 @@
     "impact": "neutral",
     "title": "Nel ASA Stock Jumps on Repeat Order Ahead of Earnings - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzJnbEt6QldQTHk1M0xYVGlxMEFPUTRkWElPa1MyU0dsV3BXXzBBLUJKQS04SFBKV2lBbVhaMHlyNldHdHRBM2ZfTXlCcXFNMUVJZTktZW1Va0pPT2swcG1BSUVueEJoMkgtdUZLQX",
+    "sources": []
+  },
+  {
+    "id": "nel-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Executive Pay Overhaul and Fresh Order Fuel Optimism Ahead of Earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHdmZ0Z1ZWhmZjhnLV9CSlhpdDQ5eXBOQVZTSVFFZC1acWZjOFlCZU9xNGNsZy10c3AtY2N2aEJzU2JKdGNLWnFVcWpFOGlyc1pCTXd6VXdaLUtTbW80RFlPUldOS3JDVHBxRk1mU2",
     "sources": []
   },
   {
@@ -909,6 +975,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-02-28-008",
+    "date": "2026-02-28",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Low-cost green hydrogen from renewable energy curtailment: A techno-economic analysis with a real-time AI-driven approach - ScienceDirect.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sRHpBSXFrVFFWMkF2a08yTTF1TVJ2RTdaNG8wb2o5NTBXVnBEZlY0M0czdGpYYnkxc1VVVUFXdUwtVHY2aFc1YzlMUy04RWpMZ3JMblVxdGxsZ205azZVeHRNZ2p1NC0yWm00Yko1TW",
+    "sources": []
+  },
+  {
     "id": "chart-2026-02-27-036",
     "date": "2026-02-27",
     "companies": [
@@ -1359,6 +1437,20 @@
     "sources": []
   },
   {
+    "id": "thyssenkrupp_nucera-2025-11-25-006",
+    "date": "2025-11-25",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Nucera’s Green Hydrogen Orders Hit A Slump - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHc1QU1QdTE5Y1FfcGtjYV9pa1lQcE9ocFY3Uy03cjlxTUJ3TTZxUGF1MUNoSnB2UmxMOEZlNWlXUTBFVXZ4aE1HX2poUnMwZ3ZRS0dJU2pZYV9pUFlUU09mczZCY05mME02bXBDeF",
+    "sources": []
+  },
+  {
     "id": "thyssenkrupp_nucera-2025-11-24-024",
     "date": "2025-11-24",
     "companies": [
@@ -1443,6 +1535,18 @@
     "impact": "negative",
     "title": "Nel ASA Q2 2025 presentation: revenue plunges 48% as hydrogen projects stall - Investing.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUZsT1FlcWhlbEE1akc2Y1pPRE1UV0JzRDF5XzYxZU1HaFVSMFpyeWdlWlJVdzNhTnpnTWZxTEFUQXM1QWdhWFZzSVV5YjRUYnlNYW5FMDR6eWpXTUlYSUFGYkhpV3NvU1hReVFjTm",
+    "sources": []
+  },
+  {
+    "id": "air_products-2025-10-09-001",
+    "date": "2025-10-09",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products Fiscal 2025 Fourth Quarter Earnings Teleconference Details | News Release - Air Products",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNPNkFHWkJna1E3Z2tYRVVZWjJVSzZ5X19jNjNlWXFCT3JnNU5oMWUwVFl4eVFUd3dUMW05dnltYkd5Y0ZwdjEweS05ZDdtaXZDVk9WR21GekVFLVpIQjR4T2Fsc1MtdUJnQkRydW",
     "sources": []
   },
   {
