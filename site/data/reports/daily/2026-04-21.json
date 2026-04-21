@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:16:45.691663Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-04-21-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Green Hydrogen Market Trends: Siemens Energy, Air Liquide, and Linde Scaling Electrolyzer Deployment - openPR.com",
+      "companies": [
+        "siemens_energy",
+        "linde",
+        "air_liquide"
+      ],
+      "related": {
+        "customers": [
+          "linde",
+          "air_liquide"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-04-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Revenue Conversion Challenge Takes Center Stage in Q1 Report - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "air_liquide",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nel ASA、西門子能源、林德相關動態：「Green Hydrogen Market Trends: Siemens Energy, Air Liquide...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Green Hydrogen Market Trends: Siemens Energy, Air Liquide, and Linde Scaling ...（綠氫成本、電解槽產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nel ASA's Revenue Conversion Challenge Takes Center Stage in Q1 Report - AD H...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

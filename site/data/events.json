@@ -1,5 +1,34 @@
 [
   {
+    "id": "nel-2026-04-21-002",
+    "date": "2026-04-21",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Revenue Conversion Challenge Takes Center Stage in Q1 Report - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2hrNmF0RlcwU3ZiUU5sWXplZWZPRFd2cXVMSl8yYS1BQm9FdFYxektidi1udFB2WUhTYU1CenBHZ2xhVXptRFhuZ1N3X2g1X3lROHlnOTJRZ2FreENYVFNuMTVWOHZwQWZIT3hYME",
+    "sources": []
+  },
+  {
+    "id": "siemens_energy-2026-04-21-003",
+    "date": "2026-04-21",
+    "companies": [
+      "siemens_energy",
+      "linde",
+      "air_liquide"
+    ],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Market Trends: Siemens Energy, Air Liquide, and Linde Scaling Electrolyzer Deployment - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlVrQXNfMlZLa1pBNFg0RTZEVDd2MGNsUTZCbDlpbWVaTllqY2ltaS1HUnNaZTVTc0t3RkNETmtlR2ZGN1ZUT1g5SHdRYjU1NGlaUmVJQjVnakJPWjYxeHZBQTB4U2tPUTNWTmpHNF",
+    "sources": []
+  },
+  {
     "id": "nel-2026-04-20-004",
     "date": "2026-04-20",
     "companies": [
@@ -51,6 +80,69 @@
     "impact": "neutral",
     "title": "Plug Power Inc stock (US72919P1003): Is green hydrogen execution strong enough to unlock investor up - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDBtRXh2c2MtX1pzLWlBX1Rsb0NzNHZFclRGbjI1dzh3TEpKTGlhOWVUSUlTNzZKVzVlZ21xX25XSnRHX1RQTmlrN280TGtsZEN4U0N4MGh0UXltRGllM0RfcjE3WGZ5akRyR0FwNW",
+    "sources": []
+  },
+  {
+    "id": "air_products-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's What to Expect From Air Products and Chemicals' Next Earnings Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVdlY3BHdGI2XzJuM0xpeDJ6Q19kVlhkV1EyS3JjSnFXV1F6SWszNWRmLUphNEp3cmJQSk16bXR2M2hLRXNYUTZhWXFPQzFqbjI4a0w5WUx2ZXl2bFlFMzVPVFVaUHJIZHNqZHZVZV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "Gasvalpo Hits 10% Green Hydrogen Blend in Chile’s Natural Gas Network",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/f143v12048x1209-d0fb6ffa-a820-4ecf-9d74-91eaba4edf13-1200x708.jpg\" alt=\"Gasvalpo Hits 10% Green Hydrogen Blend in Chile’s Natur",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "negative",
+    "title": "Delay in Hydrogen Fuel Cell Truck Launch Highlights Infrastructure and Demand Hurdles",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1776678345046.jpeg\" alt=\"Delay in Hydrogen Fuel Cell Truck Launch Highlights Infrastructure and Demand Hurdles\" /></p>Y",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Production: Sunfire’s 50 MW Electrolyzer to Halve Costs",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1776671294766.jpeg\" alt=\"Hydrogen Production: Sunfire’s 50 MW Electrolyzer to Halve Costs\" /></p>Sunfire SE just rolled",
+    "sources": []
+  },
+  {
+    "id": "toyota-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Fuel Cells: Isuzu and Toyota Collaborate on Lightweight Fuel Cell Truck",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1776262359232.jpeg\" alt=\"Hydrogen Fuel Cells: Isuzu and Toyota Collaborate on Lightweight Fuel Cell Truck\" /></p>Isuzu ",
     "sources": []
   },
   {
@@ -474,6 +566,18 @@
     "impact": "neutral",
     "title": "World-scale projects are required to reduce green hydrogen costs, says Air Products - gasworld",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0FCTGppN0xhbDZxOVl4WTAxQTFoSGRCSTdhQkVuZjJTTUo5aG5ETlpVUXNWVzlaWXFBWUNhNTQyeThsa0NJeVZZVnpKazR2bmtVbFVLWVFnaTc5dEt6NjdiXzJFeEtuREUxMkZ0eT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-009",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Optimization of a wet-cell electrolyzer for efficient oxyhydrogen (HHO) gas production: a step towards sustainable green energy solutions - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4UDlQVHh0QzVGQTBxSGR3dnpkN2U2bDhhT0dQMjNlR3RhYVNVeTBmS0FtT2M1eWRSMHl1LXI4cnZKUmhySEFGS2xCVkkzVmU2c1RvV0JXNk93eUhNV2Nn?oc=5\" target=\"_blank\"",
     "sources": []
   },
   {
@@ -1448,6 +1552,18 @@
     "impact": "neutral",
     "title": "Thyssenkrupp Nucera’s Green Hydrogen Orders Hit A Slump - Finimize",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHc1QU1QdTE5Y1FfcGtjYV9pa1lQcE9ocFY3Uy03cjlxTUJ3TTZxUGF1MUNoSnB2UmxMOEZlNWlXUTBFVXZ4aE1HX2poUnMwZ3ZRS0dJU2pZYV9pUFlUU09mczZCY05mME02bXBDeF",
+    "sources": []
+  },
+  {
+    "id": "thyssenkrupp_nucera-2025-11-25-004",
+    "date": "2025-11-25",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Thyssenkrupp Nucera Returns to Profit in 2024/2025 Despite Decline in Sales - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWdBeWVOcUZhUVp0MG5qd05jZG5iTmxIaFZWc2t1eUlPSExRSmtCVVBPdzBteVlOVXRvQ2MxWHhsWUZGM1R2WEpiM1hVeDJUYnUzeEhrVEhweFM3YWZUVVZrR3hIdVlYcUItVG43T0",
     "sources": []
   },
   {
