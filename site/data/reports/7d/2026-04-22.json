@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-22",
+  "date_range": {
+    "start": "2026-04-16",
+    "end": "2026-04-22"
+  },
+  "generated_at": "2026-04-22T09:11:03.038928Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chart-2026-04-20-002",
+      "date": "2026-04-20",
+      "title": "Here's What to Expect From Air Products and Chemicals' Next Earnings Report - Barchart.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.09
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "siemens_energy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "plug_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "air_liquide": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 15,
+        "last": 5,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-16 ~ 2026-04-22）共 15 則事件，重點為「Here's What to Expect From Air Products and Che...」。事件量較上週增加 200%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Air Products",
+        "reason": "受綠氫成本議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
