@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T09:10:59.953943Z",
+  "updated_at": "2026-04-23T09:17:40.316169Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -147,14 +147,14 @@
       "name": "Nel ASA",
       "ticker": "NEL.OL",
       "currency": "NOK",
-      "ar": 240912000,
-      "ar_prev": 203360000,
-      "ar_qoq": "+18%",
-      "inventory": 918794000,
-      "inv_prev": 905480000,
-      "inv_qoq": "+1%",
+      "ar": 198682000,
+      "ar_prev": 240912000,
+      "ar_qoq": "-18%",
+      "inventory": 905104000,
+      "inv_prev": 918794000,
+      "inv_qoq": "-1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "plug_power",
