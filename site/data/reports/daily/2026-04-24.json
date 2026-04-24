@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:22:14.992194Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-04-24-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy (XTRA:ENR) Is Up 9.5% After Raising Guidance And Highlighting Green Ammonia Exposure - simplywall.st",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-04-24-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai auto profits strained by yet another economic crisis - Automotive World",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-04-24-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor’s net profits fall 24% in Q1 - Just Auto",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為現代汽車、西門子能源相關動態：「Siemens Energy (XTRA:ENR) Is Up 9.5% After Raising Guidan...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Siemens Energy (XTRA:ENR) Is Up 9.5% After Raising Guidance And Highlighting ...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai auto profits strained by yet another economic crisis - Automotive World",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
