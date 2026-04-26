@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:17:26.361075Z",
+  "generated_at": "2026-04-26T08:49:54.442944Z",
   "highlights": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
     "nel": {
       "event_count": 9,
       "sentiment_avg": -0.05,
-      "rank": 1
+      "rank": 2
     },
     "siemens_energy": {
       "event_count": 3,
@@ -55,30 +55,35 @@
     "linde": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     },
     "air_liquide": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 7
     },
     "hyundai": {
-      "event_count": 9,
-      "sentiment_avg": -0.05,
-      "rank": 2
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 1
     },
     "toyota": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "itm_power": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 7
+      "rank": 8
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 28,
+        "this": 33,
         "last": 7,
-        "change_pct": 300.0
+        "change_pct": 371.4
       }
     }
   },
@@ -115,12 +120,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 5,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 28 則事件，重點為「Here's What to Expect From Air Products and Che...」。事件量較上週增加 300%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 33 則事件，重點為「Here's What to Expect From Air Products and Che...」。事件量較上週增加 371%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Nel ASA",
@@ -132,7 +137,7 @@
       },
       {
         "company": "現代汽車",
-        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },

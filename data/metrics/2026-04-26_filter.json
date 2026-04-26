@@ -1,15 +1,15 @@
 {
-  "total_raw": 299,
-  "dup_title": 124,
+  "total_raw": 370,
+  "dup_title": 117,
   "no_date": 0,
-  "too_old": 93,
-  "gate1_fail": 41,
-  "gate2_fail": 38,
-  "passed": 3,
+  "too_old": 103,
+  "gate1_fail": 103,
+  "gate2_fail": 35,
+  "passed": 12,
   "gate2_samples": [
     "Air Products to build ASU in Cocoa, Florida - gasworld",
+    "Air Products to Build, Own and Operate New Air Separation Unit in Florida - Yahoo Finance",
     "Air Products Expands Core Gases Network With New Florida Facility Plan - simplywall.st",
-    "Air Products supports expanded recycling across local parishes through grant to Louisiana Recycling ",
     "Air Products to Build New Air Separation Unit in Florida - marketscreener.com",
     "Air Products to build air separation unit in Florida By Investing.com - Investing.com Nigeria"
   ]

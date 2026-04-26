@@ -1,29 +1,161 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:17:26.300833Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T08:49:54.381343Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai turns to local tech partners in China comeback - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China taught Hyundai to be 'humble' and learn from rivals for survival: CEO - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2VoRnJMX3pqczNZUWpNT1RqdDBxUnBHcFU1QzhlRDJnTDBOYWM3a3UzOXdEODI0bkFUT2pBaGxsNUpWUF85aXNycnlEMWpxRHdDcXZaeVBvLUhwWHhqS2U3UnZ4ejNrSl8tQmN1eTJYMVB4NEN2bEJNald6aGFPZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Toyota Motor's Valuation As CEO Warns On Chinese EV Competition - simplywall.st",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG5CMHMtbDF1MFN5RkdyZ0RWY010YWxoRGc4SG1yUHZ6M2k2dEYyMmc5WTRCYUVaMmRGakd1a3dINUVtaTFjRnR2NlJsbElCcTBHOGRBYTZvMEtWZHhDRnd5WlN3dmx6NDVuQk5qN3ZaeW5jWXNFajBLUTJoV3Vzd3JMTEl1QkttOGlRMDVLTW9YcTV5WVlDUy1QNnVwWkd3TWtPOUFrMnFtaF9xS3czMml0WnZscGNFRENiVTRiTXZ2d3RhTE82Zk54UnA2aVJncGpZR9IB2gFBVV95cUxNNUNUbkNzYnhjR2dtbkN1ZTMyZm1xQUhBbFE1RXlMbHpERmJGcWxoOXdDY3duUGdfMjhmWnRpSHdZaDFrTUJyRy1IRnhsQzQyTmllcHlLQXVULWlPOUo1bmFCS2hCVDFnSEZFTXZmSnFhUm4zTmhKZUNrTVBfQm9GWDBQTGlhd3dwby1STmtBNVpEVmVXV0FjZ0VpX25UU2FCaEpwRzJiR1F0Z0c4NW5JSkNkU1J0Ul9tc3ljT1puLTVaYTczeDRFVTFWd0lnaTVsalUtcm9xQm1BUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Small cap movers: From hydrogen to helium and the deal charging ITM Power towards the £1bn landmark - MSN",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUWdmUXQ0UUZFRXFBWFpGTkxoUWFMcFFBRlp4QUhpZ2ZTWG1fMUtSNzR6Rzh3aWlwTi14Tk8tVG45TnF6TEZGRElFTngtaFJod2lJU1BMdGZuejdDYnpCMTFTb2pzTFEtdVBlNGlLak1feU5BUUNBcDBlZEdGZ0k2WkZuZ2dzQ01YeWczYWZSZzk3YThJTGlPSUpWbXd4dDZvWUhQMFlfUXY2blR6bG9tVlJSQm8yQ0pQSFViQzFYcTZkRzhyN3I4UGdaN2NZLXo5NjBPcmNTalVIT205enl2VllLRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor unveils China-exclusive IONIQ V - The Korea News Plus",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2ckcwV1ZEU2dreHdlYTJDWkpqM0JiVThkcmZqNUw3QTBqaFlBVDktcDNIa2tHMGJIc3ZOQUp6a3hPQmFXV0IwOE5pYlN3SVlJSG9Ea3p6ZHI1RWZOclhPcG5qWTE1TGhudEw2ZWdVRkx2bHNON3RZ?oc=5"
+    }
+  ],
   "anomalies": [],
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 5,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 5,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
     "top_topics": []
   },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 117,
+    "too_old": 103,
+    "gate1_blocked": 103,
+    "gate2_blocked": 35,
+    "passed": 12,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Air Products to build ASU in Cocoa, Florida - gasworld",
+      "Air Products to Build, Own and Operate New Air Separation Unit in Florida - Yahoo Finance",
+      "Air Products Expands Core Gases Network With New Florida Facility Plan - simplywall.st",
+      "Air Products to Build New Air Separation Unit in Florida - marketscreener.com",
+      "Air Products to build air separation unit in Florida By Investing.com - Investing.com Nigeria"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "2026-04-26 無氫能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 5 則事件，焦點為現代汽車、豐田、ITM Power相關動態：「Hyundai turns to local tech partners in China comeback - ...」。市場情緒中性，暫無明顯方向。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Hyundai turns to local tech partners in China comeback - The Korea Herald",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "China taught Hyundai to be 'humble' and learn from rivals for survival: CEO -...",
         "level": "green"
       }
     ]
