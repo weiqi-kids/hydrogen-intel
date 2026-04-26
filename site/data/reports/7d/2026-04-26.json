@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T08:49:54.442944Z",
+  "generated_at": "2026-04-26T14:10:11.151218Z",
   "highlights": [
     {
       "rank": 1,
@@ -24,9 +24,9 @@
       "sentiment_this_week": 0.0
     },
     "green_hydrogen_cost": {
-      "this_week": 8,
+      "this_week": 9,
       "last_week": 3,
-      "week_over_week_change": "+167%",
+      "week_over_week_change": "+200%",
       "sentiment_this_week": -0.06
     },
     "fuel_cell_vehicle": {
@@ -38,7 +38,7 @@
   },
   "company_7d_summary": {
     "nel": {
-      "event_count": 9,
+      "event_count": 10,
       "sentiment_avg": -0.05,
       "rank": 2
     },
@@ -53,9 +53,9 @@
       "rank": 4
     },
     "linde": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 5
     },
     "air_liquide": {
       "event_count": 1,
@@ -63,27 +63,32 @@
       "rank": 7
     },
     "hyundai": {
-      "event_count": 12,
+      "event_count": 13,
       "sentiment_avg": -0.04,
       "rank": 1
     },
     "toyota": {
       "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     },
     "itm_power": {
       "event_count": 1,
       "sentiment_avg": 0.0,
       "rank": 8
+    },
+    "ballard": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 33,
+        "this": 37,
         "last": 7,
-        "change_pct": 371.4
+        "change_pct": 428.6
       }
     }
   },
@@ -120,16 +125,16 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 5,
+      "event_count": 9,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 33 則事件，重點為「Here's What to Expect From Air Products and Che...」。事件量較上週增加 371%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 37 則事件，重點為「Here's What to Expect From Air Products and Che...」。事件量較上週增加 429%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Nel ASA",
-        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
       },
       {
         "company": "西門子能源",
@@ -137,7 +142,7 @@
       },
       {
         "company": "現代汽車",
-        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 13 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },

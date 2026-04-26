@@ -1,11 +1,11 @@
 {
-  "total_raw": 370,
-  "dup_title": 117,
+  "total_raw": 740,
+  "dup_title": 234,
   "no_date": 0,
-  "too_old": 103,
-  "gate1_fail": 103,
-  "gate2_fail": 35,
-  "passed": 12,
+  "too_old": 213,
+  "gate1_fail": 207,
+  "gate2_fail": 65,
+  "passed": 21,
   "gate2_samples": [
     "Air Products to build ASU in Cocoa, Florida - gasworld",
     "Air Products to Build, Own and Operate New Air Separation Unit in Florida - Yahoo Finance",

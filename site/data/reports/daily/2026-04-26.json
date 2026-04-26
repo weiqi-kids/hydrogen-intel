@@ -1,9 +1,32 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:49:54.381343Z",
+  "generated_at": "2026-04-26T14:10:11.087966Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "nel-2026-04-26-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "-459,64€👎🏼 Katastrophal! Biontech, Nel Asa, Ballard Power, BYD, NASDAQ Depot Update Trade Republic (2yKC3Jv5uT) - fathomjournal.org",
+      "companies": [
+        "nel",
+        "ballard"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lOWVuQ0x6aGJidVh1bC1FZTYzbWRLZ2tQZjE1dHBEQVNnWEZ2S0xoZ2NFMW9hajA5LTlGLVl6TE00QTNGa2hpNzZwQ2JJWDY1SGhRSHRkVGc2ZnlzOF9GZDBaV0VIMkQ3TEJ2cHk0SFY?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "hyundai-2026-04-26-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -23,7 +46,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "hyundai-2026-04-26-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -43,7 +66,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2VoRnJMX3pqczNZUWpNT1RqdDBxUnBHcFU1QzhlRDJnTDBOYWM3a3UzOXdEODI0bkFUT2pBaGxsNUpWUF85aXNycnlEMWpxRHdDcXZaeVBvLUhwWHhqS2U3UnZ4ejNrSl8tQmN1eTJYMVB4NEN2bEJNald6aGFPZw?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "toyota-2026-04-26-003",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -63,7 +86,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG5CMHMtbDF1MFN5RkdyZ0RWY010YWxoRGc4SG1yUHZ6M2k2dEYyMmc5WTRCYUVaMmRGakd1a3dINUVtaTFjRnR2NlJsbElCcTBHOGRBYTZvMEtWZHhDRnd5WlN3dmx6NDVuQk5qN3ZaeW5jWXNFajBLUTJoV3Vzd3JMTEl1QkttOGlRMDVLTW9YcTV5WVlDUy1QNnVwWkd3TWtPOUFrMnFtaF9xS3czMml0WnZscGNFRENiVTRiTXZ2d3RhTE82Zk54UnA2aVJncGpZR9IB2gFBVV95cUxNNUNUbkNzYnhjR2dtbkN1ZTMyZm1xQUhBbFE1RXlMbHpERmJGcWxoOXdDY3duUGdfMjhmWnRpSHdZaDFrTUJyRy1IRnhsQzQyTmllcHlLQXVULWlPOUo1bmFCS2hCVDFnSEZFTXZmSnFhUm4zTmhKZUNrTVBfQm9GWDBQTGlhd3dwby1STmtBNVpEVmVXV0FjZ0VpX25UU2FCaEpwRzJiR1F0Z0c4NW5JSkNkU1J0Ul9tc3ljT1puLTVaYTczeDRFVTFWd0lnaTVsalUtcm9xQm1BUQ?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "itm_power-2026-04-26-004",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -81,42 +104,33 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUWdmUXQ0UUZFRXFBWFpGTkxoUWFMcFFBRlp4QUhpZ2ZTWG1fMUtSNzR6Rzh3aWlwTi14Tk8tVG45TnF6TEZGRElFTngtaFJod2lJU1BMdGZuejdDYnpCMTFTb2pzTFEtdVBlNGlLak1feU5BUUNBcDBlZEdGZ0k2WkZuZ2dzQ01YeWczYWZSZzk3YThJTGlPSUpWbXd4dDZvWUhQMFlfUXY2blR6bG9tVlJSQm8yQ0pQSFViQzFYcTZkRzhyN3I4UGdaN2NZLXo5NjBPcmNTalVIT205enl2VllLRQ?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "hyundai-2026-04-26-005",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Hyundai Motor unveils China-exclusive IONIQ V - The Korea News Plus",
-      "companies": [
-        "hyundai"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2ckcwV1ZEU2dreHdlYTJDWkpqM0JiVThkcmZqNUw3QTBqaFlBVDktcDNIa2tHMGJIc3ZOQUp6a3hPQmFXV0IwOE5pYlN3SVlJSG9Ea3p6ZHI1RWZOclhPcG5qWTE1TGhudEw2ZWdVRkx2bHNON3RZ?oc=5"
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 5,
+    "total_events": 9,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 5,
+      "neutral": 9,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "hyundai",
-        "count": 3
+        "count": 4
       },
       {
         "id": "toyota",
@@ -125,19 +139,32 @@
       {
         "id": "itm_power",
         "count": 1
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
       }
     ],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 370,
-    "dup_title": 117,
-    "too_old": 103,
-    "gate1_blocked": 103,
-    "gate2_blocked": 35,
-    "passed": 12,
-    "pass_rate": "4.7%",
-    "gate2_block_rate": "13.8%",
+    "total_raw": 740,
+    "dup_title": 234,
+    "too_old": 213,
+    "gate1_blocked": 207,
+    "gate2_blocked": 65,
+    "passed": 21,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "12.8%",
     "gate2_samples": [
       "Air Products to build ASU in Cocoa, Florida - gasworld",
       "Air Products to Build, Own and Operate New Air Separation Unit in Florida - Yahoo Finance",
@@ -148,15 +175,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 5 則事件，焦點為現代汽車、豐田、ITM Power相關動態：「Hyundai turns to local tech partners in China comeback - ...」。市場情緒中性，暫無明顯方向。",
+    "summary": "今日共 9 則事件，焦點為現代汽車、豐田、ITM Power相關動態：「-459,64€👎🏼 Katastrophal! Biontech, Nel Asa, Ballard Power...」。主要關注主題為綠氫成本，市場情緒中性。",
     "signals": [
+      {
+        "text": "-459,64€👎🏼 Katastrophal! Biontech, Nel Asa, Ballard Power, BYD, NASDAQ Depot ...",
+        "level": "yellow"
+      },
       {
         "text": "Hyundai turns to local tech partners in China comeback - The Korea Herald",
         "level": "green"
       },
       {
-        "text": "China taught Hyundai to be 'humble' and learn from rivals for survival: CEO -...",
-        "level": "green"
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
       }
     ]
   },

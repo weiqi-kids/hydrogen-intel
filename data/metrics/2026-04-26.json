@@ -1,9 +1,9 @@
 {
   "date": "2026-04-26",
-  "total_events": 5,
+  "total_events": 9,
   "by_company": {
     "hyundai": {
-      "count": 3,
+      "count": 4,
       "sentiment_avg": 0.0
     },
     "toyota": {
@@ -13,9 +13,26 @@
     "itm_power": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "linde": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ballard": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
-  "by_topic": {},
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}
