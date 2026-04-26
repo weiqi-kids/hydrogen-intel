@@ -1,5 +1,59 @@
 [
   {
+    "id": "hyundai-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai turns to local tech partners in China comeback - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5\" target=\"_blank\">Hyundai t",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-26-002",
+    "date": "2026-04-26",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China taught Hyundai to be 'humble' and learn from rivals for survival: CEO - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2VoRnJMX3pqczNZUWpNT1RqdDBxUnBHcFU1QzhlRDJnTDBOYWM3a3UzOXdEODI0bkFUT2pBaGxsNUpWUF85aXNycnlEMWpxRHdDcXZaeVBvLUhwWHhqS2U3UnZ4ejNrSl8tQmN1eTJYMVB4NEN2bEJNald6aGFPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look At Toyota Motor's Valuation As CEO Warns On Chinese EV Competition - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG5CMHMtbDF1MFN5RkdyZ0RWY010YWxoRGc4SG1yUHZ6M2k2dEYyMmc5WTRCYUVaMmRGakd1a3dINUVtaTFjRnR2NlJsbElCcTBHOGRBYTZvMEtWZHhDRnd5WlN3dmx6NDVuQk5qN3",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG5CMHMtbDF1MFN5RkdyZ0RWY010YWxoRGc4SG1yUHZ6M2k2dEYyMmc5WTRCYUVaMmRGakd1a3dINUVtaTFjRnR2NlJsbElCcTBHOGRBYTZvMEtWZHhDRnd5WlN3dmx6NDVuQk5qN3ZaeW5jWXNFajBLUTJoV3Vzd3JMTEl1QkttOGlRMDVLTW9YcTV5WVlDUy1QNnVwWkd3TWtPOUFrMnFtaF9xS3czMml0WnZscGNFRENiVTRiTXZ2d3RhTE82Zk54UnA2aVJncGpZR9IB2gFBVV95cUxNNUNUbkNzYnhjR2dtbkN1ZTMyZm1xQUhBbFE1RXlMbHpERmJGcWxoOXdDY3duUGdfMjhmWnRpSHdZaDFrTUJyRy1IRnhsQzQyTmllcHlLQXVULWlPOUo1bmFCS2hCVDFnSEZFTXZmSnFhUm4zTmhKZUNrTVBfQm9GWDBQTGlhd3dwby1STmtBNVpEVmVXV0FjZ0VpX25UU2FCaEpwRzJiR1F0Z0c4NW5JSkNkU1J0Ul9tc3ljT1puLTVaYTczeDRFVTFWd0lnaTVsalUtcm9xQm1BUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "itm_power-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -15,6 +69,78 @@
       {
         "name": "itm_power",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzl1VExqcmJwdUpHMHFRcU0wSWR1Z2hIRlUtTFpCSWVFSWROcGdYNFhOSlVnbkQ4SzZGcHNBS090UzNBeFNHdVZpeE5OTmx6am83d05zOENhRmhMS0dOMmJ2SXhMVzEyVURwdmVJYUxqeU1MNmlBal9sVE5hcDQzd01KSnVhdVN1LW91NWdnX25CNmJvZVh4cEJkOHJXWW04SWtxQ1BIRmdWbERUbDFyZkZ0YXpPR0JnZ2RCWTFGdU8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-25-002",
+    "date": "2026-04-25",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Air Products Cocoa ASU Expands Core Gases And Tests Growth Balance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWU1YmpDTE5RZlhSTnROOXMyaGYtdTc4NXJVenJyRkpvYTNUZzZ4TWtvdTRhLWFsek1Odzh4eEM2UzRLQkFsa09ZaUhpRWwyTzBsa2V1b055ZUJGNUY3eE5OOUtjeDUtWlFIbVhuQ2",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWU1YmpDTE5RZlhSTnROOXMyaGYtdTc4NXJVenJyRkpvYTNUZzZ4TWtvdTRhLWFsek1Odzh4eEM2UzRLQkFsa09ZaUhpRWwyTzBsa2V1b055ZUJGNUY3eE5OOUtjeDUtWlFIbVhuQ2tQbGFkbmlGR3VrbHRhcnduRGxRam9Pazk4UV9YTjJMNjBwaUw2dDBHUlBZRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-04-25-003",
+    "date": "2026-04-25",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ITM Power: From Green Energy to Defence Contractor as Stock Doubles - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2syS3BxNWhvdXRNcmRvREVkcmE4OE5mYmx4a0cxSXYzeEtFZThnb1p5bTJDWnltc250ZndYMW5LZXRmd21QVXE4clYtRXZpYUpOQjJIS2VjR2hoLUxoc1k4WDlhV0xWei13cWt2VG",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2syS3BxNWhvdXRNcmRvREVkcmE4OE5mYmx4a0cxSXYzeEtFZThnb1p5bTJDWnltc250ZndYMW5LZXRmd21QVXE4clYtRXZpYUpOQjJIS2VjR2hoLUxoc1k4WDlhV0xWei13cWt2VGFHR3gwMmJKYS1FX04tNWdIUVFkYWY5cVZsc2E1ZDB0NVdQeXVBZjRRVWpvc2xOS3RvVE1VR0FZVERMQ2tmdklhbUlxLTdHUS03X1BvUGJjMnhkaWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-25-004",
+    "date": "2026-04-25",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy’s Twin Engines: Grid Boom and Wind Recovery Lift Shares to Record High - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYm03bEl5ak1Hb3J0QTY3VVhFU0pka0J6TVp0TVMxNFpVeFN1dHk3VXB5UEs5OHhkOXNmT016S2hnYzhkMzVDSFNTUnhVRG1xemFjRDhvNE1WcldMdDA5MGRnNHhGTE5XSlJwd0JvWE",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYm03bEl5ak1Hb3J0QTY3VVhFU0pka0J6TVp0TVMxNFpVeFN1dHk3VXB5UEs5OHhkOXNmT016S2hnYzhkMzVDSFNTUnhVRG1xemFjRDhvNE1WcldMdDA5MGRnNHhGTE5XSlJwd0JvWER2WTBNQlpOY3lQaXdBVGZMRVJSUUNhVjFpUG9POEdjQlkyMzU3VlRYLXB3LXdSOFI1RE9MSFdKVDJjQkQ3aGNXb1ZiMmphX3dhSXhOM0RsUUNMTm8wbjdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chart-2026-04-25-005",
+    "date": "2026-04-25",
+    "companies": [
+      "chart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chart Industries, Flowserve to combine in $19B all-stock merger - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxPbnZIdGpZRVFTTWg0MlM1b3RuWjdvTElSYm9MZFJ1N3d0WENxcGFkRElmOW1lT192cXR6MjVzRk5vZDhKY2FPQjRIdmhDWUdJbWdvcHZXeWlzbDhZaDJoaG05RmxyNkJUNkZ2WUM5eD",
+    "sources": [
+      {
+        "name": "chart",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPbnZIdGpZRVFTTWg0MlM1b3RuWjdvTElSYm9MZFJ1N3d0WENxcGFkRElmOW1lT192cXR6MjVzRk5vZDhKY2FPQjRIdmhDWUdJbWdvcHZXeWlzbDhZaDJoaG05RmxyNkJUNkZ2WUM5eDExYUF2QXZvV3R4SklwanA0UzlNckdJX190YkxfQnhLMVB5OVFFNm15d09MZTdrZVV3MTJvTXp4U0ZRc21hNXE1c2RFRTlQekU5a1R0eE55TWViSy1NdU5jSVFpZEREOGU0cmJocTROWUtveWRvNHgtXzZINHFIYTFsM0hiT25Xc0NXUUxpdTg2VjVIT082ek1qZXJST0c4cnNiMTI4cGdkSW5nRmJjZ3phdmoxVmhmMXlCbmZNVGdOcDRQTWstYVU1d1U0NkROa1JuM1dBWkhDa2EwNFlVYzRGWjVPZWdqWE5nLUFUMjluX2o4bl94SGYzdF9rVlNnOS1DZlBIYk1oS1hPS3lvYTBTRHAxT1BsakEzYTg3TWtCNFNQcFg?oc=5",
         "type": "rss"
       }
     ]
@@ -104,6 +230,294 @@
     "title": "AIMPLAS Leads IRION Project to Boost Green Hydrogen Value Chain",
     "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/04/resized-1777022577976.jpeg\" alt=\"AIMPLAS Leads IRION Project to Boost Green Hydrogen Value Chain\" /></p>Picture this: Europe ru",
     "sources": []
+  },
+  {
+    "id": "air_products-2026-04-24-008",
+    "date": "2026-04-24",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals (NYSE:APD) Price Target Raised to $338.00 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGFHYldxT1R1SVhZcDExYkZXY3BHR0wzMHNnY2RGa2FTTC1SQm9FY0pyTFAySWJxZkZ3LU5zM0JCZXY5Tmk2dlFNaVYwQ2k3QmZUaHFJaVFDakN0V1VYN29uUEstZHRnZjVXeUdJUT",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGFHYldxT1R1SVhZcDExYkZXY3BHR0wzMHNnY2RGa2FTTC1SQm9FY0pyTFAySWJxZkZ3LU5zM0JCZXY5Tmk2dlFNaVYwQ2k3QmZUaHFJaVFDakN0V1VYN29uUEstZHRnZjVXeUdJUTZuOEg3NFo2TFQ0VkxBQTZ5eGZyUkhrYXBHMWx4WXlDVnpiU2U5b1hPWG93c1Vicld6WVNaNGNyN2JWZWJERWdpNFdtNW12VTA2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-24-009",
+    "date": "2026-04-24",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "RBC Adjusts Price Target on Air Products and Chemicals to $338 From $325, Maintains Outperform Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjFGTEI5QXEzMFBocmJvUG9rN0YxUlJYOWVsN2h3LW1BTndlNWczdHNnWEs4WXJLZnlOWmF2bjdzQjlEeTNhNEdsdzNmR3BxUUNzdkhuUi1WODQwTnBxVEx4TmViWm1HeWx2QkFHVT",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjFGTEI5QXEzMFBocmJvUG9rN0YxUlJYOWVsN2h3LW1BTndlNWczdHNnWEs4WXJLZnlOWmF2bjdzQjlEeTNhNEdsdzNmR3BxUUNzdkhuUi1WODQwTnBxVEx4TmViWm1HeWx2QkFHVTVETGV2Rjc3aURvOXZacXMxbWlOT0F2R253NFc3Rk1fZi1pN0xkMzZoVWE4MzlFZS1LTDEtSklRXzkzX0xrTGxzWlQwR0QxcElGblpRY045eV9zN05hYmRVZGhXZXJTN3NrTXFvaEg5MTgxc0RqRlBBZ1p6dC0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nel ASA Chairman Arvid Moss Increases Stake with 100,000-Share Purchase - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHZYWUlRc256Qjh4OFljSEtmejFiQzFmbTdGVzUyLWZFNEFrS0lISWltMkxVZnA4WnFNdV81eUNQTHRIclAyVnpyQWFrVDg5TVV0NHZ5RzhnUnZub0tvTnlZOV9GTlJobm9WcFpDYm",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHZYWUlRc256Qjh4OFljSEtmejFiQzFmbTdGVzUyLWZFNEFrS0lISWltMkxVZnA4WnFNdV81eUNQTHRIclAyVnpyQWFrVDg5TVV0NHZ5RzhnUnZub0tvTnlZOV9GTlJobm9WcFpDYm5JQ2Z2OXg4Nk9xYU91NW9HMVdXOTZfMUJENk91Y2V3M2N1NzN4WnJUN1ZkbnpDZkFDN0tzNEtDdm5RU0hLYjF3a1p0dllXSGlzRzJIeXFyVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA: Mandatory notification of trade by primary insider - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnY0ZXlsX1oxeW5faVFDQV9jLVdmeVlyd20zVklMS0dEQVpQemhYbU50OTFzblJ6VUhsTGVLc0xTS2k5MkhvdFpYcW5JVE5mTEVPNTFiUlVfVjNfNzl3OVl0YjFEMlB1WDRQUnp0Nk",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnY0ZXlsX1oxeW5faVFDQV9jLVdmeVlyd20zVklMS0dEQVpQemhYbU50OTFzblJ6VUhsTGVLc0xTS2k5MkhvdFpYcW5JVE5mTEVPNTFiUlVfVjNfNzl3OVl0YjFEMlB1WDRQUnp0Nk1BeHVXZGJheWs1dmtZZE9vMnZHcm9ic2o0UW9oU0tJSjFpREoxUDBGajEtakJGdWdUM3FwYzhzQUsxRWg2dzdPaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NEL ASA Stock Analysis - Strong Numbers - Is It The Real Deal? [Part 2] (Grwqg2VOfZ) - fathomjournal.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1xc2lpSnlDRGRFN1FJUEkyMEhPT1Yyb09qWW0zRDNKZm03UERYbHM1MTFqOVpPUmx6U3g0QmdzNWdyci1yZjM0eDdISm9NWkNTZ3RYWkZPZkhlR3lXRHBESUR4dmJ1ek5BUl9NSV93UD",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xc2lpSnlDRGRFN1FJUEkyMEhPT1Yyb09qWW0zRDNKZm03UERYbHM1MTFqOVpPUmx6U3g0QmdzNWdyci1yZjM0eDdISm9NWkNTZ3RYWkZPZkhlR3lXRHBESUR4dmJ1ek5BUl9NSV93UDlYcmRpZUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy CEO Sees Data Center Boom Lasting on Power Needs - EnergyNow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG9NWHo3c3FtVHkzbmxwZVEwcnJpeElka3czUTlpbjJkZFBiYXZGN3dlYjhKZ1pPOE1rVlotMVFoaFNKVEljSldhek5sX09KU3lQRDFCNGdDU2taVVR2RTY5RjBvWldXQ045WTY5Yl",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG9NWHo3c3FtVHkzbmxwZVEwcnJpeElka3czUTlpbjJkZFBiYXZGN3dlYjhKZ1pPOE1rVlotMVFoaFNKVEljSldhek5sX09KU3lQRDFCNGdDU2taVVR2RTY5RjBvWldXQ045WTY5YlZxOENLejdibnJpUkg4eFhhcVNjX3A5TTd4c2N2M0VyaUJMX2trN2ZRdzBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chart-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [
+      "chart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Baker Hughes to buy Chart Industries for $13.6B; Flowserve terminates previous deal - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgNBVV95cUxPUnZObGtZOUUyWU1iV2VNb3BjRG50MGZGRkM3dFZZcXNqU3Z3eEdabmJKTC10UVUta2huSm1ZLWdDcmhNZmRzMjAyMl9MWDVXTmxOcURGQS1kQWpJdDBXTEgwZE4zTVJjNWVya2VKYz",
+    "sources": [
+      {
+        "name": "chart",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUnZObGtZOUUyWU1iV2VNb3BjRG50MGZGRkM3dFZZcXNqU3Z3eEdabmJKTC10UVUta2huSm1ZLWdDcmhNZmRzMjAyMl9MWDVXTmxOcURGQS1kQWpJdDBXTEgwZE4zTVJjNWVya2VKYzJ4NUVWQ0M4MFJpVm1nbWJ4ektKeVZqcFZzd1AwUHhzMjA0eVA1b1ZzdWZrOTNHVG41VENhOERoc1Y1bEpaRGthQnppZWczcGwybmNvV1M4ekFWNmliejdqQ0NDQXlzUG9DcmFRVG5FTnRFOTlDbmVOaU5aNXVMOG9ELW54MEVxd0pFTUhuc2hON0pETVZQci1qZDY3TjdBSlVLbGtGcFJtdlVKYi14VGx2a0NVck44YzdacUVoc0VsNktjSU5nV1Bka0QxWTIybVVrZWhxMDFZc3BTZC1qQ1ptbWdSRUxRLXRxR3U5Tzd0Z2FJZ08ybmVIem80ekxBc0dkakV6ZlRnR1dTOWtoTVBRdERCZDNPdXJteGVSOUVQMFlLcFZRT0gxMlg4Nnlsc2xNU0dQc0tOVm4yZDZLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai unveils sleek new IONIQ V: a production car that looks like a concept - Electrek",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN25QblRWVVVRZU51d1pHdG1UN1lWQm12bVBCRC1iRGxza0xyT290ZmFfdXVIMk5nWmJPWnltN0NyMkZsTFp6cXRvd3ExUEw0bG4xV3E2V1FyYWdxTG5WN0s3TnVVcXl3T2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN25QblRWVVVRZU51d1pHdG1UN1lWQm12bVBCRC1iRGxza0xyT290ZmFfdXVIMk5nWmJPWnltN0NyMkZsTFp6cXRvd3ExUEw0bG4xV3E2V1FyYWdxTG5WN0s3TnVVcXl3T2M1SGRTZ1dManRjdFJzWFRkZnRDV1REZ0Z5YkVnTHB5d1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-016",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Inside Hyundai’s $12.6 Billion Georgia Metaplant - Autoweek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWVadEIzMmUzQ3NxV0J2dlBZRXdHTFgwcTVvU19EcEdFVHg3M0U0SS05blNKQm1BRVdyc0N0TEJlZ2dhZHo5S21uZ1ZudmtKUWloSDRIcGRvekJQZUd3RFBBa2lTcjdQNTVSR0ZZMW",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWVadEIzMmUzQ3NxV0J2dlBZRXdHTFgwcTVvU19EcEdFVHg3M0U0SS05blNKQm1BRVdyc0N0TEJlZ2dhZHo5S21uZ1ZudmtKUWloSDRIcGRvekJQZUd3RFBBa2lTcjdQNTVSR0ZZMWYyZTYtZkFSQXZTTTJjXzdyOW0zQm5aQ0Vk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-017",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Reaffirms China Commitment at Auto China 2026, Unveils IONIQ V as First Step in New Product Offensive - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQelA4bmRzWW5NR29WdU5xVHFNaTc4d2N6YW5YNHBsZVFSUjVXaWpVbnNDQ2NuNVFIMmJXZmhhd2xSVS1zWE8teDlHT04ycUpTcDQyUzlKbTRPNlgydFFNT0Z5QkQ3M3k2U2RLeXZGNm",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQelA4bmRzWW5NR29WdU5xVHFNaTc4d2N6YW5YNHBsZVFSUjVXaWpVbnNDQ2NuNVFIMmJXZmhhd2xSVS1zWE8teDlHT04ycUpTcDQyUzlKbTRPNlgydFFNT0Z5QkQ3M3k2U2RLeXZGNmZVS0d0Y3pCdU9JeE92R3dDdkRXQjBMWDZOVjZDVVhJYWYyaWxsNlRpNFl4LXBMQy1SLWZxeUl4QjJkTG9HbU83Z25vZTc4OU8yeXZtV3pIT0U0Mll3RFNCSzZyZDc1WVRPSlJscUJhb0VZYkRkSnZzMmo3YVpSWlVYQ1Z1aG1PNEdxNzFyenA2T0dxVzd3aHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-018",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group to build $5.4 bn AI R&D hub in Seoul suburb to accelerate physical AI drive - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsQTRReDMzTXJpVmFGTE9GbThidHJKTzdSMThiN2EwNjZlOXR1SDhnWEJJTktVbXJQbHYzRWoyXzZMTmhncmJSMDFlZV9oSzMycEllMWc4b1ZuUVRicEg1cXRCel9sNS1iU0FCVlhKdm",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsQTRReDMzTXJpVmFGTE9GbThidHJKTzdSMThiN2EwNjZlOXR1SDhnWEJJTktVbXJQbHYzRWoyXzZMTmhncmJSMDFlZV9oSzMycEllMWc4b1ZuUVRicEg1cXRCel9sNS1iU0FCVlhKdmpTOG92WXpUNDFhMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-019",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group, KOICA and Vietnam Partner to Build a Future-Ready Automotive Workforce - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUEY4WU94dE9ScjBKNHNxQUpHcWp3a0ZpaUNJeFJVZU5tSHdCTVYwbFJNWktjbmExbGtOMl9IVnhhY25MMDRwT2xHUGhackhhb0tMYWEwODN3cUpTbDJ6TXNYYTRsMkExUkpBVjBybw",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUEY4WU94dE9ScjBKNHNxQUpHcWp3a0ZpaUNJeFJVZU5tSHdCTVYwbFJNWktjbmExbGtOMl9IVnhhY25MMDRwT2xHUGhackhhb0tMYWEwODN3cUpTbDJ6TXNYYTRsMkExUkpBVjBybw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-020",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Aims to Double China’s Share of Global Sales - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjVuRXFhbmFBQlJtSEZEUmhITzBibkFVVDVLOUpLeW5UaldYS0JDa2RyRDd5dUF1QzM2TWUtWjNIMzRHMjNtaXU4cFZEMTg4S1EtX1plMDRkOExEREJUY3VteXEyQ1lQdGlGODgwWE",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjVuRXFhbmFBQlJtSEZEUmhITzBibkFVVDVLOUpLeW5UaldYS0JDa2RyRDd5dUF1QzM2TWUtWjNIMzRHMjNtaXU4cFZEMTg4S1EtX1plMDRkOExEREJUY3VteXEyQ1lQdGlGODgwWEc5R19XZ09PdlJsbXdpWUJqdVEwQWVSN1hBelctQkxsajZKNzJLanRFN2hDY3U1V1dYYzZTMk1qSEtBLWdubWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-24-021",
+    "date": "2026-04-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Abdul Latif Jameel Motors and Toyota Motor Corporation Launch Public Hydrogen Bus Trial in Yanbu - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbE1RaVBKT2lPVHUyTDNoZk1qSmYtQWFqU2FiVjY0ZkFFOFdFMEtnRlB4MS16elNXY3BEekkwMFBiY3BvUW94WXRiNjRrMTNNSVZKLTY1XzZIV0FlLUNackJhWkU5UWFfek5SQVJzTX",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbE1RaVBKT2lPVHUyTDNoZk1qSmYtQWFqU2FiVjY0ZkFFOFdFMEtnRlB4MS16elNXY3BEekkwMFBiY3BvUW94WXRiNjRrMTNNSVZKLTY1XzZIV0FlLUNackJhWkU5UWFfek5SQVJzTXFBcEt1ZU1FLWE2cjhMXzd1aEFoS3l1X2wzRHpqd3NJemd5UXhSRVItSXZ0bmVRYkF0YVFXNFdZYmNzcmx6NGN6bVlhN3RrMzlteU05ZzIzOHNPT1ZaTjlleFdjQnZVSjB5QjFfSUtKeTlfN2hlTGE4azd2a3NDSjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-24-022",
+    "date": "2026-04-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Abdul Latif Jameel Motors and Toyota Motor Corporation Launch Public Hydrogen Bus Trial in Yanbu",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/04/24/energy-innovation/abdul-latif-jameel-motors-and-toyota-motor-corporation-launch-public-hydrogen-bus-trial-in-yanbu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-023",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai unveils sleek new IONIQ V: a production car that looks like a concept",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Hyundai-Vision-V.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Hyundai unveiled the IONIQ V at Auto Ch",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/04/24/hyundai-ioniq-v-china-600-km-range-auto-china-2026/",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "nel-2026-04-23-002",
@@ -379,6 +793,240 @@
     "sources": []
   },
   {
+    "id": "air_products-2026-04-23-028",
+    "date": "2026-04-23",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals, Inc. (NYSE:APD) Plans Quarterly Dividend of $1.81 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1pfT19qMDk5MzBzMEwzZlVSNTRHVzhVd2VuMHgyUkxCa21HYzhFa3ptVDFLTEJUeDVsVHJKWWM1TzRSeFJYbmhKakNucWktdkswNmxBSDJzSEloeV8zcU9JQ2d0NTZmQUVmR0xCMU",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1pfT19qMDk5MzBzMEwzZlVSNTRHVzhVd2VuMHgyUkxCa21HYzhFa3ptVDFLTEJUeDVsVHJKWWM1TzRSeFJYbmhKakNucWktdkswNmxBSDJzSEloeV8zcU9JQ2d0NTZmQUVmR0xCMUE2ZmEyNkF2Q0l2aXVWRl9vckVXTlpTY00zXzdMM2JMU0tZaVEyR3plWU1rVzNsQm96aU5GVnNnSXNWMnRXTVhpeTJvc3ppMjFXSy1yVmNnUUszZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-23-029",
+    "date": "2026-04-23",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products Declares Quarterly Dividend, Payable on August 10, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDBDZzJtNjFIek1qeWJELVgzU0lGcjNrdHdFRE5ZcXQ5LW1yLWlJbHNMVW9IUmpoWXRQSks4WHNoUUQzbHNaX2x2dmwybFV0MGNzMVp3VkI0dEhoYWg4LXpQcERlcFp3VGJaenJXbE",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDBDZzJtNjFIek1qeWJELVgzU0lGcjNrdHdFRE5ZcXQ5LW1yLWlJbHNMVW9IUmpoWXRQSks4WHNoUUQzbHNaX2x2dmwybFV0MGNzMVp3VkI0dEhoYWg4LXpQcERlcFp3VGJaenJXbE5nRk8xSlBKY2U4a0xVZ3dmUzNEMmtCcHpvYUNrQ3VweTJiNTJZU3lVT3JWZlBlMzVoNEVjRE5IRXlDTnFYYjMxalhnR2xVbV95Tmlz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-23-030",
+    "date": "2026-04-23",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products declares $1.81 quarterly dividend - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTYxZmZSY2ZTT1NrYlFUQ3gzZ0Z1dGRUcHAwcDlPVllNeGUyeDQ1UTBfWHd5TjNCRnRPV3RBSndBVWRZMnhsTnl5c1E1MEx4UXk5anhpNW5ucUdfQUd1T0NQcTM1ci1oUG5yckJja3",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTYxZmZSY2ZTT1NrYlFUQ3gzZ0Z1dGRUcHAwcDlPVllNeGUyeDQ1UTBfWHd5TjNCRnRPV3RBSndBVWRZMnhsTnl5c1E1MEx4UXk5anhpNW5ucUdfQUd1T0NQcTM1ci1oUG5yckJja3U4Z2J4WW1PNG4tWUxBWU1RbWhnUDZCTHNpcXAxN2JTZEFqSlBXWWNmaUNpcXhFZXo1OWVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-23-031",
+    "date": "2026-04-23",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Air Products Maintains Quarterly Dividend at $1.81 a Share; Payable Aug. 10 to Shareholders of Record as of July 1 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTFmR3FVUVNXQWJGRldEbkZvNHg4RU55RmtnSlVLTlBSYVFOUzFHRHlhVGNJazlsREhMQ2dkRy01V0V0bGt6Qy1pMDlsU3NVb2g5bFpIYTNMOEZUVmZCRVAxaEtmNTNmUlhRVVRsVX",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTFmR3FVUVNXQWJGRldEbkZvNHg4RU55RmtnSlVLTlBSYVFOUzFHRHlhVGNJazlsREhMQ2dkRy01V0V0bGt6Qy1pMDlsU3NVb2g5bFpIYTNMOEZUVmZCRVAxaEtmNTNmUlhRVVRsVXhBMGloajdtd3diWVpRU2FhTUFmdVIwSEc4ZmZFaElfa2dMZ3VEcWFyX1JYNEJpSnNPQjRJbEFpMUgyS1R3SnZYc3o4UXZFVnltOTdJNm5QaHQwNTdJSnlRLXNkd0lRMVBiN0FFcXFuekd1ZU9VU3BUN0xpT0c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-04-23-032",
+    "date": "2026-04-23",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel Hydrogen secures $7M electrolyser order from US utility - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFlqX0xMWnppT21RX0t2ZGpwS0FHSnZmZ2drMl9FSWgxU3FvOVB4NzVrM2FUSzNzeEdGc1pSdWlicDhwelF3WWN3NmhsbmRwZVYyMHV4VUc2VW1SRktGbnRiZGVKU1dsSmxHS2szU0",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFlqX0xMWnppT21RX0t2ZGpwS0FHSnZmZ2drMl9FSWgxU3FvOVB4NzVrM2FUSzNzeEdGc1pSdWlicDhwelF3WWN3NmhsbmRwZVYyMHV4VUc2VW1SRktGbnRiZGVKU1dsSmxHS2szU01XUGRNYVZvczJKV1BlTkV6a2Y3RDNlR2JCRzBSY1o5MnN6Ty1oMjhUMlVhZklKT2lGa0g3SEhXNEZ4WFlEMkNEY2JTTktOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-033",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy raises outlook as demand for power equipment soars - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjRkSjdvZk1wZ2JfMy1fNU5NVXg5ZWIyZDZhdE5rR3lwV01ZUGhHSkJDLVlOcGg0ekEwRU96YnB0aVpmWGpianFuQTVpd1FHRnBHcXlVOEFWUDlTQmFzbG5xVnNFb29Fc3RIdHV3WT",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjRkSjdvZk1wZ2JfMy1fNU5NVXg5ZWIyZDZhdE5rR3lwV01ZUGhHSkJDLVlOcGg0ekEwRU96YnB0aVpmWGpianFuQTVpd1FHRnBHcXlVOEFWUDlTQmFzbG5xVnNFb29Fc3RIdHV3WTNHTkhZUDRiZXJHblctUmt0bUVnSjl5OU80?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-034",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "WATCH: Siemens Energy opens new AI-powered electrical grid lab in Research Park - The Charge",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHNLM0Y2QThYOTFNdjVXM3dsTTVUZXcwUmdKSmhQSl9RZDB1U2lDZ2pTQTc4dHl1RDBIUWttVk1jMXFwaWhlam9YSFRpRE9ldXhwRlhYQ0lwR1g3Vi1RT1BmaW5wUlZwTGhLbTRFQ2",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHNLM0Y2QThYOTFNdjVXM3dsTTVUZXcwUmdKSmhQSl9RZDB1U2lDZ2pTQTc4dHl1RDBIUWttVk1jMXFwaWhlam9YSFRpRE9ldXhwRlhYQ0lwR1g3Vi1RT1BmaW5wUlZwTGhLbTRFQ2ZWVUtlQlJIRnhqSkhRNi1nQlBELWpCQUg5eWg4NWpURXI4Ym80RHctbGdpVWRjNE92a3FfOEhhcHFCNmhfQzZVbzlXRHVZLWtVcnVGb2hEWERWZnNWT2t2MlMxeXB6UlVQYkpGZmNsTWExY051Yl9rTkw1WmNHenR4WEc2YlBKU1pqQ0hoTE84UDRuMG5hVmV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-035",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy Raises Outlook on Strong AI-Driven Demand - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHFiMDZqMU1sbFhSY2hqWlBnQWtoT2xFQnhmNEdJOHJMc0xCVUZPX19UU2NsRG4zQTAzM0sxMW1yU1dhQW9ucl9TaWhvUk9tejZERmVIWnlEb3pTX1ZPWl80MnpNRm9YQ29PbXFoVj",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHFiMDZqMU1sbFhSY2hqWlBnQWtoT2xFQnhmNEdJOHJMc0xCVUZPX19UU2NsRG4zQTAzM0sxMW1yU1dhQW9ucl9TaWhvUk9tejZERmVIWnlEb3pTX1ZPWl80MnpNRm9YQ29PbXFoVjJIU3UyM1NveEVJRGdsNDRTSUZoT0pId0VGNWJMVmRHRUxUSjNNUXpXNHFUZDFsNEgxUlVRSldyRnlZSW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-036",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy (SIEGY) Upgrades 2026 Financial Outlook Amid AI D - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0N5bC02MVpKRzEwQ3FiM0lPZWwtUWdCRWxuelhRVkJhS1hWcmhCSDloS3lfaUJ3TkNqWm9hc2U2dEwzVWFqQUtOZU5zSm9HU1R3Y1AwZVQ5ZERpM2lZRjVpS2RkZFlETHhxRy1laF",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0N5bC02MVpKRzEwQ3FiM0lPZWwtUWdCRWxuelhRVkJhS1hWcmhCSDloS3lfaUJ3TkNqWm9hc2U2dEwzVWFqQUtOZU5zSm9HU1R3Y1AwZVQ5ZERpM2lZRjVpS2RkZFlETHhxRy1laFhiTzZLenZKWUZqYks4MGtFcUdBdzVnc3FqdjRKV293S09DeWxyS01VZWFJTktNUWJlQmVDbVVncG9ZN1BJV1JSSXpaZjBvRHdGS2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-037",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy raises outlook as demand for power equipment soars - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnFhalNGZkFObFhtODVRajEyaTlXMjYwVkZDRlZPRXRaa2dtd204VjBZMGx5MVpkUzZIM1VBemZZbkNfSDgySVNJNjd6OG9YZUgxN29BNEVfdWRDbjNqdEpZN3pzOXZfQ0JCYUdhdU",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnFhalNGZkFObFhtODVRajEyaTlXMjYwVkZDRlZPRXRaa2dtd204VjBZMGx5MVpkUzZIM1VBemZZbkNfSDgySVNJNjd6OG9YZUgxN29BNEVfdWRDbjNqdEpZN3pzOXZfQ0JCYUdhdUtYT2pLeW8xNlhiMktSZU5kZXhhRDdrcWRrOEhfVll6Y2l6OTRZbk51djNkeHBvME1rNENjZ2FJRlVHdGZOc2tUQkxEeW15eW56RFZUVmxVc0ptaVBsTVJsTU84WVdWY2t3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-04-23-038",
+    "date": "2026-04-23",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy lifts 2026 outlook as orders surge and margins improve - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2drSmg2bmptdkYzQVZNMUtkd24zbW9qcWFTd1lxZEEwckQyTmpsM2MxQ01vUUJ5MzB4SGZha2pfd1dDVk94UThWMGw5b1ViWVlnT3hQNWd0bEZLZHpNSVdXUHRSbWZDeGNxZjBKcm",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2drSmg2bmptdkYzQVZNMUtkd24zbW9qcWFTd1lxZEEwckQyTmpsM2MxQ01vUUJ5MzB4SGZha2pfd1dDVk94UThWMGw5b1ViWVlnT3hQNWd0bEZLZHpNSVdXUHRSbWZDeGNxZjBKcmtmMEp6b1c1YUFxdkdPTEZBUE9RMnJENXNYWEFnRUdFS3hmSmNJM1FJaWpmcDFGckUzR2cyV2oxY3FpMFVIQjJkalRVMVFuWmRPNkJRbmRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chart-2026-04-23-039",
+    "date": "2026-04-23",
+    "companies": [
+      "chart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Baker Hughes Reportedly Poised To Buy Chart Industries For $13.6B, Trumping Flowserve Deal - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisANBVV95cUxObFh5ZjRqZ3FNM2I5akJoWDV0NlV6emhXdVNLRTFweUY5ZWdLR2JCNWdMYTRlaVZNWjVnVDYzaXFOY2N5NmIxT3BWS3BHZUpKVUxQQndYR1lPVmhaOFBYOXFfQjZfeWwwSWoyWVJlN3",
+    "sources": [
+      {
+        "name": "chart",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxObFh5ZjRqZ3FNM2I5akJoWDV0NlV6emhXdVNLRTFweUY5ZWdLR2JCNWdMYTRlaVZNWjVnVDYzaXFOY2N5NmIxT3BWS3BHZUpKVUxQQndYR1lPVmhaOFBYOXFfQjZfeWwwSWoyWVJlN3YtQk96VnFudUtwWm9ZTnlhMUVHdm1BWWhiVzIyOWpWTFB4OGdHSk1aVGFEbXRSWkFUWVdjbEFYRnRudkpkclR4Ym1CelVzUlFqVEZTeHl5STZ2RTBpOElUYzcxSUdTeGk0ZFhsRWdRVTk0M0pPb29ld0tkSVBycGZzOVVLYkNiQjM2N0NfZXdfb2RfMk5abTlxVGJQX2dRemNpeHFkRjRON1hfYkVseXRVTkI4TGo0b1hIdEU0SG1rMlVHa01yX1MtdmhaTFM4VzVjUEdHVGRMWTZ4eXduQklBb3ltZTJoaWFGNXViRHM2WENpQ0dRUHdSWG1XekVJbFgtWXpuUGNyc2hObFhoZkxVQ3Iya2FoM3dhMFBkMnJXaDVkVXF3TmFWTGJ5dmY4Y3NzdEhRMGQ5M0l5MzJfTXQzUDJQbm9xSnE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-23-040",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Launches The New STARIA Limousine with Both Hybrid or Electric Options - Korean Car Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzNTZUZ2a3lvMGJHQ1hGaXBVaTEzUlNwQnV4OHgtTjF4Mm9IeWN2U0hFOVRLb3ZpUnRfbFVlMFAwcEdKT1AydHpjV3hsMWtCY281ajdGSFd3WGc4Rm55VHlFQU16RldmNjFkdWxQek",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzNTZUZ2a3lvMGJHQ1hGaXBVaTEzUlNwQnV4OHgtTjF4Mm9IeWN2U0hFOVRLb3ZpUnRfbFVlMFAwcEdKT1AydHpjV3hsMWtCY281ajdGSFd3WGc4Rm55VHlFQU16RldmNjFkdWxQekdObzdpWEw3WnZIS0twb2l6NWVUQ3RPUWU0NlFTbjdpSnF3V1hjQkthS0w1ZFNzQXBRZnhFYU9CeHl6SngwSURaazNJMVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nel-2026-04-22-003",
     "date": "2026-04-22",
     "companies": [
@@ -539,6 +1187,78 @@
     "sources": []
   },
   {
+    "id": "nel-2026-04-22-017",
+    "date": "2026-04-22",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA Q1 2026: Orders Slump but New Electrolyser Platform Nears Launch - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTB3b0JFNzFvdm1ZYWd5cVVJbXBYNXNJT21yWHpZYzNEVmNwRnRVU3VJS2lXMkpIOGJzQnYwVzRXYlAzZHpuYXFBUXhmdHcxSXJHc1lWOERhYjBkcWVSWHJiLThlSm0yX2JEd1VteX",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTB3b0JFNzFvdm1ZYWd5cVVJbXBYNXNJT21yWHpZYzNEVmNwRnRVU3VJS2lXMkpIOGJzQnYwVzRXYlAzZHpuYXFBUXhmdHcxSXJHc1lWOERhYjBkcWVSWHJiLThlSm0yX2JEd1VteXYwQXpQMXFMUXgzaGduSlFKQk04NFRCRkNZbEI2VDVsTTRma1lMMWF2T01RcHE3NXJwS0RKX25qNUxjUmdmVk5rejc4dG12ZlhwUUpqcXVCYlA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-22-018",
+    "date": "2026-04-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor goes all-in on China EV comeback - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdjgwSENQcmZIYVRkTkI5aGNwaTVaWXFnREdGb3BsMTE4MTU0Q0MyemtTc1pDQXBXZVFpak9kc2h2ZExwOFB3UFExMGJGdlhGOEpsVjVtOA?oc=5\" target=\"_blank\">Hyundai M",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdjgwSENQcmZIYVRkTkI5aGNwaTVaWXFnREdGb3BsMTE4MTU0Q0MyemtTc1pDQXBXZVFpak9kc2h2ZExwOFB3UFExMGJGdlhGOEpsVjVtOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-22-019",
+    "date": "2026-04-22",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota unveils one of world’s top AI vision engines at Japan test bed as race with China heats up - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2xOSDZHY2JrbXBzdkM0TnM4RnQyUlNtYUdBTGF1N2FzZENFVmp5YTZuWXZIVXZhem95QWJvM19CTWFNZ04tYVdyU3l4cEpUZVlKQmNHOU9fUzNNZUk0YllDVHZHMDhvZDVLNXRwTV",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2xOSDZHY2JrbXBzdkM0TnM4RnQyUlNtYUdBTGF1N2FzZENFVmp5YTZuWXZIVXZhem95QWJvM19CTWFNZ04tYVdyU3l4cEpUZVlKQmNHOU9fUzNNZUk0YllDVHZHMDhvZDVLNXRwTVJaREhicHN5elhOZUZiVGVFcFZDaTJ1QVV3YkNpbFFoU200YXNGU0lBUTNYaUhiNERXRy04OVN4LV9yVjJCSVhTYjFKTi00X0w4Uk5r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-22-020",
+    "date": "2026-04-22",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota and Woven by Toyota Unveil New AI Technologies to Drive Kakezan - トヨタ自動車株式会社 公式企業サイト",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NbDRsT2pCSEdQX0w5WVRqcXM5WnU4bDFEdkxLWkxHbEJCTmMxSFRSSElaSEdaV1RzODk4cVJQeWxKb1B2TUEzS1NSY2RZcjZRWHQzeHBtR3pZLXhFN21MalhjcFJVeENY?oc=5\" tar",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NbDRsT2pCSEdQX0w5WVRqcXM5WnU4bDFEdkxLWkxHbEJCTmMxSFRSSElaSEdaV1RzODk4cVJQeWxKb1B2TUEzS1NSY2RZcjZRWHQzeHBtR3pZLXhFN21MalhjcFJVeENY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nel-2026-04-21-002",
     "date": "2026-04-21",
     "companies": [
@@ -614,6 +1334,42 @@
     "title": "Sunfire Launches 50 MW Pressurised Alkaline Electrolyser, Claiming Up to 50% Lower Installed Costs for Industrial Green Hydrogen Projects - Intelligent Living",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5neWtKZFM5QnprLUdZN2F3RTVNdmptenlmaVNYQ2k1TDQzTVNvN0owbE84RWZ2TnRNOU1VTGxRTGFuYzNJX29pLUZlSi1PdnNrYUttOHQ1Z0tSSWxvNE44RHExTWJ1QnpwYTljYV9JSj",
     "sources": []
+  },
+  {
+    "id": "linde-2026-04-21-007",
+    "date": "2026-04-21",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE000S9YS4E6): Is industrial gas demand strong enough to drive sustained upside? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFVRUVItcGpSRTdHX2xFZ1VFNVZYajBMSDdOU0FhczRNVGdXd2JieWtoVDVWeVgzOFhIWnBpLXktX3JQYm1VS1RYMVVyb05BRG9ma29SVXFxUWRvNXJrU2xXcG9UMFluaE1JNUxiWm",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFVRUVItcGpSRTdHX2xFZ1VFNVZYajBMSDdOU0FhczRNVGdXd2JieWtoVDVWeVgzOFhIWnBpLXktX3JQYm1VS1RYMVVyb05BRG9ma29SVXFxUWRvNXJrU2xXcG9UMFluaE1JNUxiWmtKSUI3dlFBMVlhQTZ2aHUyclJDNjNGdWpCVG9VWG0wRERBOFhGRUh3RTZ4Q2ZJV3pncjhQRWxZVFMwZDcwZGI2V0ZDOGp6MmxDa2pZTnpEUFVjT0h1a29UTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-04-21-008",
+    "date": "2026-04-21",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dilution adjustment of thyssenkrupp nucera AG & Co. KGaA – TURQUOISE:NCH2D - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGcxblNyTHMzQ1NHcm9OTGs2c3BKOGpzNkRVYXR1SWZpZXY2RHlnWFRMMnRJVVZCT0VaYmtjMFhDX2RMSlU4MUVDMEJHWnZnTURseThJZFZvNjBadHp5QXFEN1VJYUtIU09ISkJOZ0",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGcxblNyTHMzQ1NHcm9OTGs2c3BKOGpzNkRVYXR1SWZpZXY2RHlnWFRMMnRJVVZCT0VaYmtjMFhDX2RMSlU4MUVDMEJHWnZnTURseThJZFZvNjBadHp5QXFEN1VJYUtIU09ISkJOZ0s4cGJvai1uNlIzeng0QnJhdDJPRUtfdnVhc3p6b2FnelVvOHdWTWE0czFINFZKaFMzZFE?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "nel-2026-04-20-004",
@@ -758,6 +1514,204 @@
     "sources": []
   },
   {
+    "id": "linde-2026-04-20-012",
+    "date": "2026-04-20",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE000S9YS762): Why industrial gas demand matters more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0R3LVVuLVhHVmNrQnhDZy1GR3lrMzRHdU5hR2d0Nk1WRFR6S1ZDWGRVN1ZaWGVEa204aENaaktSZDVzS2h4dThqRmxGRHB2MTdVUUR3eU94eG9KZFB0aWJSYkwzMUladUJGNmI0TW",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0R3LVVuLVhHVmNrQnhDZy1GR3lrMzRHdU5hR2d0Nk1WRFR6S1ZDWGRVN1ZaWGVEa204aENaaktSZDVzS2h4dThqRmxGRHB2MTdVUUR3eU94eG9KZFB0aWJSYkwzMUladUJGNmI0TWVkUzdQTmYybldIWlJkVWV0dFFIS2swUFNRN2x6QVowdWxKTlBULVUzY1VSV2p6YkpwOElaMnA5RmNUYUp4bGxJR0tXTWRGc1VJd2FKMzJ4Z0NVdTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "linde-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE00BZ12WP82): Is industrial gas demand strong enough to unlock new upside? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3U0R1hTUjd3Z0NuNzlRRENwX1dXMkFrOThteDFjeFpWWnhncG5CRFhSYXFfSUV1NVVycGVXeXVCaU5tcnpmVEQ0UXU0SDdkMmhhUlg3V3ljbGhTWll5ZmdsNGc2YVUwUUk3dHV2ak",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3U0R1hTUjd3Z0NuNzlRRENwX1dXMkFrOThteDFjeFpWWnhncG5CRFhSYXFfSUV1NVVycGVXeXVCaU5tcnpmVEQ0UXU0SDdkMmhhUlg3V3ljbGhTWll5ZmdsNGc2YVUwUUk3dHV2akpiUEplRHZLUzBzS0x0VU5SLWJpdi1oaDRvdm9yTy04R1EtalJhcVBxZ0ZZQkRKTzhJRkE2MmIxYk1majQ0UmR1VWlDRG52aC1SWXRrRE9Wa3k3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "linde-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE000S9YS762): Why industrial gas demand trends matter more now for your portfolio - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVFuQjl6Z2Vycm1TdDVTMmZ3WWwwUTFQdEZpTG1UU1ZIR19RVmp3V3gyTExhakFnUGRWclhjVzJ3TEwtZ1diSV8xTlotV0NZSHdPa3RUVW0xQzN1NHhkQzJLcDZQczJGQ3JQR0Rrdm",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVFuQjl6Z2Vycm1TdDVTMmZ3WWwwUTFQdEZpTG1UU1ZIR19RVmp3V3gyTExhakFnUGRWclhjVzJ3TEwtZ1diSV8xTlotV0NZSHdPa3RUVW0xQzN1NHhkQzJLcDZQczJGQ3JQR0Rrdm9pb05OeTFHWlRaRHJJZGlqcEd4NUNZby1BTFFrLXBJbHI4bmEyaVRReFJrb1ZpSzlFb09UUWdPY2l2Y1I3UWpSOTdsOUpXQkFfeDZ6Y1YweUVtMjNEWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "linde-2026-04-20-015",
+    "date": "2026-04-20",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE00BZ12WP82): Is its industrial gas dominance strong enough to unlock new upside? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXpqcDh0M3dBLW1RV2tmZlFPS3FRb1VzQjdldzZPUXg3SWFrdHQzRHFsdVdZRS1sUjBaNE50S0k0Vkl5b2RsODJIZ1pJUVJPN01jTV9zOVZZMkhNbnNTU1R4ODREOFFQN2hjMnVybV",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXpqcDh0M3dBLW1RV2tmZlFPS3FRb1VzQjdldzZPUXg3SWFrdHQzRHFsdVdZRS1sUjBaNE50S0k0Vkl5b2RsODJIZ1pJUVJPN01jTV9zOVZZMkhNbnNTU1R4ODREOFFQN2hjMnVybVoyc2N2WWxuRVdxMXZDLVZwVnVTckJSbUc5Nmg5ay1seU1TZ3BLLVFFZnNOSnI5M2Z4dWc1cUxHcm1SN01WVnE5elpXZGRtVktla0NkRExB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-04-20-016",
+    "date": "2026-04-20",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "How Investors Are Reacting To Air Products (APD) Expanding Hydrogen Boiler and Portable Fueler Solutions - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNmotamdMVE9Qck01Z0t0OXBGdDE5WEtuTnVjT1hSemtRREpkdklWa3o5dzlzM0JtZXVKVDdtYk5vZ2ZYV0c0US1pY3YyNjViMEg0UGtJVWhMYmt3WlJDa056Z3RRdTI3R0NfSV9rdm",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNmotamdMVE9Qck01Z0t0OXBGdDE5WEtuTnVjT1hSemtRREpkdklWa3o5dzlzM0JtZXVKVDdtYk5vZ2ZYV0c0US1pY3YyNjViMEg0UGtJVWhMYmt3WlJDa056Z3RRdTI3R0NfSV9rdmxsXzRtdDBnZm1kQ01JNE1pQldKNHprNWhEZ0VuSWNUQjNGaDRjaWRWYUozY1UtdWlCaGc1Z0RLR0N5RWlScmtoU1dkNGpKMzVJUE9ieEVFeGZFYWlXQVl6S0IxaWtCYzBJNGE4VEpfWVpleFXSAeABQVVfeXFMT2QtRUt2Tkp4eDIxa055QkwwTV9UOE1mUGRiaDBVRGJiZTVXdUFYdGl2RXNDLV9xcWtYUkN2RXN1OUtmYjBVWXJ4NWo0aW1YZkw2TU1FakhMZzllRGVOWklGc0pTajJQS2F6SkNNRjUxUEZpWkVac0lwd3JHX1ZQRmhUM1RuYTZzNTM2TGJjSENNeUpxWDFEbFI1V2lmVGJla1RBV1JzY1ZPZlR0cEtBZUc2cFY4NlpmMWtRMmJ0V0NwNVlZMldhNzlhRmxicU9WMzZyUWFoR25jcE40OUhIbnQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-04-20-017",
+    "date": "2026-04-20",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "ITM Power Executives Increase Holdings Through Monthly Share Incentive Plan - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0ZfcHpzODZtVF9uZ3BjanlsQlVYaUQ3d3hGaVMyN1BJM2lNODVGM3p1bzl1cWFkbG1aR2hhLWpKUmlieU54VWJnU2ZBbEE3NzFpZUxiNVJMZ0RRajN5OWw4dm1zbFB6OVkzUXNPdX",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0ZfcHpzODZtVF9uZ3BjanlsQlVYaUQ3d3hGaVMyN1BJM2lNODVGM3p1bzl1cWFkbG1aR2hhLWpKUmlieU54VWJnU2ZBbEE3NzFpZUxiNVJMZ0RRajN5OWw4dm1zbFB6OVkzUXNPdXV5dnNDYnNOU2xmSE5nNE1rSkt2bmMxU2xCbkJuVndjSHFHdUJhOS1qTVpzWUUxYnhhbkN6aDJ3TmNDTHYxNFJoQXNVZl8zdWFfLWROMU43SmhLRWd3X3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-04-20-018",
+    "date": "2026-04-20",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ITM Power (LON:ITM) Trading Down 3.4% - What's Next? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQa240ZEp0aml3MUdVVUExVUpadDdyeXFIRmtnMy1YLW44V1dkekNFb04tbmtHV2NraGl4c0cwbzJBVVJZWThwMGhDUVBXUTZqdFh6SHJ6YVoxd256ZTJLRllrOWJVRmY4b09sY1ZUU1",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa240ZEp0aml3MUdVVUExVUpadDdyeXFIRmtnMy1YLW44V1dkekNFb04tbmtHV2NraGl4c0cwbzJBVVJZWThwMGhDUVBXUTZqdFh6SHJ6YVoxd256ZTJLRllrOWJVRmY4b09sY1ZUU1ctNTFBTDFJRUxvTG93MURMU2daUUk4NklrRzFWZTZNcHhJakUwNk4xUjMtcU5NZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-04-20-019",
+    "date": "2026-04-20",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ITM Power Stock Surges on AI Demand and State-Backed Financial Revamp - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNanllbXFnYjVNS0E4Nng4XzVXNzVTcHRiOFpKaHkyWmVUNWRraUxUMEE5V1B3Z25Nd3Zwc19NV1V0UnM4T1hWVTgtbWlYaDdWZWR3bnNCNDlWQmFPRkR3Sjk5cTc3NFhuMklLUXJvSG",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanllbXFnYjVNS0E4Nng4XzVXNzVTcHRiOFpKaHkyWmVUNWRraUxUMEE5V1B3Z25Nd3Zwc19NV1V0UnM4T1hWVTgtbWlYaDdWZWR3bnNCNDlWQmFPRkR3Sjk5cTc3NFhuMklLUXJvSGVRN1BKTTJRdmlxdEVjUGpXeUpsU3hKZlFEMW81Y25tcWQtamJpS1piNF9iYWw0cGdqY05sbDZDWW9tc1N4ZlMxaUc4RmhpTWVnWndiNkJFWlBMVWE3c2lZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-20-020",
+    "date": "2026-04-20",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Introduces IONIQ 3: Aero Hatch Elevates EV Technology for Simple, Spacious and Intuitive Mobility - Hyundai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQRnUyT0VqMk5nS3NWR2ExZ2xGdXRUdmp5TzNwTzg3SnhreGY0MzlIMmpRMDQ4Y3hwZTlUa3hMN1c0THNwM1NTOXlMQmNsaVhhd2JUN3dtYTMwUXA5WkZYSlpSUmFNYUdRWmxYT0JTVX",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRnUyT0VqMk5nS3NWR2ExZ2xGdXRUdmp5TzNwTzg3SnhreGY0MzlIMmpRMDQ4Y3hwZTlUa3hMN1c0THNwM1NTOXlMQmNsaVhhd2JUN3dtYTMwUXA5WkZYSlpSUmFNYUdRWmxYT0JTVXBWaXNkVXR5akVJb3dhZEN3OFVsTFlXdC0tTFFOY1hhTmlFcFZZeGZveHJtbHVjZ0wxdi00dm95NVUxamxRUVVUY1VWU0h2OGNsVEJ5MXdHTHFJQnJGQVBERTZHNXlrQTMyYTRHTTBjc3JoVVppNUZ4RWtwMXpqWXVQc2tLaXV2d19SUDI2NlpjUlQwZEp2NFNvc3lUOWlEU2M1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-20-021",
+    "date": "2026-04-20",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Motor Corporation aims to join Daimler Truck and Volvo Group as equal shareholder in the fuel cell joint venture cellcentric - Daimler Truck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQZUVWc1lZV2FwMDd3MXd4b0VpSlRQb3AwZ2QtT3Jfc2t1U1hWX1E3WUhnUGdNOXpPZ3dTZkxMRlFtSkx2LUd3b1ZEWnlPTW9UcW40UlNRNnB1Z3hUcEtKck1PY1JrSW10MVVicnEybU",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZUVWc1lZV2FwMDd3MXd4b0VpSlRQb3AwZ2QtT3Jfc2t1U1hWX1E3WUhnUGdNOXpPZ3dTZkxMRlFtSkx2LUd3b1ZEWnlPTW9UcW40UlNRNnB1Z3hUcEtKck1PY1JrSW10MVVicnEybUVMSlNka3BKVmhRQTNOLV80NjdJRURFWVFjcll3WWJMX09mLUpMazVaTXZGOVlQVm1yLTZRam9Pamk0SjdKYUUxSTVPeVh0djhhV2FpM1VQMXktWkhpQnBBbEFjMUhyUEVNS3BwSkY4b0RqWldpS0hFdldLemdodDZWTTZ6cTRmRG1PSUpmN2pXSDR0OGhrWmV0M0FoREowbXI1R08tX0dsc1Zqd0JmY3JTeks0SmRVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-04-20-022",
+    "date": "2026-04-20",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota and Honda launch Canadian auto manufacturing alliance - Just Auto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXZUbndhX2tEM3FudGxqZ2RRbFFleURxMW1tMGRUNnRDdTFNZUFQTnpaakh1d2tvbEZLeFBLYmh3OF9UMUNJSV9RRE9GSEltT3NHZk91cDFIdzFrLUY0WUlvMzV6bDNlcElNbWUwOT",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXZUbndhX2tEM3FudGxqZ2RRbFFleURxMW1tMGRUNnRDdTFNZUFQTnpaakh1d2tvbEZLeFBLYmh3OF9UMUNJSV9RRE9GSEltT3NHZk91cDFIdzFrLUY0WUlvMzV6bDNlcElNbWUwOTlnd0ZLb29NcU9JdUZZbC10RUxva3JibklL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nel-2026-04-19-002",
     "date": "2026-04-19",
     "companies": [
@@ -780,6 +1734,24 @@
     "title": "Nel ASA's Executive Pay Overhaul and Fresh Order Fuel Optimism Ahead of Earnings - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHdmZ0Z1ZWhmZjhnLV9CSlhpdDQ5eXBOQVZTSVFFZC1acWZjOFlCZU9xNGNsZy10c3AtY2N2aEJzU2JKdGNLWnFVcWpFOGlyc1pCTXd6VXdaLUtTbW80RFlPUldOS3JDVHBxRk1mU2",
     "sources": []
+  },
+  {
+    "id": "linde-2026-04-19-004",
+    "date": "2026-04-19",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde plc stock (IE00BZ12WP82): Why industrial gas demand matters more now for steady returns? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3lHSV9DUXBPSVAyc0lQa2s0QlNNMnZyU1B6RGVLU3VLcjZUSHdfU2F2dE5nZ3A3dm9kYm9SSFRoSE1wbDhxcUpzVkVvNzJLRm1LODN3cGZtbzJ0MW0wMF9nQjJzVkhhMUlyeTNQVj",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3lHSV9DUXBPSVAyc0lQa2s0QlNNMnZyU1B6RGVLU3VLcjZUSHdfU2F2dE5nZ3A3dm9kYm9SSFRoSE1wbDhxcUpzVkVvNzJLRm1LODN3cGZtbzJ0MW0wMF9nQjJzVkhhMUlyeTNQVjJMd3dfR3pOLVFwT2V0MlZUNmktVlhUS283V01lOVhvN3pNV3o5Ykh6Smd0WWtpMXFPRk1PV0t6SkFEWkJRRE0zcXk1eVJHU1BaNVo0b0t6SzNUbkk?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "nel-2026-04-18-003",
