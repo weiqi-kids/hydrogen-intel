@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 104,
+  "gate2_fail": 37,
+  "passed": 8,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+    "Air Products to build ASU in Cocoa, Florida - gasworld",
+    "Air Products Expands Core Gases Network With New Florida Facility Plan - simplywall.st",
+    "Air Products supports expanded recycling across local parishes through grant to Louisiana Recycling ",
+    "Air Products to build air separation unit in Florida By Investing.com - Investing.com Nigeria"
+  ]
+}

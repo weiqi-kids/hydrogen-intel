@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:12.032737Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 120,
+    "too_old": 102,
+    "gate1_blocked": 104,
+    "gate2_blocked": 37,
+    "passed": 8,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+      "Air Products to build ASU in Cocoa, Florida - gasworld",
+      "Air Products Expands Core Gases Network With New Florida Facility Plan - simplywall.st",
+      "Air Products supports expanded recycling across local parishes through grant to Louisiana Recycling ",
+      "Air Products to build air separation unit in Florida By Investing.com - Investing.com Nigeria"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無氫能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
