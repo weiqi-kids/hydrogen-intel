@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:37:00.910279Z",
+  "generated_at": "2026-04-27T10:05:32.599505Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,10 +18,10 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "green_hydrogen_cost": {
-      "this_week": 7,
+      "this_week": 10,
       "last_week": 5,
-      "week_over_week_change": "+40%",
-      "sentiment_this_week": -0.07
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.05
     },
     "electrolyzer_capacity": {
       "this_week": 3,
@@ -30,7 +30,7 @@
       "sentiment_this_week": 0.0
     },
     "fuel_cell_vehicle": {
-      "this_week": 1,
+      "this_week": 2,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
@@ -43,14 +43,14 @@
       "rank": 2
     },
     "siemens_energy": {
-      "event_count": 2,
+      "event_count": 7,
       "sentiment_avg": 0.0,
       "rank": 3
     },
     "linde": {
       "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 5
     },
     "air_liquide": {
       "event_count": 1,
@@ -58,14 +58,14 @@
       "rank": 6
     },
     "hyundai": {
-      "event_count": 14,
-      "sentiment_avg": -0.04,
+      "event_count": 17,
+      "sentiment_avg": -0.03,
       "rank": 1
     },
     "toyota": {
-      "event_count": 2,
+      "event_count": 6,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 4
     },
     "itm_power": {
       "event_count": 1,
@@ -76,14 +76,19 @@
       "event_count": 1,
       "sentiment_avg": 0.0,
       "rank": 8
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 135,
+        "this": 155,
         "last": 68,
-        "change_pct": 98.5
+        "change_pct": 127.9
       }
     }
   },
@@ -100,7 +105,7 @@
     },
     {
       "date": "2026-04-23",
-      "event_count": 44,
+      "event_count": 45,
       "sentiment_avg": 0
     },
     {
@@ -115,29 +120,29 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 13,
+      "event_count": 15,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 1,
+      "event_count": 18,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 135 則事件，重點為「Green Hydrogen Market Trends: Siemens Energy, A...」。事件量較上週增加 98%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 155 則事件，重點為「Green Hydrogen Market Trends: Siemens Energy, A...」。事件量較上週增加 128%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Nel ASA",
         "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
       },
       {
-        "company": "現代汽車",
-        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+        "company": "西門子能源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
       },
       {
-        "company": "林德",
-        "reason": "受綠氫成本議題影響，供應鏈壓力可能上升。"
+        "company": "現代汽車",
+        "reason": "本週出現 17 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },

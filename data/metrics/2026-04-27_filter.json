@@ -1,11 +1,11 @@
 {
-  "total_raw": 742,
-  "dup_title": 242,
+  "total_raw": 1112,
+  "dup_title": 348,
   "no_date": 0,
-  "too_old": 201,
-  "gate1_fail": 208,
-  "gate2_fail": 74,
-  "passed": 17,
+  "too_old": 294,
+  "gate1_fail": 312,
+  "gate2_fail": 121,
+  "passed": 37,
   "gate2_samples": [
     "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
     "Air Products to build ASU in Cocoa, Florida - gasworld",
