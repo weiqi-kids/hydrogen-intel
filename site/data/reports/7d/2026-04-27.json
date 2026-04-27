@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:41:12.094661Z",
+  "generated_at": "2026-04-27T03:37:00.910279Z",
   "highlights": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "rank": 6
     },
     "hyundai": {
-      "event_count": 13,
+      "event_count": 14,
       "sentiment_avg": -0.04,
       "rank": 1
     },
@@ -81,51 +81,51 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 33,
-        "last": 11,
-        "change_pct": 200.0
+        "this": 135,
+        "last": 68,
+        "change_pct": 98.5
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 2,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-22",
-      "event_count": 7,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-23",
-      "event_count": 12,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-24",
-      "event_count": 3,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-25",
-      "event_count": 0,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-26",
       "event_count": 9,
       "sentiment_avg": 0
     },
     {
+      "date": "2026-04-22",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 44,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
       "date": "2026-04-27",
-      "event_count": 0,
+      "event_count": 1,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 33 則事件，重點為「Green Hydrogen Market Trends: Siemens Energy, A...」。事件量較上週增加 200%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 135 則事件，重點為「Green Hydrogen Market Trends: Siemens Energy, A...」。事件量較上週增加 98%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Nel ASA",
@@ -133,7 +133,7 @@
       },
       {
         "company": "現代汽車",
-        "reason": "本週出現 13 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
       },
       {
         "company": "林德",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:41:11.707840+00:00",
+  "updated_at": "2026-04-27T03:37:00.512796+00:00",
   "companies": {
     "air_liquide": {
       "name": "Air Liquide",
@@ -694,13 +694,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 125727,
           "pct_held": 0.0,
-          "value": 387742068
+          "value": 387490614
         },
         {
           "holder": "Williams Jones Wealth Management, LLC.",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 46260000
+          "value": 46230000
         }
       ]
     }
