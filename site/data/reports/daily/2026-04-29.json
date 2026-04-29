@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T09:57:17.717551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-04-29-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy's AI Bet and Record Orders Can't Halt the Profit-Takers - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ6ZHB0YXVtYTI0UkZRaXlvd1Ziby11TU9uTDNvYUdJUjFPVTJ3X19FNkhLd21pSnBIWV82aDdvV2l4TTh2aFdqOExQLVhtdFgweWZoajBxTDBIMmZiSE1vU1JzVG1qaHFOTE04MWVvNnVmMlg4YmdBMElocmRpMDBCQ2JxZzFSbUMtaGhyMmIzRlRvVl81bHRMVGxNakwzLWg1YldrRWdKcWw1c09tejJZSXJGSW9LNVFpOUFWNmtqTmZya3RESg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Stock Jumps After Bold Broker Upgrade - TipRanks",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUZEZ19OS2U2bVdRQlBySUk2REluLWVYYTVrVExPM2ZTd2p0eUVOTEoxeHUwLTZDckFidXFfRGx4TjVNdzBQTFp2Zll3c0ZTMzQ3S0s2dGw3N2xDMGt6OWdRa3B3WER5VWo5WGs5aTMycDQ1UFJwakxhZ3ZvY296dFU1V3J0U2d6dTBNa0p5cw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hot Plays for Tomorrow's Power Supply: Are Siemens Energy, Nordex, and Standard Uranium About to Take Off? - news.financial",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT29OVXJVYlRCLVc1cld4SDdGTzUzVzl1MGctSkp2cEgwaHZLWVRIZkU2cENHc3JCQ3JaOEtoNXFrNDlQTExoanY2SnZUS3VUYjEtQTJNNElIb19tcVVSTkowZTVnQnl0cmotNllyV1hkNlE4dll4Qnl4V3pLU05TdkJaTW1hUGZPSVJWWllSTk1hV09kelAtWW5hdDVPaUY5bkhtTl9ZazRDUFRUVl8wUXB1eG1wQVhGX1YtWHV2SmRSVWU0cTZiY1dITXV2dlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-04-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Glovis deploys world's largest car carrier - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqV1k5MjJpMmgxbVIxYnk1MzBEVEw1TVk4bTNlYmxYa0ljVHFSQ1JXeTc1bVhmeEtDXzItLUI1VFBOSTZaajhYWi03Q3pwMWRTN1hhWU1faw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-04-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Files Patent for Hydrogen-Powered Scooter",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.hydrogenfuelnews.com/toyota-files-patent-for-hydrogen-powered-scooter/8575743/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 85,
+    "too_old": 90,
+    "gate1_blocked": 103,
+    "gate2_blocked": 64,
+    "passed": 28,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "22.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+      "Air Products expanding core industrial gas footprint - WFMZ.com",
+      "Air Products to Establish New Air Separation Unit in Florida to Strengthen Industrial Gas Supply - C",
+      "Air Products to build new air separation unit in Florida - BIC Magazine",
+      "Air Products to Build, Own and Operate New Air Separation Unit in Florida - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為西門子能源、ITM Power、現代汽車相關動態：「Siemens Energy's AI Bet and Record Orders Can't Halt the ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy's AI Bet and Record Orders Can't Halt the Profit-Takers - AD H...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power Stock Jumps After Bold Broker Upgrade - TipRanks",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
