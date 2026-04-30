@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-30",
+  "date_range": {
+    "start": "2026-04-24",
+    "end": "2026-04-30"
+  },
+  "generated_at": "2026-04-30T09:58:15.026941Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "siemens_energy-2026-04-24-031",
+      "date": "2026-04-24",
+      "title": "How Siemens Energy, A.H.T. Syngas, and Plug Power Are Capitalizing on the Iran Crisis—and How You Can Profit From It - news.financial",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "siemens_energy": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ballard": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "air_products": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 173,
+        "last": 114,
+        "change_pct": 51.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-24",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 38,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 31,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-24 ~ 2026-04-30）共 173 則事件，重點為「How Siemens Energy, A.H.T. Syngas, and Plug Pow...」。事件量較上週增加 52%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

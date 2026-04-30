@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 99,
+  "gate2_fail": 53,
+  "passed": 33,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+    "Air Products expanding core industrial gas footprint - WFMZ.com",
+    "Air Products to build new air separation unit in Florida - BIC Magazine",
+    "Air Products to Establish New Air Separation Unit in Florida to Strengthen Industrial Gas Supply - C",
+    "RBC Maintains an Outperform Rating on Air Products and Chemicals (APD) - Yahoo Finance"
+  ]
+}

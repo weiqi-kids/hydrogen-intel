@@ -1,80 +1,80 @@
 {
   "air_liquide": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-29",
-    "count": 1520
+    "earliest": "2020-02-26",
+    "latest": "2026-04-30",
+    "count": 1582
   },
   "linde": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "air_products": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "nel": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-29",
-    "count": 1491
+    "earliest": "2020-02-26",
+    "latest": "2026-04-30",
+    "count": 1551
   },
   "itm_power": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-29",
-    "count": 1498
+    "earliest": "2020-02-26",
+    "latest": "2026-04-30",
+    "count": 1559
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
-    "latest": "2026-04-29",
-    "count": 1421,
+    "latest": "2026-04-30",
+    "count": 1422,
     "history_complete": true
   },
   "thyssenkrupp_nucera": {
     "earliest": "2023-07-07",
-    "latest": "2026-04-29",
-    "count": 713,
+    "latest": "2026-04-30",
+    "count": 714,
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "bloom_energy": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "ballard": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "fuelcell": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "cummins": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "chart": {
-    "earliest": "2020-05-26",
-    "latest": "2026-04-28",
-    "count": 1489
+    "earliest": "2020-02-26",
+    "latest": "2026-04-29",
+    "count": 1552
   },
   "hyundai": {
-    "earliest": "2020-05-27",
-    "latest": "2026-04-29",
-    "count": 1452
+    "earliest": "2020-02-27",
+    "latest": "2026-04-30",
+    "count": 1513
   },
   "toyota": {
-    "earliest": "2020-05-28",
-    "latest": "2026-04-28",
-    "count": 1448
+    "earliest": "2020-02-28",
+    "latest": "2026-04-30",
+    "count": 1508
   },
   "nikola": {
     "earliest": "2026-03-02",

@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T09:58:14.959930Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-04-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products to support Samsung chip expansion in South Korea - gasworld",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVBCRzBEa01EdVM2Sng4RXhzQkVGa3dqM1V1LWR0SmJSZ1NwNXpXWUFZNlItYzRjOVgyck5WcFdIdHI3Ym5LcWVXWlFmNEkxcnlBQ0VsRUZpM1NpbFY2LUNpSEgxOFMtLWw5T3Uya00wNW5lMlpPSU9lb2xYQm9WdlJzUE5CbGcwQnFFTFJ2V0VYMmRmaHRvYjFJTjV0TFNubFFlckFKcUNhNzdaYWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-04-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products Expands Electronics Role With Samsung South Korea Semiconductor Deal - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSWhPZjAwZEx2MDNtbnRrTHR0YTV6NzlwVzQ4ZTFHRzJQelNIeTIzU19BY2lkZG9FekpqU2xJa3o3YnBXbnNydVQ2cUpucV9qWnQta2NEdGxaTmFMd19aT3U4QWV0MUl2S2hiTUM2enJEc1U5d0pDRmU5M042cGJ0ZVNyYzJpYTl0aVI1MFBPTmhFeWxBMjhocDEtbkNxUlZDNTkzQmdGZU55LWhMMGZnYTNleVRCaFNQdjdZYll4ckhiTXJJUGk0UFRjRy00V0t2bVJNcjF0aGRsaEXSAeABQVVfeXFMTm5kWDRfMnlYSVJHZ0RfV0RhT3pyQldHS1NHZWhZLWctNFVDT1JfQkk2U2szY3ZjREt1VlZlZ2l6dEtCSGFnYUhVendUOF9TaTVoTFh5a19zYkpnZzZuUXczYVpySm9BMXlWM1B0VndzY0V0MDVKN25JclhOLURaY21rcjdQRFFMRm9jd3Q5Tl9vb2NKNHNnWWFaaVBVQXNwUGtNOUpUcWs4YlRHSWJvVDc2NGhacF9fNjdoM0JBUUg0XzJzVXZGdlJyc2xFSWVVRVNJUTQ0Zk5YQ1lMbE4xY2I?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-04-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley Sees ITM Power Hitting Profitability a Year Ahead of Schedule - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVNyR2FlZkg4SjFkQVlYR1I4NnlLQTZreUtjZUl0a04tWDdsMnBfUnRnWmFiRGlWN3Z6RmMxQzBsM29KeWFBNFRyUTI0VzZkdXl5Z01FTTlXWDBuM0dCOG1pa1lHRUdXQmlpN2dIN0ZrZkVJRXp3NExWSnlHZldvVUhiVUhJejVyanR2cFJfX1IwaFVuV1BId2VkQUxuNVdNUVdxb2tlTHZ5eXd1SndVcXFfbTlfRWo5YVRLZGc1eWFxZnlw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Redefines In-Vehicle Experience with 'Pleos Connect' Next-Generation Infotainment System - PR Newswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOFV3ZHhRMV9RLXNtZ3dMa2tydERoVi1SdGZIa01HelNYSnNwdkhlMW5yOTVieU5TVzJlS29tdjVzSjZKRmVjOUV3aFc0UmtFNXFGbHRSeE9MbUFOYkZjVjR4b0RQZ0lBMGozNnpDNmtYWXVfOUIwYlp6OHcwYUZGMElxMk0waFgxUlBQbkttQXp5WTN0WVdrYlBReG1Ld05rOWNGZmZ4UHY3M0RWWTdGTU9RN2daNkRQbjhiaWtQUzhBSDF0cEI0dFZKYjdfQXhZRFJvN3I3a2ZZR3ZKMzBFeHN0Zkkxd3h4Q0o1a3VseHZJMWJp?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-04-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai, Georgia Tech sign MoU to expand transportation collaboration - Quantum Commodity Intelligence",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUFjbFRxeXFQcnZjVXJRRkt5d2kxdno2Z0FNZkRVV1ZyODZEOWI3a0ZBSFM5NUJxLVJXd1l2andOV19LTlQ3Qkl6X0pVSGVBNU8zY09aRG90bG1BZHdwR3RRTnNuTDZqWmI2X00tOWpoMDIyakYyYkVqQm9lbkhiaVI0bWZublZaQzNQamI4WXFkMmtWS3didkhZbXdObFZEdlFreURTUXNXb3NoTU9CS05mMW40S2N0VHlYVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 94,
+    "too_old": 91,
+    "gate1_blocked": 99,
+    "gate2_blocked": 53,
+    "passed": 33,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "19.2%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+      "Air Products expanding core industrial gas footprint - WFMZ.com",
+      "Air Products to build new air separation unit in Florida - BIC Magazine",
+      "Air Products to Establish New Air Separation Unit in Florida to Strengthen Industrial Gas Supply - C",
+      "RBC Maintains an Outperform Rating on Air Products and Chemicals (APD) - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為現代汽車、Air Products、ITM Power相關動態：「Air Products to support Samsung chip expansion in South K...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Air Products to support Samsung chip expansion in South Korea - gasworld",
+        "level": "green"
+      },
+      {
+        "text": "Air Products Expands Electronics Role With Samsung South Korea Semiconductor ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
