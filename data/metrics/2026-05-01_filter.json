@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 78,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 99,
+  "gate2_fail": 56,
+  "passed": 39,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+    "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+    "Air Products to supply industial gas for Samsung’s fab - Evertiq",
+    "Air Products Reports Fiscal 2026 Second Quarter Results - PR Newswire",
+    "We Expect More Disciplined Capital Allocation From Air Products' New Management - Morningstar"
+  ]
+}
