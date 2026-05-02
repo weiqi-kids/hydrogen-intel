@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:58:38.437933Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank A S Boosts Stock Position in Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2c0QVNiT091ZkFwVU12eUxWYzJlbmJmdUtxbUxyQjdlS3VfVzdXQnFyQk5MZkN5NTM3Z2NoQlI1WHN2NTVoRkwxN2pQbjhJYkQ0cE5SZFpDRERVc1o5eWVoN0Z4VHRqTGVoVG1EeGVmWGtQS3N3emlxVHN0bDU4OE1vbW02b1VoNVNBWVBzNXdGaUpfVUxTalVJc3ZWS25BSEkxM2pUSFVDSUNHT3JQZG1xTnVKVWJ3MjFDOEtqYU5uS2lyQWp2Qk02aEtYM1Npa3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Chairman’s €225,000 Share Buy Sends Signal Ahead of Make-or-Break Product Launch - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSEh0Ql8yT0RjQTJ6eEd3VFplX0xvWVNLZ1VrMTQ3RUtqRFExNHdUekhLbXVJNDc4M3F3N2lIUGt6cmgwYXpTVTIzQUM1d0V2VWt2OE93OGpMWHNTVzlkSGwweUlPNHZ5OC1MMmNkWHdrQ3FqdTczeTZiYXU3TjQyTmFuWUgzcVBuS0dZTEwwRVE4aktNVjRtTllQSXcwS2Jici1zUzIzd0tyVmdNQWJ2NUQzY254d0Mw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A £1 Billion Hydrogen Bet Hangs in the Balance as ITM Power Faces a Defining June - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGFnMm50Rk9vbVVGY0lzV3lrNWpvN0NPLXRqQjVkazVKeV9laGJDdll6NEpTUElhdFJVS3BLRTNEOVJ0QVVhSEZwMGxoRWgyYURIYU5DakVlNmtveFVJZG5WelQ5VVJ4c3RBUllHQ2xUS0xGVkRWVTRrckF5aGNtSzl3aWRkNzI2TUx2RHJLMkZuSDlYV1lpeDJNZnMzM2pZNmdCcUFQN0JJOEZzbmRxbTRoRXF3TnFURTgzMWVOS0FSLWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor, Kia Offset U.S. Sales Dip With Hybrid Surge - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTVQOEc5aFBJUDBfTDZOUDFTcDFrNnpYdzh3MDBvRGVtY0lhUWIyR2hjWHJvaGJKbi1Ydjh3bThYYm4tSjBtcHlKSDVDcFBYd3BiQ0lpdUxUTmVXT1lKZ2hGZm10UENidXM0LU51d09YWmFrN0ZTRXp2NXpPaW9yYmJuM04za19v?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 90,
+    "too_old": 97,
+    "gate1_blocked": 109,
+    "gate2_blocked": 44,
+    "passed": 29,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+      "Air Products raised at BMO, citing strong environment and execution - MSN",
+      "Air Products expanding core industrial gas footprint - WFMZ.com",
+      "Air Products to build new air separation unit in Florida - BIC Magazine",
+      "Air Products to supply industrial gas for Samsung’s Korea fab - Evertiq"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Air Products、Nel ASA、ITM Power相關動態：「Danske Bank A S Boosts Stock Position in Air Products and...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Danske Bank A S Boosts Stock Position in Air Products and Chemicals, Inc. $AP...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: Chairman’s €225,000 Share Buy Sends Signal Ahead of Make-or-Break Pr...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

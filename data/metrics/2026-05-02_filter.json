@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 109,
+  "gate2_fail": 44,
+  "passed": 29,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+    "Air Products raised at BMO, citing strong environment and execution - MSN",
+    "Air Products expanding core industrial gas footprint - WFMZ.com",
+    "Air Products to build new air separation unit in Florida - BIC Magazine",
+    "Air Products to supply industrial gas for Samsung’s Korea fab - Evertiq"
+  ]
+}

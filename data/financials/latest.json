@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:26:00.178093Z",
+  "updated_at": "2026-05-02T08:58:34.757168Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -21,14 +21,14 @@
       "name": "Air Products",
       "ticker": "APD",
       "currency": "USD",
-      "ar": 1264200000,
-      "ar_prev": 1307100000,
-      "ar_qoq": "-3%",
-      "inventory": 788100000,
-      "inv_prev": 776500000,
-      "inv_qoq": "+1%",
+      "ar": 1246700000,
+      "ar_prev": 1264200000,
+      "ar_qoq": "-1%",
+      "inventory": 767900000,
+      "inv_prev": 788100000,
+      "inv_qoq": "-3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ballard",
