@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:13:57.993636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Faces a Defining Moment: New Technology Launch Meets a Dwindling Order Book - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmtaM1NMazhDQ0lwUjFiTGQxaFEtekh4Wjh4YlcyRTJCZHZGZ0pKUnE0aGtuS3k3TUNWc1ZIUC1Mb1VmSUwwSm91emJMVTlnNG1lTXZUZlBGalNXaHdqaTB0bXZjelVTVXNrb0RHZHNHbW4wTnRESGhya0loakh4NkRQS1p0XzFHS0dCWXJwT21kZ3VZdmpQU0ctT1NweHVqTUg5SVBycmVSOWlDdXU1VWstSmg1bmhIVE9yZExuUEJkNDBfYnRJWmlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Unveils Ioniq Brand in China at Auto Show, Pledges New EVs - IndexBox",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObUt2Qk5XYUdnc2JKNXQtcnQ1b2lGRW5hTUJPTlczMXVNdTFOb2g2STJXT3dnTHNhNXVRbnVUd2hKX05mUVQ2NE92d3IxdldjcHhVS0stV29VNTJyMzlfQWhudWtTMm1Ec05jd1V2R1Jsa0Ytcmk4bm5TTklrUXhNTUJHV0puOHRDZjZyZnllZ2w5aDlJbDdwaHBOYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors Are Reacting To Toyota (TSE:7203) Expanding India Plants And Fuel-Cell Truck Partnership - simplywall.st",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWjA3WWxUOEl5RU9oODVUYWRPMVdTTGtpMmZCVEI2cGRTYjZHRkxreThlNGtBWEQ5dF9KVGVTVFJsTlZPR3dnWXkxOXRtSFFTOUxkSU9oTnhmRHRUS0ZTUnl1bzhQZ2xfVHZYVXVJSHRxT3dqbHZGT25UdGZVNTJaS3hNVTZObEN5WjRQS0YyR2VweDgzWUhLSVdKcjNvYVhQVDV5eUNOcHpFdEUzbnZnb1dySXV0aUctVExENS1qOEV4RXhlSzFsZTN5b3R4Um5jbnE5TdIB2gFBVV95cUxNU2pTT2hjMWlJdE0tMTktbDRuRWJSVWs4czVwbGtDRnNkVE9zWFIxd3pjcmZtWGRObm9QQ1QzUnNHUVFwSllMVkcza2kyYUNsS3JKY3FjSXpHX1p5d2tWWmVnRVZkMlMzNVlzZUZTWV80VnpNLVNPTGF1TVViYnlIeGVJUjJUMmRpVTNCS1A2bFoyQjRsYkZVNGlHbFc1VThON2pvSWh4SGlxYzJFbWtUTHhUYTI5R0NoRjlia0V4WkxVRTRyT2ZSQ0dSTTl6SHJUNk8wWkhpV2M4Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 102,
+    "too_old": 100,
+    "gate1_blocked": 110,
+    "gate2_blocked": 46,
+    "passed": 11,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "17.2%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Is its industrial gases dominance strong enough to unlock new upside",
+      "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+      "Air Products Reports Fiscal 2026 Second Quarter Results - PR Newswire",
+      "Air Products Deepens Samsung Ties With Pyeongtaek Semiconductor Gas Megaproject - Yahoo Finance",
+      "Air Products to supply industrial gas for Samsung’s Korea fab - Evertiq"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nel ASA、現代汽車、豐田相關動態：「Nel ASA Faces a Defining Moment: New Technology Launch Me...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA Faces a Defining Moment: New Technology Launch Meets a Dwindling Orde...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Unveils Ioniq Brand in China at Auto Show, Pledges New EVs - IndexBox",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
