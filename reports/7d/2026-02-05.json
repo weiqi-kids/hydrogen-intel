@@ -1,0 +1,85 @@
+{
+  "date": "2026-02-05",
+  "date_range": {
+    "start": "2026-01-30",
+    "end": "2026-02-05"
+  },
+  "generated_at": "2026-05-03T02:40:17.193632Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-02-01-013",
+      "date": "2026-02-01",
+      "title": "Optimizing the operation of fuel cell vehicle-to-grid systems using supervised learning - Frontiers",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "fuel_cell_vehicle": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nikola": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 8,
+        "change_pct": -50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

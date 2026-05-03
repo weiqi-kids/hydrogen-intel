@@ -1,0 +1,85 @@
+{
+  "date": "2025-10-15",
+  "date_range": {
+    "start": "2025-10-09",
+    "end": "2025-10-15"
+  },
+  "generated_at": "2026-05-03T02:40:13.078402Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nel-2025-10-14-002",
+      "date": "2025-10-14",
+      "title": "Nel ASA Q2 2025 presentation: revenue plunges 48% as hydrogen projects stall - Investing.com",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "nel": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 2,
+        "change_pct": 50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-09",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

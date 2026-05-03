@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-05-03T02:40:21.446872Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-04-09-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Secures £86.5M Investment to Scale Electrolyzer - Fuel Cells Works",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-04-09-047",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysts Offer Predictions for Toyota Motor FY2026 Earnings - MarketBeat",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-09-019",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Fuel Cell Vehicle Market Is Growing – Fast - CarbonCredits.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  }
+}

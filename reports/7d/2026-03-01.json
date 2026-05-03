@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-01",
+  "date_range": {
+    "start": "2026-02-23",
+    "end": "2026-03-01"
+  },
+  "generated_at": "2026-05-03T02:40:19.124141Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "plug_power-2026-02-25-028",
+      "date": "2026-02-25",
+      "title": "Electrolyzers Global Market Forecasts 2025-2031 with Thyssenkrupp Nucera, Siemens Energy, Nel, Cummins, Plug Power, LONGi, Asahi Kasei Dominating - Yahoo Finance",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "siemens_energy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cummins": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "chart": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 10,
+        "last": 1,
+        "change_pct": 900.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-27",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

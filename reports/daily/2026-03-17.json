@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-05-03T02:40:19.463505Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp_nucera-2026-03-17-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp Nucera trims full-year outlook citing costs related to green hydrogen segment - Reuters",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-17-029",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp Leads 260 MW Green Hydrogen Project in India - Fuel Cells Works",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp_nucera-2026-03-17-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp Nucera tapped to design billion-dollar green hydrogen and ammonia project in India - Hydrogen Insight",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      }
+    ]
+  }
+}

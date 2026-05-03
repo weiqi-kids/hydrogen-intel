@@ -1,0 +1,86 @@
+{
+  "date": "2026-01-08",
+  "date_range": {
+    "start": "2026-01-02",
+    "end": "2026-01-08"
+  },
+  "generated_at": "2026-05-03T02:40:15.428927Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-01-08-023",
+      "date": "2026-01-08",
+      "title": "The breakthrough that finally makes green hydrogen cost-competitive - Oil & Gas 360",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 1,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-05",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

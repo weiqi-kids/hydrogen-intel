@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-13",
+  "total_events": 2,
+  "by_company": {
+    "mcphy": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

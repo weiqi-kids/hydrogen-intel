@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-18",
+  "date_range": {
+    "start": "2026-03-12",
+    "end": "2026-03-18"
+  },
+  "generated_at": "2026-05-03T02:40:19.766470Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "thyssenkrupp_nucera-2026-03-18-007",
+      "date": "2026-03-18",
+      "title": "Thyssenkrupp Nucera widens op loss guidance in green hydrogen unit - Renewables Now",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "thyssenkrupp_nucera": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 8,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

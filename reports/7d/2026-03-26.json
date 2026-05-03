@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-26",
+  "date_range": {
+    "start": "2026-03-20",
+    "end": "2026-03-26"
+  },
+  "generated_at": "2026-05-03T02:40:20.199851Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "air_products-2026-03-23-001",
+      "date": "2026-03-23",
+      "title": "Air Products JPMorgan Conference: $450 Target Price Driven by Green Hydrogen Pivot - TIKR.com",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 8,
+        "change_pct": -62.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

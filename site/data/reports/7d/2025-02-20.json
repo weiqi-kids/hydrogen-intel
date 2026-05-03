@@ -1,0 +1,73 @@
+{
+  "date": "2025-02-20",
+  "date_range": {
+    "start": "2025-02-14",
+    "end": "2025-02-20"
+  },
+  "generated_at": "2026-05-03T02:40:10.278194Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mcphy-2025-02-20-034",
+      "date": "2025-02-20",
+      "title": "McPhy Reports 2024 Annual Revenue of €13.1 Million and Provides a Business Update - Fuel Cells Works",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "mcphy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-02-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

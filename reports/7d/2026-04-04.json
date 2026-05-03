@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-04",
+  "date_range": {
+    "start": "2026-03-29",
+    "end": "2026-04-04"
+  },
+  "generated_at": "2026-05-03T02:40:20.871351Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "plug_power-2026-04-02-003",
+      "date": "2026-04-02",
+      "title": "Plug Power Awarded 275 MW Electrolyzer Contract for Hy2gen's Courant Project - Fuel Cells Works",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 3,
+        "change_pct": 66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

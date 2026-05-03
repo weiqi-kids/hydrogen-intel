@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-25",
+  "total_events": 3,
+  "by_company": {
+    "thyssenkrupp_nucera": {
+      "count": 3,
+      "sentiment_avg": -0.67
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

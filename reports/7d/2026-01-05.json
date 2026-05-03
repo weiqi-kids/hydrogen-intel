@@ -1,0 +1,86 @@
+{
+  "date": "2026-01-05",
+  "date_range": {
+    "start": "2025-12-30",
+    "end": "2026-01-05"
+  },
+  "generated_at": "2026-05-03T02:40:15.214237Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-01-01-021",
+      "date": "2026-01-01",
+      "title": "New solar co-electrolysis route cuts green hydrogen cost below fossil hydrogen - EurekAlert!",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-05",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

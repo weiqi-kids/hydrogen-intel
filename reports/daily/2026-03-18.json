@@ -1,0 +1,143 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-05-03T02:40:19.675033Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp_nucera-2026-03-18-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera widens op loss guidance in green hydrogen unit - Renewables Now",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp_nucera-2026-03-18-019",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp nucera Supplies Electrolyzers for Moeve to Build Southern Europe’s Largest Green Hydrogen Project - Moeve Global",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp_nucera-2026-03-18-022",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp nucera Secures FEED Deal for 260 MW Green Hydrogen Project in India - ChemAnalyst",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp_nucera-2026-03-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp nucera: FY 2025/26 guidance updated: higher order intake, lower sales and EBIT, driven by project costs - TradingView — Track All Markets",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  }
+}

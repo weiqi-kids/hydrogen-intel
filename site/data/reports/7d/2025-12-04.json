@@ -1,0 +1,80 @@
+{
+  "date": "2025-12-04",
+  "date_range": {
+    "start": "2025-11-28",
+    "end": "2025-12-04"
+  },
+  "generated_at": "2026-05-03T02:40:14.349363Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "plug_power-2025-12-04-016",
+      "date": "2025-12-04",
+      "title": "Plug Power Signs LOI with Hy2gen for 5MW PEM Electrolyzer in France - Fuel Cells Works",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 4,
+        "change_pct": -75.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

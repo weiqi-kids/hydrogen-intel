@@ -1,0 +1,120 @@
+{
+  "date": "2025-10-29",
+  "generated_at": "2026-05-03T02:40:13.192783Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2025-10-29-024",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US scientists cut 47% green hydrogen production cost using wastewater - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "chart-2025-10-29-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chart Industries (GTLS) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nikola-2025-10-29-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hydrogen Truck Company Expands Zero-Emission Fleet with Nikola Acquisition - Thomasnet",
+      "companies": [
+        "nikola"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "chart",
+        "count": 1
+      },
+      {
+        "id": "nikola",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  }
+}

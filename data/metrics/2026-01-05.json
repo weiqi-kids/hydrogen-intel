@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-05",
+  "total_events": 2,
+  "by_company": {
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

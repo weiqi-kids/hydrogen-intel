@@ -1,0 +1,142 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-05-03T02:40:18.365720Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "plug_power-2026-02-25-028",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Electrolyzers Global Market Forecasts 2025-2031 with Thyssenkrupp Nucera, Siemens Energy, Nel, Cummins, Plug Power, LONGi, Asahi Kasei Dominating - Yahoo Finance",
+      "companies": [
+        "plug_power",
+        "thyssenkrupp_nucera",
+        "siemens_energy",
+        "nel",
+        "cummins"
+      ],
+      "related": {
+        "customers": [
+          "plug_power"
+        ],
+        "suppliers": [
+          "nel"
+        ]
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-02-25-025",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ANALYSIS | How to cut green hydrogen production costs, according to the World Bank - Hydrogen Insight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-02-25-022",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Industry Research and Global Forecast Report 2025-2032: Market to Grow at a CAGR of 60%, Driven by Emergence of Hubs & Industrial Clusters, and Grid Balancing & Energy Storage - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "plug_power",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "cummins",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  }
+}

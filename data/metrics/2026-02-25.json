@@ -1,0 +1,41 @@
+{
+  "date": "2026-02-25",
+  "total_events": 3,
+  "by_company": {
+    "plug_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cummins": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

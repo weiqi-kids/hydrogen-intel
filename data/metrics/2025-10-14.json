@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-14",
+  "total_events": 1,
+  "by_company": {
+    "nel": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

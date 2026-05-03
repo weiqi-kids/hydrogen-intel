@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-12",
+  "generated_at": "2026-05-03T02:40:22.118742Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-04-12-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Technological Pivot Hinges on Forthcoming Revenue Report - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-04-12-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Shareholder Backing Meets a Crucial Revenue Deadline - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-04-12-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Liquidity Lifeline Faces Revenue Reality Check - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 3
+      }
+    ],
+    "top_topics": []
+  }
+}

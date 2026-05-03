@@ -1,0 +1,73 @@
+{
+  "date": "2025-01-13",
+  "date_range": {
+    "start": "2025-01-07",
+    "end": "2025-01-13"
+  },
+  "generated_at": "2026-05-03T02:40:10.069460Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mcphy-2025-01-13-033",
+      "date": "2025-01-13",
+      "title": "McPhy Energy Lowers 2024 Revenue Guidance to €11M - Fuel Cells Works",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "mcphy": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-01-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-08",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-09",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-01-13",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

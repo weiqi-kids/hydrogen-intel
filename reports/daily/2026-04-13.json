@@ -1,0 +1,183 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T02:40:22.333564Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Powers Amber Grid’s €3.3B Energy Independence Strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hydrogen Fuel Cells Training System Strengthens South Africa’s Green Hydrogen Skills",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-13-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nobian Secures RFNBO Certification for Green Hydrogen Production at Frankfurt Site",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "plug_power-2026-04-13-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Production Ramps Up with Plug Power’s 275 MW Electrolyzers for Courant Project",
+      "companies": [
+        "plug_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-13-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Market: Global Industry Analysis, Trends, Growth, and Forecast - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "plug_power",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "nikola",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 6
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  }
+}

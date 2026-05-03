@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-11",
+  "total_events": 1,
+  "by_company": {
+    "air_products": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

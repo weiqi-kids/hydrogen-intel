@@ -1,0 +1,16 @@
+{
+  "date": "2025-07-10",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

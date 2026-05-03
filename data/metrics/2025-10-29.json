@@ -1,0 +1,29 @@
+{
+  "date": "2025-10-29",
+  "total_events": 3,
+  "by_company": {
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nikola": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2025-11-24",
+  "generated_at": "2026-05-03T02:40:13.838945Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp_nucera-2025-11-24-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "thyssenkrupp nucera Returns to Profit in 2024/2025 Despite Decline in Sales - Yahoo Finance",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

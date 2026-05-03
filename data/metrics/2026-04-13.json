@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-13",
+  "total_events": 9,
+  "by_company": {
+    "plug_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "air_products": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nikola": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
