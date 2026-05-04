@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 111,
+  "gate2_fail": 49,
+  "passed": 12,
+  "gate2_samples": [
+    "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+    "Air Products supports Andy's Fishing Rodeo for Kids in Hammond - an17.com",
+    "Air Products Deepens Samsung Ties With Pyeongtaek Semiconductor Gas Megaproject - Yahoo Finance",
+    "Air Products raised at BMO, citing strong environment and execution - MSN",
+    "Air Products Raises Outlook Despite Helium Pricing Headwind - Benzinga"
+  ]
+}

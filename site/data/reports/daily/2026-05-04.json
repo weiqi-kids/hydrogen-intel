@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:06:58.309958Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-05-04-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global sales of Hyundai Motor down in April amid production decline - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YdU5xSW1YY1I0U0NPbUpHYVlHQ3c1a3pVU2RMTWZrVWtVYUpCM1gwYk5JUU1CWktUbWN5em5RZ0xwNUFwZnd5bVFLZEUxZURkbEtka2VyeUlLdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-04-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai, Kia's US sales drop on base effect, hybrid cars hit record high - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUVpWjRhX3hQZFNVMjg1TjhOYUNZZHQzclRvNndRS21iV3RjTlBsNnh3ajVWcGREVy1RWDRrWGdrak9JTXFxM2RCZGhxOUdZNk1xOENmS2RQUjM3SWFIbzN0b1RSZGc5NEhYYW5LeVNaNE5jcmZzUHhtY0lHYXFmOWk1M1VEZHZTXzFUR21JTzZPU3ZQempVZm02cGU2bGdvcTYtWGRwVmZzcWRUQWEyZWloSmsxUVBmVS1sVl9scXZFTHJm0gHKAUFVX3lxTFBYVFUxUEtwejZIZDQwbmFQSVpwa0tCSFZhUnZvZVJsaEZRMEdrSlJDd1dzbTRmTGNjVWFZbWpVMWxKREJNcDF2b2ZCcU1wRHJXN21YYU4xbzFJV0UybWZsZDNKQm16MWhFOVZDN2JqNTFVZ0o4aDY1cWJsQ1pFdTRXeUZXem1GWmw3Y0otYTFjOHdPZzc1M2dtUWtsSHF3UnZBNEM2dGJwX19aQUt4N0ZVQmRDLTMxNnpTcUJfcHoyVlQwWk5wbVdqOUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-05-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "40% CORRECTION for Siemens Energy? Buy recommendation for BYD and an opportunity with dividend gem RE Royalties! - news.financial",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEdiNE5kdGNhREg2Q3NxcEZRRTdJdlBmZC1wMHF0NUIzNk9VZDM3VUNFbHhKTjBfWWFCSFN0N2JXZ3J6bnRmQnB5anZnaGI1WTJQZVF0LU94S3R4dGozT2g0bTJwU2NZSlhveTMwOFMwQ21nS1YtRU5BMUtBTkowTTJ6Q3AwbFY5cVRrMEM3WXpRU0o5WXVyMlJXNERUTUtYY1ZNbFg2Y0VrVjBsVEEydUkxYnBDVjFKU3ktTHVEYUVPejY5dzh5ZXU2ZUlBUHdnbEpiVVloR2g?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-05-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy’s €146 Billion Order Book Can’t Shield It From a May 12 Reckoning - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVlET3NiY0RSVnV0aUNrWEdXbkVydzV4OXJZOXR5dGpRSjl1Y1AzMzYzNEFVSDZaSHR2cG9IbnVBc1ItNWs4QnM4LWNFR0ZJdk1uYWZOZF9VUW03QmhUZHdBZmdOeXQtWXU1THJLbnFMSGFyN0l4OFl0VnU0UndNdjR6eEgtVVZxczJDMmNpenRaU3p5QmtONXpXOUlVeHFzOXVaa1ZsRjk2UzVxWk1sRVpMUlU4TE1icV9oRjU1dTBkZm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-05-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Company (HYMLF) Presents at Non-Deal Roadshow-Europe - Slideshow - Seeking Alpha",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkhBdVlKNlZfZGZHbG9iNEN2QVZoZUh0Q1M1MW1PNXJGeElMQXAwWG41eGxPVFk1QlJhbzV5V3N1YnpQTXBZNlppbHlKVVVuYjVJd2lmSkdoenQwa1hjQ1JPTU5sd25FR012RXk4akxMbEd3T1I2Nmc5NXUtTFdRYVJicll2Uko3V1MyX1JWdjdvbFdoNzdBNUszOGJiSTlUX2hCN0xRTEEzWHhxb0UyNGtCRUtHZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 92,
+    "too_old": 105,
+    "gate1_blocked": 111,
+    "gate2_blocked": 49,
+    "passed": 12,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "17.7%",
+    "gate2_samples": [
+      "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+      "Air Products supports Andy's Fishing Rodeo for Kids in Hammond - an17.com",
+      "Air Products Deepens Samsung Ties With Pyeongtaek Semiconductor Gas Megaproject - Yahoo Finance",
+      "Air Products raised at BMO, citing strong environment and execution - MSN",
+      "Air Products Raises Outlook Despite Helium Pricing Headwind - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為現代汽車、西門子能源相關動態：「Global sales of Hyundai Motor down in April amid producti...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Global sales of Hyundai Motor down in April amid production decline - Yonhap ...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai, Kia's US sales drop on base effect, hybrid cars hit record high - Th...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
