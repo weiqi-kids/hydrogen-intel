@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:52:16.129825Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-05-05-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "PEM Small Capacity Electrolyzer Market Forecast 2025-2035: USA, China & India Drive Growth Led by Air Products, Nel ASA & Siemens Energy | Future Market Insights - Yahoo Finance",
+      "companies": [
+        "air_products",
+        "nel",
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjg2U0ZseVNmelNKc21zME1qRzExV01jTlAtajhRcnF3b2NsbndIOGd3VURrUTI0b19JWXpPT1FTemtLNzFrTUNwX1RweC1ZeDZCUXp1eDhpMnFpN05QTTA3UzRuVmdsa0F4d09zN0k3b0RPb0JfT1A1b3lnZlJHRHRBaEJXWmtscUhGSjNRSEJ2cWF1V0ZaMURLaEhQSnBEZDgyLThB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-05-05-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "PEM Small Capacity Electrolyzer Market Forecast 2025-2035: USA, China & India Drive Growth Led by Air Products, Nel ASA & Siemens Energy | Future Market Insights - PR Newswire",
+      "companies": [
+        "air_products",
+        "nel",
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVkcxQmxoWDRJQS1JTS1HUEhkaWNZa25IZVBXLVlqQm5DQjlET1NSVVhLTFZUcEdBYUliWVBwdnpuVGdCN3lJTG1qSzZMSFg4WDJoYVUxZDRmbXppNUxBWDJJd1BQTkYzb2RVT0RJY1pla3NKc3o1UDM1MVRISWlPMGk0RFBUM1BoejFEeWtGeHhyTlJvbnJ4dUgyakN4T0tJOW14bjlfc3NKYzZLRHlOMDV2TXl4WDRwTWwta1N5VGpBR2c0YUxmdmpkdTl4bFFzcl95SHhiMlE2X3dVNm84aGQ4VlVEdy0wSV8wWHVNRXp2RUdwVWhZUC16cXFnbEp6MUJaX3BlamRYWFBEZEVuTDhNU09NMWNYWXg3bkQ3WFhzYnFXZEY2Q05CZDFKNzR3S3pHSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nikola-2026-05-05-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Toyota to operate 40 Nikola hydrogen trucks in California under Hyroad deal - gasworld",
+      "companies": [
+        "nikola",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmxmVkdrVTRHTUZ5VUtlQlpUdlNJdFIyd3J1WUFDYlhRS3hZLXRMTHdUQmZuX3JIUVVqek9YbExGWVRWTGZBaTVsSUFSa3hxalpUeXh1RExhaFpwQ1ZqY0c1N2puSFlyUHMxWUw2MC1TRHFPd3VmREtoTzE4Z1RRSnpJbzV5ZXV1U3Z0d21DQkJlSk1EV2hrSUJEZVBlRVdrOEIwNEU2S3U2Q1dkQ1FEUVp0UjBRSVJBb2NxTjhHVUM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-05-05-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy’s €6 Billion Buyback Accelerates as Grid Division Fuels Record Orders - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFlrMXo2TjJKb1VMUVBCNFNMQk44Rmc2N2RrQUtaYktiSU1pSDJpc2FhUENUN2N1cEd4YmgtUmxBRURZMEdCYUlOY1lleWlDMllkRWFhQWFHT0VBRWhPQkl4ai0xejg4WkJqOHdCLVdHbllnSDRwNExxZFNjQ0Nfdl9jd2RZRTkzdVh6cmRxdzNDbzZ4R3lZVmFkNkJkS1VSRm52ekZOeTctMGI0WXlLZG5jdjdpR0hocE9acG9rZnhqWFM5Q1B3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "air_products-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Top Air Products Executive Makes Significant Insider Stock Move - TipRanks",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUWFHNEVacGMwUW5iR25XT1VfdnNSVnV4cWk5bHJnR0dKVlZUZHc3LXRyMEFGSHNTQWdhQTZzTTZBZHNZZ1M1dFVlV1l1eDZsc2JrbWtZcjEwYUg5Y1d6cmtrY042eEFPWUZpbUhBdDdJOFo2V0hnampNVldGOVlvLVRmbGdva1J5Q2NNbXAxSmt6bnJBeFVpeGE0TC1Sb1JEdEZqVHU5dG1sVWNEamdORWtiOW9vYnNWLWplN1NLa3ZZVEQyWk85YjhB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "air_products",
+      "to": "nel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    },
+    {
+      "from": "air_products",
+      "to": "siemens_energy",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    },
+    {
+      "from": "nel",
+      "to": "siemens_energy",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 5
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "air_products",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "nikola",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 3
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 75,
+    "too_old": 100,
+    "gate1_blocked": 110,
+    "gate2_blocked": 43,
+    "passed": 40,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+      "Air Products Deepens Samsung Ties With Pyeongtaek Semiconductor Gas Megaproject - Yahoo Finance",
+      "Air Products supports Andy's Fishing Rodeo for Kids in Hammond - an17.com",
+      "Air Products raised at BMO, citing strong environment and execution - MSN",
+      "Air Products Reports Fiscal 2026 Second Quarter Results - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Nel ASA、西門子能源、Air Products相關動態：「PEM Small Capacity Electrolyzer Market Forecast 2025-2035...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "PEM Small Capacity Electrolyzer Market Forecast 2025-2035: USA, China & India...（電解槽產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "PEM Small Capacity Electrolyzer Market Forecast 2025-2035: USA, China & India...（電解槽產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

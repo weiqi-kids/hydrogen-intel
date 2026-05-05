@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-05",
+  "total_events": 13,
+  "by_company": {
+    "air_products": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "nel": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "siemens_energy": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "nikola": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "electrolyzer_capacity": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "air_products",
+      "to": "nel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    },
+    {
+      "from": "air_products",
+      "to": "siemens_energy",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    },
+    {
+      "from": "nel",
+      "to": "siemens_energy",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "electrolyzer_capacity"
+      ]
+    }
+  ]
+}
