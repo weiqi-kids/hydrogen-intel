@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 113,
+  "gate2_fail": 43,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
+    "Air Products’ Next Big Call: Darrow’s Price Tag And A Busy Pipeline - Finimize",
+    "Air Products Deepens Samsung Ties With Pyeongtaek Semiconductor Gas Megaproject - Yahoo Finance",
+    "Air Products raised at BMO, citing strong environment and execution - MSN",
+    "Air Products And Chemicals (APD) Margin Rebound To 17% TTM Tests Bullish Narratives - simplywall.st"
+  ]
+}
