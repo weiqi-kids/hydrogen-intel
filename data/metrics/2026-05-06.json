@@ -1,13 +1,17 @@
 {
   "date": "2026-05-06",
-  "total_events": 5,
+  "total_events": 8,
   "by_company": {
     "siemens_energy": {
       "count": 2,
       "sentiment_avg": 0.0
     },
     "hyundai": {
-      "count": 3,
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },

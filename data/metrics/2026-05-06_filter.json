@@ -1,11 +1,11 @@
 {
-  "total_raw": 370,
-  "dup_title": 83,
+  "total_raw": 740,
+  "dup_title": 188,
   "no_date": 0,
-  "too_old": 104,
-  "gate1_fail": 113,
-  "gate2_fail": 43,
-  "passed": 27,
+  "too_old": 205,
+  "gate1_fail": 226,
+  "gate2_fail": 88,
+  "passed": 33,
   "gate2_samples": [
     "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
     "Air Products’ Next Big Call: Darrow’s Price Tag And A Busy Pipeline - Finimize",

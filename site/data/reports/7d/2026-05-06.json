@@ -4,7 +4,7 @@
     "start": "2026-04-30",
     "end": "2026-05-06"
   },
-  "generated_at": "2026-05-06T06:02:47.469079Z",
+  "generated_at": "2026-05-06T10:08:41.511537Z",
   "highlights": [
     {
       "rank": 1,
@@ -55,13 +55,13 @@
       "rank": 6
     },
     "hyundai": {
-      "event_count": 17,
+      "event_count": 19,
       "sentiment_avg": 0.03,
       "rank": 1
     },
     "nel": {
-      "event_count": 9,
-      "sentiment_avg": 0.11,
+      "event_count": 10,
+      "sentiment_avg": 0.1,
       "rank": 3
     },
     "siemens_energy": {
@@ -88,9 +88,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 157,
-        "last": 219,
-        "change_pct": -28.3
+        "this": 162,
+        "last": 220,
+        "change_pct": -26.4
       }
     }
   },
@@ -117,7 +117,7 @@
     },
     {
       "date": "2026-05-04",
-      "event_count": 34,
+      "event_count": 36,
       "sentiment_avg": 0
     },
     {
@@ -127,12 +127,12 @@
     },
     {
       "date": "2026-05-06",
-      "event_count": 5,
+      "event_count": 8,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-30 ~ 2026-05-06）共 157 則事件，重點為「Toyota, Honda, Hyundai, Kia, Subaru, Mazda sale...」。西門子能源、豐田表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 162 則事件，重點為「Toyota, Honda, Hyundai, Kia, Subaru, Mazda sale...」。西門子能源、豐田表現正面，整體氣氛穩健。",
     "watchlist": [
       {
         "company": "Air Products",
@@ -140,11 +140,11 @@
       },
       {
         "company": "現代汽車",
-        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "Nel ASA",
-        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },

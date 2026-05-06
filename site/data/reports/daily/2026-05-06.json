@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:47.398771Z",
+  "generated_at": "2026-05-06T10:08:41.452869Z",
   "top_events": [
     {
       "rank": 1,
@@ -107,33 +107,37 @@
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 5,
+    "total_events": 8,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 5,
+      "neutral": 8,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "hyundai",
-        "count": 3
+        "count": 5
       },
       {
         "id": "siemens_energy",
         "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
       }
     ],
     "top_topics": []
   },
   "filter_audit": {
-    "total_raw": 370,
-    "dup_title": 83,
-    "too_old": 104,
-    "gate1_blocked": 113,
-    "gate2_blocked": 43,
-    "passed": 27,
-    "pass_rate": "9.4%",
-    "gate2_block_rate": "15.0%",
+    "total_raw": 740,
+    "dup_title": 188,
+    "too_old": 205,
+    "gate1_blocked": 226,
+    "gate2_blocked": 88,
+    "passed": 33,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "15.9%",
     "gate2_samples": [
       "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea | News Release - Air",
       "Air Products’ Next Big Call: Darrow’s Price Tag And A Busy Pipeline - Finimize",
@@ -144,7 +148,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 5 則事件，焦點為現代汽車、西門子能源相關動態：「Siemens Energy’s €155 Million Austrian Expansion Undersco...」。市場情緒中性，暫無明顯方向。",
+    "summary": "今日共 8 則事件，焦點為現代汽車、西門子能源、Nel ASA相關動態：「Siemens Energy’s €155 Million Austrian Expansion Undersco...」。市場情緒中性，暫無明顯方向。",
     "signals": [
       {
         "text": "Siemens Energy’s €155 Million Austrian Expansion Underscores a Business Split...",
