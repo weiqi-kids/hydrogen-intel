@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-07",
+  "total_events": 6,
+  "by_company": {
+    "nel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "plug_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itm_power": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

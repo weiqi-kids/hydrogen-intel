@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:08:38.164119Z",
+  "updated_at": "2026-05-07T10:14:14.423464Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "Ballard Power Systems",
       "ticker": "BLDP",
       "currency": "USD",
-      "ar": 20765000,
-      "ar_prev": 28075000,
-      "ar_qoq": "-26%",
-      "inventory": 43770000,
-      "inv_prev": 59871000,
-      "inv_qoq": "-27%",
+      "ar": 13229000,
+      "ar_prev": 20765000,
+      "ar_qoq": "-36%",
+      "inventory": 43798000,
+      "inv_prev": 43770000,
+      "inv_qoq": "+0%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "bloom_energy",
@@ -77,14 +77,14 @@
       "name": "康明斯",
       "ticker": "CMI",
       "currency": "USD",
-      "ar": 5818000000,
-      "ar_prev": 5640000000,
-      "ar_qoq": "+3%",
-      "inventory": 5822000000,
-      "inv_prev": 6256000000,
-      "inv_qoq": "-7%",
+      "ar": 6528000000,
+      "ar_prev": 5818000000,
+      "ar_qoq": "+12%",
+      "inventory": 6126000000,
+      "inv_prev": 5822000000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "fuelcell",

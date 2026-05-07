@@ -1,0 +1,16 @@
+{
+  "total_raw": 365,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 116,
+  "gate2_fail": 47,
+  "passed": 31,
+  "gate2_samples": [
+    "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+    "Air Products And Chemicals (APD) Margin Rebound To 17% TTM Tests Bullish Narratives - simplywall.st",
+    "Air Products raised at BMO, citing strong environment and execution - MSN",
+    "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance",
+    "Assessing Air Products and Chemicals (APD) Valuation After Recent Share Price Momentum - Yahoo Finan"
+  ]
+}
