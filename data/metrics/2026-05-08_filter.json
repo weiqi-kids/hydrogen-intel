@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 77,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 109,
+  "gate2_fail": 44,
+  "passed": 36,
+  "gate2_samples": [
+    "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+    "Air Products raised at BMO, citing strong environment and execution (APD:NYSE) - Seeking Alpha",
+    "Air Products And Chemicals (APD) Margin Rebound To 17% TTM Tests Bullish Narratives - simplywall.st",
+    "Air Products to supply industrial gas for Samsung’s Korea fab - Evertiq",
+    "Assessing Air Products and Chemicals (APD) Valuation After Recent Share Price Momentum - Yahoo Finan"
+  ]
+}

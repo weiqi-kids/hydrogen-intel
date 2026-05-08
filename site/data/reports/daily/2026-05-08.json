@@ -1,0 +1,204 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:04:41.644363Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bawany Air Products : Disclosure of Interest by a Director CEO, or Executive of a listed company and their Spouses and the Substantial Shareholders u/c 5.6.1.(d) of PSX Regulations - marketscreener.com",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdmt1bUFrMExvRGFQMzh5czgxMzJpckNybkFBaFBFUEVEak0zU0ROYk9iOUVDWDdKQ3FQdTJPeDI2YUlwVDNSYnFmM3VreTFvcjI2YlZjU3g0bl9XT004V2FIRHBhVFhZWi1oV2pqRzNpUU91LUc1ajVqR2hRU09fUXJZZXZfV3duMURhd1l6bkkwN21CbGtMajFwUjVGTlFRX0REbWE3UHNWZm1uTlZWVE0yZ2l3bG1XM1RYY3pJMGJQVnFjR0I1S0xhMEI0ZjNQSUlodTY5dnNUTUthbXVsRUVKd0g?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s New Electrolyser Aims to Halve Green Hydrogen Costs as Orders Dwindle - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMkNlWGVlOWdQLWVPektwa1k3bHJ3bVlFZU9EaVUyc1JFNXlLVUxMN1NKZk9oVDk5U3FJQUJCTDhyUGdHVnBmX0g2WnFCei1SXzRWa2UwZ0d5TjVmcWhfT3kyNVEwbDIxbWd3aVpnQllMU0ZpRWhyNi1XcTZoaGxBYi1TSTRSVW5kTlVSSmlTN3FGQ1cycWRmbFJDaTMyQ2NrM19DWkU4Q1dIU0lfSmJCVVBHX1Z6OG9RemR3b0tYTkhlemU4Zkp6TzRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[2026 WRC Round 5] Fourmaux Brings Hyundai Home P5 at Rally Islas Canarias - Hyundai Motor Group",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0hVQURVR3pGOGRTWnZ6emhuVndwWXpXcE00N18xOVI5ZFFwQWJvTkFocThlMFlYR1QxNVVwOHBsd000YWUxMzhBekE5TVhWbloxNC1aQjVUSkozTUdQdUd6SVEzQmtsZW1OcGtoMzVLRmFCbUtoYnlVU2h2ZVBfbUZ3cS1nWDZaRllUdllBV2F6OWlTN2UyQ0xXSW1NcW5jSzl4eGlqMjVtOW1iTjgyOUwxdjFudw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First hybrid soon to roll out of South Georgia Hyundai EV factory - AJC.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkdLTU9ZQTZEeXlpWUJSU0JNajN6ZUtKUTlHNUxaenNSdmt4ZDJtX3dKZHV4Z2hIbHZwSVctaURyOWZLd3ktLU9vT0dvLTR6YjRlbFFHMkI3MXFleldHdlZpLUtxeGN5bzRyYTZqRjdKQ0l1SklBbjNYVlEzdndaLW1fQlRmemp3S2hGTFpQZy1fMk5TNDRhMENfTXNsTHd1?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-05-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump - CNBC",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkd0x3S2NQRWVOSkpCMkpienNWMGFRWUIxeUN4Q0ZDNnBBMXdVdzVxMnQtR3ZrdlJpOXJCbmZyWXFpRTZ6Q1BSNlExUndwenJBdE1tSURkYnNXVGZYVE1QWU5PRDlibXdwMUhrU9IBckFVX3lxTE1QXzVYYVB3bXA0Ul9vV1RJZklYOTFWcmtVbXBCcDVnSDNGS184YTZ5RC1nRy1oQUEzWUFsTHVtdkJ6Zmo0T3NQeXVkM1RUT3J1QVNRSVRPUlFQQllrY3dpbFFBdUxxZGFERHNYb0xhRlpTdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 77,
+    "too_old": 100,
+    "gate1_blocked": 109,
+    "gate2_blocked": 44,
+    "passed": 36,
+    "pass_rate": "12.5%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+      "Air Products raised at BMO, citing strong environment and execution (APD:NYSE) - Seeking Alpha",
+      "Air Products And Chemicals (APD) Margin Rebound To 17% TTM Tests Bullish Narratives - simplywall.st",
+      "Air Products to supply industrial gas for Samsung’s Korea fab - Evertiq",
+      "Assessing Air Products and Chemicals (APD) Valuation After Recent Share Price Momentum - Yahoo Finan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為豐田、現代汽車、Air Products相關動態：「Bawany Air Products : Disclosure of Interest by a Directo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bawany Air Products : Disclosure of Interest by a Director CEO, or Executive ...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA’s New Electrolyser Aims to Halve Green Hydrogen Costs as Orders Dwind...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
