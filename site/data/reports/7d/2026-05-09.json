@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-09",
+  "date_range": {
+    "start": "2026-05-03",
+    "end": "2026-05-09"
+  },
+  "generated_at": "2026-05-09T09:07:57.258017Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nikola-2026-05-04-015",
+      "date": "2026-05-04",
+      "title": "Toyota announces new hydrogen collab with Nikola fueling spinoff - Electrek",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nikola",
+      "company_b": "toyota",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.37
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "siemens_energy": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "air_products": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 5
+    },
+    "nikola": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 176,
+        "last": 206,
+        "change_pct": -14.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-03",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 33,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 5,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-03 ~ 2026-05-09）共 176 則事件，重點為「Toyota announces new hydrogen collab with Nikol...」。ITM Power表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

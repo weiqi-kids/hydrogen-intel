@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 111,
+  "gate2_fail": 39,
+  "passed": 31,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+    "Assessing Air Products and Chemicals (APD) Valuation After Recent Share Price Momentum - Yahoo Finan",
+    "RBC Raises Price Target on Air Products & Chemicals to $341 From $338, Keeps Outperform Rating - mar",
+    "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+    "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance"
+  ]
+}
