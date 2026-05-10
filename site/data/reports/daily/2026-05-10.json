@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:21:47.376405Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s €135 Million EU Grant and Insider Buy Offer a Lifeline, But the Order Book Remains the - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2U3ZmtFSGlSOEFHQ3F3NktURlFXVEdudS1BZG9iRDJ4Wk9fLVVnWGhTb0UzTWpOM0ZLS3lNQWRxbFhYLXNCejVQU1RpV3NyM3dmUnFCaFJ0SUhyMTVyVWlCbG9BQWMya1lfMWZUM3Z5OGIzdjk3VHh1MGo3MThqdVpOcGRoUW5tQmlVekxNQWpWUS1QVGZMSmFXMzgzbXlSQUhITGd6MDFjX1dmVkhfNVRFbXJtVkFFcDBIQjAtbkZWUWxN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: EU Cash and a Utility Debut Offer a Glimmer Amid the Gloom - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0dvdW1FWVRZbWFJeW5BanQycHZtdXJvbG1VbFhCcFdhNlY3M21nVGxKc3A5X09kZ2FyYWdXWHd1dm9qNHVqZXRzdTBIdE5LTm9vbkYzTS04UkVJZjhPcm9zR19lRmxUQ04zc2p5bF81SFdKMlZqUVpTWHk4bk5Sam90T3VLaWZ3enMzcC1LWlJHY29oTXU5Nk9KcGpnN2VqMW0yWXo5ODJsWXBaN25EZGxBZWtfN2pXY3VLbkFBNTFmdUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-05-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Signs MoU with Korea Aerospace Industries to Develop Future Air Mobility - Hyundai",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4TnlqbDQ1UWxKQUhCNjFCY1dpYnVyS3JoM1oybEFFN0VTRGlkSHhOd01vMS1Ha1pBM1RiN3J6WjBsTktURkFsOW1HRkNQZTQ4bWZEX1U3SVUtQUlocVU0Yy1FR2ZsWW1SM0Z1Ukl2dEs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-05-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor backs CNN’s ‘K-Everything’ documentary series - The Korea News Plus",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52Q1FNMUt6aGtMaFF4OW91MVZmdXh1S045V1A5Rzl4WTBtdWZFczU5Y3QzTDZoMFJ6Zm9fWVNhSG5zNEI0SWJvYTBVZmd4bGV3OXkzWXpkbFdib2VIOXhWNkZxcVlwLUFWS0VvTWhhR2FaTGItY2JZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-05-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Tariffs, Cost Pressures And Geopolitics At Toyota Motor (TSE:7203) Has Changed Its Investment Story - Yahoo Finance",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUhiVGxfdjJRWk5XUGR1anlFT3hMclQwdjdXTVFfc084ZExLa1RiRzdsc2VsZ3ZUNmpaVVFabU1nOGMzWFQ4aGR1c0xRM3NJc1hFNndMQUZBcmFMd1JSMFlfTWVYMWh0aFRzZ3Nqb0d3VUt2a2hyR2ktdmFPS3Jac3pVZ2NpNVpVVmhBV2p1dWJiOU1VeW9QUzVWYmdFVGpnZ3ozX20zdkJBUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 98,
+    "too_old": 111,
+    "gate1_blocked": 108,
+    "gate2_blocked": 37,
+    "passed": 18,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+      "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+      "Air Products & Chemicals (APD) Posts 19% Adjusted EPS Growth on Higher On-Site Volumes - Insider Mon",
+      "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+      "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Nel ASA、現代汽車、豐田相關動態：「Nel ASA’s €135 Million EU Grant and Insider Buy Offer a L...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nel ASA’s €135 Million EU Grant and Insider Buy Offer a Lifeline, But the Ord...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: EU Cash and a Utility Debut Offer a Glimmer Amid the Gloom - AD HOC ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
