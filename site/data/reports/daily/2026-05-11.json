@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:53:01.363551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-11-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA unveils breakthrough electrolyser platform aiming to slash green hydrogen costs - Indian Chemical News",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3h4MnJXVVBfRVFBMXFTVW5PR2VmRUNOY2V3M3NSY3VLRmFacGhQV2txLTNYQzVGSnVNd1d0X1NPLU1VMldwRVhLUk1teW0zYXZkdERyQzY0V01mZFRpQ2Y2SWVjamxrYmlZdXdfVDFnWURTcUZOYllNUGFXYVhIbzhNdFU2bF82REdIbjUyWEs5cGhDbmtkeFNMelBzU3F2VWZHZG44SEZESU1iUzlDay1Eei1jaWpfTUh6dHVFMG40T2FSTC0wSDNfc3NFT09mSnQw0gHaAUFVX3lxTFB5Q25nSEEzaHd2U0tTYm1URGFacnZnZGlmQkVlaEVzQ08tZlBjMlZrek9QV2hjRGtGdVFSaW1yZ1FJbHRVQWlTUlowdTVhZFN0cDZveXVqdjNMNmpFcC1zc1FSaU8yeTYxb2xCTzNKRC02RU1NOExvUGlxc0luUTNidHlScUg2SzFXTkZyWk1Hc1E1M0lBUlFOaXJpU1BrN3hRNmRCSVVQdDllZGgxak5WUUEtb08wR2FyX0hYNnhUVG56Mk4yaFFaSlUxUElFSkpOT0FuU0R4b1p3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-11-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA: Orders Plunge 73% Even as a Cheaper Electrolyser Nears the Market - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVJGTjN5Mzl2b3BNWlgyTEZKejNQaHRBQ2V5NXBvaUpTMm9uUFBOV2N5OTQ3cmlZbU5wcjZDSU9oSVlGMEVocUdUSTJhcTUtcm1vSUpwVHhXTnlCRW16cU11UWlibFhIbF9aRnhCa2NIVnB3YTNZUkVaZ3Z5SWJTTXRNOXRsb2RmUnp4cUtEY0prdGI2a3NfSUxLa0ZETDRVYXE4Qnd0TmJpUkxfd2h0WTNieW1Rd21oU2xzSF9BX2hQT28tY2c0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-05-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals Inc. stock (US0091581068): Earnings beat and raised guidance lift sentiment - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTExVDBPODNCQnNpcU9lb19kdG9BODRNbW5PTW1IYkdYMFRhZ3F1cEhBNl9jYTEtOEtWYlRkbk1RNkN6cGdQa2dCQkFFWlJBVF9kbmZZbVlheTgyTkJ3VjV6Um5VQTR1aHFHcjROcXRhYzl0bVFLalFYdVIwbC1tOEx0eTNCbXR5VGVXZkxadGp3YlQ2R1IxQ1ZwSDhTby0zUXBCUjlFcnNFbFc4ajFEMXpOM1l4TWlGNkstZ2lHTW1ZbS1J?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-05-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy’s Grid Business Surges 41% as AWS Pact Locks In, Yet Wind Unit Turnaround Holds the - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzZUc3JtSVk4Tk5EUVkzRC1hYlNXdnI0XzBLU0ZleHp0V3A1MWx2eERtQ1k1SS1PZEhGekp4Wm9tSEN0amg0MVd4TjVFNmZQV0ZOaXJxVzQ1WmhwU2hXcVp1Ql9mZzhLWXpaNzFIa3poRXNvLVB3WmZmWVRidXZmd2pZOVhUblpSQzhNVjJhaV9SVUhjTUE4X1B2T1hfWFU4VnhqcWNZdTNlQlZzVEh1OGdaUjdMb1R3WWR5RWlzNjlnTGY4ai1R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-05-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can man and (dog) robot work together? At Hyundai plant, they already do. - AJC.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmZmOG9SQjByYXhvT3FfM2VsODd0NjRQVU9OQjFoUWN6S0VFcXNTQ1BELTJuMkdjd1ZOZHF0RXh0UDk3dVp5VWMzdlRwZVBvejJMdUNoX2pNS2R5TzQwY2NNai0wUmdWQ1I3dzZTbmRfOVdQRUZSc2xKaE9ua3Q3Ry1rUW84d3ZWM0dRU0JPeUM1dG1rT3pTdFM1NXNQcjNmRGJSXw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 96,
+    "too_old": 109,
+    "gate1_blocked": 104,
+    "gate2_blocked": 40,
+    "passed": 23,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+      "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+      "Air Products & Chemicals (APD) Posts 19% Adjusted EPS Growth on Higher On-Site Volumes - Insider Mon",
+      "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、Nel ASA、豐田相關動態：「Nel ASA unveils breakthrough electrolyser platform aiming...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA unveils breakthrough electrolyser platform aiming to slash green hydr...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: Orders Plunge 73% Even as a Cheaper Electrolyser Nears the Market - ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

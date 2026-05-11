@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 104,
+  "gate2_fail": 40,
+  "passed": 23,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+    "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+    "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo",
+    "Air Products & Chemicals (APD) Posts 19% Adjusted EPS Growth on Higher On-Site Volumes - Insider Mon",
+    "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance"
+  ]
+}
