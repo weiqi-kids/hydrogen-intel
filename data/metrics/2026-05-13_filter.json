@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 107,
+  "gate2_fail": 45,
+  "passed": 38,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+    "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+    "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+    "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo"
+  ]
+}

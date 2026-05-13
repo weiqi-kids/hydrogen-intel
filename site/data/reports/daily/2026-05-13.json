@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:13:20.294966Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-05-13-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AWS Deal and AI Boom Propel Siemens Energy to Record Orders, but Revenue Miss Clouds the Picture - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEdGVUdPTllteHdOb2Y5VFlnZ3daczNiWHM4ODdCRU5JMUdoRmR2SVNCNi1EN1E1LVk4SVNVYzBRa1pNV1dpdEdNRmM5QW03VE9rYzNVcWNYNTJ1dXlOVnZCUjVvRExGR290T0pqcUF4SVM5N3ZzVUFxdWNrWmcxUW5FcFVyQ081bGNvVVJETXRnMjR2OVhRNUFmS0lsSGFneTF0Sks5QUhDcUtqNnRBMXVQWGdYQndwUlpJbkVGVXlZVVItX2M1UEl3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-05-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: The £46.5m Question That Could Define Its Growth Trajectory - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1NudXI1cWtZMHdOUkgtcmdxdG1wRDZEZHc3TWRtNVBuWFVtQUNBR2lRT1UyY3otZF9EWEhKa3JMNExUc1dVSzBySjZlVk9jY3FCd28yQVNJQXluOXA1TWk2eWxJV21LbGhYbXRHRXREbl9ycW1PdUplUkREX1VEZjFpcURkanozZHhRY2MyalhTb1FZajRFcUg2R2lHMnUyODVUanVKNGQ5a2s0Yk1pRzJ4WjIzN1laNVpSTzlCT1ZKZ0piU2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-05-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy AG stock (DE000ENER6Y0): Strong H1 earnings with sales up 5.7% - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenRUWDFZZXRTemowSmJhSUNKRnJnU0R6alkwN0hTV3NObDlIcHlURU5ZVWwzMUhpakNIZm9lcGNkZGxkWUtYdWlCOGhSMldwOC03TmZlVVBrMWVqLXRyeS1ETTFyaWM0UnRrYzJWd3k0TmoyLTBVLTFqQk55QlRRODJWLWppR2VBcVRsb3FNdW0wT1ZxbHM4RzNzTU15UklBSjdLcmRJSmdndkRybExjbmo1Rm12Qm95MHJ6bXRJR0xkUVhuOERN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-05-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Lifts Guidance After Blockbuster Quarter, But a Revenue Miss and Dollar Weakness Chec - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVU0UFhlWWVoZWFDdE1DOHVHdjBCazEtcXB5eHVoLUxTNWdlU2Q2aXJENFRENnFCNFJxZW9DUmtnelBXOW5FeWtXOHAzSC1VNGNKeTZWa0hGcWxwVGphT1ZaYkU1eWRseXFxVTZ5X0IzUFRzOVhHdnVvLW8xYU5DcUpjcFJRbElmTnlOeVpvbmdhcm5VNlEzUEFUTi1Tb25Laks5aXBwVkY4YzNWb3dwS2VaSUdfLTZOZUJscndEeTgzc2I4QlNj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-05-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor aims to turn robot factory into data gold mine, with $2.7 bn annual profit potential - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45NzB0blJFbXJiSGhteGwxRXRZZUFMcExxMmZsa3VydEkzSS1XQWd3OWFFSWpfLWJhZW1zaG9PMy1OZFNSS3VnYUQ4VDZXUFo2M1d2bVE4a1pTNmFaWk1RRDNTUG11RnRiczFF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 99,
+    "too_old": 81,
+    "gate1_blocked": 107,
+    "gate2_blocked": 45,
+    "passed": 38,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "16.6%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+      "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+      "Is It Too Late To Reconsider Air Products And Chemicals (APD) After Recent Share Price Gains - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為西門子能源、現代汽車、ITM Power相關動態：「AWS Deal and AI Boom Propel Siemens Energy to Record Orde...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AWS Deal and AI Boom Propel Siemens Energy to Record Orders, but Revenue Miss...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power: The £46.5m Question That Could Define Its Growth Trajectory - AD H...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
