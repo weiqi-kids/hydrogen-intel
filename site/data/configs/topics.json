@@ -1,0 +1,52 @@
+{
+  "topics": {
+    "green_hydrogen_cost": {
+      "display": "綠氫成本",
+      "keywords": [
+        "green hydrogen",
+        "綠氫",
+        "hydrogen cost",
+        "氫氣成本",
+        "LCOH",
+        "hydrogen price",
+        "氫價"
+      ]
+    },
+    "electrolyzer_capacity": {
+      "display": "電解槽產能",
+      "keywords": [
+        "electrolyzer",
+        "電解槽",
+        "electrolysis",
+        "electrolyser capacity",
+        "GW electrolyzer",
+        "PEM",
+        "alkaline electrolyzer"
+      ]
+    },
+    "fuel_cell_vehicle": {
+      "display": "燃料電池車",
+      "keywords": [
+        "fuel cell vehicle",
+        "燃料電池車",
+        "FCEV",
+        "hydrogen vehicle",
+        "氫能車",
+        "fuel cell truck",
+        "hydrogen truck"
+      ]
+    },
+    "hydrogen_policy": {
+      "display": "氫能政策",
+      "keywords": [
+        "hydrogen strategy",
+        "氫能政策",
+        "hydrogen subsidy",
+        "hydrogen roadmap",
+        "IRA hydrogen",
+        "氫能補貼",
+        "hydrogen hub"
+      ]
+    }
+  }
+}

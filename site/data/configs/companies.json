@@ -1,0 +1,327 @@
+{
+  "companies": [
+    {
+      "id": "air_liquide",
+      "name": "Air Liquide",
+      "aliases": [
+        "液化空氣"
+      ],
+      "ticker": "AI.PA",
+      "market": "EURONEXT",
+      "currency": "EUR",
+      "rss_url": "https://www.airliquide.com/group/press-releases-news/rss",
+      "position": "upstream",
+      "role": "工業氣體",
+      "description": "全球第二大工業氣體供應商",
+      "downstream": [
+        "plug_power",
+        "bloom_energy"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "linde",
+      "name": "Linde",
+      "aliases": [
+        "林德"
+      ],
+      "ticker": "LIN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "工業氣體",
+      "description": "全球最大工業氣體供應商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Linde\"+industrial+gas+hydrogen&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "plug_power",
+        "bloom_energy"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "air_products",
+      "name": "Air Products",
+      "aliases": [],
+      "ticker": "APD",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "工業氣體",
+      "description": "全球第三大工業氣體供應商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Air+Products\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "plug_power"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "nel",
+      "name": "Nel ASA",
+      "aliases": [],
+      "ticker": "NEL.OL",
+      "market": "OSE",
+      "currency": "NOK",
+      "position": "upstream",
+      "role": "電解槽",
+      "description": "挪威電解槽製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Nel+ASA\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "plug_power"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "itm_power",
+      "name": "ITM Power",
+      "aliases": [],
+      "ticker": "ITM.L",
+      "market": "LSE",
+      "currency": "GBP",
+      "position": "upstream",
+      "role": "電解槽",
+      "description": "英國 PEM 電解槽製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"ITM+Power\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "linde"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "siemens_energy",
+      "name": "Siemens Energy",
+      "aliases": [
+        "西門子能源"
+      ],
+      "ticker": "ENR.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "upstream",
+      "role": "電解槽/能源設備",
+      "description": "PEM 電解槽與能源基礎設施",
+      "rss_url": "https://news.google.com/rss/search?q=\"Siemens+Energy\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "air_liquide",
+        "linde"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "thyssenkrupp_nucera",
+      "name": "thyssenkrupp nucera",
+      "aliases": [],
+      "ticker": "NCH2.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "upstream",
+      "role": "電解槽",
+      "description": "鹼性水電解槽龍頭",
+      "rss_url": "https://news.google.com/rss/search?q=\"thyssenkrupp+nucera\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "air_liquide"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "mcphy",
+      "name": "McPhy Energy",
+      "aliases": [],
+      "ticker": "MCPHY.PA",
+      "market": "EURONEXT",
+      "currency": "EUR",
+      "position": "upstream",
+      "role": "電解槽",
+      "description": "法國電解槽與加氫站設備商",
+      "rss_url": "https://news.google.com/rss/search?q=\"McPhy+Energy\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "plug_power",
+      "name": "Plug Power",
+      "aliases": [],
+      "ticker": "PLUG",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://www.ir.plugpower.com/rss/news-releases.xml",
+      "position": "midstream",
+      "role": "氫燃料電池系統",
+      "description": "氫燃料電池系統與綠氫生產",
+      "upstream": [
+        "air_liquide",
+        "linde",
+        "air_products",
+        "nel"
+      ],
+      "downstream": [
+        "nikola"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "bloom_energy",
+      "name": "Bloom Energy",
+      "aliases": [],
+      "ticker": "BE",
+      "market": "NYSE",
+      "currency": "USD",
+      "rss_url": "https://investor.bloomenergy.com/rss/news-releases.xml",
+      "position": "midstream",
+      "role": "固態燃料電池",
+      "description": "固態氧化物燃料電池系統",
+      "upstream": [
+        "air_liquide",
+        "linde"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ballard",
+      "name": "Ballard Power Systems",
+      "aliases": [],
+      "ticker": "BLDP",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://www.ballard.com/investor-hub/rss",
+      "position": "midstream",
+      "role": "燃料電池",
+      "description": "PEM 燃料電池模組",
+      "downstream": [
+        "hyundai"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "fuelcell",
+      "name": "FuelCell Energy",
+      "aliases": [],
+      "ticker": "FCEL",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://investor.fce.com/rss/news-releases.xml",
+      "position": "midstream",
+      "role": "燃料電池",
+      "description": "碳酸鹽燃料電池發電平台",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cummins",
+      "name": "Cummins",
+      "aliases": [
+        "康明斯"
+      ],
+      "ticker": "CMI",
+      "market": "NYSE",
+      "currency": "USD",
+      "rss_url": "https://www.cummins.com/news/rss.xml",
+      "position": "midstream",
+      "role": "動力系統",
+      "description": "PEM 電解槽與燃料電池（Accelera）",
+      "downstream": [
+        "hyundai",
+        "toyota"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "chart",
+      "name": "Chart Industries",
+      "aliases": [
+        "查特工業"
+      ],
+      "ticker": "GTLS",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "儲氫設備",
+      "description": "低溫儲氫與運輸設備",
+      "rss_url": "https://news.google.com/rss/search?q=\"Chart+Industries\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "air_liquide",
+        "linde"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "nikola",
+      "name": "Nikola",
+      "aliases": [],
+      "ticker": "NKLA",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "氫能卡車",
+      "description": "氫燃料電池卡車",
+      "rss_url": "https://news.google.com/rss/search?q=\"Nikola\"+hydrogen+truck&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "plug_power"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai Motor",
+      "aliases": [
+        "現代汽車",
+        "현대자동차"
+      ],
+      "ticker": "005380.KS",
+      "market": "KRX",
+      "currency": "KRW",
+      "position": "downstream",
+      "role": "氫能車",
+      "description": "NEXO 氫燃料電池車",
+      "rss_url": "https://news.google.com/rss/search?q=\"Hyundai+Motor\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "ballard",
+        "cummins"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota Motor",
+      "aliases": [
+        "豐田",
+        "トヨタ"
+      ],
+      "ticker": "7203.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "downstream",
+      "role": "氫能車",
+      "description": "Mirai 氫燃料電池車",
+      "rss_url": "https://news.google.com/rss/search?q=\"Toyota+Motor\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "cummins"
+      ],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "hdro",
+      "name": "Defiance Next Gen H2 ETF",
+      "ticker": "HDRO",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "氫能產業 ETF"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "工業氣體",
+      "電解槽",
+      "電解槽/能源設備"
+    ],
+    "midstream": [
+      "氫燃料電池系統",
+      "固態燃料電池",
+      "燃料電池",
+      "動力系統",
+      "儲氫設備"
+    ],
+    "downstream": [
+      "氫能卡車",
+      "氫能車"
+    ]
+  }
+}
