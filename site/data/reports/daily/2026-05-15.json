@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:12:35.899791Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-05-15-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power's £198m Cash Pile and Record Orders Fuel a Rally — But the Real Test Arrives in Two Wee - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVVaYldpUE80aHE3Y2k2YkI1MUtPN2h0bk44VlZEcUpMYTRvMUNGV2habWtubG1laExVNG80ZWZ6cW9jY0F1RURncnZNVmpnY295LVNMTFdvVjI5WFhsVE5TM29uWjJfem9FNG1XOVRZWDh2QTM0MmljOWZQWjdaR2J1NUJ5TUlGOExtUllranVEeGpiVUEwNndDbHRHZlJIUjJnckJhMGNWZUxfdG92Smo4REtMZEhWSHdkdHpKbk8ydw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-05-15-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy Cements AI-Led Growth With Record Backlog and Sharpened Financial Targets - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3VLSGowTlh3VWlBOGp2SXBZcWhFejFXRjZPNkNGOFB1Z05EMGJvcVhBUVBVRFEzREpTMDA1SjhXT3BkOTR6a0liWUROSjZtRkd5a0dvQWYtZDFHRlRCNVBreXFPdjhfOTJjRWY1THpOb1pEaG1zQm5PNVhLNFVLejRaTVhOb1ZlbmJLWGZ3V0hDSjZzRjFTQ2YwWHVsSFFKRXBnUUhMNTdvNmU5U2Z4YlZDOTg4WDdlWTJ3REh1Y0plc1RuSDUzWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-05-15-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy’s Record €17.7bn Quarter Sparks Cash Flow Upgrade and Capacity Expansion Plans - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHNoSHgyamo5NTNQT2MwVGw3N3dFT3ZHX01mRXhfYTlkZnhlVXBkbDFUTHByaWMzb3VPbThHaThjLUlVT3AzUVkwQkcyQzg0WTZKNGhnV3NYSkhqeGZaQS1FRVE0cVhZVkFlOU9LZmlwLWFZOW1PY1ltQUZ4VlhacmxibjM5QzZIaXZVRFFlVkVNQUVfelYzcEg2WUNtQU5FZEQwUGdNX2ZicHAxV0NYQWdnX013dWRYQ3JqRnBPd2M2ekxN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp_nucera-2026-05-15-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera posts deeper loss in Q2, while orders spike - Renewables Now",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDlTZWh0Um85aXNNYW1mM01Wa0dQZW5PVXhaSGwzZG02RnY3MjRvREwwMUxFdUNZVnpjTTF6WjFJU3FFeE13b1BkSFlzMk9rN1VobVRhcUJCME5uUThnWldCSk5SbUFGTGtrMjh5M3hxLWFuQ3BqY2FNTGd6OGR0U3FrNC1JOWtWUDFSMnJzM3JVemhBOWk4TUt3NDg0Z2pra3hNdg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-15-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovoltaic electrolysis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/15/fraunhofer-ise-achieves-31-3-record-solar-to-hydrogen-efficiency-in-photovoltaic-electrolysis/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 96,
+    "too_old": 87,
+    "gate1_blocked": 105,
+    "gate2_blocked": 44,
+    "passed": 36,
+    "pass_rate": "13.2%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases giant reports solid quarterly growth - AD HOC NEWS",
+      "Linde plc stock (IE000S9YS4E6): Industrial gases giant reports solid Q1 results and raises full-year"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為西門子能源、豐田、Nel ASA相關動態：「ITM Power's £198m Cash Pile and Record Orders Fuel a Rall...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ITM Power's £198m Cash Pile and Record Orders Fuel a Rally — But the Real Tes...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy Cements AI-Led Growth With Record Backlog and Sharpened Financ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
