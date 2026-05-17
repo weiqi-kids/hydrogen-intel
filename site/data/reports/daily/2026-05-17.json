@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:27:51.789968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Faces a Defining Moment on July 15 as New Electrolyser Platform Tests Investor Patience - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2Y2dTdjNXE0M09FTmVqczREVHBjb2dSbDlzVEcwdm9QNVFTVHQ1WkE1clZDemRwTHdVRk44R3g2Ui1XOFJxdkhfRlRSTzlxdmJvWG1xM1EwamtIdUFQT18zNW5fbjhCVHpJZVp3aHpET2QzTEtSVXpIWm8xVFBqaTFvVE5PLXFzZXNCU0h6LUR3Z2lTcUh2cXU2c0RESWh4cGUyckI5LUN5WlJOZkZnOHRRX3l0TERCenlLX09PRG5jNUdMQ09rMWxB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 114,
+    "too_old": 87,
+    "gate1_blocked": 113,
+    "gate2_blocked": 40,
+    "passed": 18,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+      "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+      "Air Products raised at BMO, citing strong environment and execution - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA Faces a Defining Moment on July 15 as New Electro...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA Faces a Defining Moment on July 15 as New Electrolyser Platform Tests...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
