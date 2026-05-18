@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 109,
+  "gate2_fail": 49,
+  "passed": 22,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+    "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+    "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+    "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+    "Air Products and Chemicals stock hits 52-week high at $307.51 - Investing.com"
+  ]
+}

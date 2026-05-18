@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:37:04.489919Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacific Heights Asset Management LLC Purchases 15,000 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNEJzYlRBbTdZaGxXejk4b2tJVnVVQlZ3SW1FZThvZldhcS0zSmJLSlJKUnlWRld1bVhjS1NybUNDNFZJLTZEZmU4TXE1WHFMWTNQTm11S3pSWFNnRjN1dENoeGluLWV0LXJfZ3RUYmxjc0kzcGpDTGE3Y2Q1ZU4ydlRLbzNXZFZvekx5d0lsa0RRQU9PMkFLcUpScWt1U3NPSEdaeVdfTkh1YXl5TlZNX2ZDeUlGZDZhLVBpZF9IbUt5ZGVseEh5bFB2Zk1IOTVOTzlidzRiT0xZTDQ0ckhMREdWUWRCWUxrdEFNcjZXcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-05-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals Inc. stock (US0091581068): new long-term hydrogen deals keep growth story a - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQm9FbThVSWVhcmRYejluQ0lBYzRXVDFYeEtyQ0habDdnekhEUGQwNFJvWWlVNGhsWHlHYkZoTUtCQ2o2N0RWRlVYc3N6QTRYSXdiS2lmcFJweHIweGk2YlhZTG9oZUlocHhwYVVNRGlCcWpocDdCVE1TazNsamdFR0k1eXpsRXIyak1YWnZlc21JckcxWkxpOFlnVkFKMDhKUlBVMzg4QWFXU2V4WGJvV2F0NEd4Q0NJMTJRbldoUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-05-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's 57% Rally Faces a Reality Check on July 15 as Orders Slump and Analysts Cry Sell - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGxFamhNQkdfdU1GdWdySHVyNk1samRPMlVXVGFOcUlWTWJSck5DN00yY0pNVG1YY2E0LTRLQTMySVRPRm52S0d3ZWRkOVJ4ckpBMFdlQzg1ODZ6cmNuUEFUVHZMNGVtNG5pUWlpTzB2T0hCbFcwZU1lMXQzaTRBZ1M5WjVoNFZBX05BdUVLeDBLR1dhdVZXd0gwcU1sY0N4NmlTdFlJUWhsZnA1NFROeTF3R3V3UU1RYlU5ZFp1OFdIRnJpc2lz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-05-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Executives Increase Holdings Through Buy-as-You-Earn Plan - TipRanks",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTBUX0ZoTHFCTmIzRzZuUTBzYTBzTUNNUndwNnhpOHlETjFJOE42RC12OXo4b04zUUh0Yl8xMU9wQllORFEzajlSZFR1dDNPa3FPekt0Y0xRQ0hObkRZVTF0blMyQnhwZWhEYU1qUEFYQkFYZU1icC1MbTM0STVFRlptMzliZ0JzZVB4LURzYVhjS0Z2S2cwa1N1dUV0YzRxY1V5dkloVDBNQ01KVkV5T2hzOHRmWS13Tld6MGpUTW55dE1YcG5CUEI4Q0tYQW5aWURN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-05-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy advances buyback, repurchases over 12 million shares since March - TipRanks",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjNLUlV4YzhIR2F0SEpjNk9NUDh0N3ZyREY0YnpSUE9heUdCdzdGbTU1TmpPcDRVRFQ5UEpIUFotb2UyZVllNXlfVWcwTm11RTFZcXdBLVU2WTE4a0EwcFFlN0lUYV8wcDV3T3hUcC1YSVdMZ2YxckRxWTN4djd1ckhWOFBkMVllWXRXWDkzT2lGeFpZaVJGWElzX1ZaM3pGUHRjeWFwOFdnQTM4QUZHWWVXOTdtOUZYbWNSU0ZxUEpBcHczNGo0bEFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 106,
+    "too_old": 85,
+    "gate1_blocked": 109,
+    "gate2_blocked": 49,
+    "passed": 22,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "18.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+      "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+      "Air Products and Chemicals stock hits 52-week high at $307.51 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為西門子能源、Air Products、現代汽車相關動態：「Pacific Heights Asset Management LLC Purchases 15,000 Sha...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pacific Heights Asset Management LLC Purchases 15,000 Shares of Air Products ...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products & Chemicals Inc. stock (US0091581068): new long-term hydrogen de...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
