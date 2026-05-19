@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:37:00.369907Z",
+  "updated_at": "2026-05-19T10:53:52.789254Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "查特工業",
       "ticker": "GTLS",
       "currency": "USD",
-      "ar": 782100000,
-      "ar_prev": 725700000,
-      "ar_qoq": "+8%",
-      "inventory": 572300000,
-      "inv_prev": 514200000,
-      "inv_qoq": "+11%",
+      "ar": 763400000,
+      "ar_prev": 782100000,
+      "ar_qoq": "-2%",
+      "inventory": 587500000,
+      "inv_prev": 572300000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cummins",
@@ -161,28 +161,28 @@
       "name": "Plug Power",
       "ticker": "PLUG",
       "currency": "USD",
-      "ar": 24137000,
-      "ar_prev": 22410000,
-      "ar_qoq": "+8%",
-      "inventory": 520968000,
-      "inv_prev": 555092000,
-      "inv_qoq": "-6%",
+      "ar": 24312000,
+      "ar_prev": 24137000,
+      "ar_qoq": "+1%",
+      "inventory": 516153000,
+      "inv_prev": 520968000,
+      "inv_qoq": "-1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "siemens_energy",
       "name": "西門子能源",
       "ticker": "ENR.DE",
       "currency": "EUR",
-      "ar": 7971000000,
-      "ar_prev": 7571000000,
-      "ar_qoq": "+5%",
-      "inventory": 11052000000,
-      "inv_prev": 9783000000,
-      "inv_qoq": "+13%",
+      "ar": 8237000000,
+      "ar_prev": 7971000000,
+      "ar_qoq": "+3%",
+      "inventory": 11407000000,
+      "inv_prev": 11052000000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "thyssenkrupp_nucera",

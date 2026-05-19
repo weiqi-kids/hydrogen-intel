@@ -1,0 +1,204 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:53:57.609924Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-05-19-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Energy Rally 3.0: Hydrogen and Methane Are Driving the Market! ITM Power, Zefiro Methane, Plug Power, and Nel ASA In Focus - news.financial",
+      "companies": [
+        "itm_power",
+        "plug_power",
+        "nel"
+      ],
+      "related": {
+        "customers": [
+          "plug_power"
+        ],
+        "suppliers": [
+          "nel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaHZIQ0luc1BMWnJhY01LWjVBaE8yMmw4YlJJVFZBTmtjSkJ5UDFNMk41aTBNT2l0SUlGWFIwX09mUEVFbzl6NV9WRHRzcndVOGFhdU5CVUl3NWxTVUhJRHhuM0QxeWtIWWtHXzU1ZGdmLUFfRldaeDJYR2ljZHFEVzJSX0VYamxlLWRiZVFTOUNYTFRKdDU5aVJMOWx5QTRBbnVSRjdQWHgwX2lnN2RZM1Q2c3lPcXR0cXd5QlhoOEtrdXF0bWh1Nmc3NXFEdGdINko3Zjh0TjRoSzc2S05JcFRFUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-05-19-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy Turns Orders Into Cash at Record Pace, Turbocharging Buyback Programme - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlo5VDlxQ3pQN1BLb0VNcUxhcWo3NG9TRUl3Ul9fMXd2Q0FaekNzczc2SGtwM3pEVU5HdDNhT20wamZIQlhpSjZaa2ExSURzY053cTh6Tjl4XzQ0ZVQ3NTZaallrTWsxUUI1WlpHUV9ITlR3bGhEcWJtUERoX1d4UDVVMWNHUno1WHNiZnRWbFFiUTl2QWd0R0phM1dNb0dlN2lWb1JtMDhidExUdmxLOWZGMnVmN0o1Y1k0dEtxVElETDQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "linde-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Linde plc stock (IE000S9YS4E6): gas giant updates investors after latest quarterly results - AD HOC NEWS",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFB3ZUFYZzN4RGtpaWhBNUN1aXY3MExnUWRhbVpXLUVwczRDTlpiU0tuZ2ZFb3BPdnJTa3JobnN3U3Bnc05URDg1aXg2bU9WYTRhaWFhaE1pVDJqN0dmUnB3UEUxUDhaQTA5bU5BNzNQYWtUV1MxbmJIOUNYN2JUWWUxelVCZmRMVzZVMzhoa3NmQUYtdU5BMzAwS3RnTVpYZmwtdkdUeThxc05Ga3hFNFVsWnhCRThpZ2NwQTdYQUN6MzVON2M4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "air_products-2026-05-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reopening Europe’s green hydrogen rules ‘not a good idea,’ Air Products warns - gasworld",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnd1dDV2T2E1R1lBUnBDR0pLVU8yWTlmdFVIbGVhYVBGY3Job09ZOUVXTUlqNFNSd215Y0ZNT0NtMFpTVlFHUFoySXh3Wm82OEJPZmUxdzlfZ1ZkS2EzcnBvb2RLZGtTc2ZIUmk5a21DWlM5STdGSUhzTlpfQUlVZ2cwWjUyTWVTV3hyQWVGUVlkcmczY2RUQnVhR3pYdTdmTmJ5TEpSVWdQYktLbmRPY3lnR0U2dGRmSTlyMXR3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-05-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Oil Shock Fires Nel ASA’s Rally, Yet a 73% Order Collapse Threatens to Pull the Plug - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVp0RXB5M3dPN2pPNHdNY1hrX2dZMG5tUVVHQ2NwdjRLZ2UzZHdUQllqTUhjTGM1WUpPTWhGb29FbzJydnEtd0tVdDFwaktaUFVnTmpVdFNzdlpabHVHa3RaU1lLVWdZRWk1T2M2X2MyOGF0OHpBeVBBdWQ1RUJjZmktcTgxTGF3cTJlb3pjc1B2QUE4bXhiMjNuS2VpNi1tdHRhY2NkRER1Tk5EVGZYR19GQ2xZRFhGMWlHYW5RNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "linde",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 92,
+    "too_old": 80,
+    "gate1_blocked": 113,
+    "gate2_blocked": 43,
+    "passed": 42,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+      "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+      "Linde plc stock (IE00BZ12WP82): Industrial gases leader with global reach - AD HOC NEWS",
+      "ProShare Advisors LLC Purchases 65,999 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為西門子能源、現代汽車、ITM Power相關動態：「Energy Rally 3.0: Hydrogen and Methane Are Driving the Ma...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Energy Rally 3.0: Hydrogen and Methane Are Driving the Market! ITM Power, Zef...",
+        "level": "yellow"
+      },
+      {
+        "text": "Siemens Energy Turns Orders Into Cash at Record Pace, Turbocharging Buyback P...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
