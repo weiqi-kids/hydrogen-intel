@@ -1,0 +1,144 @@
+{
+  "date": "2026-05-20",
+  "date_range": {
+    "start": "2026-05-14",
+    "end": "2026-05-20"
+  },
+  "generated_at": "2026-05-20T10:41:53.348207Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nikola-2026-05-18-033",
+      "date": "2026-05-18",
+      "title": "Toyota Keeps Trying To Assemble A Hydrogen Market That Refuses To Form",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 11,
+      "last_week": 4,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": 0.09
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 5,
+      "sentiment_avg": 0.4,
+      "rank": 5
+    },
+    "siemens_energy": {
+      "event_count": 14,
+      "sentiment_avg": 0.27,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "nel": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "air_products": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "linde": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 182,
+        "last": 228,
+        "change_pct": -20.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-14",
+      "event_count": 30,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 54,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 28,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-14 ~ 2026-05-20）共 182 則事件，重點為「Toyota Keeps Trying To Assemble A Hydrogen Mark...」。thyssenkrupp nucera情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "thyssenkrupp nucera",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 115,
+  "gate2_fail": 40,
+  "passed": 30,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+    "Linde plc stock (IE000S9YS4E6): Global industrial gases leader with strong US presence - AD HOC NEWS",
+    "Linde plc stock (IE00BZ12WP82): Industrial gases leader navigates market dynamics - AD HOC NEWS",
+    "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st",
+    "ProShare Advisors LLC Purchases 65,999 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat"
+  ]
+}

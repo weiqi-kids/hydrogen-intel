@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T10:53:52.789254Z",
+  "updated_at": "2026-05-20T10:41:49.052578Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -189,28 +189,28 @@
       "name": "thyssenkrupp nucera",
       "ticker": "NCH2.DE",
       "currency": "EUR",
-      "ar": 45000000,
-      "ar_prev": 50300000,
-      "ar_qoq": "-11%",
-      "inventory": 171000000,
-      "inv_prev": 178900000,
-      "inv_qoq": "-4%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 63500000,
+      "ar_prev": 45000000,
+      "ar_qoq": "+41%",
+      "inventory": 157100000,
+      "inv_prev": 171000000,
+      "inv_qoq": "-8%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "toyota",
       "name": "豐田",
       "ticker": "7203.T",
       "currency": "JPY",
-      "ar": 24849592000000,
-      "ar_prev": 23199276000000,
-      "ar_qoq": "+7%",
-      "inventory": 4622761000000,
-      "inv_prev": 4821814000000,
-      "inv_qoq": "-4%",
+      "ar": 25488182000000,
+      "ar_prev": 24849592000000,
+      "ar_qoq": "+3%",
+      "inventory": 5134996000000,
+      "inv_prev": 4622761000000,
+      "inv_qoq": "+11%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
