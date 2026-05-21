@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T10:58:36.564496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-21-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nel ASA Rides Plug Power's Coattails and AI Hype, but Orders Fail to Keep Pace - AD HOC NEWS",
+      "companies": [
+        "nel",
+        "plug_power"
+      ],
+      "related": {
+        "customers": [
+          "plug_power"
+        ],
+        "suppliers": [
+          "nel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVpPNTdJWXhCV21GTllMWFk4Z3N6cWl2anE3VDRTTXA3a1Z5ekpSeXJ2VjRrUGgwenA2cFVYdUY1NWUzVm5LUXpGUmE0ZWR2aTg3c2gzb3BlUzlpT3FTaHh2VGttVnZkNDRjWVFNMzNrNFN0X3VOQ2FCYzVGY1VTMTAtWHZmeGlyQmZKSGV1Y3RaU1pqaVlJZHYyWDR2UXdpXzBMbHNpdlNtRXlxRXVvN1dLY2xmbkl5RmM2Rmg3Q1dKdnJDZDBSWlA2aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products investment offers greater resilience to Scottish aquaculture - Fish Farmer",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakxKczdKTTBQbFVQMlBtRTRxNlpvcGdmaUFwRVM2M0gzM1FORXJUbllLQjNoZWdQMjRvdHNCLXNLQlVQZy0wdEI2aDU1OVVoWFAteVgxNm1WaV9zSGpRUzdDWEtrYnFMMDlaZi1YaFhBU2Vkb210RTdfWWZqUWlWUEdsaFlSb3hNSTI4WnlLSEQ3OEh2UmxkNDItYm1MTzI4YlJydXh6MGZ3R05pMVctNXdsWXB3bFpqTzJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals, Inc. $APD Shares Purchased by Handelsbanken Fonder AB - MarketBeat",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUVubm0xcm9yZWV4WmNVNHlMRkMtdkJ1QThibWNUeUJxajNhR1FCOEhzWm5nUGJKaVJuSE9KZ1VHQnNqdDFRcWZFanhXQlg1bmJIaDcwTGNFZXJYYVZqdDdpOEVpaTNCN001cG03U0NxaWk0Q1NGWlFFME5TSlJJODdiZHZ3UG1kWkoyWk1mTDlaODhRdlpzdDlUX2wtMUtjVkcxQ2pHNkNRdzhUUjNJM2U1d0NhcUlOZnZDN3BWWFY2RUJvNWZaRjhtaGZqVzBPclNBdG5R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "air_products-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals Inc. stock (US0091581068): strong Q2 2026 earnings and outlook draw investo - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlRKbWVVOWR3dDFHbWIwaGMxQTBucm5VMHhoTGNHZ2VLNzhfRktZNmZGUUFOY01EX1FsMEJWOFJkWTVZWWg4VmRaQzhlSWtEaXExVnBXX1hoelp1bDFpZU5odnNJeG5heG5xM1pMdTFVVmYyNzQ3RVlSYmgtZXFYTlZ5bkQ4a0dCUXo3TGtObktzZHkzclExNko5MHM1SGpIc3h6TlJvd2psLXpnY09zLXRnZWlqLUVuTE4wS1hnYnA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: AI Frenzy Lifts Shares, But Q1 Numbers Reveal a Cost-Capacity Trade-Off - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN1FNYUxac0pMWnloTE5lY2tYVzlYWHNXMHpHMWZTY1JzRGh4anJ1MDJHYVcyN2xteV9QbzhpdGx0RFpXYjVGUVpoTWV2ZXB0WURwMGRDUURSQ21HQmNFVW5ST3k4YXBfUzdrcW5fWDVnazlUZUdyRGxpR3RqVzVKQTE3MG1zMEN0T3d2d3p2dmsxZ1V6LW1pazJBOWpoSXljSWh1akFCWHVEZFE3TFU4QndubnVscnVCSkhpNnR1LTVDeUN2akE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 3
+      },
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "plug_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 98,
+    "too_old": 86,
+    "gate1_blocked": 111,
+    "gate2_blocked": 43,
+    "passed": 32,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+      "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+      "5-Day Sell-Off Sends Air Products and Chemicals Stock Down -5.6% - Trefis",
+      "Leonteq Securities AG Acquires Shares of 14,747 Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Air Products、Nel ASA、西門子能源相關動態：「Nel ASA Rides Plug Power's Coattails and AI Hype, but Ord...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA Rides Plug Power's Coattails and AI Hype, but Orders Fail to Keep Pac...",
+        "level": "yellow"
+      },
+      {
+        "text": "Air Products investment offers greater resilience to Scottish aquaculture - F...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

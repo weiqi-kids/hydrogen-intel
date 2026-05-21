@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 111,
+  "gate2_fail": 43,
+  "passed": 32,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+    "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+    "5-Day Sell-Off Sends Air Products and Chemicals Stock Down -5.6% - Trefis",
+    "Leonteq Securities AG Acquires Shares of 14,747 Air Products and Chemicals, Inc. $APD - MarketBeat",
+    "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st"
+  ]
+}
