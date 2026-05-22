@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:42:01.544940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung E&A and Nel ASA Launch CompassH2-A+ Solution - Chemical Industry Digest",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlhwTlZqdE5YSU1KeF9lTVJ0OWt4MHBCSThGcWVfMTZfTzdfeXNBY3RZWFctQldGc1hkb2gtRnk2N0RfVnJ5YmdIckNrb0JnRWxqLWVJcHItNjY4OEExakNDZTdhTW15RXhGMUxtREZoVkVsZzZHVGxjWTB6aGZLN1ZB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's 50% Rally Defies a 73% Order Collapse — Technology and Cash Provide Cover - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUt2V2xGUlh4dGxxdDJmbEthdUxwaU13dWMwc0xfY0FMOE9mTndmcEtWQjFHS2pKNUlfWVU1NzNHUHBsOXY0cEh1ejliRnl0NHp1ZWhOM1FldHRNdlEyUmpKOVdrN2N3dnlkNmpTMVEyc2lLU1lpWHpKVDgyQW9qalpiNDVfM09HbVJKNXJIazZVcXZTUXBqX0FTZkpkRTdHdzJMSXlWYXN6NkZVTEY3Vmh3VWZjOURCcmlLZg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SIEMENS ENERGY : Deutsche Bank keeps its Buy rating - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWNDclFxdWdMMEVfZTZhRWk5bl92UHd2ZEFSeC1idXM3N0xLTHBUSmtkTEdLR1A5WE1PbkN1N1BkcklabnZKc0pUVk53SFFHMHl4dkJGQTk1d09oQzNzblE4bDBqeHBpSGpLUVRZc29xVktheFdOZ3NvV2d0M0FMSUVfT3JyWjM2TlhnVXJPMkVBbjhBQkphaUJHYWtYM05xaU9fcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai recalls more than 54,000 Elantra hybrids over potential fire risk - Fox Business",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTEyVDhJMk0xYUNGMUVlYVBpMzBwWTJVM1d6NGx1Y3hMQUtscVdRdjFReVFGQUVGcVU3RngtaVdWMWI5WDY2UURqV2w4NjJnSkE2NUdrNldtajVEaUViUHh6MFhadkJ1TmVYRXNhS3ZxYlZRb3Q0Q0F5RVd1RFV5SF9hTm5qbXV4azVseWNyTWpLbVlZV0w3bmU1Qm1kR2RXVWfSAacBQVVfeXFMUDJzRHJ1aWVadkcxR25sNmZDSUFaS2hCdjh0OGVJVW52QWdHdDB2bWhxbE42cXNiUXp2aUNEQmM0S04zU1RVNFdtdHVDMHdpcUtGa0xjVE5SWXBGYV9aMURFRGpYZEpRUTR6RmM0MVBEcXlVeG9pVVJfMHQ1Z1JWUi1ONXVjMkF5X3ZJOWxuaWtySHBPek1DUWFyZ0F3NUFLbmRsX1NEVUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-05-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai to recall over 421,000 US vehicles over software brake issue, NHTSA says - Reuters",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHlmQldoNkJvVmtSMG1rU3ZlaXFFbWozZzFLb2E2WTl5ZVgyQS13djVvTlMwWG1BNWFWU1RFUkpjTHpBWW9VdldQbm9KcFdwOWNacmxhdUl1SVVnOUJoNjlRQ2VBSXQ5NVFPNTJ5QkhybExDcE1GN29nZ1l0cHRuU0c0dV94bjBBTE1ZRnRoZ0tPY2d4dVllc3dmdllDYS01Z1dGS0kydkdCeThVcDYtTmQyaEh3Qmo2Q0RWc1JOa0hVTnhKQ2Mw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 100,
+    "too_old": 90,
+    "gate1_blocked": 107,
+    "gate2_blocked": 42,
+    "passed": 31,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+      "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+      "Air Products Education & Community Impact Award - WFMZ.com",
+      "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st",
+      "Air Products raised at BMO, citing strong environment and execution - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為現代汽車、Nel ASA、西門子能源相關動態：「Samsung E&A and Nel ASA Launch CompassH2-A+ Solution - Ch...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Samsung E&A and Nel ASA Launch CompassH2-A+ Solution - Chemical Industry Digest",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's 50% Rally Defies a 73% Order Collapse — Technology and Cash Provide...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

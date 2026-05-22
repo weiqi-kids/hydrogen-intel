@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 107,
+  "gate2_fail": 42,
+  "passed": 31,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+    "Linde plc stock (IE00BZ12WP82): industrial gas giant updates investors with latest quarterly figures",
+    "Air Products Education & Community Impact Award - WFMZ.com",
+    "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st",
+    "Air Products raised at BMO, citing strong environment and execution - MSN"
+  ]
+}
