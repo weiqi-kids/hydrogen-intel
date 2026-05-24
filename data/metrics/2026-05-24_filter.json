@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 108,
+  "gate2_fail": 34,
+  "passed": 30,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+    "Air Products Education & Community Impact Award - WFMZ.com",
+    "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st",
+    "Is It Too Late To Consider Air Products And Chemicals (APD) After Its Recent Share Price Climb - Yah",
+    "HighTower Advisors LLC Sells 20,272 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat"
+  ]
+}

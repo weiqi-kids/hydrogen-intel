@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:49:00.654679Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "linde-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Linde stock (IE00BZ12WP82): steady industrial gas demand supports the story - AD HOC NEWS",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE9uemxpWjdxRGlDdDFOWTFQMDF0aFB5dUVyaXVITVFHTFJybzVacmQ3UGlwZEFCUU5ORXRZb21pYkRxQ1hicDNhZlVGRDVYLXNvUmdBel9sZ1NfZ1YtbnUzS2V5OGZyTG5wLTBxNHg2VmFlSEVEQVZkZk81ZVBha2lqSXJYUklMTG5lV1NWRlRjbFQ4RXF1dmpsVkJkeHJVTWhzdTVJTTU1ajROWHZfWmxmYWZlMkNCYy0wMldEV0s0T28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s €11 Million EU Grant Can’t Hide a 73% Order Collapse - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWJPbVJRZWtLNndyb0pFdXpLb0FJNXRBZVh4OUsxX3BhNlRlTjNIVGM5RG9ZVGJsZWZQTGQwbTFJOXEzMXltcUxKVGlTemlPTVpxbVpEaWFHWG9oTFpGODZidER2aEhPR0N5S1MwMzF2LWlFdkNMUkJzOV9QY25UcTM3SzcxN2NWM1UyMm1mczVxd3pzeHoxbFFFZmFIQ2MweGNBZFpzSWxlSW5aUDBVSnJhTWRGOGxBUkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-05-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Lifts Revenue Forecast by 35% as €1.3 Billion State Aid and Index Inclusion Reshape the - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWl4N3Jld0NpY09IZ2R1YzBnWkZHQWgyRXZFU0JUOHVramVOMUk4WTJ3dWU4WTR5b1c3NnZudWQ2UEpuSmpuazZYTU55WlYzaHkzNGN0N3VoY2JRUXlYNTlNN0hsNzI5MjRpRU44bjhKQlotbS1FVmxLS0FvdkdnM19KRnNxX0M2bU5POUw0cDNMYmRkTjRKc2NwVjVpSGdfVXVidF9PbU56TS1WZTY5eDNrY3FCbm41YlI5cC1XTEVXXzV2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 102,
+    "too_old": 97,
+    "gate1_blocked": 108,
+    "gate2_blocked": 34,
+    "passed": 30,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+      "Air Products Education & Community Impact Award - WFMZ.com",
+      "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Moves - simplywall.st",
+      "Is It Too Late To Consider Air Products And Chemicals (APD) After Its Recent Share Price Climb - Yah",
+      "HighTower Advisors LLC Sells 20,272 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為林德、Nel ASA、ITM Power相關動態：「Linde stock (IE00BZ12WP82): steady industrial gas demand ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Linde stock (IE00BZ12WP82): steady industrial gas demand supports the story -...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA’s €11 Million EU Grant Can’t Hide a 73% Order Collapse - AD HOC NEWS",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
