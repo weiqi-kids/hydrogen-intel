@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-25",
+  "date_range": {
+    "start": "2026-05-19",
+    "end": "2026-05-25"
+  },
+  "generated_at": "2026-05-25T11:43:15.786910Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-05-21-024",
+      "date": "2026-05-21",
+      "title": "Toyota celebrates 35 years in Troy as $57M expansion under way to add cylinder head line - The Business Journals",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 11,
+      "last_week": 3,
+      "week_over_week_change": "+267%",
+      "sentiment_this_week": 0.09
+    }
+  },
+  "company_7d_summary": {
+    "linde": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "air_products": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 7
+    },
+    "plug_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nel": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "siemens_energy": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 3
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 151,
+        "last": 236,
+        "change_pct": -36.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-19",
+      "event_count": 28,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 37,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 34,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 9,
+      "sentiment_avg": 0.22
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 9,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-19 ~ 2026-05-25）共 151 則事件，重點為「Toyota celebrates 35 years in Troy as $57M expa...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "林德",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Air Products",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

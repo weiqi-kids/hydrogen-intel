@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 111,
+  "gate2_fail": 31,
+  "passed": 18,
+  "gate2_samples": [
+    "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+    "5-Day Sell-Off Sends Air Products and Chemicals Stock Down 5.6% - Trefis",
+    "Air Products Education & Community Impact Award - WFMZ.com",
+    "Is It Too Late To Consider Air Products And Chemicals (APD) After Its Recent Share Price Climb - Yah",
+    "NEL.OL Stock Price, Quote & Chart | NEL ASA (OSL:NEL) - ChartMill"
+  ]
+}

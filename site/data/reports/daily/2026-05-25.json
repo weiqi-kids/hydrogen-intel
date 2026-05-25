@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:43:15.660662Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Short Sellers Retreat as New Platform Launches, but Orders Plummet 73% - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlotY0ZMUUQ5N2Y5RlRHR1BwZTdyRjVGS1gyckZ0clVBME1JTXA1RXFDYU1FUHlqS3BDd3pET2Q3eFVxZ3Y1T2poalBvMGdZMV9aUTloNjc0Mk5KM2FDcmcyeGkwNmp1cnFFTEhQMFBLNHA4LWJhMEZpRURWS3dMZ2JUQzJmdGEyckFBYXh3NXFZeHRYVFJqaHV6cGJOYkt1S0xLaGhKNVUyMnpfaThCOElpclJvYUVrUDdWMzZONE9fUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai creates dedicated units for software-defined factory, robot components - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQXpzS3VzeUEyRVV1amFCVDZTamxFYlJSSkZJOVNBWGZVdEFNN2NYeEN2NEIwS2RHdlJMUkExN2wzUUwtTTNURU5ud3diZl9zdU9tUHlzdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-05-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Deepens Bet on Humanoid Robots for Auto Plants - Koreabizwire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlczTFUtRlNvWkJ6T1VHVFkwQW1IbTFRRTl0LUE4X2FVRkZja0RycVhFbGdkd3ZnZTBGamg2X1JaRFg2MnFrZk9SVU5NYVpRekZYWlg2QUVYbGVSa2pXdHdkUDNQbW5FWjVHMFl6akU0SE9QTXRoZF9UcG5iUzhPczREQllDc3FLRC1zSGVJWVlVZHRhMVZwdGdYM3hSUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-05-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai creates special units for software factory - Breakingthenews.net",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNEhoSjF1UUwtUWlRZ2JVZVAxcnNsVGdXZXBCUEsycTRLREhsVWo5TE52RFhBM2R4azR6cEVHNDZVOTRnRmhOUVVPeUt1Q08wMnRackc0NmxUZlB3Nl9LaFh4ZlRoUXcwQW9wYV9DNG52WUw1TTRkUDIyWlNJUEtfaGVaZFBzVDhUcVhBOHExMUh5NHY5bVJHN01HTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-05-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota to cut more production abroad due to Iran war - Nikkei Asia",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWk9hdEQ5VVE4WDBkOS1OaTg2NjFyeHp5VVAxTWIxNGtKb2RqeWlrN3VsZlRBdnVSSkl4RVplN0o2UmV4M2diSGVGU3Jadi0zem02WF9PV3FOSGtWUEFMRFdFV3lzdzd1Um5oSUFVVkFkUlRrV0dQWlkyOHFrT3Z2Z3lKZkppeXFxc1BsYVJPWm1wZE5jMnpHNjB1bWJ4UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 110,
+    "too_old": 100,
+    "gate1_blocked": 111,
+    "gate2_blocked": 31,
+    "passed": 18,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Linde plc stock (IE000S9YS4E6): industrial gas giant posts solid quarter and updates outlook - AD HO",
+      "5-Day Sell-Off Sends Air Products and Chemicals Stock Down 5.6% - Trefis",
+      "Air Products Education & Community Impact Award - WFMZ.com",
+      "Is It Too Late To Consider Air Products And Chemicals (APD) After Its Recent Share Price Climb - Yah",
+      "NEL.OL Stock Price, Quote & Chart | NEL ASA (OSL:NEL) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「Nel ASA: Short Sellers Retreat as New Platform Launches, ...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel ASA: Short Sellers Retreat as New Platform Launches, but Orders Plummet 7...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai creates dedicated units for software-defined factory, robot component...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
