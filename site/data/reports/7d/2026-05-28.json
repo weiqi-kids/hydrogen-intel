@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-28",
+  "date_range": {
+    "start": "2026-05-22",
+    "end": "2026-05-28"
+  },
+  "generated_at": "2026-05-28T11:28:38.836424Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "air_liquide-2026-05-27-003",
+      "date": "2026-05-27",
+      "title": "Global Gas Separation Membrane Market Set to Reach USD 5.9 Billion by 2036 as Air Liquide, Honeywell UOP Separex, and Air Products Expand Regional Dominance - PR Newswire",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 12,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "siemens_energy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hyundai": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 2
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "itm_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 96,
+        "last": 211,
+        "change_pct": -54.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-22",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 9,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 9,
+      "sentiment_avg": -0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-22 ~ 2026-05-28）共 96 則事件，重點為「Global Gas Separation Membrane Market Set to Re...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

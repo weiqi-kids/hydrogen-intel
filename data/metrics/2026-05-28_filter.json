@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 96,
+  "gate2_fail": 44,
+  "passed": 44,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+    "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+    "Air Products & Chemicals Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+    "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com",
+    "Air Products and Chemicals (APD) upgraded to buy: What does it mean for the stock? - MSN"
+  ]
+}

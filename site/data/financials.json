@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T11:43:12.055139Z",
+  "updated_at": "2026-05-28T11:28:34.735564Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "現代汽車",
       "ticker": "005380.KS",
       "currency": "KRW",
-      "ar": 9616081000000,
-      "ar_prev": 8330239000000,
-      "ar_qoq": "+15%",
+      "ar": 7387672000000,
+      "ar_prev": 9616081000000,
+      "ar_qoq": "-23%",
       "ar_period": "QoQ",
-      "inventory": 20661752000000,
-      "inv_prev": 21192866000000,
-      "inv_qoq": "-3%",
+      "inventory": 22572477000000,
+      "inv_prev": 20661752000000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "itm_power",
