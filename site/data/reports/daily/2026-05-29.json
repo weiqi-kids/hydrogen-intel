@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:18:52.471859Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-05-29-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy: Record Orders and Grid Boom Test Investor Patience on Valuation - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdKZlluUUVEeVhHSEswbV9UMzM2TjBQVkNNUkFXOHo0SEJMaUFmR2lJZnlYVHZPZVlpWGNTdXNOU0R5bzZfaFY4bm5xcTRVb3dLaV9LQ19lR2xUSXVlcGw3ZVhTOXpjcWN3bl9zSE1MclNKc1ZHZGxPWW9LSzE0ZVlScTY0ZHZsSXdTQTBWM2Y5TVpHanhmUXltR0JxWlpsTWlXMkV4LXFSWVZ4Y2F4dlg1NFUxZ09ZRWh2UjJDMVA2NkZrR0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s Rally Hits a Ceiling as New Electrolyzer Costs Converge with a Cash-Powered Wait - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWhZZ255dURON0huM3g3YnJITkhMNURfVHI2RDdQZFRXdm43aURPY3FhZXp1djBYajBLTEhpS2ZXUDVlOWZEb2N1TDZ1dXVxblRqdDh4TnhsTkZDSjNVZ1B3ejZ2OXhNeUhnWnhiT1dBUzBXM2NKdExIMFRLU0xNd1Utd0tGXzVhcll5dXdRTkJHNDc0ZUNxMXdoTTgwaVpBVmg2blI4TWVDb3p2OTNmVEw3VlloR2VVS1RDX0E3V0ZkcThlaS1Cclk3SQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s Cash-Fueled Pivot: New Electrolyzer Costs Slashed as €135 Million EU Backing Buys Time - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDF6T2FmYlFDZDR5aDdmZ3hoamlWYnZxZHJTckFBekI2M1FPcjAycE9pYlN2ZnhreUJuaF9kV0xkWWhVeGhzOGxXV0Fwb2EyYlV4SVdLa1hNRjBlUXAxU1VvUnAyaVV1R21zbDFReXQyYmxDLVRZdHZEQnNCMDg2c1A2NkRzd0l6MWN6NXJVdXBMTWRfTjhRdWRaa2xFVktkdkFTQmQ2eDJzREJhSVhCd0lwemp0aVZxWGFhamM3RVoxUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Stock Takes a Technical Breather as Investors Weigh Cost-Cutting Electrolyzer Against Bleak - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2t0cm9ocU10ODVRQjNHMG0wTVFDWDI2UUpkdjJGZ25DbHQwTVAzR2VCSzJhdVI4aFZqRGFKWEl0aEVnd3lLVDREcl9aM1E4d0pRQTk5WV9mT09kWWVKeDRfZHpMcDZqa09vSncxRlhTM21BQ1dBVUdoSmVfSTFYNTNBSlNfZzVYalBfenRGSWRyblJhR1Z4THNycW4tQnJiNjUxLWdISjhUaURib1hyRWdLN2NScmM3enhPU3lBTnNzYXhqVlRrNmdtYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buy Siemens Energy, Supriya Lifescience, Exide Industries: Analyst - Business Standard",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnE0bHJWYVF3MUZCTFBwSENKVW9BSFVpeE84Sk5sUGFlbjRTSEhOSzJLNFVwNVV4SGlrWENJdk90YzZZd3JVVkpqM3YtRkFFdUxGb2U0U2ZwdVFFa2VYaGNKY1RNeHhUSUJBVXA2UFZSZ3R6bndfQS1VZjNlenZtZXF6R21RMWhXUDVFWUVBcjFtYUpIM256Ni1rajBUTGxfOU10dEFZQlpZZmE2MG5KU3d4RF9sNDVpSnRMdF9ndGN0UVlmTFBCbzk1enlhSXVtdHRPR0NlV2JMQ3QzdUFF0gHkAUFVX3lxTE4zTzU2OHkwTjM2VFFhMlVHQmFRS1NVcDlCbDRrR05yV1E0YXdndVZTTlZ3T1ZJOGJiMXpjWE1ITzBmUk1JZ0NvNFl5cE85YXZzclBrTGlzTjlsdkl2Z2NOeGxpdnVYWnFfU2dLdHBZY0dNdWdHUWpmU21tcmhERzdqdmVvZkhaa2xDaGVkOEFqY3FPMXRBUHE5NzZSbmpXdXFIdHlJVGxYejlCdlJCeENkbE5VeWJQSk5CeWJtR2o2Y3ZCbWNwVVkwSVVoV3cyNGEyS0czXy1iNlZoZWNSMEpXbUpxQw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 94,
+    "too_old": 98,
+    "gate1_blocked": 97,
+    "gate2_blocked": 39,
+    "passed": 33,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+      "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+      "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com",
+      "Air Products and Chemicals (APD) upgraded to buy: What does it mean for the stock? - MSN",
+      "Is It Too Late To Consider Air Products And Chemicals (APD) After Its Recent Share Price Climb - Yah"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Nel ASA、現代汽車、豐田相關動態：「Siemens Energy: Record Orders and Grid Boom Test Investor...」。主要關注主題為電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy: Record Orders and Grid Boom Test Investor Patience on Valuati...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA’s Rally Hits a Ceiling as New Electrolyzer Costs Converge with a Cash...（電解槽產能）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
