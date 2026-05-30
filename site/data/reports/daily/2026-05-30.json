@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:50:18.222089Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s Rally Pauses After 23% Weekly Surge as Giga PtX Partnership Reshapes Outlook - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjVMLUR0ZG9Zd3RoRVdOUWExX3h2ZWpuZnEtb3FBdHdLMW9hZVNHRThGTGhpUlNWa055RHRDdzRaYmZnT3lkSGpGTlN4cmY3YXVHaEhlMTFkRm02Q241bS16dk5YWnNhTDVlRHpkalk2WVNjUDhjdmRndHozZ3RGREFReV9sQUFVRmwtYVI2WVU4bUY4NmRrT2hQYmZVaUxSUUV1TVFjSVhsRy1pTkkyTXU4ZlRvdDFmWm1TT0MxUHpUNnM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Reworks EV Plans As Texas Expansion Reshapes Long Term Outlook - simplywall.st",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3l4eG41bVMxbm41Q3hvbkVqbjY1SnZLY3pLaVhHMXF2b1RyMVRfN2ZVcTdKMVoyMFFDN0RDemtuTXBGRHF5UExoanViRnNlMS1RNFV1Mm1ZN3ltM2dkbXFTQ3dmMEJOZk9fVG1pT3ZXUGRfUlJabW5kc0NYUEtYYWM0V3BEZTItODBWUC03bDN6MERUNm5pOTA4UFlTLWtib2xGeVlYS3hxdjBTamh6WnUwLUU3bG84RUhYbWFOb3dHM2RPZE5oTW1WbElya0FJbk15c9IB2gFBVV95cUxPaUQ1WGJQZ2FhdlNqMzRNVmRXWWppMXFPRHNVdC14TFdNWkxkVVFCOUxXZ2IwVHdURDJ2T0xUSE1SUVVBd1lGMnhBWGo5ZGlnbjhWclZJallQenBmRHhZb3Y2eVBiVEx5ZThuNkRwak00S0hyQjdlem9LaE1ObjlIaVdxenNQRnplMGdBTnZWVHN0eGFiaFhDZzBlblZFNnJGdEl3RU9SN3M2bGpvMTBKclBHQTU4QzdBdV9RVFl2RnlHd01Nc0k2OTA5WHhQaVRSa09RVW44ZU1Ddw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 99,
+    "too_old": 117,
+    "gate1_blocked": 95,
+    "gate2_blocked": 35,
+    "passed": 14,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "Port commission approves revised Air Products lease; provides for company opt outs - an17.com",
+      "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+      "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ITM Power、豐田相關動態：「ITM Power’s Rally Pauses After 23% Weekly Surge as Giga P...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "ITM Power’s Rally Pauses After 23% Weekly Surge as Giga PtX Partnership Resha...",
+        "level": "green"
+      },
+      {
+        "text": "Toyota Reworks EV Plans As Texas Expansion Reshapes Long Term Outlook - simpl...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

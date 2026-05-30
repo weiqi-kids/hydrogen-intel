@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-30",
+  "total_events": 2,
+  "by_company": {
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

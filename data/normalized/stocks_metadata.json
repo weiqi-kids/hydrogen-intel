@@ -1,28 +1,28 @@
 {
   "air_liquide": {
-    "earliest": "2013-07-15",
+    "earliest": "2013-04-16",
     "latest": "2026-05-29",
-    "count": 3295
+    "count": 3358
   },
   "linde": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "air_products": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "nel": {
-    "earliest": "2013-07-18",
+    "earliest": "2013-04-19",
     "latest": "2026-05-29",
-    "count": 3227
+    "count": 3287
   },
   "itm_power": {
-    "earliest": "2013-07-18",
+    "earliest": "2013-04-19",
     "latest": "2026-05-29",
-    "count": 3250
+    "count": 3312
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
@@ -37,45 +37,45 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-05-28",
-    "count": 1971,
+    "latest": "2026-05-29",
+    "count": 1972,
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "fuelcell": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "cummins": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "chart": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3236
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3299
   },
   "hyundai": {
-    "earliest": "2013-07-16",
+    "earliest": "2013-04-17",
     "latest": "2026-05-29",
-    "count": 3153
+    "count": 3214
   },
   "toyota": {
-    "earliest": "2013-07-18",
+    "earliest": "2013-04-19",
     "latest": "2026-05-29",
-    "count": 3163
+    "count": 3223
   },
   "nikola": {
     "earliest": "2026-03-02",
