@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 95,
+  "gate2_fail": 33,
+  "passed": 13,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+    "Port commission approves revised Air Products lease; provides for company opt outs - an17.com",
+    "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - m",
+    "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com",
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com"
+  ]
+}

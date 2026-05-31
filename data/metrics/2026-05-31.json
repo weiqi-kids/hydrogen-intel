@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-31",
+  "total_events": 6,
+  "by_company": {
+    "nel": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "itm_power": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 3,
+      "sentiment_avg": 0.67
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

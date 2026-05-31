@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:07:12.758372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-05-31-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA's Rally Advances on Hype Alone as Orders Plunge and Analysts Shun the Stock - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWtzb3NjM1l6UFhVbXQ2QWN3bEUtdmtvRVp5bEdRNFliWEEwYXU0YU1aNmRpdEQxcUZpdTF5NHBrbDlpRTFPUFhVQzhFME5DMkFEVHl4YldmaGhkbnlXNGdUTzBFeGdNNlVUNklCQnkxbFBnTE84M21aNmJPUUZRck0tSW41aDlxbGJjT0I3bzNLeTEyOVFST2NoSFMtR0ZEcXZqVmoxNklpMldGcGNBTElSVG9nbjd1aFc0dllMRU9QMmpJak1uck1VaW4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-05-31-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy's Record €17.7bn Orders and Raised Guidance Fail to Stem a 6.4% Weekly Slide - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkktNWF1TXN6LUUydzIxUE54ck9VOWtwSGR3VXdocUZZUm5OT3dXMFQ1MW9iSjRSOUU0TXpmc1NmQVFCS3J1RFRmc1M4cW5MZnpvU09EcUItZlc1ajRDcTN4aF9vbi11VHMxS1E2Y3VRNnB2Qm5xMUtxMC1Xa2trZzh3WkFWRXJWT1h3S1BxZXQ0MV9rcHNqMXMzVlJfXzNmRWFrTk5UM1VzdVl5T0VINFE5MXJ2bllBbE51T1dQVUs5aUJQNFNEYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-05-31-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy: A Week of Contradictions — Record Orders, a €2bn Buyback, and a Share Price That - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3ZaZDBHV3JIZjhMZEhDRVhvWEVtclVNcDRlT1Z6QlBDcTRoN1lFR3pfN21BRnF6OWpwR0RMdUpISUZSSGVqZlJ2SExXeC1wbWZlVGF0dnRRY3g1a2d6NS1JZ2pmVlRYaUh4Q2UyZUxOX2N2SzVzN25TNWhid2cwVXg4bEVWMEYxX2NPOGg2MHRqa0szdmJqSVFmZ1F0ZFZPRmJqZkFUamt4R1dMWWp3SUdtWktxem5uLVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s Retail Frenzy Meets a Reality Check as Three June Catalysts Loom - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTW56ZWx4Y3R0cjdoaWVjaER1MlpQU1Q4SHlfUF9pbzlpWkxRNUFJVnlUeFI0R0ROYjZXc19USGxYcjRhZGJfSEctekJKNmpWTGdJcXhaYW1jQnRCY0w3ZFBBT3dMVXJJUldGTGxmR1B4YTYzeEcwN3hFa2VFaG84eEY3NnJNcm5DS3FYMFplejhRSnRscUM2b2lvM1d3WkJjcWRkMFo5VFA1dHdtMnpaRGVvS1BwZDhhenM3QWs4R1d3UFV4SkVwR213?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s June Crossroads: Three Catalysts That Could Confirm or Crush a 212% Rally - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmNFdXF2Zlh6YUZGdlEzYmFnX2VRTW1WdlZlaU9wbUVvV0EtUjJLblZLWlRBbHBOa1RhTDQzeG84c2dFNGFSZTlSX2JLb1M3MlU4X2RtaDR4c0JjTDFKSHVzYjlKV1oyTTJvN3l0b0hnU0RyRTJGUllkenNRNXVjRjlLZzB3cTFMU2hBRTV2VlpvaUoxdjlybHljSlllQUNiZ2pXYzUyNkpJVm92MjNkTmktR3NYNi1PUml2VmJJVzNMQ3pHampWVzl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 110,
+    "too_old": 111,
+    "gate1_blocked": 95,
+    "gate2_blocked": 33,
+    "passed": 13,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+      "Port commission approves revised Air Products lease; provides for company opt outs - an17.com",
+      "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - m",
+      "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com",
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為西門子能源、ITM Power、Nel ASA相關動態：「Nel ASA's Rally Advances on Hype Alone as Orders Plunge a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA's Rally Advances on Hype Alone as Orders Plunge and Analysts Shun the...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy's Record €17.7bn Orders and Raised Guidance Fail to Stem a 6.4...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
