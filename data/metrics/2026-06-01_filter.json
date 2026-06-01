@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 95,
+  "gate2_fail": 28,
+  "passed": 27,
+  "gate2_samples": [
+    "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+    "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Volatility - Yahoo Fin",
+    "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+    "Zacks Industry Outlook Highlights Air Products and Chemicals, Dow, Albemarle and Methanex - TradingV"
+  ]
+}

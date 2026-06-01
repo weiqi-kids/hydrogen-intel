@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:26:46.542626Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-01-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Nel ASA Stock: Strong Buy Signal on Charts, But 73% Order Plunge Puts Rally at Risk - AD HOC NEWS",
+      "companies": [
+        "nel",
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzRXMzFRZXZiZEwxZUYwZENGY25LQnVCbE5hNXRzc2FZM0liVlZ5UEJfNlBuN092bDBBYmxLQU1sNGdtZDdXYTlqSmFHZ2dlYzJ4RFFfaU9QTktJbk1jZXp6elg2b0N4Mlh4RVk4Ym5lXy03SFo5ZFJqWG1VMHc1aXVPV0VDNVBXTXZ4NjVVdmhuOEFkMEFZQWtyaFJvTDB5X1VZQ20wSzZjU056RWo3WDBtRUVscDFrUlZReGZSYUIwaU1WLXFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-06-01-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global sales of Hyundai Motor down in May amid production decline - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TNXpveTZOdHI5b3JSSy11WTBWSHRDOENCMkZyeFMzYVR4VHVhZXhJUDBWNmhXY0F1Y2g5UTdDem5ZYTlBdG1pcnNPdUlrQzZsZ1JVa1JXMVlIdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s Samsung Guarantee Targets Hydrogen’s Financing Headache as Orders Keep Sliding - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0h4eFFxbmwteUNTQzRFM3FLSERMeEE1NVBWeVVUbkhNRmtmV3hzQW4xSHp5ZG9MZTZqN3JacGx1NGRwZmlUUUNyUUd2UFlBblJLUXh3MmpiX2tzbWlRT2ZFcHc0T0c2RWF3YkZOaGQ2SGlzYmRuakdMc3F6dGdFMXByTF9Lc05wUHY0d0JhV1FKUUsxaDVVUHg4YURibGhKR2l6Q2lXQTd3aGdaeTdwcnpoWi1CbGliV1lEdVdXZmt5QmNnaHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy rebounds - Added to Goldman Sachs Conviction List - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFBYbk12cTQ4cjVsa0pPYngwY3hqUjNfN0JQbDFGM1BySUE5RFE0Yk1CNTh2OVBVM1lITWRGZzctLVBpUENMYk9lWmluQzc2M2g2SkhrM1I3WmJFbUVXZGZKVDNCMDgwM0Yyb2hWbk9BdzNTVGlqX1Q1Rzl1OFNfM3AtcFo0eXU2bU54YVFORmhRM0NuMkRtY2o3QV9Fek1XVnVzNVhxaTdKSl9aNW9tTDdKZjVhUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-06-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stock Picks Today: HAL, Kaynes Tech, Tata Steel, Siemens Energy, Voltas And More On Brokerages' Radar - NDTV Profit",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPendMQmpxcmJ0OWJmaU5xRV8tLTVHQWZDUUNUYmFWRTJLV0Nkal83ZDVEYVVjR1pBQVdyRVdVRy1hcnZNZ01fd2NLQjNfWDJYOUxRVUNESEM2TTlTc3duTG4tRlV6aE5aSXZpRGxyeEhiOWJVSElJc3hfcHNwX3UzOFh3MllkTnFTcDFDZG4yc3lUQUVhTVBsY080YmdXTHhjR19KOGlQOEJuVVBLS2dWb203eHFtbzNrU281OWRmLUZBYmdRa0hpTGRoaFduTktkbXNWOERn0gHeAUFVX3lxTE9mQUVHOWtXZTJQYXZEVlZWOXljQlN6SXJRNVgzODh3R0dNUktvcFUwbVVVQnVnYllzOXZ5SnRVUXdnMXpZWU5LR0NjX0F0NHF5bkRkNk5sdHVaRW1ULVZ4TkdjQ1NuWmFzbUxiMk41TW44V0FGcTRCaFJWV1lLRWdoMk4wcEYxeUxIZjJJWms0eWZycjVVUXVBM3JUVzVBTWIxVk9lMlVjZ0VEbWNaOHdRZkJVY2NYYkpHYXZKNzN4dHZIYVpvYThFRURVcDdtOGpJYUl3azlhUlpsRkFYdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "toyota",
+        "count": 9
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 91,
+    "too_old": 120,
+    "gate1_blocked": 95,
+    "gate2_blocked": 28,
+    "passed": 27,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+      "A Look At Air Products And Chemicals (APD) Valuation After Recent Share Price Volatility - Yahoo Fin",
+      "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "Zacks Industry Outlook Highlights Air Products and Chemicals, Dow, Albemarle and Methanex - TradingV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「Nel ASA Stock: Strong Buy Signal on Charts, But 73% Order...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nel ASA Stock: Strong Buy Signal on Charts, But 73% Order Plunge Puts Rally a...",
+        "level": "yellow"
+      },
+      {
+        "text": "Global sales of Hyundai Motor down in May amid production decline - Yonhap Ne...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
