@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 79,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 102,
+  "gate2_fail": 38,
+  "passed": 34,
+  "gate2_samples": [
+    "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+    "Linde plc stock (IE00BZ12WP82): Why the industrial gas giant still matters for U.S. markets - AD HOC",
+    "Air Products still weighing options for massive Louisiana project - 10/12 Industry Report",
+    "Upper Macungie data center rejected; Air Products’ zoning application denied before packed crowd - T",
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com"
+  ]
+}
