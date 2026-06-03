@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 85,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 105,
+  "gate2_fail": 49,
+  "passed": 25,
+  "gate2_samples": [
+    "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+    "Air Products to supply low-carbon liquid hydrogen for Ariane 6 rocket tests - gasworld",
+    "Is It Too Late To Reassess Air Products And Chemicals (APD) After Recent Pullback? - simplywall.st",
+    "Here's Air Products' plan to keep thousands of cars off Ascension roads - Baton Rouge Business Repor",
+    "Air Products supports Blind River 300 event benefitting veteran-focused programs - an17.com"
+  ]
+}
