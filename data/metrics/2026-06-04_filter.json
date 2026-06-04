@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 100,
+  "gate2_fail": 50,
+  "passed": 39,
+  "gate2_samples": [
+    "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+    "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors despite dai",
+    "Is It Too Late To Reassess Air Products And Chemicals (APD) After Recent Pullback? - simplywall.st",
+    "Air Products supports Blind River 300 event benefitting veteran-focused programs - an17.com"
+  ]
+}
