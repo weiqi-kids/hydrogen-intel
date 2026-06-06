@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:53:25.475755Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s €135 Million EU Backing and New Platform Can’t Outrun a 73% Order Collapse - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVh0RnZYQmNuNXIycThFbk5hMU1aR0hFeEJiampGMEVfNWQ2d2dmekJ0c2JDcWtsd2QwclRjSGtOSWplM05nZmNtd1N3RVVxTVVGTE81d215bzBWQ05fQ3g1MC1zbVFNWmdRTkFITGZSaV8yMjFZUW8xQk9LRmtIdm4xeHVxOU5ESk9YYktKM0hBZlJDWXRFSHZWLVRJeXhLRi1waDB2RjRsbTVWbXpCMXB3X3ctU2xUNEVKcDJtRXB4YzJu?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 365,
+    "dup_title": 108,
+    "too_old": 94,
+    "gate1_blocked": 101,
+    "gate2_blocked": 40,
+    "passed": 22,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+      "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+      "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works",
+      "Air Products supports Blind River 300 event benefitting veteran-focused programs - an17.com",
+      "Is It Too Late To Reassess Air Products And Chemicals (APD) After Recent Pullback? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA’s €135 Million EU Backing and New Platform Can’t ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA’s €135 Million EU Backing and New Platform Can’t Outrun a 73% Order C...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
