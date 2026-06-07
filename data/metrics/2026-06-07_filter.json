@@ -1,0 +1,16 @@
+{
+  "total_raw": 364,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 103,
+  "gate2_fail": 43,
+  "passed": 13,
+  "gate2_samples": [
+    "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+    "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+    "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+    "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works",
+    "How Is Air Products and Chemicals' Stock Performance Compared to Other Basic Materials Stocks? - Bar"
+  ]
+}

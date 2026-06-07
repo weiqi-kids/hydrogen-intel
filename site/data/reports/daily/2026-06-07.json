@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:21:15.827015Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-06-07-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power: 27% Weekly Plunge Masks Underlying Progress on £46.5m Grant and Protium Partnership - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHVXdk92N0FvU3FLSEM1ODhXWDI1NmdwTDhidVFBYlExNE1kd2E5NU04SUljeWlFQnNWUlpVeS1qaHJVZnJnVmdYQ3M2UEFzZUJiSVZaWlI3OVlPeVd0dWRZZEdmeXRBR1JnbU9mUjdZMWFvemJlUXF2amcxa3VNcFlGMWJ1YU53OU05cHY2QzhwbGRkMFNyT1FfcWY3ZHdhSkFucFMyVS1STjQ5Z1hJSDhNVUhmY1lwaDlDMHFlZF83U3M1U21F?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Samsung Partnership Can’t Arrest 26% Weekly Slide as Focus Shifts to Inflation Data - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWVSUWhMV3lWSTVCU2c0TUJyemp1RUhiUm5rRTFuOWE1dmZ1TkstZ1dVY1NKOVMwRVk0SjQxdkxKQzhrT2JCQ19OQ1VoODZpc3I5UmZ3TVpOT1hVckVFX0tCN0g2cjNZY0doUW5janlUWjVWOWlVbGdNNnZ0alMzcU1sT3BibFNsem5IZU9LTWh2ZWRvcWtuUXFHNXVHdkhUQXVmNFp6QUN2ZFp5NmZiemVBMWFtN3VqVmVBNXlBd01UT2tI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-06-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NVIDIA CEO Meets Hyundai Motor Group Chairman Over Lunch - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajkxZWJfVVpYd0ZnN2NSdFVMejEtSXBVMGJlYTlSTXNCc21va1kyUnljOVFCQ2Vzb3hfb3RaNjVuY053cFZCeDhyTGRpaGI0b2E3STM0dGEzR1ZobFdsWmdVTDlJd3BDQUt5R1BrNDdhcDZXVEl4ZHJQZmFyRlo4azVHV1hFRVRu?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 364,
+    "dup_title": 112,
+    "too_old": 93,
+    "gate1_blocked": 103,
+    "gate2_blocked": 43,
+    "passed": 13,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "17.1%",
+    "gate2_samples": [
+      "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+      "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+      "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+      "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works",
+      "How Is Air Products and Chemicals' Stock Performance Compared to Other Basic Materials Stocks? - Bar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nel ASA、ITM Power、現代汽車相關動態：「ITM Power: 27% Weekly Plunge Masks Underlying Progress on...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ITM Power: 27% Weekly Plunge Masks Underlying Progress on £46.5m Grant and Pr...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: Samsung Partnership Can’t Arrest 26% Weekly Slide as Focus Shifts to...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
