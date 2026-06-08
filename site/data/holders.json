@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T10:21:15.289979+00:00",
+  "updated_at": "2026-06-08T12:21:33.449844+00:00",
   "companies": {
     "air_liquide": {
       "name": "Air Liquide",
@@ -10,25 +10,25 @@
           "holder": "Gamma Investing LLC",
           "shares": 529,
           "pct_held": 0.0,
-          "value": 97018
+          "value": 87306
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 6540,
           "pct_held": 0.0,
-          "value": 1199435
+          "value": 1079361
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 7716,
           "pct_held": 0.0,
-          "value": 1415114
+          "value": 1273448
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 8600,
           "pct_held": 0.0,
-          "value": 1577239
+          "value": 1419343
         }
       ]
     },
@@ -175,7 +175,7 @@
           "holder": "Eagle Bay Advisors LLC",
           "shares": 1055,
           "pct_held": 0.0,
-          "value": 156034
+          "value": 153080
         }
       ]
     },
@@ -188,31 +188,31 @@
           "holder": "Gamma Investing LLC",
           "shares": 410,
           "pct_held": 0.0,
-          "value": 64788
+          "value": 64829
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 17462,
           "pct_held": 0.0,
-          "value": 2759345
+          "value": 2761091
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 9125,
           "pct_held": 0.0,
-          "value": 1441932
+          "value": 1442844
         },
         {
           "holder": "DRW Securities, LLC",
           "shares": 12778,
           "pct_held": 0.0,
-          "value": 2019179
+          "value": 2020457
         },
         {
           "holder": "Sierra Capital LLC",
           "shares": 1307,
           "pct_held": 0.0,
-          "value": 206532
+          "value": 206662
         }
       ]
     },
@@ -225,61 +225,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 332430,
           "pct_held": 0.26,
-          "value": 2672737
+          "value": 2626197
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 207801,
           "pct_held": 0.16,
-          "value": 1670720
+          "value": 1641627
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 97809,
           "pct_held": 0.08,
-          "value": 786384
+          "value": 772691
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 83399,
           "pct_held": 0.07,
-          "value": 670527
+          "value": 658852
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
           "shares": 53719,
           "pct_held": 0.04,
-          "value": 431900
+          "value": 424380
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 49635,
           "pct_held": 0.04,
-          "value": 399065
+          "value": 392116
         },
         {
           "holder": "College Retirement Equities Fd.-College Retirement Equities Fd. - Tota",
           "shares": 20342,
           "pct_held": 0.02,
-          "value": 163549
+          "value": 160701
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 15120,
           "pct_held": 0.01,
-          "value": 121564
+          "value": 119448
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 16189,
           "pct_held": 0.01,
-          "value": 130159
+          "value": 127893
         },
         {
           "holder": "Fidelity Concord Street TRT-Fidelity SAI Intl Small Cap Index Fd.",
           "shares": 7230,
           "pct_held": 0.01,
-          "value": 58129
+          "value": 57117
         }
       ]
     },
@@ -694,13 +694,13 @@
           "holder": "Williams Jones Wealth Management, LLC.",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 42750000
+          "value": 42337500
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 188722,
           "pct_held": 0.0,
-          "value": 537857700
+          "value": 532667845
         }
       ]
     }

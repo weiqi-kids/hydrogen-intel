@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 105,
+  "gate2_fail": 42,
+  "passed": 17,
+  "gate2_samples": [
+    "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+    "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+    "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+    "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works",
+    "Air Products supports Blind River 300 event benefitting veteran-focused programs - an17.com"
+  ]
+}

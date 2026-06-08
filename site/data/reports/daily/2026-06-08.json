@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:21:33.994961Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-08-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Will NASDAQ Shockwave Burst AI Bubble? Major Movements at Nel ASA, Oklo, dynaCERT, SpaceX, and ITM Power - Stockhouse",
+      "companies": [
+        "nel",
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQktONkdudEtnRWZBd2I4andqckllV3puQ2pvOFVGcG50Rk1Wd19WQ3d0MjVpUWl4WFczbTVReGdqcE5fX0FmU3VhaDZWUkpBd1FnRmNyckVkVWJfZmNDc081RFlyTjc3S2pIOS1lY2hxZllxMjl0RURzN0w2MkVnd280ZFljTHU0TFlKWDZBeC1WWURiN1VJaTFNazB6dVQwUHo2ZDdGUElCTWpnNzZ6SEhhNEtXQ3A4ckxZOHJWV2FlRF91LXI4aHN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-06-08-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy: Record Orders, Digital Grid Acquisitions, and AI Demand Set the Stage for a Profitab - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZERsYzlVczgzaTJLMnhjaDNnWlFKTnpFX2RKSUN0ZmdiclktYWZ6SnV4YjkzZURfSDhrbkg2akhDOUN3TjYwRDJBLXdsTXo3RzctS1pJS2I2eVBLWWVrcDRuUjNPUWhwal9kMEd1c2Nnak9OMW5GRktsbjJGeGl3QTZGZ2tTTW5NaGVXdTc0U25ZMjE2enRtRHdoRHhJOEROZlluU1NzM1ZHTzA2U1NDTjF6NE1FaGI5T1NjWTE3eXd0b0FFdWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "After Settling Iwatani Lawsuit, Nel ASA Faces a Steeper Climb: Orders Tumble 73% and Inflation Data - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlpRd2QyUUctbFltS2VTZkxQLUlYUDltbG1zWF8yZXVoZWdhSGFsTnhZcW1lOVhVVXNMZzh6cGRaMkduSy12eTJuWWlNWURLbm12Tmt4cjNQUlRqaTBUMlpveUVBQ0tGdy1rcklIcTYtM2FVQXgtOWhLck9rLV91Q0Z3NHlDdjQ3bDRXc3JKaW1CdnVBZ2E5S0ticndiQ3NvXy1ZMWluS0FpM1BWQUFDVTV1QVA1TVdmU0ptT3hoa3cxa0tu?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BofA: Siemens Energy's Grid Profit Growth 'Substantially Underestimated'; Buy Rating Reiterated - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOU0xNjV0OFl0MFY1OHhSZWRIS3U2RFNnRGRlVDRqR04wcDNvRzdTc0Izb0d1cTN4V3h0LS16cGRXYnlHMlhRY2p2bG5SQm42SEl0c28yX3NXQkRXOFlQZ2dkbW1tU01lOW52aHVacEhfTUZDM0kxSjdRU2dwYzgwSFdhY295LTRseUZpdFFxNkRFT0hYbVJXT0RnQzh4VXlBRUpXUmsxWUYyRWwzeDFBTDlvdzB3TlViUW94M1VRME9zSXFuVlozNTR0WHgwR3JRZzI3eG9BWnpCYVdo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Portland Marathon Announces Hyundai as New Official Vehicle - Endurance Sportswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxb3ZDbEhSeDhXc2cwNjlCaVRVMm11U1R3dzlCeHVZWFhIYmVFc3NXM1hBbi1TWGZUbHNtTHNERlphd0l5U1lGUFd5RmJ6QXdaTnZNeDRSQTU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 106,
+    "too_old": 92,
+    "gate1_blocked": 105,
+    "gate2_blocked": 42,
+    "passed": 17,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "BofA and BMO Raise Price Targets on Linde (LIN) Amid Hydrogen and Industrial Gas Growth Prospects - ",
+      "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+      "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+      "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works",
+      "Air Products supports Blind River 300 event benefitting veteran-focused programs - an17.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、Nel ASA、西門子能源相關動態：「Will NASDAQ Shockwave Burst AI Bubble? Major Movements at...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Will NASDAQ Shockwave Burst AI Bubble? Major Movements at Nel ASA, Oklo, dyna...",
+        "level": "yellow"
+      },
+      {
+        "text": "Siemens Energy: Record Orders, Digital Grid Acquisitions, and AI Demand Set t...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
