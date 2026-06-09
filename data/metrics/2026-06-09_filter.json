@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 98,
+  "gate2_fail": 38,
+  "passed": 26,
+  "gate2_samples": [
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Photos: Air Products Membrane Solutions expands in Maryland Heights - STLtoday.com",
+    "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+    "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+    "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:52:00.060820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-09-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Green Hydrogen Production Breakthrough: 31.3% Solar-to-H₂ Efficiency Achieved by Fraunhofer ISE",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.hydrogenfuelnews.com/green-hydrogen-production-breakthrough-31-3-solar-to-h%e2%82%82-efficiency-achieved-by-fraunhofer-ise/8576124/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's 0.28 EUR Pivot Holds as Investors Digest Legal Settlement and Deteriorating Backlog - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQkxLYU50TkU3ZlZ5ek53WVByM3g2a09RZm9HM0R1SWt6djFCbFhjWk91SlpVLW5DVHo5dG1PcTNubmdKRTlQNkZCVTRnNmlwbDZWemN3VGxsQS1wOXMyZ0FfR29qZnU0ckl2YXV3WC1xTkt3bnNIcnA0eHJRWHZ3M3VhSVpaVWl3ZWxMdngwVFBWc20xRzh0WUxzREZ2WWgydkxBbnRVTkFack9MV21aN3V4alJEblNyMG1TaE5SX2dRd3R6RjRpQWNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SIEMENS ENERGY : Deutsche Bank reaffirms its Buy rating - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGdMZkE4bUlmMXByVVFZNDcyY1JDMXpvOUFxdUpueDBCMlJBUldtSUVVbHFEU25zZWhlRVAwSE9QMFp5Zm90N3UyXzB2WjBrTjQ2d0ZvWjRtcGpkR0lVdzhfTWJ6SmpDSHoydXNOTTQ3anJhb1MyVzNFVE5WMkJMSnlFaTdHVEsxQzZ6T1dVSmRfSkhSWWRWVC1peFdFam1jRjFJOHMxeHNuQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Bank Research maintains 'Buy' rating on Siemens Energy - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSG5aNS1aNFdNU3lkWmNzTnFaQXN6S3lRV1QxcFNWdWlXM0NVT2lFQmk4WVVoQUxLc2EwanRPeHJIY3dXSkJWZzBIYjM3cThIZkpLQ0pyc2tiT2owazlSLWhQUXVjbFVzbkgtMU8xV1kzejI1aE96bnJmMlluNFV0eU9KR1NQVG1hRWZka2NwMXljVHVheHVQODhFM1Vya19JeDJSdy1VLW5jNzF0SnBmZWhQcXM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai’s bold smart factory is changing EV production - Automotive Manufacturing Solutions",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmpWYkw3LXNJOHpxS1VlR3A3X3BYS2pZUUtleWdUMzRIR1hkS05RNW9aQkE0MnpjT0d5eDZ3dUlRY1B5MXl3VHFUOFM2eVNmOTM5LVRldFpseWJIdHBRUXBaM1l2SGZiRWxxeG1WQVhnajRKbVdNdk16bGZvSjlrOC02bkNpMzdGSXUzZDB3bFMyUE96RENuRE5fSW50NVBtUEpobEhFOEsteXVmSWtHQ3VUemJGQzNoTTh0dmpjV3NuelJTRmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "bloom_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 94,
+    "too_old": 104,
+    "gate1_blocked": 98,
+    "gate2_blocked": 38,
+    "passed": 26,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Photos: Air Products Membrane Solutions expands in Maryland Heights - STLtoday.com",
+      "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+      "Air Products aims to reduce traffic by shuttling workers from Lamar Dixon Expo Center - 10/12 Indust",
+      "Air Products Supplies Low-Carbon Liquid Hydrogen - Fuel Cells Works"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、西門子能源、Nel ASA相關動態：「Green Hydrogen Production Breakthrough: 31.3% Solar-to-H₂...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Green Hydrogen Production Breakthrough: 31.3% Solar-to-H₂ Efficiency Achieved...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's 0.28 EUR Pivot Holds as Investors Digest Legal Settlement and Deter...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
