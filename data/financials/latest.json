@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T10:51:56.512266Z",
-  "quarter": "2025-10-31, 2025-12-31, 2026-01-31",
+  "updated_at": "2026-06-10T11:30:37.345727Z",
+  "quarter": "2025-10-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "air_liquide",
@@ -109,17 +109,17 @@
       "name": "FuelCell Energy",
       "ticker": "FCEL",
       "currency": "USD",
-      "ar": 6225000,
-      "ar_prev": 3999000,
-      "ar_qoq": "+56%",
+      "ar": 7684000,
+      "ar_prev": 6225000,
+      "ar_qoq": "+23%",
       "ar_period": "QoQ",
-      "inventory": 90275000,
-      "inv_prev": 86196000,
-      "inv_qoq": "+5%",
+      "inventory": 88449000,
+      "inv_prev": 90275000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "hyundai",
