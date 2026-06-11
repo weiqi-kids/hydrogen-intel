@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 97,
+  "gate2_fail": 40,
+  "passed": 23,
+  "gate2_samples": [
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+    "Air Products supports fish stocking, conservation efforts in Lake Maurepas with grant to LDWF Founda",
+    "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? - news.financial",
+    "Will NASDAQ Shockwave Burst AI Bubble? Major Movements at Nel ASA, Oklo, dynaCERT, SpaceX, and ITM P"
+  ]
+}
