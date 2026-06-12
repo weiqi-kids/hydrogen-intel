@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-12",
+  "date_range": {
+    "start": "2026-06-06",
+    "end": "2026-06-12"
+  },
+  "generated_at": "2026-06-12T11:34:29.001009Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "linde-2026-06-07-005",
+      "date": "2026-06-07",
+      "title": "Toyota Camry Goes Wild With 700 HP, Seven Cylinders And RWD Bosozoku Build - Autoblog",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 12,
+      "last_week": 9,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.12
+    },
+    "electrolyzer_capacity": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 27,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "siemens_energy": {
+      "event_count": 6,
+      "sentiment_avg": 0.42,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "bloom_energy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 119,
+        "last": 195,
+        "change_pct": -39.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-06",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 5,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 22,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 33,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 19,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-06 ~ 2026-06-12）共 119 則事件，重點為「Toyota Camry Goes Wild With 700 HP, Seven Cylin...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "ITM Power",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
