@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 100,
+  "gate2_fail": 28,
+  "passed": 20,
+  "gate2_samples": [
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Why You Should Add Air Products Stock to Your Portfolio Now - TradingView",
+    "Are basic materials stocks lagging Air Products and Chemicals (APD) this year? - MSN",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+    "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? | 2026-06-10 | Investi"
+  ]
+}

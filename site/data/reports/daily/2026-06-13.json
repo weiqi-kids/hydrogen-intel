@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:21:26.012888Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-13-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA's Electrolyzer Breakthrough Fails to Halt 15% Monthly Slide as Orders Collapse - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3RJaW5LQUlvTFYzTkk0LVJnLUlNYjRtSEw5NDBmNk5Ob1p3WW5pc3Q2S2JnQ052Nnl1LVZzVmVTNjV3ZVRLN0hHTzdOMnpLLUNwVHBGQWdWdDZiT0JBRk01Vk9kQWVEaGhXODdvSENrNE1aeDdIakZYYm1oUzFLaG5aVU5YMFpORDU4cE5USlpobHdldVlqRkJXMFpON2hpUFNHLTJPSTRvUFV0d0UxMHlDZ1NGa1JpWWJZNzdMd2p2NVc5SEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s June Crossroads: Grant Review, Auction Awards, and Project Approval Loom Over Battered - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJMUUEwN2Q2LVBKSmZ5R08zRmpvWlFncTBqOEpuWUpmRjVDY2Jub0xidTNGNWhUdGg4VmhWUG5WcXh4TExaQVd5OFYxN2M1M0tfY19CaXZNMndkb1FiQnYtaW5yTGtRdklSMXh0RGthY0UtX0ZwVmx0Y1B2Yi1pWVBEMWxEZWRScmU3OXdDSUVNMnZkeDRsZkxRWlgybUhOeWk0RG82Q29pd1pDVDlkZk9LYXhvX1FuNXhCUEhJMjZtQzBl?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-06-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Go Green Hackathon Showcases Best of Youth-Led Innovative Solutions on Community Heat Resilience & Smart Mobility",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/12/hyundai-go-green-hackathon-showcases-best-of-youth-led-innovative-solutions-on-community-heat-resilience-smart-mobility/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 98,
+    "too_old": 114,
+    "gate1_blocked": 100,
+    "gate2_blocked": 28,
+    "passed": 20,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Why You Should Add Air Products Stock to Your Portfolio Now - TradingView",
+      "Are basic materials stocks lagging Air Products and Chemicals (APD) this year? - MSN",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+      "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? | 2026-06-10 | Investi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nel ASA、ITM Power、現代汽車相關動態：「Nel ASA's Electrolyzer Breakthrough Fails to Halt 15% Mon...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA's Electrolyzer Breakthrough Fails to Halt 15% Monthly Slide as Orders...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power’s June Crossroads: Grant Review, Auction Awards, and Project Approv...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
