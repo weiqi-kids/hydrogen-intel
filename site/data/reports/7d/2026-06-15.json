@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-15",
+  "date_range": {
+    "start": "2026-06-09",
+    "end": "2026-06-15"
+  },
+  "generated_at": "2026-06-15T13:46:01.041648Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-06-09-023",
+      "date": "2026-06-09",
+      "title": "Toyota reveals seven-cylinder and rear-wheel drive Camry concepts - CarExpert",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 14,
+      "last_week": 9,
+      "week_over_week_change": "+56%",
+      "sentiment_this_week": 0.11
+    },
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 2
+    },
+    "siemens_energy": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "hyundai": {
+      "event_count": 30,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "bloom_energy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 127,
+        "last": 175,
+        "change_pct": -27.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-09",
+      "event_count": 34,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 11,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-09 ~ 2026-06-15）共 127 則事件，重點為「Toyota reveals seven-cylinder and rear-wheel dr...」。西門子能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:46:00.913642Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-06-15-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hybrid Cars Boost Hyundai and Kia's US Market Share to Record Highs - صحيفة مال",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RUXlfTTlHcXJyLXhmRWlfSVJPaENIWnB3aE1PSmFCRUxjU0E1X3p2cWgxUmFETVNBNEtUMFhYLVdxOHlZbnR5ZVd6bFhRaFJQb3dhYjM3dDF1bTV6YjlIUWhvSWkwT1hnUU9SaA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did a US$70 Million Missouri Expansion Just Shift Air Products and Chemicals' (APD) Investment Narrative? - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTVsM1E2cm8yUTBrdEZGUjNrQWgzTURZenRqbUw3bjQ0VHg5S3hPWVpRcHpGMlUtWEFtdjItdEZNUnF4X1lxejJnaUxQUU1EeGltUG5JTkhtbmdsczdPYXEwazNQUkhIcVNOa3RnX3NxS0xadDU4YkVsZlJ3QnItckVmcy1nTjYwNGRrM29lLVJkdkR3eVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products Has an On-Site Gas Annuity Story Bigger Than the Hydrogen Disappointment Narrative - AlphaStreet",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdXgyeWs0OTZXSzZZaGlES1VYdU00WWFaWWJUeFl4Y1JCMDc4UFo3Rm5CUlZmRTQ0YXkwZTFrTmpmamZLQnl1M0hMOUFSOExsdkpWaTBwbmREQjZxZzdhWVI4cGw0RGE4T3c4dmtTVm10YXJqcHlrdXp3MG1xa190bE1IQVZNb1F2dTB0cVozZ2x0YVFFdlI4SWRlTW5GT2UyYzRYblhzbm5VLURERktTMlR5bUNGSlRjeGIxZTFReU9hQ2ZvSWFiZ2hrWnFEaDZhRDh1bXFsbUlWTXBZbXNCZ2lRdWt2Vk5DOUJkSE92QkN5bFVhT2d5V2ZYZUJKWHJpaTNqeUczdmM2N1NEY2l1ajZ3cmZlUVlPVGpQVmwzUEZSZmtRaDFXWHF1SFBkaW55ZWM4QlFyNmFWR0ZXb0FQTHpsNlhCRzg0SWZtRlg0SmxuYU12SDgzRlFfZDZrcVZYZ2ZmeVh0WXNJdXozRlFDSVkzZEgzX00xdWczYnh5R1o1Z9IBggNBVV95cUxPdXgyeWs0OTZXSzZZaGlES1VYdU00WWFaWWJUeFl4Y1JCMDc4UFo3Rm5CUlZmRTQ0YXkwZTFrTmpmamZLQnl1M0hMOUFSOExsdkpWaTBwbmREQjZxZzdhWVI4cGw0RGE4T3c4dmtTVm10YXJqcHlrdXp3MG1xa190bE1IQVZNb1F2dTB0cVozZ2x0YVFFdlI4SWRlTW5GT2UyYzRYblhzbm5VLURERktTMlR5bUNGSlRjeGIxZTFReU9hQ2ZvSWFiZ2hrWnFEaDZhRDh1bXFsbUlWTXBZbXNCZ2lRdWt2Vk5DOUJkSE92QkN5bFVhT2d5V2ZYZUJKWHJpaTNqeUczdmM2N1NEY2l1ajZ3cmZlUVlPVGpQVmwzUEZSZmtRaDFXWHF1SFBkaW55ZWM4QlFyNmFWR0ZXb0FQTHpsNlhCRzg0SWZtRlg0SmxuYU12SDgzRlFfZDZrcVZYZ2ZmeVh0WXNJdXozRlFDSVkzZEgzX00xdWczYnh5R1o1Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Shares Ride Two Waves: a Scottish Hydrogen Deal and Geopolitical Optimism - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc05OMlNfNXJuQ0VxMFNEdTZ3Z1dmTGlHWFVQS0V0eHBBUzEwWkZIOHVFRHRWX3FSZkE0MUxOWU1QLTJoNTlRN2tiZkhlVHNWR2V6Y29vQmU5SzA3RFBIY2M1M2x6Rk9fSnhmajJRakxyS1Z5ZjdoQWJKMmdCSXB5MHRGVlRDRjN1WXdEbEd5S2duR2UtNWctT0g2bERXZXVmZF9sZUpuLTh1SnlmSUxxcnhLOWI2SUdXTTNhLWJXSk96STRkRDJSdmJLWk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Launches 2026 Kona Campaign \"Look At You Now\" Featuring Regina Hall - PR Newswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUZ0bzhPakV2VGFBR0xzSnU1UHdTSjRHbXJuMVBkRnlpdU1BYWdhRTVYTGE3cHcta3lUVDUzOXZGYjVjcUhiWURoVk03RDJuSDh4aW1JckFrSWItb0dTSjFydEVvS2p3Q0k4c2pfNEdXWjEwNkFVM0hxcDczbU40U3QzN2ZpUWs0M0U3VFZxRUdiME1aYUNfRTBpYW5iSHU5N0FlVmFRS3M0YWF5ZnJDODhhZ2JyOHFaSlpYaDF4U1I1UWdqRHZiTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 104,
+    "too_old": 113,
+    "gate1_blocked": 99,
+    "gate2_blocked": 30,
+    "passed": 15,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+      "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+      "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? | 2026-06-10 | Investi",
+      "Will NASDAQ Shockwave Burst AI Bubble? Major Movements at Nel ASA, Oklo, dynaCERT, SpaceX, and ITM P"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、Air Products、ITM Power相關動態：「Hybrid Cars Boost Hyundai and Kia's US Market Share to Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hybrid Cars Boost Hyundai and Kia's US Market Share to Record Highs - صحيفة مال",
+        "level": "green"
+      },
+      {
+        "text": "Did a US$70 Million Missouri Expansion Just Shift Air Products and Chemicals'...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
