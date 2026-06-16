@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 103,
+  "gate2_fail": 23,
+  "passed": 41,
+  "gate2_samples": [
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+    "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? - news.financial",
+    "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com",
+    "Decarbonization - An Overlooked Multi-Billion-Dollar Market! Strategic Resources Aims to Take A Lead"
+  ]
+}

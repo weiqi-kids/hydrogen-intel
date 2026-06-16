@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:46:44.634305Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel CEO Hakon Volldal steps down - Renewables Now",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3ZDhGNGpCbXV5SXBfUk1aWUxLX1J4ZGczUElvQXdCNW0zRE4yOWpHZ0tjaDFKYVZ5d2lUV19WeEZTVEJlNHFNQTczeHZLUEZISU9lNmEzZ1d1OGZJOWs4WEI2SUZfanJqRjh0T2pkT3ptZzlXZDJ1WktmV1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Reels from CEO Departure and 73% Order Slump as New Technology Faces Make-or-Break Moment - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamw1ODRrTFVmR3RMUlNidjlGeHJ1Rlo4Z2s0cGVOcUwzR29qd2N0S0xfVGNUY3RCLTM1clBQaHh2TnUxZ185Vm5FbXVWVm84NTdIZlZlRUFWNjB6RW1HTUhIX0RJQ2pQdFB0aW9FSVB3enU3VVdKYU9pYXZvaEhtck5RZXVpdDEyYm9IUFk4a282M1l6UVlsMXRqZ3EySlR2Rk4tWE1RdGlXN3RrV1FUMWdzaEx5NTJoLUFxeF9qOFFoRWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy chosen for 2.6GW Taweelah C turbine supply - Power Technology",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk1oek50M0Y2NVFHNEhlTGJZcU9odUcyWG1MUWNiREJTMk1sNlk2c2xZSllxV3Nnd2V5LS15S0R4U0V1VHVENnFwZlQyZU9td2Q3S0pjUUhFTTNxdjRRUUJVWHZHTUpNN0VUNmZmSEswTi1Xb2s5bnItbEVFZVhjcTEzZHRtWktoajRpRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SIEMENS ENERGY : UBS gives a Buy rating - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTVOY0Frak0yUkM4QmVQYVdfdVptM1NFTC1scWY4M05HWmlic0x4aHdTY0VsbEliZ1dsSW52TnJ3YzNFRUVCX3RMOXk3X3BiM2oxdnpYTWtRN2w2RXJveUd5LTNVS1dwbTZac1pmbUx6R2YtLWFqSG5vcjVWQjY2ZWtWY0wxcjVqYllTY2Q3Y0U2RTBU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-06-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy delivers turbines, advanced power plant technology, to 2.6 GW Taweelah C power project in Abu Dhabi - ZAWYA",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWg5SEJYdmtxMm1kazhHOF9ITlJJeTNuVnl1UFIzSERRVDVyZTdPXzM3QjFiRGd1cHBocUE2ZVd6OUEwMVY1MHR6T2ZVVFBPTktnWlNZcVpPQ2pFSlJ4UEtsbkpiOUpORTRZaElieEpGLVg0YXBvVVp6YzIxWEl1U1ZvY3pWQlVCaFRRYlFoTkhack5Zckg4c0s1T2dBOGphckZTTEc0UFJkQmIwbHJqSldyTVEwU3B5MU5Hc29jX25qTnYxQ3ducl9fUnJWZlNYcEkyNmpPMjlvUkYtanppYy1PaWZjVjlkWElxa2Q2djV1ODlydXlBcDJiWGJ1b3dBcGpIOQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "nel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 87,
+    "too_old": 107,
+    "gate1_blocked": 103,
+    "gate2_blocked": 23,
+    "passed": 41,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+      "ITM Power and Nel ASA in Correction Mode – Is dynaCERT Poised for a Breakout? - news.financial",
+      "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com",
+      "Decarbonization - An Overlooked Multi-Billion-Dollar Market! Strategic Resources Aims to Take A Lead"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Nel CEO Hakon Volldal steps down - Renewables Now」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel CEO Hakon Volldal steps down - Renewables Now",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA Reels from CEO Departure and 73% Order Slump as New Technology Faces ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
