@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-17",
+  "date_range": {
+    "start": "2026-06-11",
+    "end": "2026-06-17"
+  },
+  "generated_at": "2026-06-17T12:10:01.575816Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ballard-2026-06-11-013",
+      "date": "2026-06-11",
+      "title": "Market Shock and Plunge for Ballard Power and ITM Power! Does HPQ Silicon Offer a Better Opportunity Following New Deals? - news.financial",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.25
+    },
+    "green_hydrogen_cost": {
+      "this_week": 11,
+      "last_week": 12,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.05
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "siemens_energy": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 30,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 136,
+        "last": 159,
+        "change_pct": -14.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-11",
+      "event_count": 28,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 28,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 31,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-11 ~ 2026-06-17）共 136 則事件，重點為「Market Shock and Plunge for Ballard Power and I...」。綠氫成本、電解槽產能、燃料電池車為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
