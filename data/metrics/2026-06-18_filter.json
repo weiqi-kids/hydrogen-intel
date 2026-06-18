@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 104,
+  "gate2_fail": 33,
+  "passed": 27,
+  "gate2_samples": [
+    "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+    "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+    "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com",
+    "Siemens Energy reportedly considers spinning off industrial division - Investing.com",
+    "Siemens Energy Weighs Spinning Off Its Industrial Turbines Unit - Finimize"
+  ]
+}
