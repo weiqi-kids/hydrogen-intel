@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 78,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 98,
+  "gate2_fail": 23,
+  "passed": 37,
+  "gate2_samples": [
+    "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com",
+    "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch",
+    "Siemens Energy reportedly considers spinning off industrial division - Investing.com",
+    "Siemens Energy weighs spinoff of industrial turbines unit - report (SMEGF:OTCMKTS) - Seeking Alpha",
+    "In a First for Advanced Nuclear: Siemens Energy Turbine Package Advances for Oklo's Aurora-INL - POW"
+  ]
+}

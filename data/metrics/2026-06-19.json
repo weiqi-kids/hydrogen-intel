@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-19",
+  "total_events": 15,
+  "by_company": {
+    "air_products": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itm_power": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "siemens_energy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

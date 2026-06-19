@@ -1,81 +1,81 @@
 {
   "air_liquide": {
-    "earliest": "2008-08-18",
-    "latest": "2026-06-18",
-    "count": 4563
+    "earliest": "2008-05-20",
+    "latest": "2026-06-19",
+    "count": 4628
   },
   "linde": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "air_products": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "nel": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-18",
-    "count": 4473
+    "earliest": "2008-05-23",
+    "latest": "2026-06-19",
+    "count": 4538
   },
   "itm_power": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-18",
-    "count": 4502
+    "earliest": "2008-05-23",
+    "latest": "2026-06-19",
+    "count": 4566
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
-    "latest": "2026-06-18",
-    "count": 1456,
+    "latest": "2026-06-19",
+    "count": 1457,
     "history_complete": true
   },
   "thyssenkrupp_nucera": {
     "earliest": "2023-07-07",
-    "latest": "2026-06-18",
-    "count": 748,
+    "latest": "2026-06-19",
+    "count": 749,
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-06-17",
-    "count": 1985,
+    "latest": "2026-06-18",
+    "count": 1986,
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "fuelcell": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "cummins": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "chart": {
-    "earliest": "2008-08-21",
-    "latest": "2026-06-17",
-    "count": 4483
+    "earliest": "2008-05-23",
+    "latest": "2026-06-18",
+    "count": 4546
   },
   "hyundai": {
-    "earliest": "2008-08-19",
-    "latest": "2026-06-18",
-    "count": 4397
+    "earliest": "2008-05-21",
+    "latest": "2026-06-19",
+    "count": 4462
   },
   "toyota": {
-    "earliest": "2008-08-25",
-    "latest": "2026-06-18",
-    "count": 4374
+    "earliest": "2008-05-27",
+    "latest": "2026-06-19",
+    "count": 4438
   },
   "nikola": {
     "earliest": "2026-03-02",

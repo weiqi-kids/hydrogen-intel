@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T11:58:44.130473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products Completes $70 Million Membrane Facility Expansion - CHEManager",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEdaQ1hCXzJURXZrWVVqbjhWdGhuWVFDR0FzYzJOMC02U08yRkZQNlVPbUh5ZW95VXNpckN4TGJ3dXFFS0cyUkQwUFRlVFhOTTZweFkwUWRrdy12b1FwM21JWnNnWkViOVY3VTVLR0h4UC1XcFJHcmZIQ1h3NU91SEtXNG1sbS15LU11dVdXanFsYkF2bzhFcDdsRFIyYjJT?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: Investors Demand Tangible Results as Sheffield Hiring Signals Production Push - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVI5NzROejE1LVFxaDhrMkJ2YWtWVGRMQ3NyQzlGVXgzUFZQVUd6Nloxd1JCLVExbGUzUG1aNG5DajVNUjQtN3lSMmw2UkR0T25KeGp3WFFrOUR1OEp2NEs0VnZ0RHJNNmhaakJHUjl2TF9SRkowWUxPY1dtUkJTbk1TaFpxblhyX3hLMnpuWWlOZV84Mm1DUXBRUmdDTlRkNl9pdkk2ZjVRZU9sSUZ0Z05FQmk1WGhWUkVSQ2l2U0RaMmFkOW4wSmJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: Insiders Step Up Buying as Group Expands Sheffield Workforce - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb094OFRKQmIwTUlabWh5NGxYWjc3a3BtWGtoNWFqdUp2TExKdXZuTUh5Y0NDMFA0b3NtZ0xGXzYtZ0dBVnNLcjBWZU1YSFk5bkF6SlFUcVk4a1pMX2laWklycUFJV3BDS2ZTWTZ3LXJua29xaXBKN045ZzF6M3Jldm1ZdGxtcFU3S1hBV0tuSkNxV3ZqdU1RTjlNN1VrenBzSjdnVW1oYTBGXzFTM1BXb1E0ckJYZjhwTUJCc2c3a3d1dGY4YldhYQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deals of the Week: Siemens Energy's big home win - Recharge News",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzZ1b0FvV25WTFh3NXpBNTVrc2V1VEFWTTlRcGZhcGtxMW10Z084LWsxamk0Z0Nyam44TTgyR1RmYk92TXhDY0gwSWJyM0Y0NTlQNW1EQkxoVmd4RElTMzlYSHBhZkIyMWtfWFBqU3FhbmRiczducEdPNWlRVFRUUWt4bktqZGFPV3BnZWMyd1d6Z3FqdUN2VUlRRGR6Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-06-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Bank keeps Siemens Energy at 'Buy', target €200 - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcU5nVmEtTFNpanVISWtfeFZQTWtMSmRUdU5EMUZZQ3NRU09pUjk5MnJRaUpvbUZTTnFkaG51blNSZTlpT09nMU91S3M3Y3h2c0V5RGM2cGxIaEtpZHFUaGhHMnN0SjlJQXdPVGtKRkthWjRfN2JpMk1mMUVHSVd4WVM5YmtTTkdPNDZPSlJ5Skl5VUhoWXA1YWdkQ0lQX2pPSERhczluWDEyaW8yQXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 78,
+    "too_old": 106,
+    "gate1_blocked": 98,
+    "gate2_blocked": 23,
+    "passed": 37,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com",
+      "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch",
+      "Siemens Energy reportedly considers spinning off industrial division - Investing.com",
+      "Siemens Energy weighs spinoff of industrial turbines unit - report (SMEGF:OTCMKTS) - Seeking Alpha",
+      "In a First for Advanced Nuclear: Siemens Energy Turbine Package Advances for Oklo's Aurora-INL - POW"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、西門子能源、ITM Power相關動態：「Air Products Completes $70 Million Membrane Facility Expa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Air Products Completes $70 Million Membrane Facility Expansion - CHEManager",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power: Investors Demand Tangible Results as Sheffield Hiring Signals Prod...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
