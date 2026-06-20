@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:25:36.861789Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Executive Changes to Enhance Service and Growth - Intellectia AI",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHQ3TzhLN243SWc0X2ZaMV9Zd0V3T1g1bVAtdjlrdG56eGdxMjBkaWtqT1BSalVSSWlLUWdPODR2eGpBUXctYWRwaE85WHd6UENqRm45SEJDR3FaRmx0cjBmODdyNGMxVzJaY0tfQ1lNc2VvbTRiY2ZkeXc3QndwcjF2Yy1od1JLN0V6dzlnTjE5UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 102,
+    "too_old": 114,
+    "gate1_blocked": 98,
+    "gate2_blocked": 34,
+    "passed": 15,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "How is Air Products and Chemicals' stock performance compared to other basic materials stocks? - MSN",
+      "Air Products & Chemicals Stock - Saturday look at the industrial gases business model - AD HOC NEWS",
+      "Do Wall Street analysts like Air Products and Chemicals stock? - MSN",
+      "ITM Power: Short Sellers Refuse to Budge Despite 110% Year-to-Date Surge - AD HOC NEWS",
+      "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為豐田相關動態：「Toyota Executive Changes to Enhance Service and Growth - ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Toyota Executive Changes to Enhance Service and Growth - Intellectia AI",
+        "level": "green"
+      },
+      {
+        "text": "豐田為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

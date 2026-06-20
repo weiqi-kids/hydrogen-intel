@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 98,
+  "gate2_fail": 34,
+  "passed": 15,
+  "gate2_samples": [
+    "How is Air Products and Chemicals' stock performance compared to other basic materials stocks? - MSN",
+    "Air Products & Chemicals Stock - Saturday look at the industrial gases business model - AD HOC NEWS",
+    "Do Wall Street analysts like Air Products and Chemicals stock? - MSN",
+    "ITM Power: Short Sellers Refuse to Budge Despite 110% Year-to-Date Surge - AD HOC NEWS",
+    "Down 30% in 2 weeks! Is ex-penny stock ITM Power now too cheap? - twelfthmagpie.com"
+  ]
+}
