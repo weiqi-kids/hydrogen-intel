@@ -1,28 +1,28 @@
 {
   "air_liquide": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-19",
-    "count": 4689
+    "count": 4750
   },
   "linde": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "air_products": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "nel": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-19",
-    "count": 4597
+    "count": 4656
   },
   "itm_power": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-19",
-    "count": 4627
+    "count": 4688
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
@@ -37,9 +37,9 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
@@ -48,34 +48,34 @@
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "fuelcell": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "cummins": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "chart": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "hyundai": {
-    "earliest": "2008-02-21",
+    "earliest": "2007-11-23",
     "latest": "2026-06-19",
-    "count": 4525
+    "count": 4582
   },
   "toyota": {
-    "earliest": "2008-02-27",
+    "earliest": "2007-11-29",
     "latest": "2026-06-19",
-    "count": 4498
+    "count": 4555
   },
   "nikola": {
     "earliest": "2026-03-02",

@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T10:59:27.386866Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai to take full ownership of Boston Dynamics in SoftBank buyout - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GT28tVHZyODZCMmlnTl90NFB5S0Z6blhxdDUwVkJLdjRmaXRCeTg2UDR2Wnp2dlpiTldNN0lSTUZ3VnJ6UVdpQWlpVml1Mi1McDNvRlFvRXpRVDhrUU9UUDZBOE9uSTNTdTE0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor, Kia post solid growth in India through May on strong SUV sales - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wc2NlLVF5cDhhUTI3OUktb2hsN2prOHlEM1E0U0hFY1lwTzJyeE4zYWtzM25LRU9iUnZpLUd1Q3RtQndTREM2c3U4dzRBTjB2WmJVVDJNcXRPZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASEAN Electric Vehicle Market Opens… Hyundai Motor is also localized - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cU9YWW54ckNiaHhhcVJKN2hRWTlJVjVRSDh4dnJjeFB0c2NlWm4zdHBDVzVqTXlYZGVCRkM5MUhjTWpOWHdGenRkbUJLNUstZHY0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-06-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor and Kia: Why They Can Smile Despite Profitability Concerns in Q2? [Weekend Money] - 아시아경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KYWQ0TEJQcDlOWm9hdzVVeTdUN2hnbXhPbDZYblRaNHRPLTlqLXBETTR2VUlFdlhSdjFCTzh4WUZWb3Y0cXVPdjhZSDc0ZTJFUW5qR3dXb05mdW1yVjhOWVRrdV9NcmFGZGhHeWhrU0pJUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nepal’s Green Hydrogen Efforts Gain Momentum as Expert Details Pilot Projects, Costs, and Future Potential - Techpana",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjJkSkM0X0NkNHhUNnlKTzNUQ3AyNl9IYXVGQUZNNm5CbHN6aWRBYzFyRGhjTEJDQjNFX3BnVVNHZnVycHFsQXNoWVJuVzJVUWQ4OHhaMnRTMDRXTDFrRnFtOFAyMGpZMHkwMXpHX0IwTXZ5a1p2ZmliSTVFb2hsQloyYlBDcUY3WXYzLS1YaHhuTENvRHVGakRGcGstTzJaeThWUk56QzNrbWRwd0tTM3JDWnpLcV90ajl6RVpuTGpWVEYxRENxclAtR1VlVmN6N1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 102,
+    "too_old": 122,
+    "gate1_blocked": 99,
+    "gate2_blocked": 25,
+    "passed": 15,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "SHOCK at Nel ASA! RELIEF at TUI! OPPORTUNITY for Zefiro Methane! | 2026-06-19 | Investing News - Sto",
+      "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+      "ITM Power: Macro Data and a December 2026 Bet Determine Near-Term Path - AD HOC NEWS",
+      "Siemens Energy reportedly considers spinning off industrial division - Investing.com",
+      "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為現代汽車相關動態：「Hyundai to take full ownership of Boston Dynamics in Soft...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai to take full ownership of Boston Dynamics in SoftBank buyout - KED Gl...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor, Kia post solid growth in India through May on strong SUV sales...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

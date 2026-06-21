@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 99,
+  "gate2_fail": 25,
+  "passed": 15,
+  "gate2_samples": [
+    "SHOCK at Nel ASA! RELIEF at TUI! OPPORTUNITY for Zefiro Methane! | 2026-06-19 | Investing News - Sto",
+    "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+    "ITM Power: Macro Data and a December 2026 Bet Determine Near-Term Path - AD HOC NEWS",
+    "Siemens Energy reportedly considers spinning off industrial division - Investing.com",
+    "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch"
+  ]
+}
