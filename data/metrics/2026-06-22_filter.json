@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 102,
+  "gate2_fail": 25,
+  "passed": 12,
+  "gate2_samples": [
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+    "SHOCK at Nel ASA! RELIEF at TUI! OPPORTUNITY for Zefiro Methane! | 2026-06-19 | Investing News - Sto",
+    "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+    "DCD>Studio: Building the technical foundations for onsite power generation with Jim Mozell, Siemens ",
+    "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch"
+  ]
+}

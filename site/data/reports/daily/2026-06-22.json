@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:26:02.930423Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-06-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SIEMENS ENERGY : Buy rating from Jefferies - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWFzZVZVZ0Q0LU0tUV9lbVFJOXZFX19jVExGYldpTW5rTFRFTFlmZEpkR0s1MWhaMkNyVjY0WHpvNlN3SXRZSEZQSXpQeTBtaDBnMWk0OHJUVjlNa2lxeU1BcTl1cGJJQmtIRmE4TFdlZnZKMmZUeXVwQ2dtYVlEdXJJVGQwanQ2TGJ3WjQ1V3I2UDBfcmUwZA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "chart-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chart Industries (NYSE: GTLS) details EC Phase I review of Baker Hughes deal - Stock Titan",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0JrazlFMHNXWGlqUWlfTHVGWjVEVDZPQThPMXRFMXRTcXdReUN5MmJJdUdjdjFuNGIxdlB4ajJJcU9hRGM2eHAweDYySlFZNjFHY2RKRzhkVFZpVmt2MFNFckxmZTB1UEZHOFJKQjJiX2F2Z0VQeURPclJRYUdGRWhOQUVUamxGd0FTOUxqak1rZUY3VDdqZC1BMjY3M1hTNzA0U3VvdUR1aHM3SlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-06-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chart Industries says EU review discussions could extend Phase I but merger still expected to close in July 2026 - TradingView",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd0swbGxwNUVtTXRaTE9fdWxud2FJZmRpek1LY1JqVGQ5cjN2bDlKRzBKZF9sZzFzRkVidlZzRXloVmo5akZiRXNiX3ljVXhUZUNmOGxmZEp0OHhDT0RUNngtMlNicWdsekhYSnlEY1YwVnh1aDZ6YTlLTnJmcURxcmtub0wzbXNiQXpFSEJ4TDdzYmhZUnhPMUNvX3NtdDAwdTF2QUJjbk9HY2pVMWc0UUVuckp0amFSSWxmVmd6XzgybGVCcTJ4NENlcDVwdmQ4M2lPQ3VCTE5USElKWDJsMjRzWEN5NTkyeFpqeWlNWmJGRTRjQk1ZY1pEd21ySEExVmxaUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "chart-2026-06-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes offers remedies to obtain EU nod for Chart deal - Reuters",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnplczU0elV1NWNnZ0Q3VG10UG9VYko4LW92Nk03Q2N6VVlOcDhqU3ZaNV91NnYwWWFLU2JCNnhSQXRoYVVEVE9Tc3VXdWlPdjkyQnI0cjQ0b2JHRU5VS3lsN3ZGN1BVQkEtbUwyeW5IbjlTdEJBekRGLTkzV21uVWFHbHdUclpVZVA0ejVWV0Z0Nk13RE04NHBYT2dJbmd2ZUVhNUI1TW9lZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "chart-2026-06-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes Offers Remedies for EU Nod on $13.6B Chart Deal - Global Banking & Finance Review",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjFWeGNGNEE2X2pLYUJvWVVFOVFYcW0xME55c2ZlU3Q0WGtWZF9ySWpIS0xmbjRHRi1GZVEzNU1MQlhfemFDZEw5d3NlZGVuMDE1Ml9iZWZXRUNsSGc0MmZLZjZaR1dKdm8zSEhHZkdkdWpYeFA3TTNlOXk1MmZHOHRETVBCRTFtNXF4clBCS0FmSl9Yd2hPTHV3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "chart",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "fuelcell",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 104,
+    "too_old": 119,
+    "gate1_blocked": 102,
+    "gate2_blocked": 25,
+    "passed": 12,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "SHOCK at Nel ASA! RELIEF at TUI! OPPORTUNITY for Zefiro Methane! | 2026-06-19 | Investing News - Sto",
+      "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+      "DCD>Studio: Building the technical foundations for onsite power generation with Jim Mozell, Siemens ",
+      "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為查特工業、豐田、西門子能源相關動態：「SIEMENS ENERGY : Buy rating from Jefferies - marketscreen...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SIEMENS ENERGY : Buy rating from Jefferies - marketscreener.com",
+        "level": "green"
+      },
+      {
+        "text": "Chart Industries (NYSE: GTLS) details EC Phase I review of Baker Hughes deal ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
