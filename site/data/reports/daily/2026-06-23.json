@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:53:31.094186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "linde-2026-06-23-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Linde refines hydrogen strategy, S&P 500 stock stays near record high - AD HOC NEWS",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hydrogen_policy"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXJqNXFMQlZTZ2dwUTJBTEM2dzBQemZKUXJJTk5JeUJ0NzltWmFHQWRaN2JqT280b3JYNWVnYUtSSDZtTDc4S0RsRU52dVotT0NpME80eVVxcFR4V0VKanVzc0lFblZPM2xpaFNYbHlFb2l4R1haR0xWQ3BNZkpEWnpQUFZiY0pWLVJHTUNYWEZiejVyQTJnWDlzRmlDekRsaER1czdzM3o2QXNjZXpreVR5S2JBNllQenY4VlcwdUxYVEMzUlBqSDBmaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp_nucera-2026-06-23-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCERT a Buy Now? - news.financial",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWt4Q21oU1N1cXFQUEM4V2pEUXhnN3RBdVBrZGxSbjRzY2dnUWk1N1ZnemZTdmdEX3lUdzBkR2pXN3RNT2Rhc3VKcDhKZnJ1dFlrb0Rfa0pHRC1SY3g2aTNGVDE5SS1kTjBmdWN5WFEyVHF0YmN0eXU0dWlFODNhdlVRV3B3WkpoQ3M5UlFFa05fZjJMcWJWVEZWUkdGTWQ4b3RJc3AzaDRrT0ZPaTQyTTNzQmNaZmFPZWlGUHBVcVNGV1p3NFJIeG10VC00RThLT2l3dg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s New Electrolyzer Platform Slashes Costs as CEO Walks Away and Stock Slides - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0lYVGNYNzZoaldBOHpwRVVrQXhuYWpHWGdjamZvbGxhVi1rbGhnam4zZWlYUDZlRGRxVW1wNXFVV0VPcVEwdmVwVzQ4cGlyTlhqbjhxaGwwOU1BM050MkxOTGRFZ2I2UGQ2TnJnVkNIcVVkSEJLSF9OZFdGclZ1QnlDSmRuRjMwcVhjWHZFSl9XYWpaSmVOWFYwOFpwYUNEcGJKYkJvQ1VEOEdLTm5NOWlraFg2cGNxODBoMmVvY1Q4Qk8weS1jWVhn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "chart-2026-06-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes submits EU remedies for $13.6bn Chart Industries deal - Offshore Technology",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFRRbjdaVHVHdEpmQUNhWjNOdGN0Z2lZMzRxSnpWMjRZYWZLdVRSdlJ3SjhzSHlYSXhubFBhM0JzR1pNYnFfc1VBRFN2RFRIcmJwdFBKWnRyWXlmMmRiZnplOTFURmp0NjVQbjBxZEp5R2VWMVl1eG1RSnM3ZDVWMWNZYXNsbVBnajdr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Announces Smart Care Clinic For Improved Ownership Experience - CarLelo",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFocTdaLThsS2FaeVM1eUxRSGxkSVIwRVZ5VHViS0ktQ2FuUUJ0WGx5V1hNb1ZzVGhock1FNnJDN0VBNDZfcjc3SmNhSGVWbnQ1SHFRUEhlRHlfLUpTNzc1ZTlHYlZJSUNJQXlxRTgtZC1tZjFfZ1VaQ3RQaGdsWGxCSUI4SWVicS10RjVOU1NsamVKT1BsNUhOYmtvbFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 92,
+    "too_old": 111,
+    "gate1_blocked": 101,
+    "gate2_blocked": 33,
+    "passed": 25,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "SHOCK at Nel ASA! RELIEF at TUI! OPPORTUNITY for Zefiro Methane! | 2026-06-19 | Investing News - Sto",
+      "Forget Pure Diesel Engines: Nel ASA, dynaCERT, and Daimler Truck Offer Green Returns - news.financia",
+      "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch",
+      "Siemens Energy reportedly considers spinning off industrial division - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為現代汽車、林德、Nel ASA相關動態：「Linde refines hydrogen strategy, S&P 500 stock stays near...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Linde refines hydrogen strategy, S&P 500 stock stays near record high - AD HO...（氫能政策）",
+        "level": "green"
+      },
+      {
+        "text": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCE...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-23",
+  "date_range": {
+    "start": "2026-06-17",
+    "end": "2026-06-23"
+  },
+  "generated_at": "2026-06-23T10:53:31.220764Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-06-20-006",
+      "date": "2026-06-20",
+      "title": "Toyota Motor Corp (NYSE:TM) Screens as a Top Dividend Stock with Strong Fundamentals - ChartMill",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.0
+    },
+    "hydrogen_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "siemens_energy": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 22,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "chart": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "fuelcell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 9
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 142,
+        "last": 145,
+        "change_pct": -2.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-17",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 7,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 10,
+      "sentiment_avg": 0.15
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-17 ~ 2026-06-23）共 142 則事件，重點為「Toyota Motor Corp (NYSE:TM) Screens as a Top Di...」。林德、thyssenkrupp nucera表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 13 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

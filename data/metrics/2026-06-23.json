@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-23",
+  "total_events": 10,
+  "by_company": {
+    "linde": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "hydrogen_policy": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
