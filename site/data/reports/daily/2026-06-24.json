@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:40:28.861607Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-24-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Catalyst breakthrough could accelerate green hydrogen production - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHpuV2ZiRUt3R3RjeEJhSnJNWkFNUzljdXh5Z0NQVU4yamNiTmpCVF9NOU9tOFI2amtsQWlyZFFVXzBDWlRHY09mMkpTeDJSMXIxcVNaS1dRX1Baa0NVQkoxSldFaXFaNHdFbFhrVEROLWVBbGFXZlFOOFhCMXdJQzc3SldDb3ljUWtSWlQwRGpIVXF1YmNPcFB0RHRVU093Y1J2QkZJWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-24-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Catalyst breakthrough could accelerate green hydrogen production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Counts Down to Q2 Earnings as Leadership Vacancy Complicates Profitability Push - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXREa0llWVZhdmw1WVVCdjdsT0FqOE9Ia0ttWHZRN2t1dzY1SWdWcUlFUkJmMERLbGdqRHJIQ05lQkVVS3RWOENPbjlQczE1UzZVTU53RkdkREE0dlVZb3NPQUgwU2xNQk1zNXA2aDA0Vk9HaWdxMVNMZXhoNGtDejc5dFVJLTFFSGNFNGRVWFBtb3lqbTFyTFdJRk1oMzlnRlphNmlXVHMzU2dQSEpRajJMV0I4c0dndXNYVm0tcmtfQWoyUGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power, DB Systemtechnik sign letter of intent for study - Investing.com",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWFueU1VS2tUNnRiM0tzbGM0bm56Q01vbnowWDE4RTFxclp3dmdXdWIwc1QtZ3kxX2lnVURtY1dGdW1DQWdwT3BMZXI2T1pEMm53d1pVLVNXZUx3VmxUdElRVm1WT1VlLXFSZDNEU3daRW8xREFqNGlpUzF2QzdyN2xJbF9HTTI2N2wyaDBGSTJVa3E0QWNBZWw2VlZ2UmI1SGpqdHZBblpHeTdwdDUxN0RNQkJHQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-06-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Itm Power Regulatory News. Live ITM RNS. Regulatory News Articles for Itm Power Plc Ord 5p - London South East",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnJ6SE9hWWxFUF8wMW1sNXR6Sk8weWlZdkNzdm9ONWRXQXVXOGhDa3AwUU9mSVhrYlptTDlDenhfcEoybm4zNUdjXzdoa3dmLUI4b2NOcUVydGNNcklmaDN4U2tBdlJOTWNfOGM1aC1lbGwzTUY1ZmlWdXZZa3ZXQ2h1N3BpV3QtN3JLbQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 90,
+    "too_old": 113,
+    "gate1_blocked": 99,
+    "gate2_blocked": 33,
+    "passed": 27,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "UK Stock Market News: Berkeley, SEGRO, ITM Power - Yahoo! Finance Canada",
+      "ITM Power inks letter of intent with DB Systemtechnik - Sharecast.com",
+      "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch",
+      "Siemens Energy reportedly considers spinning off industrial division - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、ITM Power、豐田相關動態：「Catalyst breakthrough could accelerate green hydrogen pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Catalyst breakthrough could accelerate green hydrogen production - pv magazin...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Catalyst breakthrough could accelerate green hydrogen production（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

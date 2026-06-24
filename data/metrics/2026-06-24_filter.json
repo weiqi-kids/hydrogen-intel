@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 99,
+  "gate2_fail": 33,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+    "UK Stock Market News: Berkeley, SEGRO, ITM Power - Yahoo! Finance Canada",
+    "ITM Power inks letter of intent with DB Systemtechnik - Sharecast.com",
+    "Siemens Energy considering spin-off of 17,000 employee unit - EnergyWatch",
+    "Siemens Energy reportedly considers spinning off industrial division - Investing.com"
+  ]
+}
