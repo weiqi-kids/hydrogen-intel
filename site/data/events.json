@@ -1,5 +1,23 @@
 [
   {
+    "id": "hyundai-2026-06-25-001",
+    "date": "2026-06-25",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor to Deploy 100 AGVs at Ulsan Plant With First Use of LTO Batteries - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eTJGekFIaHRiNVBUYmdtSS1uTHRpOElyajZQUWtHSGtFaURHaW1LeDd5LWpzT3RweF9UcGRtYVJUay0xbTdmeGxQc1pSLVhGRXVLTFJVbFM2NGZ1cm0zZ3JwaHoxSFU?oc=5\" targ",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eTJGekFIaHRiNVBUYmdtSS1uTHRpOElyajZQUWtHSGtFaURHaW1LeDd5LWpzT3RweF9UcGRtYVJUay0xbTdmeGxQc1pSLVhGRXVLTFJVbFM2NGZ1cm0zZ3JwaHoxSFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nel-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [
@@ -267,6 +285,456 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-06-24-016",
+    "date": "2026-06-24",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Stock Hovers Near Critical Support as CEO Exit and $7 Million Settlement Cloud Q2 Outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGs3alJGdUlmNkQ0TXVDX2piRGwxX0g0OWJpaWZNUGVINHNvUDUybFZMeWFUWkppMFhmZ2h2VzlDLUliRXVFSlR0TEw1Tl8wU0Q5N0h2b1BfU1lLRlNBS1NxV2hwcDZ1UnNzN0NJbn",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGs3alJGdUlmNkQ0TXVDX2piRGwxX0g0OWJpaWZNUGVINHNvUDUybFZMeWFUWkppMFhmZ2h2VzlDLUliRXVFSlR0TEw1Tl8wU0Q5N0h2b1BfU1lLRlNBS1NxV2hwcDZ1UnNzN0NJbnZGNVI1V0ZEd3dYMjJJSEtnajdDUGpiMjJKSktZT1l0OVFCemtQOGpPaEZZLWZqQ2ZpQzE1N0w4blU2ckNRc2xXSkpiSHlqQk9CMks3QnFId1NMc0NPbTEwRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-06-24-017",
+    "date": "2026-06-24",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power and Gore Report Ultra-Low Degradation in PEM Electrolysers - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHdlLUc0M2wtVjZLeGwzVHFZdGNQS2lSRTZaLUdZQXBfVkU4Q3U3T2RRYTYzYXN2ZlZlM21BNnRMSXN0dWRCRWdIUFdCdndtTUVCemxyUnBLb1I3eWdDVjJtNjlPQW05OElqVXpKQU",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHdlLUc0M2wtVjZLeGwzVHFZdGNQS2lSRTZaLUdZQXBfVkU4Q3U3T2RRYTYzYXN2ZlZlM21BNnRMSXN0dWRCRWdIUFdCdndtTUVCemxyUnBLb1I3eWdDVjJtNjlPQW05OElqVXpKQUg3YzdMcDlaWTVNQUtnV2M0YXVMMjdjYkh4bU14T1lDV0hqdWRFMzZKXzFaX3JIand1a0hBa0tXbFVnNnZFZi16X0cxUjJUT3BGTGl6V0xqaElfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-018",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "ITM, Gore eye 80,000-hour PEM life with ultra-thin membrane - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJoV3ktX1VCbW9GWlk3WlFIZnNZVGNRcV9zTHJfX19IQldicENKai1tYkxlaVNib3JvX0p5bUJwZHFqT25oaGlWZTFxdDN5Qko2OEswRjhkMGNVQ1NvZ0wzVUVVT3lBZWEzLTR4c2",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJoV3ktX1VCbW9GWlk3WlFIZnNZVGNRcV9zTHJfX19IQldicENKai1tYkxlaVNib3JvX0p5bUJwZHFqT25oaGlWZTFxdDN5Qko2OEswRjhkMGNVQ1NvZ0wzVUVVT3lBZWEzLTR4c2tKOVc1TnpheGl3T3djaHBrOWw2bEl2T1NGajJTWWRKS3hjZk9zYnRJcGs1Rk14Vi1tbkljUGxSM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-06-24-019",
+    "date": "2026-06-24",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power, DB Systemtechnik sign LOI for green hydrogen partnership - Quantum Commodity Intelligence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTE2cWdCS1BqNWd2azMyYk0yai1WTnVodkVDUG9kcWRmUFM4aDVPampnYnNLMGRrNVA2c3NUUXo0Q21nd1liZHhualpvQ2UwMXJxVFNXbU53UkswMGVSU1k1NHUxZWNJZVdkbXJFQT",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTE2cWdCS1BqNWd2azMyYk0yai1WTnVodkVDUG9kcWRmUFM4aDVPampnYnNLMGRrNVA2c3NUUXo0Q21nd1liZHhualpvQ2UwMXJxVFNXbU53UkswMGVSU1k1NHUxZWNJZVdkbXJFQTlPSW5rdmltQWtjUXJDRDZLWTB4RFdMbzlEeWVxbnBsMTJaQ2ZuNWJlMGdfUk41RmZYeWZQOUFNWWF2d21KRDJJUzhsbTFBSnBqMFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-06-24-020",
+    "date": "2026-06-24",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power and DB Systemtechnik Green Hydrogen Partnership - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGFxNlpvcEFUWWh6clRiVDF3bUNucHMxLWNoWTNCQXFQMDF3M3ZHM1RDT0NYbG1kR0NwRFFjN0tkQkxQa25XdEtMUWl2NkpZSDVSWTFFWFhQTUxlQnBIZTlqWjRPcHhPTGI0QWxTQ0",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGFxNlpvcEFUWWh6clRiVDF3bUNucHMxLWNoWTNCQXFQMDF3M3ZHM1RDT0NYbG1kR0NwRFFjN0tkQkxQa25XdEtMUWl2NkpZSDVSWTFFWFhQTUxlQnBIZTlqWjRPcHhPTGI0QWxTQ09DZ3NsbUZVUEJyNlBma1UyV0lSN3pWaU9GRURkMGY3OU5ONVRkZWM2MXV6SjJjTXpWV0ZOUlVxYVp4MTh3aUJRWGFSRVFTQ0UxRlhOek5aUkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-06-24-021",
+    "date": "2026-06-24",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power and DB Systemtechnik Launch Green Hydrogen Initiative for Rail Applications (ITM) - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUE9xUVNsMG80Qlo0Ri1YbmhZc2ZwVjVuSVBBb1pDclFEQzVHYV94N1FzcWpLWkx2bXR1Snk5a1l3akZISVdVZklDQ0RwTTFSdkxoUHVwMUJIRVFIaXo4NVVOUzN5cEczNFloZzR6aj",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUE9xUVNsMG80Qlo0Ri1YbmhZc2ZwVjVuSVBBb1pDclFEQzVHYV94N1FzcWpLWkx2bXR1Snk5a1l3akZISVdVZklDQ0RwTTFSdkxoUHVwMUJIRVFIaXo4NVVOUzN5cEczNFloZzR6ajV2SGE3czVjMklpU3ZkbnQ1aGl6a3R3Q1dnMXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-06-24-022",
+    "date": "2026-06-24",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Algeria and Siemens Energy Discuss Green Hydrogen and Ammonia Cooperation - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTHo5czNGOGo2QzFoNlVXNFJmRG9WNzVNR0RmMGgtVVM1TmlkRERxNVo3RzQ5cmhNUUI1ZHNnZVdtVlhVYzlHNzMtbkl4WXJ4dF9UWGpxM1dxMEp1Z0FJUjRJYllpUnhld0tuTllmb2",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTHo5czNGOGo2QzFoNlVXNFJmRG9WNzVNR0RmMGgtVVM1TmlkRERxNVo3RzQ5cmhNUUI1ZHNnZVdtVlhVYzlHNzMtbkl4WXJ4dF9UWGpxM1dxMEp1Z0FJUjRJYllpUnhld0tuTllmb2NQTTlxb1l3bW9XbWVSdUNoMkpCTzZqSUtiaEJTWWlsVG5uYWNVY3NrSFozSnBaVGw0WlVYTHhYbE5UWE10cUdpRkQteVZBZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-24-023",
+    "date": "2026-06-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor workers back strike for big bonuses - Bangkok Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDF5NUZvNWlxRmlIRUk0VW1aQW5HR2haMjlfNk9GY1VXYmNEcDYtbHgxa2N2TG96TDZmRjE5OTB6cWUzdk1PQVg1RXd1Nk01NmpUc0VwMTg3TF84SXllWXdhRFZIWURwVDRBbGRCQU",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDF5NUZvNWlxRmlIRUk0VW1aQW5HR2haMjlfNk9GY1VXYmNEcDYtbHgxa2N2TG96TDZmRjE5OTB6cWUzdk1PQVg1RXd1Nk01NmpUc0VwMTg3TF84SXllWXdhRFZIWURwVDRBbGRCQUdZcjBqZHhISXhTbU9BVTdXOFRRWmROQTB4VE1qYWlmOUhQOGxUUWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-24-024",
+    "date": "2026-06-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea's Hyundai, Kia launch cybersecurity working group - upi.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFk4dVItcDFLZXFJYjVKQ3FOQ0tITU1IajY2Z2JxTmVsRkU2eXRfZFVqQXd3ZElyS0dDZUE0YlVoRVVudjdjQm83Sjcwc2I3QXM1X0xQbTVUZFRQTWlrT0M4Tkg4aTBnbUYzRnJpU3",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFk4dVItcDFLZXFJYjVKQ3FOQ0tITU1IajY2Z2JxTmVsRkU2eXRfZFVqQXd3ZElyS0dDZUE0YlVoRVVudjdjQm83Sjcwc2I3QXM1X0xQbTVUZFRQTWlrT0M4Tkg4aTBnbUYzRnJpU3BzWVp4Z0cyLU9hYXVUbkFFcHhBWXZ1RUVzaE8zUUxCdy1sa2ZjRVRJRjB3NEM0OHJtamUxamNxcDAwRTRoR2stM2E5RkUyOFFZdmlvYnlMcEZrczFWeWw00gHMAUFVX3lxTFAwd05pVHFUV1Z2cERXOTdaYTI3WFNwcnNJZFFLV1VPR18xYk4xUmZMYlpyTnU4YnBySk9oaXduMU9vZGZ0bV8ySGtLbFZmbWs5ZjE0ZHFReTB3M29RT0QyT1lxbEtCZHNGYTd6UHNKV185dGxkRlQyckY4azRJQ3VUZUJwSmZLd1FzZkRuT0dxblBOZjgwNHl0OFJnX3cwcl9FMDVmUS1lcXpNSXpLTVBTRTA2eGlpRUtob0p6ZHhUNEpFUUJEUUZMcDhIdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-24-025",
+    "date": "2026-06-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CNN’s ‘Showtime’ Spotlights Hyundai Motor Group’s Historic Memorial Concert - Hyundai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBrU0g5NVFpYlctVVVIaXJpSjBPdUVrMDh4eEhzQ1l3S0pGbFhzMjA2cFRKQjd5ZjMxcUFPOGxiRXFaUzN4TW9ob3pRX3RXb3pkb0k1dzRZV1NjVGViUkJwNFRiOTB6RDQwMGYwREY0WD",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrU0g5NVFpYlctVVVIaXJpSjBPdUVrMDh4eEhzQ1l3S0pGbFhzMjA2cFRKQjd5ZjMxcUFPOGxiRXFaUzN4TW9ob3pRX3RXb3pkb0k1dzRZV1NjVGViUkJwNFRiOTB6RDQwMGYwREY0WDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-24-026",
+    "date": "2026-06-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor and Kia Spearhead Cross-border Cybersecurity Initiative with Trilateral Executive Dialogue Partners - hyundai.news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPREt6ZmhtYWM1QUxWV2k4V1FNblhoZy1lVXM5ZjhLQmhhUmF3SlpncnNiVlhtQjB1ekk2NllzZE4zd193eU9fUy1faXdLQU9iX3Z3RERwckdBMl9SV0lweUVrTndYSVdZLUlOdDZaZk",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREt6ZmhtYWM1QUxWV2k4V1FNblhoZy1lVXM5ZjhLQmhhUmF3SlpncnNiVlhtQjB1ekk2NllzZE4zd193eU9fUy1faXdLQU9iX3Z3RERwckdBMl9SV0lweUVrTndYSVdZLUlOdDZaZkM5RTFIc2F1c242cTUwNnIwR3lDc2FkOTcySzdBSi1UQ1pfT3pCd3FoVFZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-24-027",
+    "date": "2026-06-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder' - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQaHowYWllOVVVVldrVFZGYUFZNUUwU2lDTjNIZWxYWkc1WWxWRmUybHVKZlhrTDdINFBCSmo0b3hCNkdoWDRER0Q1amd3TEhRVjZpTzREVzN4bmFYVW5POVdZcnpBQdIBa0FVX3lxTE",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQaHowYWllOVVVVldrVFZGYUFZNUUwU2lDTjNIZWxYWkc1WWxWRmUybHVKZlhrTDdINFBCSmo0b3hCNkdoWDRER0Q1amd3TEhRVjZpTzREVzN4bmFYVW5POVdZcnpBQdIBa0FVX3lxTE9vRW9ib3N2X0E4SmZlYzdhbGUxX09RaWpSaG4xR3pSdFVMRHVQc1h0aFZfS2ZlT2c2NVdhZlE2cE0tbmx0NW9CaGptMnBIYUFVZGFYbXNJMHdaNV9SMDVabklPYWhNQ0xuLWxF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-24-028",
+    "date": "2026-06-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Threatens GM’s Sales Crown as US Hybrid Demand Surges - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd0bTNic0k0V1NWRFVtU0FXUWtRdVFrY3NEdTRuRVpuTWFGbFBHX1o1bFNQWGJvelNibjItQndBZ24xV0ZfSGN2OXR1Z2lWWXctQzUtTFBoUWlCTy1YSE1QODkxdzg2UU92ZlF5bm",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd0bTNic0k0V1NWRFVtU0FXUWtRdVFrY3NEdTRuRVpuTWFGbFBHX1o1bFNQWGJvelNibjItQndBZ24xV0ZfSGN2OXR1Z2lWWXctQzUtTFBoUWlCTy1YSE1QODkxdzg2UU92ZlF5bmFkOF96eUwwRGRIQVQ3OG1hQVZCajRFTjhYM2hDRmdlaHNMZGg0elpfcl9DcTF3dUtyN1hmUHFZTE5wZXVkVkhnUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-24-029",
+    "date": "2026-06-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Threatens GM’s Sales Crown as Hybrid Demand Surges - Transport Topics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM0RVQklEbDNfR1Z1Tnhwc3RHWVFqZVBxZVJ6d3B6U2cxZzBWOUV5UkFYOTJVSXBidHNTZEhLVXVncHoxSWp1VzhvMnZ2Y3piNDcwdWJiTlU0cHlBQ1BWcHFFcVE5dnpkUzFBXw?oc=",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM0RVQklEbDNfR1Z1Tnhwc3RHWVFqZVBxZVJ6d3B6U2cxZzBWOUV5UkFYOTJVSXBidHNTZEhLVXVncHoxSWp1VzhvMnZ2Y3piNDcwdWJiTlU0cHlBQ1BWcHFFcVE5dnpkUzFBXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-24-030",
+    "date": "2026-06-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Positive outlook for Toyota, BYD's expansion in PHEV market - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUZEV3NiY0t3Tk42WmYzb29wSDF1WTZBRllON2RYbEFRUU40UjlPalpNd2ZEbG01Ym4zb2tTRjdKa000R3dadjlTZzJiUlRBOTZyVTRaTVRyb1huU0tvOWFlRWhtZUVtdXhCYXF5Yn",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUZEV3NiY0t3Tk42WmYzb29wSDF1WTZBRllON2RYbEFRUU40UjlPalpNd2ZEbG01Ym4zb2tTRjdKa000R3dadjlTZzJiUlRBOTZyVTRaTVRyb1huU0tvOWFlRWhtZUVtdXhCYXF5YnQtUDdHX2hBQnhsR0JjWVJ3NEE2QkVpM0lUMDF1OTA2OS1MOXVsSjFXbFRCek5sQm9DTWF3NEVtOTZENFVVVDlCaWJERULSAboBQVVfeXFMUEx5dGd1TVptZjAxVFo4dkpjUE9IaFhxbkFISko3V1p0MFRfb1FiZWNDODFnQkpiR0x2anRzZzdiZFJNZnJhSW40TWpscVowN3liTGdxNkZGbGtsN3R0VVhSNkJrR1hJTlppc1pSbVlwd19lMmRGZjlnLTg4bHRuRDMtQjVEZm1vaThZd3JYQ05CdVFRejZwVGN5Z3NITndHMTZnYVB0Qm13NmhZSGtvTXZ2MTZWZ0JEMGxB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-06-24-031",
+    "date": "2026-06-24",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Algeria and Siemens Energy Discuss Green Hydrogen and Ammonia Cooperation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/24/news/algeria-and-siemens-energy-discuss-green-hydrogen-and-ammonia-cooperation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-032",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Saudi Arabia’s Acwa Explores Desalination, Green Hydrogen Investments in Morocco",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/24/news/saudi-arabia-s-acwa-explores-desalination-green-hydrogen-investments-in-morocco",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-06-24-033",
+    "date": "2026-06-24",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power and Gore Report Ultra-Low Degradation in PEM Electrolysers",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/24/energy-innovation/itm-power-and-gore-report-ultra-low-degradation-in-pem-electrolysers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuelcell-2026-06-24-034",
+    "date": "2026-06-24",
+    "companies": [
+      "fuelcell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FuelCell Energy and Fit Energy Announce Strategic Agreement for up to 380 MW of Clean Power for Data Centers",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/24/clean-energy/fuelcell-energy-and-fit-energy-announce-strategic-agreement-for-up-to-380-mw-of-clean-power-for-data-centers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-035",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Low Wind Power Increases Marginal Cost of Green Hydrogen Production",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/23/green-hydrogen/low-wind-power-increases-marginal-cost-of-green-hydrogen-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-036",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "positive",
+    "title": "Jeonbuk Looks to Green Hydrogen as New Growth Engine With Buan Electrolysis Base Now in Operation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/06/21/h2/jeonbuk-looks-to-green-hydrogen-as-new-growth-engine-with-buan-electrolysis-base-now-in-operation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-06-24-037",
+    "date": "2026-06-24",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Air Products Expands Missouri Membrane Center to Boost Hydrogen Production and Clean Fuels",
+    "summary": "<p><img src=\"https://www.hydrogenfuelnews.com/wp-content/uploads/2026/06/resized-1782298007574.jpeg\" alt=\"Air Products Expands Missouri Membrane Center to Boost Hydrogen Production and Clean Fuels\" />",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "https://www.hydrogenfuelnews.com/air-products-expands-missouri-membrane-center-to-boost-hydrogen-production-and-clean-fuels/8576305/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "plug_power-2026-06-24-038",
+    "date": "2026-06-24",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power Completes 5 MW Electrolyzer in Denmark - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2hsU2I5eWZMU3F1el81OThBZ0xWWVdONWpFUU5EMVZEaGxzOU82VUVFaHdjY01XWlhuaDhmTm5veFl3WDNJc2NxV0x3eU9EU1htOXQxZDlJZEJITFpZQUlpN2FacG9ZdjUyNDNnSE",
+    "sources": [
+      {
+        "name": "google_news_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2hsU2I5eWZMU3F1el81OThBZ0xWWVdONWpFUU5EMVZEaGxzOU82VUVFaHdjY01XWlhuaDhmTm5veFl3WDNJc2NxV0x3eU9EU1htOXQxZDlJZEJITFpZQUlpN2FacG9ZdjUyNDNnSEZKVHhRTzdxb1pnZjhMcFVBcGJtZ3RCWEJrVmI2c0Z4ZDZ0SGtGa1hId19WMXNkQmJodndQa0xxRVRrdm45R0pTNnF0T3I0NEhJamVHcVNBbHlvUUx2U2R3RWtXdXdlOXJMbHlrME9qQ0dQNExBRzhzeWcwNzF5NnRaeXFaZkxaWFR6MmU4a0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-039",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Petrobras and Finep Launch Initiative to Advance Domestic Electrolyzer Technology for Green Hydrogen Production in Brazil - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVFPdDMtWnlmSFp6ZGFXbXdzZFp6am9SNGFQZDRFQ2lEV1JQQTFmMjdCaGtqeW95MGIxVUZsQS02X043a3I0dkNUcm1MQTVzTE1iQkN1S0JQU3BPWkFpQ1BGTDlRNnBpYVd1eHFKSk",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVFPdDMtWnlmSFp6ZGFXbXdzZFp6am9SNGFQZDRFQ2lEV1JQQTFmMjdCaGtqeW95MGIxVUZsQS02X043a3I0dkNUcm1MQTVzTE1iQkN1S0JQU3BPWkFpQ1BGTDlRNnBpYVd1eHFKSkJEQWtkVkItNF9STElrNVBVWWJmMGxzZGNsc202ejV2Z1dnZ1pZYldKV3VTR195UU44LWZ1bHpfeTdNM0RocFVJOExYZVB5MFVocHRldWs5UkN0WXZQT3ljVA?oc=5",
         "type": "rss"
       }
     ]
@@ -658,6 +1126,42 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "https://www.hydrogenfuelnews.com/green-hydrogen-news-100-mw-project-in-sines-moves-forward-with-environmental-approval/8576273/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-06-23-022",
+    "date": "2026-06-23",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCERT a Buy Now? - Stockhouse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHJoMTNhSkYtSWY0aDdHUzBhbVhKeEF1dXBZaENnc0EweUVxM3FxNnR0djM0enM2UWY4UmVybVR5ckdVODhxX1dNOVFUVUlRRE00d3N3OTFhbzFrb3NMUkhWbTY4RXFRUnZQOTdEUk",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHJoMTNhSkYtSWY0aDdHUzBhbVhKeEF1dXBZaENnc0EweUVxM3FxNnR0djM0enM2UWY4UmVybVR5ckdVODhxX1dNOVFUVUlRRE00d3N3OTFhbzFrb3NMUkhWbTY4RXFRUnZQOTdEUkRzT2RqRUxZTXdIa2tJSy16eWNnaWplM0pCemV4Nkl2SjVUZWhva2EzWFJDN21ZTm9JZXZOUHdZVTA5c1dHWFBKZTBmU013aTZKcmt1cU1NaU5PTWN3LWEwTUJyVWp6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-23-023",
+    "date": "2026-06-23",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota recalls 82,000 vehicles over instrument cluster display failure - Class Action Lawsuits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFZWakNma2F4WWVuWUdtaElhV0stRllBQkw3eW9fcDR5ZEp2bHFvOHY5eE1pd0c3S25tTjBJc042YnNlMlBpbGc0NjQ1em1WVk9FdkNKUHJtdEhTWEt6RVpMZWt6ZXdJWkt2UE5wWC",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFZWakNma2F4WWVuWUdtaElhV0stRllBQkw3eW9fcDR5ZEp2bHFvOHY5eE1pd0c3S25tTjBJc042YnNlMlBpbGc0NjQ1em1WVk9FdkNKUHJtdEhTWEt6RVpMZWt6ZXdJWkt2UE5wWC1CUHAwRGJGNHVjS0t6Z1ZFNzBxd0FCRVU1LURuMFVvNG5QTzNPbTFudjlsaFRUTVNfblRISFdESHJuMDNhd05qZTdtaWp2WThpZHpKeFNrX0ZFdUg2SzhudHJpbw?oc=5",
         "type": "rss"
       }
     ]
@@ -1111,6 +1615,24 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaG50TERDeTQtd2pYeVFsNENsM3RHbzlFSG04amlqRW94WjJmOUxrUW5TWEhIVU8yZHltZHpad0NfTHdCUlpkUVZQRWFhSVBvR3V5SDV2MGxZcU1HZTc2RlpwdHNQanFoemhmQWZfT3BCM0cyVkoyMkJXZXBHYVExbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chart-2026-06-22-026",
+    "date": "2026-06-22",
+    "companies": [
+      "chart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Baker Hughes, Chart Industries in Talks With European Commission Over Commitments Prior to Merger Approval - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVGhUREpONUYtczNWRnM4NDFKb1ZTckl4NzhITnIzbFRPaEJCQWswRnQzcXdMck81Wk95LXd0djk2TmhnOGFRaWU5SWlzUlJZV29vT1R5aTF2Y0tEY21FME96bEpmUXZ3eHNHT2tJSU",
+    "sources": [
+      {
+        "name": "chart",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVGhUREpONUYtczNWRnM4NDFKb1ZTckl4NzhITnIzbFRPaEJCQWswRnQzcXdMck81Wk95LXd0djk2TmhnOGFRaWU5SWlzUlJZV29vT1R5aTF2Y0tEY21FME96bEpmUXZ3eHNHT2tJSUVPR1V3R1J1eGVCb050T1UxZkhiU0lsNk5fMEdQVnJyVFIyZVVwcTBRZ2pIT1ZTVDFIN0dZSUJaMl83LVRpb1M3c1h4ZXZLT3M1WWVqbGpTRGxNSkJ6c0xjNmRjWjdIeUJnYVNCa2JRZ0g1Ylh2M20zOE9lcmdIQTQ?oc=5",
         "type": "rss"
       }
     ]

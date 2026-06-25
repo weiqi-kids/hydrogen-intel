@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:33:46.209584Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor to Deploy 100 AGVs at Ulsan Plant With First Use of LTO Batteries - thelec.net",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eTJGekFIaHRiNVBUYmdtSS1uTHRpOElyajZQUWtHSGtFaURHaW1LeDd5LWpzT3RweF9UcGRtYVJUay0xbTdmeGxQc1pSLVhGRXVLTFJVbFM2NGZ1cm0zZ3JwaHoxSFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 91,
+    "too_old": 106,
+    "gate1_blocked": 102,
+    "gate2_blocked": 41,
+    "passed": 28,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Enterprise value to EBIT forward of Air Products and Chemicals, Inc. – GETTEX:AP3 - TradingView",
+      "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+      "Air Products and Chemicals (APD) Shows Strong 6-Month Performanc - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為現代汽車相關動態：「Hyundai Motor to Deploy 100 AGVs at Ulsan Plant With Firs...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Hyundai Motor to Deploy 100 AGVs at Ulsan Plant With First Use of LTO Batteri...",
+        "level": "green"
+      },
+      {
+        "text": "現代汽車為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
