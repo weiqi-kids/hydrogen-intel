@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 97,
+  "gate2_fail": 39,
+  "passed": 25,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Air Products still weighing options for massive Louisiana project - WFMZ.com",
+    "Enterprise value to EBIT forward of Air Products and Chemicals, Inc. – GETTEX:AP3 - TradingView",
+    "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - MarketWatch"
+  ]
+}
