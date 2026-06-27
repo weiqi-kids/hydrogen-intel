@@ -1,0 +1,204 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:56:23.796175Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-06-27-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Toyota (TSE:7203) Recalls 2026 BZ And Lexus RZ EVs Over Power Loss Risk - Yahoo Finance Singapore",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeXVSZW85a3F5UEl0OENPemZkR0toUkt6a0VDR0lJc0VHQURPellsUUNJNnBlWWVIcFlHSVN5d1IyRVdnaEI0dEhFYXRoM29fNVI2OEtTcXBkWGoyNWhtSmRpSEFCUWVwMUxhSk5Dck9QTTR1dWxNME9pTEl0ZHV4UnJaSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA’s Radio Silence Deepens the Sell-Off as Half-Year Report Nears - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0pMaDN1ZnNUWnBnTTRaR3c5a2lJWFRpNEhIWjRHSmFoMmVQWFM0WVdfakIzOUhqeEZHNTlFZUdYazBHN2tXOUlFTUhDaG52NzRMU09Za013aWR4RzNnM3NhU09pempDclNMY25JUE02ek41blBFcVptUGpiQUwwMUFkNDVsVFhfNWZoMkg4dEJWcjRUSWREamNyandrU0ZGMG5VaFdvc2tGdDNhMng4VjVjQkVRZ2V1WjNEN0owRHIwU3ZvbldsTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's 40% Monthly Slide Puts All Eyes on July 15 Report as CEO Departure Rattles Investors - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSUFfWWpqbGtid3FwSFBpS2liZ3lJQ3o3cVM4Y3U3TVprRTJKa01WbnFBcE1maUVNME4tVEEwVVZIODRPa254TXFGanNXREJYbl9FSDhqSW9vWHkyOGpiM09yY2ItODlvU3QySWpKQUstdTZudU9RNG9NZEpKMVlETHo4dVJySEpYTFQ5MkFiUk9qZHFwNW80VWpvUHdRUDRYWGVuZWVpMEhLTUNBd2lHSFhVY21seHdTX2xiNEZicGVoMkh4dkZhUFI0Wmg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: From MSCI Peak to State Stake – A Stock Caught Between Promise and Pain - Ad-hoc-news.de",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVNGTEdBTTRxQUFRMWV5bWQ1Qk4tRzBCek5nQkhNV2ZaX0p1TEVOS05Wd0xic2VpejBRRU5XY3lPZVAyZ3JqdXk4amoyVWFWZ0xVUGRxbWVTSk4tTktLamZtLWMyLUcyTjRFMVJtZ2tPWG9PZVJZWHBiMmNla2pwRVlIbGh4ekV2WjhGaWl1Z1Q0MkZvWkFMclFOMGFtMm14dkMyX3JiVVBHeVJYWnRLeF90LUhmNXg1V3dWSExB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MHI Study Results Indicate Potential Cost Reductions in the Decarbonization Value Chain Using Green Hydrogen and Ammonia Produced in India - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQY05Ma3VMMkwxcEtQbFNXZFF3d0lJN1VoRHhyc3pNczRZQ3A2MEcyZXZnNUpMSnFnVHdsME1sV2VxUWxZT2tmZFd0QTZZX2gtWHRUbUJkblFFRTljTjIzTjdZcmd1bEtIWElOY3FiZE5TZGFiQmFNMGNmSmRsdlBqNjdzWGREeldicGhDbXVENTFTVHd0SzdyTUNUcW9wQnRHNUZQdVBMZ1plY09BMk5KNDh5akZ6U0g1d1E4RWpHTWVsZlpFNUhyMkIyLWY0QU1WczYyTTF5TmdnalFHOS1Uc2p3aXJ6aGZTMGl1MlkyN2NMY05Tb241WTVSaVlSSkFLUkwwcFZKT3piV0J5V1FFbmNxWkFnclFVcUxZaEs3NXBkWEFZRUVvcmZFM05OUHpBLUQtMUZPOGpodw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 105,
+    "too_old": 105,
+    "gate1_blocked": 96,
+    "gate2_blocked": 34,
+    "passed": 23,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Enterprise value to EBIT forward of Air Products and Chemicals, Inc. – GETTEX:AP3 - TradingView",
+      "Nel ASA, Plug Power, and A.H.T. Syngas: Which cleantech energy stock shines the brightest? - news.fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Nel ASA、ITM Power、豐田相關動態：「Toyota (TSE:7203) Recalls 2026 BZ And Lexus RZ EVs Over P...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Toyota (TSE:7203) Recalls 2026 BZ And Lexus RZ EVs Over Power Loss Risk - Yah...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA’s Radio Silence Deepens the Sell-Off as Half-Year Report Nears - Ad-h...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

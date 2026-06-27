@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 96,
+  "gate2_fail": 34,
+  "passed": 23,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Enterprise value to EBIT forward of Air Products and Chemicals, Inc. – GETTEX:AP3 - TradingView",
+    "Nel ASA, Plug Power, and A.H.T. Syngas: Which cleantech energy stock shines the brightest? - news.fi"
+  ]
+}

@@ -1,28 +1,28 @@
 {
   "air_liquide": {
-    "earliest": "2006-08-31",
+    "earliest": "2006-06-02",
     "latest": "2026-06-26",
-    "count": 5069
+    "count": 5133
   },
   "linde": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "air_products": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "nel": {
-    "earliest": "2006-09-05",
+    "earliest": "2006-06-07",
     "latest": "2026-06-26",
-    "count": 4972
+    "count": 5036
   },
   "itm_power": {
-    "earliest": "2006-09-05",
+    "earliest": "2006-06-07",
     "latest": "2026-06-26",
-    "count": 5005
+    "count": 5068
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
@@ -37,45 +37,45 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-06-25",
-    "count": 1990,
+    "latest": "2026-06-26",
+    "count": 1991,
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "fuelcell": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "cummins": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-06-07",
+    "latest": "2026-06-26",
+    "count": 5045
   },
   "chart": {
-    "earliest": "2006-09-05",
-    "latest": "2026-06-25",
-    "count": 4982
+    "earliest": "2006-07-26",
+    "latest": "2026-06-26",
+    "count": 5011
   },
   "hyundai": {
-    "earliest": "2006-09-01",
+    "earliest": "2006-06-05",
     "latest": "2026-06-26",
-    "count": 4890
+    "count": 4951
   },
   "toyota": {
-    "earliest": "2006-09-07",
+    "earliest": "2006-06-09",
     "latest": "2026-06-26",
-    "count": 4866
+    "count": 4930
   },
   "nikola": {
     "earliest": "2026-03-02",
