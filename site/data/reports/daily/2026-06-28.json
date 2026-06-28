@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:19:56.526940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Cash Hoard Masks Deeper Troubles as Order Book Shrivels - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGNEQUFvTkJfOVJFdG5zSFFEbmlBQ3J0WExuUkcxU2xZalp2SzJSeVdUdUg1dTdMUF9SN0ptdW1sLXdhMC1tNElfMGNHUkZQRXB0WUJ3WHRQZWtGdUpuTkxjSllHRllkYmZxUW83c2JESGJmeVFZWTRaUXpsT1U5aElmOEl2Mk41TGxxbTE3U0ZjODRWNWZsZml1OThZWnoycWxTRXpuY3RGVU52UWxCckFGS1FkWFpyUnhhamZJT3ZNdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 109,
+    "too_old": 115,
+    "gate1_blocked": 93,
+    "gate2_blocked": 38,
+    "passed": 7,
+    "pass_rate": "2.8%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Air Products & Chemicals (APD) Stock Forum and Discussion - Moomoo",
+      "Siemens Energy leads the pack, A.H.T. Syngas follows closely, while Nel ASA struggles—which stock wi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA's Cash Hoard Masks Deeper Troubles as Order Book ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA's Cash Hoard Masks Deeper Troubles as Order Book Shrivels - Ad-hoc-ne...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 93,
+  "gate2_fail": 38,
+  "passed": 7,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Air Products & Chemicals (APD) Stock Forum and Discussion - Moomoo",
+    "Siemens Energy leads the pack, A.H.T. Syngas follows closely, while Nel ASA struggles—which stock wi"
+  ]
+}
