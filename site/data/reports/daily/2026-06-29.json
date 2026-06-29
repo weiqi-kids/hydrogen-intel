@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:23:36.334526Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to earnings forward of Air Products and Chemicals, Inc. – NYSE:APD - TradingView",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3p4bmJVLUN4RzJsMG1laUt6SzVWaFVnXzBsc0VEb1Y3TzE3dmZDa2tISVE0ZWg4NllZVFc0YmM5REpFd3dneDQzY0lCX19TN3lVdFp6dWhBVlZWZVJFcm1jUjlFb2IxR3MycnprM3d4bUlGUG1vQUFvVDUzNER1UkNIMWpBa1pVX294QjVZTmJucXdUXzJOVmhrMUd4UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Aktie: Hormus-Blockade befeuert Wasserstoff-Nachfrage - Finanztrends",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFdNTUNNdFFIaHVvaWhsOGNUYXFBWjFRdXpkN0w4YUlSMnphWWZOXy1kMF9RYjRpc3FoaXpyaklfSHBRQjVRemtwTlZUYzVfYkFncl9FcDhfQ1ZzNHJ4N0E1REZNWGRTa0lDTE9sbnlLRlpMTmZiUDBoWXNEc29pRm1vYkd6bEdNNExCUUk5RnpPcm5oaHBuRlBR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chart Industries, Inc.(NYSE: GTLS) added to Russell 1000 Value Benchmark - marketscreener.com",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHFxcThLR3dPQXZ3OEJvamNCR3Z1Q0N6OXY5cVc3cTlUam9QNXNZX2x2QWctMDJOV0l5dnB1UjNzY25OWk9fVnJvUTBvbWM1dUdZMk91Vi0wS283ejNjaFVpaWozLWdnRnZIR0tCOUhmUmxfazAtZ2pBZDh3RGpOSnFuQ1FmQmIyMGFSZnNoLW51d1daV2tpNG5zOVZpd2ppdjJrSC1RbGFISjViZ1JXM0Zmc0ctWG53ZHJDaHhR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-06-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Unveils New Stage-Based Goal of the Tournament Voting for FIFA World Cup 2026™ - Hyundai",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xblpkSmdXaWIweVdLQjBfU2hxSFNvUWdLNTUyTXNZcGNCX3MzYTFsSjNaUlFFcHN0a0NLWDhoUV92a0YwSTVqZzl0SlR3WDFWT1g1aFA3NTRtVjAybXRYaWVTVm5jd2dLdlNSWElwYUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This is Resilience | 49th Team | FIFA World Cup 2026™ - Hyundai Motor Group",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMU9ZUmlPVHFvNFhra0N1MEE1Vl9fM0VnZFlYWWpPWFNESjltS3dOUDdfZHBjUUhFTGZfMFRxR0FxMW01TlJXdjV2d2hPWTFGMmNEYW9xRzk2T1hJOVBrYjJPSzdKQWdqZDJEQUR5cWthb1pWZ1R2QmU3VXoyNVAwWHZJSVlHcWxOQUxJTG1VUjA5UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 100,
+    "too_old": 115,
+    "gate1_blocked": 97,
+    "gate2_blocked": 30,
+    "passed": 20,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+      "Siemens Energy leads the pack, A.H.T. Syngas follows closely, while Nel ASA struggles—which stock wi",
+      "NEL ASA Actuals & Estimates (FWB:D7G) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Price to earnings forward of Air Products and Chemicals, ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of Air Products and Chemicals, Inc. – NYSE:APD - Tr...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA Aktie: Hormus-Blockade befeuert Wasserstoff-Nachfrage - Finanztrends",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
