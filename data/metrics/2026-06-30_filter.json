@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 95,
+  "gate2_fail": 44,
+  "passed": 33,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+    "Nel ASA at a Crossroads: Technical Stabilisation Meets Fundamental Uncertainty Before July 15 Verdic",
+    "Siemens Energy leads the pack, A.H.T. Syngas follows closely, while Nel ASA struggles—which stock wi"
+  ]
+}

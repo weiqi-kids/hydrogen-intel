@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-30",
+  "date_range": {
+    "start": "2026-06-24",
+    "end": "2026-06-30"
+  },
+  "generated_at": "2026-06-30T10:48:07.020400Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-06-29-029",
+      "date": "2026-06-29",
+      "title": "NHTSA Announces Vehicle Recalls for Toyota, GM and Hyundai Models - Franklin County Free Press",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": -0.2
+    },
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 7,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": -0.2,
+      "rank": 2
+    },
+    "siemens_energy": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "air_products": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "chart": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 148,
+        "last": 157,
+        "change_pct": -5.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-24",
+      "event_count": 44,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 10,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 32,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-24 ~ 2026-06-30）共 148 則事件，重點為「NHTSA Announces Vehicle Recalls for Toyota, GM ...」。綠氫成本、電解槽產能為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 7 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:48:06.885446Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products targets climate-neutral operations by 2050 - gasworld",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDE2R2tkekFNamVQVW9KSkdqQnA2RnZzTE94SGxjU1dibk43Y05ITzcySmRuM2RiaWZTeXRJYzVSTDVhbXREYmNsZEVBM0o0U1c5Ql9sUFJVcGlpQ01NM0JlQ3VERzJISld1WWN3NXo2YWhKTVNuUi16MHNJbHpxdGZ3X0dfSFF5czRtTTBjUEJCWTR2Mnc5NjR4amtCNVdkZkxrdFpB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "INOX Air Products to supply UHP nitrogen to Insolation Green’s 4.5 GW solar cell plant - pv magazine India",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmVKWmxSTFZ5X1ZwOFVqb3ZnYkdzRmNqalFtMEdCNk5HUGk2bUs2QU5nRkNVZ18teUprV0FMUDNhVS0ybGxjZUlxMFdvWTdfeW16ZGEtekFrdzdxMUZ4eG1WRUk2SDhBdUE1SGx3TlZGcmdJOFZrSk1MUDU3NmFSdTJ3dFZDcnpTTFFleDR1c0lueW4zVjl4bVhuS1RwV1pWSU05aDQ2N2sxanYxcThaTDlNZmptYlJ4S3ptOWJ5alJBaFh4Wjl2aHVEMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power (LON:ITM) rises, UK government paper profits hit £54 million - Bez Kabli",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEtEOTFBMjZncVBrOVRFZEpDLU8tcGJZR0hlaFNmbjhBRVZCZ3kxNU5KaUVYUEVKbjBxMFVKNnI3ZFFBWF9jNk4za0lKY2l2aGl0OGVydUh1ZkdmRWduUFplSWc0a3ZQYi1lLXIzX1YyLXVjM0NvUlc2cEtlOGJYbW5oWU0tWU9zYWxKMmczeXpxY0pjbEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-06-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Shares Rise on Management Optimism Over Electrification, AI Demand - WSJ",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWtGb25UMnlfSTNKVjlFbldzZHBBVTVSdUg1dDBqSzUwVFRLNGllcVFId2xhR0VrUmZRTWVPZ3JvWkhVdERIS0I3cjdGeGlJRUxXRU1LenBsYmw2UnhVdVRGZnlmUDJNbEpzb3YyTkFwMGdCZXRsWWg3b1hQS2tnb1pJeWh1QlhQc3hpeVJvdE01R282V3ozVUNJeEdHcHhMTlA0MHV4dzhOWDI1NFRJN1hWd2c5ZHQxcV9scXVpRlJoODA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-06-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy stock pops after upbeat comments on gas turbine orders - Investing.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUJ1VlY1c1dNczZBWUZEY0k2bEdQeXoxMmRyZmctZ0ZRSloyTmYxNFdPRVF6R1VMV3FOLVFjLXktcW5NZlBGOFZ2ZlQwc3pOYkRwRUtnUkRNQmRuM3l5ZnUzUGlUcmdBLVRNWHJTSFZmTWo3V1JOWVRoQVVhTm5qWV9RS0hfR24xb0FTdktUeEZJbzV0RVNZZlpzWFZGN2NpM2tNdFk0Tmo1T2hxX1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 83,
+    "too_old": 108,
+    "gate1_blocked": 95,
+    "gate2_blocked": 44,
+    "passed": 33,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Air Products Publishes 2026 Sustainability Report - PR Newswire",
+      "Nel ASA at a Crossroads: Technical Stabilisation Meets Fundamental Uncertainty Before July 15 Verdic",
+      "Siemens Energy leads the pack, A.H.T. Syngas follows closely, while Nel ASA struggles—which stock wi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為西門子能源、Air Products、ITM Power相關動態：「Air Products targets climate-neutral operations by 2050 -...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Air Products targets climate-neutral operations by 2050 - gasworld",
+        "level": "green"
+      },
+      {
+        "text": "INOX Air Products to supply UHP nitrogen to Insolation Green’s 4.5 GW solar c...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
