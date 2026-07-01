@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 91,
+  "gate2_fail": 50,
+  "passed": 44,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB",
+    "AMD, Sandisk, AeroVironment, Air Products, Strategy, and More Stocks That Explain Today’s Market - B",
+    "Celebrating 250 Years of American Innovation - Air Products",
+    "Ascension, Livingston leaders disagree as Air Products cancels controversial project - Gonzales Week"
+  ]
+}

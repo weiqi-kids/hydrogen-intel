@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:01:22.834640Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-07-01-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA Stock Plunges 37% as Analyst Revenue Cuts and CEO Resignation Cloud Pre-Results Silence - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUI3bVh4MkRLdXZIWnpaaW5zZHZtbzVuUlV2bUg4UkFyelVXU2JoV3RrNEFLNTZiYm9PUGVfT2w3eDJhYkdKWU8xZXZGZjZRZHZ6VTNZbVhQS3A3QnlfSk9RRTd5b1JtWk84SFRVeTJsVlV1VEF3RzFIVUxFVnhoNS1KTEpFa25nQ3BKNlpESnZoRWtPYmFGTllfV3VkWF9ibXZOY05sS1QzcExCcTRla25GX3I1TFl0aXNFTWdqdHI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-07-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "REG - ITM Power PLC - Director/PDMR Shareholding - TradingView",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1BJdHpuY2RiUHNPOGNaYndESnJVYU55SlhIcVQxOWY5a3VQdGNVWmpBV1VXbVEwdF8xWWQzeV9ncDB2U0lTSUs1Q0ZMVFc1STZ1c3ZObmtoTk5TaHJmZ2k3c0M1UEstZlV5b1pfUEozTTB3Snd4S1E5MjFuaEZmbVJBQU1KdWctSjl1TTdDNy1sdFoxM0pNekl3bm1VbXBxNXplYzBzY01LMzZ5TjNzUU5uSnJXcHE0ZXI2cg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-07-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy to supply technology for two Oman power plants - Power Technology",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHlGV2ljZXFqVW1FT3RTdlFFendaUjdpSm8yVG5teEZrSkVJRnBNV2Q3U0FUWUNJeTZaWUJlbVBsUmQwbndJdmt4Z1Z3R0hLUm42dmNZOGVBX2RLNWEyUTdVcXRDeUFwX0dtSWhza2tvZDJ0ckhYMTFKaXVGVG9CVVVB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-07-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy lands Oman gas turbine power plant deals - Enlit World",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUl1ZGRrZ1ZxRkwxTzQ4dUFMOWcyTk1IODFSYjV3bENzckhxQjRkRHJOOTFkTFRoZjY1SEx5RmFTdUM5REloNVFQT0Y0LWZ2alpqQzFCNTBVYjdLRk9OeHVuWVBrZVdqRmp3Q0pTVVIxNnhVR1FYa1ZWOFpTMWdZUTg2c2pzTHk0UTdmdmFQOEw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-07-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy grows energy production by 20 percent in Oman - intlbm",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXo0T2hKZlllVmFVX2RDMEVqbmZMRnNzRGwwbWFoYUZDckZGanFUUE9XVkNmUnl0VUx2UnJraFY3MGl1Q3hqTExzNTJJSVZscV90ZkxtSmxpSFhwMmNqeGVfaTFlM05IRUNsNndIdUs2ekctQS1NM0ZGU2o5Mm5IUUlJbURlODRLbl9PWFNEaE1ydFNfTVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 82,
+    "too_old": 95,
+    "gate1_blocked": 91,
+    "gate2_blocked": 50,
+    "passed": 44,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "17.9%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB",
+      "AMD, Sandisk, AeroVironment, Air Products, Strategy, and More Stocks That Explain Today’s Market - B",
+      "Celebrating 250 Years of American Innovation - Air Products",
+      "Ascension, Livingston leaders disagree as Air Products cancels controversial project - Gonzales Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為西門子能源、現代汽車、Nel ASA相關動態：「Nel ASA Stock Plunges 37% as Analyst Revenue Cuts and CEO...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nel ASA Stock Plunges 37% as Analyst Revenue Cuts and CEO Resignation Cloud P...",
+        "level": "green"
+      },
+      {
+        "text": "REG - ITM Power PLC - Director/PDMR Shareholding - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
