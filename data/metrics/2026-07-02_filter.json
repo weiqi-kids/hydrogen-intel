@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 91,
+  "gate2_fail": 58,
+  "passed": 39,
+  "gate2_samples": [
+    "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+    "AMD, Sandisk, AeroVironment, Air Products, Strategy, and More Stocks That Explain Today’s Market - B",
+    "Air Products cancels $4.5 billion project to inject carbon dioxide under Lake Maurepas - NOLA.com",
+    "Air Products Axes Massive Clean Energy Complex in Louisiana - Bloomberg.com",
+    "Air Products scraps $4.5bn US blue hydrogen project - Hydrogen Insight"
+  ]
+}

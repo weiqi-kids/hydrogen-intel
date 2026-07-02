@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-02",
+  "total_events": 10,
+  "by_company": {
+    "air_products": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuelcell": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

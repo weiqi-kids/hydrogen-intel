@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:27:59.427965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scrapped Air Products project could signal stiffer headwinds for CO2 storage - Louisiana Illuminator",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQcGthZzVCNlBaNWI5TjlXWXNEeS1GYm5EcmxZZ1MyOERjTzdpUWVmOV9FMDJZLVpDeHhIRHhScWxmTWYwWXhRcEEzaWx5NmhGVWI2bElVaFMzQ1FzQ0dPcVBRbWYxbnd2am5MLS1VVTZBc2c0TVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products cancels Louisiana clean energy project - New Orleans CityBusiness",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTFiVDFmR1lJY0RhSmZVUks2N0tYOHhIclk0YUdtMjVsV2JkUTBuc2hUYU1fWFNpUUx6QmZfZWVUQ2JHQ1FYcXZsWFlGNlVvNEl3U2FxY2pJclIxOWxuSVIzbE94LUk2RnNhTXU5aUo0ZDFLUmxDMFJPRTYwRWVYb0VWZGpoZmN1bWhoRWhvMGtCd3pTV1dYelF2NDEydXJ3bkRkei1R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power (AIM:ITM) Stock Sees Fair Value Lift As Analysts Turn More Constructive - Yahoo Finance",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU05HRG9YcU5HZnFEVzU1N1o3VWJzRG91SkFUR25EVFlZSlRCYV82d3luRnVpWV95d3RPQWpmZE4waW9DVGFmajVqNWlTWFRfYnN1ZGI2R014dDd0WDNBby1LY3I1Z0ZKYllJakZvVk9PMjBwZEk3R01sVER5MkkyVzB6SVlRTmttalpnbDRXUHRRQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy wins gas turbine orders for 2 CCGT projects in Oman (2.6 GW) - Enerdata",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdm9OOVNycmwtRHJwb1RCVHN3Qi1pQkUxZ2dvekJVU25raTVsa1JBSmZDZ2tnZ0hiS201Y3FPQjdNT1BXbHRzRkc0Z2stRl9QckpQQU9FWUlyWnRiTjkzSFZXelcxanhxLVZOT3d4M2MxekNwcjIycVc5ZTlJc1hHdVdPS21FdGo5OGE5aFpOdEI3LVVRRlFIcGR1eEd2SGZrWWRaTnZJTThEcmdaVEZPYzFBRkI0T0JsQkRsQUFOUFhHQlBt?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-07-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy: Previewing Upcoming Q3 Results; Need To Confirm Backlog Conversion - Seeking Alpha",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGxXWDZ2RUNfNU9zWDVCSXlHdG1BU0wwWXZ3WE9CMXoybjZQMnBvSm5jd3ZOaThjTHlzTThUQ3dfWWdkVG1JelFjc0s0NjRLZlRmU1UxbXBWS0JFZXh1ajYtOHdvajdLN25YYWdjVFR5NDJxeW8zVWcxQzdRcGI4QWdTb1BBZzJqeWxsUk05TTVfandfVVBSd1F3eGJzbGRkUGVXb3BwMFo4U0xJUDB2MWx2WDR2UFh2U291bnh5Q0Q1dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 81,
+    "too_old": 93,
+    "gate1_blocked": 91,
+    "gate2_blocked": 58,
+    "passed": 39,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "20.6%",
+    "gate2_samples": [
+      "Linde Stock: Has LIN More Room to Go in 2026? - Discovery Alert",
+      "AMD, Sandisk, AeroVironment, Air Products, Strategy, and More Stocks That Explain Today’s Market - B",
+      "Air Products cancels $4.5 billion project to inject carbon dioxide under Lake Maurepas - NOLA.com",
+      "Air Products Axes Massive Clean Energy Complex in Louisiana - Bloomberg.com",
+      "Air Products scraps $4.5bn US blue hydrogen project - Hydrogen Insight"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為現代汽車、Air Products、西門子能源相關動態：「Scrapped Air Products project could signal stiffer headwi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Scrapped Air Products project could signal stiffer headwinds for CO2 storage ...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products cancels Louisiana clean energy project - New Orleans CityBusiness",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
