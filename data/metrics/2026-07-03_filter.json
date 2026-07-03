@@ -1,0 +1,16 @@
+{
+  "total_raw": 105,
+  "dup_title": 3,
+  "no_date": 0,
+  "too_old": 3,
+  "gate1_fail": 82,
+  "gate2_fail": 9,
+  "passed": 8,
+  "gate2_samples": [
+    "How Hyundai Motor Group’s Hydrogen and Robotics Tech Powered the Genesis Le Mans Debut",
+    "The Hyundai IONIQ 3 is the affordable electric hatch we want but can’t have",
+    "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
+    "Toyota is paying up after canceled flagship EV triggers ‘unprecedented’ shock",
+    "Subaru’s new EVs are already outselling the Solterra"
+  ]
+}

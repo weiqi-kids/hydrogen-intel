@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:27:03.511557Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Certification Portal of India Sets New Standard for Global Trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/green-hydrogen-certification-portal-of-india-sets-new-standard-for-global-trade-6a473a3d9b5d8aaa5cfba0af/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Production and Infrastructure Launch in Bolzano South for Emission-Free Transport",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-launch-in-bolzano-south-for-emissio-6a4734e0c1aad15e09a919f0/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 105,
+    "dup_title": 3,
+    "too_old": 3,
+    "gate1_blocked": 82,
+    "gate2_blocked": 9,
+    "passed": 8,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "How Hyundai Motor Group’s Hydrogen and Robotics Tech Powered the Genesis Le Mans Debut",
+      "The Hyundai IONIQ 3 is the affordable electric hatch we want but can’t have",
+      "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
+      "Toyota is paying up after canceled flagship EV triggers ‘unprecedented’ shock",
+      "Subaru’s new EVs are already outselling the Solterra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為綠氫成本、電解槽產能相關動態：「Green Hydrogen Certification Portal of India Sets New Sta...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Green Hydrogen Certification Portal of India Sets New Standard for Global Trade（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Green Hydrogen Production and Infrastructure Launch in Bolzano South for Emis...（綠氫成本、電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
