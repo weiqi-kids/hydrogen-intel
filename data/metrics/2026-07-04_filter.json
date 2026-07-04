@@ -1,0 +1,16 @@
+{
+  "total_raw": 365,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 93,
+  "gate2_fail": 41,
+  "passed": 38,
+  "gate2_samples": [
+    "Linde plc focuses on industrial gases and clean energy applications - Ad-hoc-news.de",
+    "Landmark U.S. $4.5 Billion Louisiana Clean Energy Complex - Air Products",
+    "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+    "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB",
+    "Air Products cancels $4.5 billion project to inject carbon dioxide under Lake Maurepas - NOLA.com"
+  ]
+}

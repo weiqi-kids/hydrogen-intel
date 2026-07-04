@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T09:59:07.867491Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: A High-Stakes Platform Launch Overshadowed by an Empty Captain's Chair - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0NNVXhVdkJDVGJQMG5mUlFGeC00amNyYjRQZ214akJ6bkxkb1JMOExUUWxwN1hVbEVhelF3Ql9CWF9aNjBZV3ZpdHBqWXQ0SjNaVFhQbHhFM0NqX1NuMEloa0xlZzl1YW14MHdocWxWQ1JUcG5KcVpNWENGLU1Pd3Fqcmxmc2ZuTUxfMTl1ZGZVTVhJSmo4ODhiNElSRmVvcnBfSXV3cDdxem9fOVVEamRheTU2UWg2a0wtTWtEcFBfUUpvdDNJaTBYZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: From Prototype to Production Line — But First, a Decision from the UK's Competition Wat - Ad-hoc-news.de",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlFWNEJrR3QzTEVaSXRPeWg3ajVwMHF2QmJqYnk0bDlFbDlIR3YyRVpncmdCckMxWFFja2kxVnFtd1hZT2FpQWFreHlheG9zSkl5cTM4QkhhRGVmUXJWbm1yaDhzWUdqXzhlUVl4TTFLM2h4YW1zcFNyTWF0aVczcksxaE9nQm0tSHE3UGRMMmhqdXlXdVQxSFZDX1RZNUItUG5kMzZNRDE0Mkl4NGRqMGZvSzFfQ3BsNjFXN1k4VFo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Sales Are Soaring Thanks To Hybrids - Motor1.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96NjVkdDN4NEJrOFNHM21DeWpiZFRrVXdSVzJsNS0zTVZwaU9NWjRxbmE5NF9MTUI1US1zbTdBXzNBbXd1RFJfSUhsR3Q4TXA3Tzg2VnI1b2pjckVhUldLcWVlbzBrcDVrX0IwNGdpR3F3bnZkaWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Joby Aviation, Toyota Motor Launch Initial Phase of Strategic Alliance - CompositesWorld",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0JnUUNNNlVzcm9NcGktdHdNYlBnaUt6MzJTZGxTYm9nRFVwS2JyZnRUbFo5Z3JjU1JxTzRjUVdzOE5uNzhyMXFLT005b25BZWltbzd6RWNxYmRKb1FPQk5zNFBtcF8xQXdiY2E5M2hIS0xfbWh3RnVfZGxvM2ZUTDBxVloyVFNNTVp5US1YYlhDanVuejJzTXcwbzBLM05JSlhkQkFtNWtHZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 365,
+    "dup_title": 96,
+    "too_old": 97,
+    "gate1_blocked": 93,
+    "gate2_blocked": 41,
+    "passed": 38,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Linde plc focuses on industrial gases and clean energy applications - Ad-hoc-news.de",
+      "Landmark U.S. $4.5 Billion Louisiana Clean Energy Complex - Air Products",
+      "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+      "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB",
+      "Air Products cancels $4.5 billion project to inject carbon dioxide under Lake Maurepas - NOLA.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、ITM Power、現代汽車相關動態：「Nel ASA: A High-Stakes Platform Launch Overshadowed by an...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA: A High-Stakes Platform Launch Overshadowed by an Empty Captain's Cha...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power: From Prototype to Production Line — But First, a Decision from the...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
