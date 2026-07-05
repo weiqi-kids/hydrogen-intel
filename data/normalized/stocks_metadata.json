@@ -1,28 +1,29 @@
 {
   "air_liquide": {
-    "earliest": "2004-09-14",
+    "earliest": "2004-06-16",
     "latest": "2026-07-03",
-    "count": 5583
+    "count": 5647
   },
   "linde": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "air_products": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "nel": {
     "earliest": "2004-10-11",
     "latest": "2026-07-03",
-    "count": 5473
+    "count": 5473,
+    "history_complete": true
   },
   "itm_power": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-03",
-    "count": 5516
+    "count": 5580
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
@@ -37,9 +38,9 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
@@ -48,19 +49,19 @@
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "fuelcell": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "cummins": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "chart": {
     "earliest": "2006-07-26",
@@ -69,14 +70,14 @@
     "history_complete": true
   },
   "hyundai": {
-    "earliest": "2004-09-15",
+    "earliest": "2004-06-17",
     "latest": "2026-07-03",
-    "count": 5399
+    "count": 5463
   },
   "toyota": {
-    "earliest": "2004-09-21",
+    "earliest": "2004-06-23",
     "latest": "2026-07-03",
-    "count": 5383
+    "count": 5447
   },
   "nikola": {
     "earliest": "2026-03-02",
