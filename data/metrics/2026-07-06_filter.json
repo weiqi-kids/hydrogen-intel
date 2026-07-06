@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 100,
+  "gate2_fail": 42,
+  "passed": 16,
+  "gate2_samples": [
+    "Linde plc focuses on industrial gases and clean energy applications - AD HOC NEWS",
+    "Air Products exits Arizona green H2 site, moves ahead on Saudi Neom - Renewables Now",
+    "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+    "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB",
+    "Air Products cancels $4.5 billion project to inject carbon dioxide under Lake Maurepas - NOLA.com"
+  ]
+}
