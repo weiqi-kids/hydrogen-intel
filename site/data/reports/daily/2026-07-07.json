@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:44:25.912712Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-07-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VERDE HYDROGEN Secures 25MW Electrolyzer Supply Award for Flagship Off-Grid Green  Hydrogen Mega Project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/verde-hydrogen-secures-25mw-electrolyzer-supply-award-for-flagship-off-grid-gree/8576143/"
+    },
+    {
+      "rank": 2,
+      "event_id": "linde-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Linde plc looks to long-term growth as industrial gas demand evolves - AD HOC NEWS",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHlaUU1LQnFoVm5QckJRRjF4M0I5X3FvVWZXNEc4WGNOR093MUJyV2R6emF5MTF5SURzT094TXhUeW1TQnFDdkZpaVdubzdPQ0V4MGZsZ2t4RUhPOXdBdHNEeEVlamdNY29DUURCUXFIRWNFdmpzdmpjU0dZelhWY0hhZ0I5ZEpXRVZadFE3aGlKZFJkN2JXd2FqS1JjSXVsdHhpZ1BIeVdBRHhscDBVQ1BUVGxNaW5KM1UxVHJZZk4wY3lTTnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Double Bind: A 73% Order Collapse and a Vacant Helm Put the 200-Day Line to the Test - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUF3VDExb2JLVkZQb0ZZRWFhNktSNGtaNFhZbVlwV0FvM01jdGlGNFR3YnZkT1VoTHJUMmxGQ2dFbjV1QmgwQkh0eFpmU0thLXk4dkhJWi1XbE1Jd3JZVnBNOC13bE5tQ3RiQjNJUGltREpzd20yRzN4VndmV3JGSUlNSTVmMnI3UXVHaVJIWkpKQmZRY2x5bGJJbkJfMlQxMjhWTVNIbE9Uc0MzNVVjRW9vUWJiNlA2SlBIRl95cTJMbXVYV0pCY0d3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp_nucera-2026-07-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Certain Ordinary Shares of thyssenkrupp nucera AG & Co. KGaA are subject to a Lock-Up Agreement Ending on 7-JUL-2026. - marketscreener.com",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUFdXcUJ6aFczQXJGWEI4NWVJSmZrbzFVVTQwaGNheDU2Tkp0UEZEV2Jxb0lTWi1faFRBdXVmRjVKaW1RR2NmUTJLQjNac2E3RHZqUy1EbTJWWDAzd1hpWHgzM1dhNDRoWWlMWU9uRmstVWlPRVZMYTVnQnExb1ltMUtrYUhPZlZWdGQyNV9XYW00aGczOUNhaEU0RnA2T0FCck82U3FySFNNYlphdzh1LThISkdvZjBxejBIeFdtUDZJekVzMjhNNTgzVW8xRVZVbVhvZWEyUWItVzlweHd6c1dYSEo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp_nucera-2026-07-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHEL, thyssenkrupp nucera India Partner for Green Hydrogen - Rediff MoneyWiz",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnpKQVFzejlyUW1kNFpRMVBLNWVybUdlRmNEM2hCNmNOaHE1NE1vaE5YbHZBY3gxMDNxam1MdzlhSTJiUHpVTjI0QjQ3aWJDXzFiQ3FrS3FuX1prbWhob3hHMU12eU5lMUx2VzZVU0IyX0VLQ2xXT2RVVjJiMml3LXFYWWw0Rkt4MWFZMkJMX0F5NkVnQmJILWZ6dDRMb3lQYVpwa2VSMXB3SzNicHfSAbMBQVVfeXFMTW1SLTF1SkpkVEQ4dFVkOFhqS3hxckVrT1UtT2JESGVpTDFRNHFmc1RJVHg1QWI2eFlzNEVLV0FiRjRUZDN5ajdNOHRkZ3dGajVJSTdSRUQ0QklUaWg0RlpwU2xpbjE2SjNIdFhvdXVyRnhldDBxekZ1dnhzemZsNjduZWJWRkdGMGJ2NS1EMHRHdmVRN0JHUVBWbDdaeF84MXdVdVRyZWtib3VLRGg5SE04aEk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 91,
+    "too_old": 94,
+    "gate1_blocked": 97,
+    "gate2_blocked": 44,
+    "passed": 37,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Linde plc focuses on industrial gases and clean energy applications - AD HOC NEWS",
+      "Landmark U.S. $4.5 Billion Louisiana Clean Energy Complex - Air Products",
+      "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+      "Air Products' Shares Surge 14% in a Month: What's Driving the Upside? - Yahoo Finance",
+      "Air Products cancels $4.5B carbon capture project in Ascension Parish - WAFB"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為豐田、thyssenkrupp nucera、現代汽車相關動態：「VERDE HYDROGEN Secures 25MW Electrolyzer Supply Award for...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "VERDE HYDROGEN Secures 25MW Electrolyzer Supply Award for Flagship Off-Grid G...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "Linde plc looks to long-term growth as industrial gas demand evolves - AD HOC...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

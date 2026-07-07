@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-07",
+  "date_range": {
+    "start": "2026-07-01",
+    "end": "2026-07-07"
+  },
+  "generated_at": "2026-07-07T10:44:26.037719Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-07-02-032",
+      "date": "2026-07-02",
+      "title": "Toyota and Hyundai sales rise on hybrid demand while GM sits out - The Japan Times",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.06
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": -0.5
+    },
+    "hydrogen_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 6
+    },
+    "itm_power": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "siemens_energy": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 16,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "fuelcell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "linde": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 153,
+        "last": 192,
+        "change_pct": -20.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-01",
+      "event_count": 43,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 32,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-01 ~ 2026-07-07）共 153 則事件，重點為「Toyota and Hyundai sales rise on hybrid demand ...」。Nel ASA情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
