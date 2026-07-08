@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:05:35.824292Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-08-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor's robotics momentum overshadowed by sales decline - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYi1nWUdVOUY1VHRaeEw1U254cjZjNDFmSFNMQVJ2UkJza0NsT0s4RW1rSDVlUFo4aEJPdHlRcG43aVlSbWlMQndOcUxXelJWQjd0MXlyYzlyWDFqTjVmNVVBTTRWdzRoQnloTnJfSFNNRXVsZ0tJaHRZT1RrZ3AyaUtSVXF1NWtidVFFTG1nalNyUTBaTmkwOHBDd2ZFSTdreW9qSXFTUlZ1a1ZwbHZwNDhSN2RrV1ozcTRr0gHAAUFVX3lxTFBMdVNpX1VuYnJmUFhyRzdmZ3VfTnBpeUdxWEQtb1Q5NE1UbG5sVDdpNjU5XzROSktyYVJ3T05MVWZQbEpmYldYSWp1T0JSaVE3SjlFcWY0a084SUIyVUxGYmFGejN5bmE3eVZjZ2hCQlV3Q2kyWnhlZUFUbEcxR0xoeWxvUUZ2U2ZuYXNGWURiaFYtTDRTVHplWHNpaVdVWFJEUEs1bnhQVzg1UmVJb2hDaGRNcnZmWmhSQ01NcGpVbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Clears a Legal Hurdle but Faces a Steeper Climb: Leadership Gap and Order Drought Test the J - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmpmcE1JRXVJb0FWVVRfVnRVdXVRVWw3ckNGME5GbGxWd0hUa29oWjh1NEUzMC14VWZZWUxBRGpwYjNRakJ3U1dabWpNX2ZZRy1BbGpnUm9LNWp3Smp2UVdCc0ZLSzFDV21WWXNsNHNVM1hjVDZPY01hQnNuR2R4dWU5Xzl1U2NCRlBwd1FwNnZqYUlqWXVHN25vTXExTDE0Y1FCbWxjWVFuemxqeXRxbUFBWGF0bXBjYV9rdDNUUnJEZlFVc1V5SA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: A Gigawatt Vision and a Decentralised Pivot Under a £46.5m Political Cloud - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHIzRWpKMjBLLXV4UERsTlR6eTVXQk4yOFo0Uy1uM0dyaDk2VnhnaXBnZTA1ai02c3RobFJwa2VVMWJISnVINGtwbGxhRjRydi1DSDhtb0x4OEdNSjdxdkluZmw4MTVJVWRzSklsTGJCaGNkMWwtMzBtek1hTXhWbFl6d2t3N3pxNDVOR3hDZU1LT3NuR1BUWk1XbEEySHJkZmtjak1yeFRuVnNORXFSUFE0Q2U5ZkhNMm9kdnZwN3puMXJs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SIEMENS ENERGY : JP Morgan reaffirms its Buy rating - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWhtNU5rWjRua242M3pqak9lTFU3a2JJN2NBTHo3YlB0RDJrbGpsVEpvQXEtall1NXNOMTEyM2VJMU10ZnFzMElLNE5xVHZiNmdpcUNSLW1KZ18tYmVTNVJVOUMwS3dHOVJKNXNpRkZFTV9uTWxlUE9EOFU3cGpjbFZPRmd0M2lfT1l2V2FOSHZxRzVCbGxVWDZWRGdtZEFJM1VuRA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp_nucera-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHEL Partners With thyssenkrupp nucera India To Boost Green Hydrogen Manufacturing - SolarQuarter",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek9XeUZnUUpGOUk1ODhwZU5jaW00eW5ld1o4QzdRcWtQamtmbmtkS2JoNFZWeml4VC1Nai1mMzVXM1JFSFAwbUhUTHJQLWMyN0k5RUN2TGJzU3o1LW5LSE8yclRmYmJNaWVGNEhRQ1E0NVo0SndCbUVaci0wLTB4akZDOVJBNEhZNUJ2eEZjaklIUHBKQkxTdXVMM0pxM1BNNWNiU2JoNzdTSjMtSENCZzRsc0p1ZlEzRWlF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 364,
+    "dup_title": 95,
+    "too_old": 91,
+    "gate1_blocked": 96,
+    "gate2_blocked": 38,
+    "passed": 44,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Linde plc focuses on industrial gases and global growth - AD HOC NEWS",
+      "Linde plc focuses on industrial gases and clean energy applications - AD HOC NEWS",
+      "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+      "Del. Chancery Dismisses World Energy's Air Products Suit - Law360",
+      "Air Products' Shares Surge 14% in a Month: What's Driving the Upside? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為豐田、thyssenkrupp nucera、現代汽車相關動態：「Hyundai Motor's robotics momentum overshadowed by sales d...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor's robotics momentum overshadowed by sales decline - The Korea T...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA Clears a Legal Hurdle but Faces a Steeper Climb: Leadership Gap and O...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
