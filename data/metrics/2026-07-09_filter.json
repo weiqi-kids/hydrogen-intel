@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 98,
+  "gate2_fail": 38,
+  "passed": 32,
+  "gate2_samples": [
+    "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+    "Linde plc focuses on industrial gases and global growth - Ad-hoc-news.de",
+    "Linde plc focuses on industrial gases and clean energy applications - Ad-hoc-news.de",
+    "Air Products' Shares Surge 14% in a Month: What's Driving the Upside? - Yahoo Finance",
+    "Air Products exits Arizona green H2 site, moves ahead on Saudi Neom - Renewables Now"
+  ]
+}
