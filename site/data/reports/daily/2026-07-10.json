@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:43:43.649990Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "linde-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Linde stock stays resilient as industrial gas demand supports long-term growth - AD HOC NEWS",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXlYc1k4SVQ4NC1UUWdOVEN6aVdJdUlUdUVVNzNYVEZ0VHFZai1XN01HMnl3YlVFLU13dkpwdl96NUNGUFFPRnNYeFNHcG5hNmk4Y3VOSnVyLXkzdVlobWhHQ2VwY2dpN1ROTWdhOHotd0hlRHctcUlqVjYyUFpYRnEzOXJEWk9EbTVLelZGNUF5ZDk2em4yNXg3U0c2RXBZamhEUVlxZVlIb0doZE5POWRXdU9TUl9aUktHSXJjbUlQZmx6ODYwRS13?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "State Backing Fuels ITM Power’s Gigawatt Factory Ambitions – But Investors Stay on the Sidelines - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckVQU3hXUHZVVV9nNnhjcFoyamk5RmlSRExjNmszUWFBNEJvLWRhbWlNNXdael9yTzdzZ29YcFc3LWpkQnRiTTNpNUpLZnVvTzliMGJTelIyVWpJNUt5QUVEVHNmQUpDWjJHT3V0QzFVWEpzSjQ2akRSazlrVHJrTUwtdVZDdTl1dGxRLXZ6eXo0YjZ0b1E0V2pPUmdCU1BVdnVmSjlUSzdrQ05fR1JpYzdCTjYyNG5XQmhRQWNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor CEO Rejects Union Strike Demands - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qY2taTXR2azNpLU4zVGkzTzAwWk1odG80Y3NWY2JfSEdtdUxjWnlIN3hwX3ZrYWxOQ0d6V0FfZ1BZS1BtMGR0bi1oM01ySTBRUWg4MTRGdlVpbXVrLXFNeDZJbW93bzhTWUdIekJ3UFZwTGdf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Securities will hold an event in partnership with Hyundai Motor to provide vehicle pur.. - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WcEkxLW4yalhzTWNsZGQxRE41UkZmZjQ4RGpERTk5ZDlSRTNEeVlwTnBzRHJYeU1yZnRCNVJiTUZwbnJaYVVGZjBYRzRpV1U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai CEO Regrets Strike Threat Over Reinstated Workers, Retirement Age - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3Z0c05NZVJZMldXWTREOUlkRGVwS2RwMGdMb19qbVlYWDY2NTNTN2JJbjdEeVNPY19SNG9oSTUyTTQ3OTFTbWZLWE0tc3ppQmtCMHBWRkNTTkRLTHlUTmlEQzRld0ZmLXRvbGhxUTc5ZHUzR3I2TkxRNGFsRkt4RXdBUGliX0t6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 103,
+    "too_old": 92,
+    "gate1_blocked": 99,
+    "gate2_blocked": 37,
+    "passed": 31,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+      "Linde plc focuses on industrial gases and global growth - AD HOC NEWS",
+      "Linde plc focuses on industrial gases and clean energy applications - AD HOC NEWS",
+      "Air Products Louisiana blue hydrogen and ammonia project canceled - Center for International Environ",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為現代汽車、林德、ITM Power相關動態：「Linde stock stays resilient as industrial gas demand supp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Linde stock stays resilient as industrial gas demand supports long-term growt...",
+        "level": "green"
+      },
+      {
+        "text": "State Backing Fuels ITM Power’s Gigawatt Factory Ambitions – But Investors St...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
