@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:15:40.949517Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Air Products' Clean Hydrogen Project Exit and NEOM Ammonia Deal Will Impact Air Products and Chemicals (APD) Investors - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMDltbmtSTlM2b2hnWjJ4Y3dFaFMxc0NhNkhoMVBBRWNoMG1TZEZORElpQXN3YWs1azU2MmNKbEs0VGp0Y1pwR05PRzkycF9qUkY5WTFrRlNXY0xORzMyeEVLWXh2WTR4T2ZhekxPSHdsMDVpQXlTWGEzNlRROWFacWVNQVRTSTBfWTNxbzZudVlpQk9TbFd6NV9DcUVMcHNBdHVLeEVBbVNzR0tnRVVFeTJneFFQam1Pb3RHWUFPVEdkVWxQV3hRbVd6WDZYMVBBQlA4bEk0Qld5bW_SAeABQVVfeXFMUGZlNkRDNnFzNmgwcFE4RndrWV9tYVZBbWwtVjhFeUVBY1UtcU8yYk96YXVuSUkzeXNRV3pmYy1kY2lQVXNPZ1RtZ19BdHNZTDBBWEpmX2ZOdTExcldXTW13SFZTTUc0LV82ZzVZM181eDNWczFUMzFqZmN0c0lfZXMxQjQtQVJDNC12REhOY2NuOEQ3TlN2M09QQklOaFpNUHlEbTlqbU1ILXQ4TmkxSDNQcDBWY3VERGFiVzZrTThCSU15TnRVTWs4RllkYS02d2lPTUpvQkdheE5LaUpkODk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s £86.5m Sheffield Bet: Why Funding Certainty Hasn’t Translated into Share Price Mome - ad-hoc-news.de",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3JxbUt2bFZ0VWd0eV90dERreHNjajhUWlQ4dHBacTNsWDR0Z1ZMQ2tmT2I1VThjYXA4NVAxcGQ4SkYyUGxNTnVBS1J1dGdpeGdVUEJVbk9yUUUyRmpDWGRkbS1hd0g3MVY2dnJaOGlXVEpqQlhzVEFmWTNUWklvb1lsbE9yM0oxUVlic1RxZHMzSUNMZFpTYWFmQkRMcllFWlBDa2tFU0FJU21HZzRWdTZGVXNrdFBaZVc4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVc1ZWxJNC12VGVqVXFOWS1GQVppVzlKTURna09iVUwxX0xWUlhyZHZ0TXlTNEM1SGxwTld1V042ek1jdDJFYVFVMUswMmtqV2xPOFNIWHRoZXNCSXBZaFBvOE5wUDMteFhoeVU1M1kzV21mLVRSV1BPaVpMVVk5dTlXaDNXaC0zOEpkWFMzSnhDRjJMVFBBbTFXWnJkSm5lV0NjRFNBRDhVdlZQaER4RFBTUVIycENSTkQyek5STzVWeC1QQnJQYk5BbVQ5bGJoZHJuUVN4bWI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 99,
+    "too_old": 95,
+    "gate1_blocked": 93,
+    "gate2_blocked": 39,
+    "passed": 36,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+      "Linde plc focuses on industrial gases and global growth - ad-hoc-news.de",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+      "Evercore ISI Adjusts Price Target on Air Products and Chemicals to $342 From $325 - marketscreener.c",
+      "Air Products Louisiana blue hydrogen and ammonia project canceled - Center for International Environ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Air Products、ITM Power相關動態：「How Air Products' Clean Hydrogen Project Exit and NEOM Am...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Air Products' Clean Hydrogen Project Exit and NEOM Ammonia Deal Will Impa...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power’s £86.5m Sheffield Bet: Why Funding Certainty Hasn’t Translated int...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

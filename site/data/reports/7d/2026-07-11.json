@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-11",
+  "date_range": {
+    "start": "2026-07-05",
+    "end": "2026-07-11"
+  },
+  "generated_at": "2026-07-11T09:15:41.079932Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-07-06-006",
+      "date": "2026-07-06",
+      "title": "Chung Mong-koo's Vision: Catch Toyota, Expand Hyundai R&D - 조선일보",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "hydrogen_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.05
+    },
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "linde": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 5
+    },
+    "itm_power": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "siemens_energy": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "toyota": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "nel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 196,
+        "last": 192,
+        "change_pct": 2.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-05",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 37,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 36,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 23,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-05 ~ 2026-07-11）共 196 則事件，重點為「Chung Mong-koo's Vision: Catch Toyota, Expand H...」。林德表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "林德",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

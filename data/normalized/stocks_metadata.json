@@ -1,18 +1,18 @@
 {
   "air_liquide": {
-    "earliest": "2003-03-26",
+    "earliest": "2002-12-26",
     "latest": "2026-07-10",
-    "count": 5972
+    "count": 6036
   },
   "linde": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "air_products": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "nel": {
     "earliest": "2004-10-11",
@@ -39,46 +39,46 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-07-09",
-    "count": 1999,
+    "latest": "2026-07-10",
+    "count": 2000,
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "fuelcell": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "cummins": {
-    "earliest": "2003-03-31",
-    "latest": "2026-07-09",
-    "count": 5856
+    "earliest": "2002-12-31",
+    "latest": "2026-07-10",
+    "count": 5918
   },
   "chart": {
     "earliest": "2006-07-26",
-    "latest": "2026-07-09",
-    "count": 5019,
+    "latest": "2026-07-10",
+    "count": 5020,
     "history_complete": true
   },
   "hyundai": {
-    "earliest": "2003-03-27",
+    "earliest": "2002-12-27",
     "latest": "2026-07-10",
-    "count": 5788
+    "count": 5852
   },
   "toyota": {
-    "earliest": "2003-04-02",
+    "earliest": "2003-01-02",
     "latest": "2026-07-10",
-    "count": 5772
+    "count": 5836
   },
   "nikola": {
     "earliest": "2026-03-02",
