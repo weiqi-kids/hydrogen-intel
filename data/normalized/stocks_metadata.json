@@ -1,18 +1,18 @@
 {
   "air_liquide": {
-    "earliest": "2002-12-26",
+    "earliest": "2002-09-27",
     "latest": "2026-07-10",
-    "count": 6036
+    "count": 6100
   },
   "linde": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "air_products": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "nel": {
     "earliest": "2004-10-11",
@@ -39,9 +39,9 @@
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
@@ -50,19 +50,19 @@
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "fuelcell": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "cummins": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-10",
-    "count": 5918
+    "count": 5980
   },
   "chart": {
     "earliest": "2006-07-26",
@@ -71,14 +71,14 @@
     "history_complete": true
   },
   "hyundai": {
-    "earliest": "2002-12-27",
+    "earliest": "2002-09-30",
     "latest": "2026-07-10",
-    "count": 5852
+    "count": 5916
   },
   "toyota": {
-    "earliest": "2003-01-02",
+    "earliest": "2002-10-04",
     "latest": "2026-07-10",
-    "count": 5836
+    "count": 5900
   },
   "nikola": {
     "earliest": "2026-03-02",

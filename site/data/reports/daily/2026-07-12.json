@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:43:00.333655Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Air Products And Chemicals (APD) Undervalued After Dropping Its Louisiana Clean Energy Project? - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVHgtVV80QUZ0TnB3bURJYXMzaUNkTDRQZlpEOFJsV1R2LWpfcXg3bFcxVWtKYVZhNFdad2pmNWo5OXVBejVLaWhBcllfa0h2aW1lM0pHa0JRSkdJNlZ3R25jS0ZCT3BhTVFpTTM0VU5samk0dHVvQXNpSmJadGxPYzNOQUFiQjNHSldnZ2s0NkxhaHBpMC0tTHNpNEo5ajNELUJDR1lVQkZLc2ZjVUhENGNlck5ROVQ3UmkxUHNMcHpPSWFraUkzT0Myb0p4NnFrVlNQNjN0b0RNLU3SAeABQVVfeXFMTzMtbUxXTnhGNFRlUHExdFRyRG9wZUFrMXU4QjVBN1h3ZXBOcGMtS0NkZEtIRHdsZkNhMmxkcnB0MENBOXhVYWpNQWF6SWVZQVVSYllWNG5xR2dfXy02QXN6bVhqUnhtcURzRTVQNFVvUkNzU1EzY2JfdS0tYXdSWUtzdDg0QUhrZkEtVnVtYnhnVUdDN2VzX3lxY0t4WTJzWFl1Uzktc2gxaVRZa3d6SGJQa3o4S3JkeDBpME1jZmRUOXNueFpuRWdGMlhzSVFWaDhhN3d5Q21sUU53dEZpUEk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "chart-2026-07-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU approves Baker Hughes acquisition of Chart Industries - gasworld",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTV6M0IyV3I1SXNKUVFUdGFidXhnaWVTcERWU1Q0S0RNRWhWQlNvX1FTMUhTYmJ0YjF0MDBFRlVfc0d4OTRUNTBzaWQwRFF2aEtMY1NDUFZDNXFfZVpXZlk3ZDd5UnIyWGN0b2dodFM4OU5oZm52SnUxQ2pReUlVMUh4WDFjc3h2OVo2azhVWmpfcnliRDVqeGFWOGtaWm5WeU5Bbm1KNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 124,
+    "too_old": 94,
+    "gate1_blocked": 93,
+    "gate2_blocked": 42,
+    "passed": 10,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "17.6%",
+    "gate2_samples": [
+      "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+      "Linde plc focuses on industrial gases and global growth - ad-hoc-news.de",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+      "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+      "Air Products' Shares Surge 14% in a Month: What's Driving the Upside? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Air Products、查特工業相關動態：「Is Air Products And Chemicals (APD) Undervalued After Dro...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Is Air Products And Chemicals (APD) Undervalued After Dropping Its Louisiana ...",
+        "level": "green"
+      },
+      {
+        "text": "EU approves Baker Hughes acquisition of Chart Industries - gasworld",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

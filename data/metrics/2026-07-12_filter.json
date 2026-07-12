@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 93,
+  "gate2_fail": 42,
+  "passed": 10,
+  "gate2_samples": [
+    "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+    "Linde plc focuses on industrial gases and global growth - ad-hoc-news.de",
+    "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+    "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+    "Air Products' Shares Surge 14% in a Month: What's Driving the Upside? - Yahoo Finance"
+  ]
+}
