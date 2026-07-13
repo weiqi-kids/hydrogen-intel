@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:48:47.147899Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s £86.5m Chronos Factory Is Funded, but the Share Price Is Already Looking Past the Hyp - Ad Hoc News",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFRhNk5oZmZDZzRiS2tESlgzSjZKajZyS0x6UTloMlZKZllyTDlkdDZ4NDZtUWI3bnplMFpXSlplSTlPd1RRa0lobzdpYmxUdFp2Wmg4eXhBZlRrRHVpQjJuTWIwWURsa2VjWUUwbS1WRUs4ZGdmVzdXNlZJZmdNRWl2X29DRHcxUndZcUVjaUlVbEFHZnNvaEpqWVZlSFllaUx3MEFRbWphN2lIT3Bob0YtZDZCc3R6akplRXRKMV9MRFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "chart-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Commission approves Baker Hughes’ acquisition of Chart Industries, subject to conditions - The European Sting",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0J0cEFRM0o2bTFDVnprOU11aV9WNXhXQ2liWERjaG5YSVNodTI4THBZaXhtMWZuQnc5TTRQNGVWMFd0bXllTDBreF9yeFNCcXVyaDBrRHZjQjRNSS1tME9fQWdWak9UZ0JpZG1EUDltZ3JqQ0p2UUdyRlVQd1oyNUJoX1h1THFUaTViYzhzZDRxMTZES2NDRmR5QmFuTVdNcGF3eUhSVVg3dEVLNVBPSkJBcjY1MlZ0dmdueV9ZWTd1UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EC conditionally approves $13.6bn Baker Hughes-Chart deal - Offshore Technology",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmRSdVE2TWNXMVkydFhsZVZvUmpCWVlSN1JnS3lhYUR5eWVEaDdUOGw1S1J6NGItd2E1a19udy0yNlU2X0dYaVNXYmd1TzdXTzlRUjduUXp2ZktEWFlCOTUzcElFT0lmLXJWbTdMcDZ6bGgxenpack9zdFJPS3ZKcEM4QXMtRk5ET2daekgxY21keVFEVGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "chart-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com Commission approves Baker Hughes' acquisition of Chart Industries - The European Sting",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVdZT3dPU3BiNFdLendyQmJxY051R3VSMTBUUGlMMVJDVVBsYUNaV0pIUzhWNFZWU2tYbFd1VUpsOWsxcW1sYmtaLUREckwtcGg3ZktHUkV4R085eHRTbHRCWU1nby1sSjRGRW5pcGVvdVZESFVNcVVQNHQzQWx0UTJ4OVZzSy1yQnAxTFFDVjRzVkFzb0FkTWRzRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Inside HMG’s Digital R&D Revolution ①] Driving Simulator: How Hyundai Motor and Kia Compressed Years of Track Testing into Hours of Simulation - hyundai.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUVzY5RTBfOEM2TmxlNkJUU2czdm1WbVQ1d2tWYXdnRG1Kb2ZLbEtBWUY2SHlBVUFhVzJRMkJxZTc3ZTZ0M0RlejItMDItcDJlRVZnN0lpTTdCamR2RDR2OElfWll4dFF1NDc5UUpGNFg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "chart",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 103,
+    "too_old": 95,
+    "gate1_blocked": 95,
+    "gate2_blocked": 41,
+    "passed": 29,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+      "Linde plc focuses on industrial gases and global growth - Ad Hoc News",
+      "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+      "Air Products Louisiana blue hydrogen and ammonia project canceled - ciel.org"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為現代汽車、查特工業、豐田相關動態：「ITM Power’s £86.5m Chronos Factory Is Funded, but the Sha...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ITM Power’s £86.5m Chronos Factory Is Funded, but the Share Price Is Already ...",
+        "level": "green"
+      },
+      {
+        "text": "Commission approves Baker Hughes’ acquisition of Chart Industries, subject to...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
