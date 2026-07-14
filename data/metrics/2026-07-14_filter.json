@@ -1,0 +1,16 @@
+{
+  "total_raw": 364,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 94,
+  "gate2_fail": 41,
+  "passed": 23,
+  "gate2_samples": [
+    "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+    "Linde plc focuses on industrial gases and global growth - Ad Hoc News",
+    "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+    "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+    "Nel ASA's Zero-Buy Consensus Reflects Both a Sector Pause and a Competitive Onslaught - Ad Hoc News"
+  ]
+}

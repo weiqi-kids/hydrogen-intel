@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:45:01.234539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-07-14-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "For ITM Power, State Backing Funds the Factory but Can’t Arrest the Share Price Decline - Ad Hoc News",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS090bTJkQ3VKZ1JrbkQzazlPWFQyTXhWNlNCaFBKUUVCTDNQUmFVeVo3NU9vX21ubHd1XzltTHFQci15dTdMdTBKQ0xoUXhlamJCaWdTNTZtQmg2MWFCUnhiOENlclNhNk9wWFkwWHdBQ2lRNFRwQVVPMTAweXU2b3JHSF9KdWlWalF2Ti14dTJUZk44T0c2VnlhbHVfQnJmU28zaDRmUnRXdFFLbjFIbWIwUXl5TFFSV3NpWXNIdVN2SFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Begins Wage System Review - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JVi1WenFTV3licThzWkpRYWZIZl9VS18yYTctZFpxeUs2NnBPRm5yRWRpdlhaVHNwSzBSNGtsR0VObFNVbnhwVEVuOS1qY3VUTWNHTVNHWkVLclNTY2FFVDVUVm5xT2xmTl9CQm4tQkdOX0Nm?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Rotem’s K2 tank earns Korea's first NATO quality certification - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oZkdjR2JBTEphcUxXRDVoWkc2VGpJV2plQndOTml3SGdSM3l4SkF5a1ZiN2dSeGVBMGoyX3JhNTVKVEJGd0ljVzZ3ODJIcVF5U1MtTEw2QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Calamos Wealth Management LLC Acquires Shares of 20,763 Toyota Motor Corporation $TM - MarketBeat",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUS16ZnN0YXQ0YllZRHpzUUZOVmpKRDNlNkRkNnk1dFVtTHk3d2ZtSFJBbmFJVkhTRkducFpjTi1XUWExLWxRUDZra0JNUXZ4dUJOcmhJaW1LQ3JJblQ5WE1tVlRsTHF2NkRndi1pc2NjNmVXODhFSjR4TnhWWG9lMndzTVdYVG9mWmx1dzBqUkxxMHRtTkZSWk93eEt6b241UENjODdMSFZSLUlweTRqVHR6S2F0NklCWnpMWWZoQlRlMElVaWtFTUEyQzN3Qk9ub21JQmdCMmNlSXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Marginal costs for green hydrogen are rising significantly - energate messenger english edition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXRvRjVEYURCMk9KZ28yRGhWclpCeWZ0bVZ6M0Jtd1oxcktzbGE3aWZicDRXNS1aNWZxT2loVFg4YkdsWkVmdEdJNFFraEdJWHlhcUFnYUQxTEJNSjE2SXhBSGhYT0prREhFUE1nczhPMXo1RER4dXMtRGFnWGM1eHdaTjFaYkpYc0hia2xSTFoxa3YtaTFNRUxMNVdHVmRieURsaEFlMlI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 364,
+    "dup_title": 112,
+    "too_old": 94,
+    "gate1_blocked": 94,
+    "gate2_blocked": 41,
+    "passed": 23,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+      "Linde plc focuses on industrial gases and global growth - Ad Hoc News",
+      "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+      "Nel ASA's Zero-Buy Consensus Reflects Both a Sector Pause and a Competitive Onslaught - Ad Hoc News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為現代汽車、ITM Power、豐田相關動態：「For ITM Power, State Backing Funds the Factory but Can’t ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "For ITM Power, State Backing Funds the Factory but Can’t Arrest the Share Pri...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Begins Wage System Review - Businesskorea",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
