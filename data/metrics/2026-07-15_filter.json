@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 95,
+  "gate2_fail": 39,
+  "passed": 42,
+  "gate2_samples": [
+    "Linde stock holds steady as global gas leader focuses on long-term growth - Ad-hoc-news.de",
+    "Linde plc highlights its industrial gas reach as a global player. Strategy and operations underpin l",
+    "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+    "With Upper Macungie's rejection of data center official, the clock is ticking. Will Air Products app",
+    "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina"
+  ]
+}
