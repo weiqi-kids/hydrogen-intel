@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-16",
+  "total_events": 10,
+  "by_company": {
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "itm_power": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

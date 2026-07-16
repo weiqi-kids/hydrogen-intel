@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 98,
+  "gate2_fail": 37,
+  "passed": 30,
+  "gate2_samples": [
+    "Linde stock holds steady as global gas leader focuses on long-term growth - Ad Hoc News",
+    "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+    "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+    "ITM Power secures £46.5m UK grant for next-gen stack manufacturing - gasworld",
+    "ITM Power formally awarded grant for 1-GW electrolyser line - Renewables Now"
+  ]
+}

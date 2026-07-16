@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:55:16.787473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-07-16-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA Triples Orders in Q2 2026 but Deepens Operating Loss - energynews.pro",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTVaektMUVIxNWZDRlhUUkprUEk3cnkxSTMyUXBiai1QRmZqa0JZWGFKUng5d1RZY1ZlMk9YbUFmS05QTjlPZWsyRzM1ajQzTmNMVTA1NHdhemdPZXlLU1JTNE10NExWU3IyZFpRRkh1OUszbW1GRmtSREV5bzVFam9KMmFCN1FsdVhBX3dHbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power (AIM:ITM) Stock Fair Value Falls As Analysts Weigh Delivery Risks - Yahoo Finance",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmpSaHlSYmwxSGhiZUtWVW1BaThFRWh0SllIMGd2blg0Ykd3dXhjQ1dpNHUtMVRMUkN6dWVfNUdrY2loSERISjVlM25QWml0UGNER0VjbHBNbFUtRzBEd29KaWJKYmlJZ1huOXRIcDNGcU5FaU1NV3llS3VSdFpIaEFDNHlBQkg1YzFCM3JGQ01kUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power’s Bidirectional Future Hinges on a Handful of Investment Verdicts - Ad Hoc News",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVc3SzB2Nk1tY050ZlluQmw2ZGZjNE1FNC1QNGZLWWpyWUlZcWVTY1pTT2tXcDNCaFNLaEVmazZUdElVbWV3Y0xFRExQX0pDM0p2NUdRM2pzZVQ2ZDZWUHhKOUVMSzlMcE9xekxCQjVkSWlrd3YzX1AxOWVJQU9qalJncFNlMzRyaDdtSnpya3g3MjBha1Ixc0ZCVGtfSFdPeGFKZV9LOVgyVGJXb3FfVUN1eFhScVQyazNwdHQxQlkwd2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-07-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delfin issues LNTP to Siemens Energy for FLNG2 vessel - Offshore Technology",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeE5RUzdYNjR2QjhRMmNVT1ZiMDVJQjhuT0hYUl8wMlFkVlRVVXJCMEk4VGloZ2dRSXV5aWk4WExsX0szY0pLcWU2WkxHdlZ4VDU0dlpLVWRsZ25VZEtXLXhoa3JjNGdBd1VBMEZNQ2phSkUtQlk2RUpocnVnVU55ZERqa3ROejltUkZFWjZLUlYzdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group to own Boston Dynamics in full with SoftBank stake buy - Reuters",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 105,
+    "too_old": 93,
+    "gate1_blocked": 98,
+    "gate2_blocked": 37,
+    "passed": 30,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Linde stock holds steady as global gas leader focuses on long-term growth - Ad Hoc News",
+      "Air Products cancels development of its planned Louisiana clean energy complex - Energies Media",
+      "Parents relieved after Air Products cancels CO2 pipeline near elementary school - Louisiana Illumina",
+      "ITM Power secures £46.5m UK grant for next-gen stack manufacturing - gasworld",
+      "ITM Power formally awarded grant for 1-GW electrolyser line - Renewables Now"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為現代汽車、ITM Power、Nel ASA相關動態：「Nel ASA Triples Orders in Q2 2026 but Deepens Operating L...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA Triples Orders in Q2 2026 but Deepens Operating Loss - energynews.pro",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power (AIM:ITM) Stock Fair Value Falls As Analysts Weigh Delivery Risks -...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
