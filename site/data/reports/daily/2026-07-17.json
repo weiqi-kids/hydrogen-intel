@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:45:11.003413Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-07-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy to Rebrand as Omterra in Global Brand Transition - ChemAnalyst",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2lEOWhRSmFSa284eGZHRGxGZmZMdXVDcjBrQVV3TFdQTUQyQVdEVmtPd0ZmVkFkYlY4Ri11Y3BINHNOcUduTzZxRTVyQ2VNNWhCZktGdVBtWjJ1cFpQWmtuT2JveDhyTEZrMnR2RFV5TEdLTWVMWjhhQnBsNTUzdUVvMzJWZVZVYTRnOHI4b2l0SV84YktXdUZOZTN2UERHQktaQjloTTNOd1BpR0hNSUNNRFdZLUI0WDNOTzdldw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-07-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Gets Buy Call From Nuvama On Initiation — Check Target Price, Stock Upside - NDTV Profit",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUTZpT20wZDc2cU5rWU5rR3h0cWtaeE5SMHYtN2I2d2hpRHU2YTJlOXJRLXdlNVhRbFRMX2g4WXI5aWZrTUFRajMtWUNoRG85UlhnMXdULTFHNEJQUEJ3M0Q1TG1ydTFWVXJLN0FaM2hxSkNZaGFLZG5UMm5BRXFiRlVmY2pmdEdLdUxreFhBTE80UnVYeEhMNHFZTWFaY2t0eXFyemZPM3gyWjZVa3JocDhWMVRNRWZjMGJfTXRnWjBfV3VNY05iZk9ZVWVqM1A5bXB0TEo4UElmTkFlTU1mU0pR0gHqAUFVX3lxTE5FZE9FLVROZGpORW9IU3Y1Z3pQWXU0SkRjOWNXNXlEeEJOQlFLeW4wZEVGSVBsQ3lnQ3J2anlhQU9vX0ktdXlxSTEyUzVjcVRZbWdybG1nZm1Uc05hZlhwM0E4SmVoeXVQX09LaEhDVjVQMmpjeUNzcHRXdVJOdzM0dGpwcUFHQ2V6SHFwY3NZLXNVeVk0WVpZd3NteUJERWFkendKY0hJTG1qVndUXzU3dXljclpBZUZWWEVlMUpYcjhjMTFBdm5UVXdSOXhOOTJjaUhoN0dEWVhIN3d5dGtBUHJxZEN0MlNEQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-07-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Represented Chart Industries on USD13.6B Acquisition by Baker Hughes - Winston Taylor",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDRaQUJSNTJJMXVROXdUdnM3UTFudFc5am1JV0JNRXhSQ2hHaXB0QUxHTGQwdVdSTmlmUkhkWmhDcjBWZk1XS1lBQjN5U0NIVEp3QXo3TzR1SFBuNDFYVy1BbTAyaExEeGVQTTB5aWJaRDlwRGNEODdEdHBPRF9CUjktTTMzeVBCd0dvN2hoMnFGQjN3QWxaRFVvUlF5ckl6YkpOaV8wN2F5Ums?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "chart-2026-07-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes wraps up $13.6bn Chart Industries acquisition - Offshore Technology",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGpHcFZMTkw3enE0VnB6cnQ0UUpYUFdfLUVuNzVvN2FxSWFBOUlWb2czcHBheTMzYUU5aGJ5N2RMQ3dQUjg1NE9CMEpKbzIzcm1BU0ZBV1pRNFd1ZS0yaEpJWkRpWmxiZExoeVZvTGdUNS1xR29VWjVDS1ZxbHZDVDJhRm5qSjRqVjNTWWVQQ1luSURH?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "chart-2026-07-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes Completes Acquisition of Chart Industries - Energy Digital",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOWJEd1NZSE5zSTM4MlkzeGk5Yl9FUFk5WVNvcE1HV0V3MG03RjFkS0xBdVNrQlh1WDBnbmRHdGlteWdueHdlbnRSaWxTLU02ZUFNOEZ2azZrZDQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "chart",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "air_liquide",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 88,
+    "too_old": 94,
+    "gate1_blocked": 93,
+    "gate2_blocked": 33,
+    "passed": 55,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Linde stock holds steady as global gas leader focuses on long-term growth - ad-hoc-news.de",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+      "How to Secure Your Hydrogen Advantage: Nel ASA, dynaCERT, and Plug Power Now in the Spotlight - Stoc",
+      "Insider Buying: ITM Power (LON:ITM) Insider Buys 134 Shares - MarketBeat",
+      "ITM Power (LON:ITM) Insider Simon Bourne Acquires 134 Shares - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為查特工業、西門子能源、豐田相關動態：「Siemens Energy to Rebrand as Omterra in Global Brand Tran...」。主要關注主題為電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy to Rebrand as Omterra in Global Brand Transition - ChemAnalyst",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy Gets Buy Call From Nuvama On Initiation — Check Target Price, ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 88,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 93,
+  "gate2_fail": 33,
+  "passed": 55,
+  "gate2_samples": [
+    "Linde stock holds steady as global gas leader focuses on long-term growth - ad-hoc-news.de",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+    "How to Secure Your Hydrogen Advantage: Nel ASA, dynaCERT, and Plug Power Now in the Spotlight - Stoc",
+    "Insider Buying: ITM Power (LON:ITM) Insider Buys 134 Shares - MarketBeat",
+    "ITM Power (LON:ITM) Insider Simon Bourne Acquires 134 Shares - MarketBeat"
+  ]
+}
