@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 92,
+  "gate2_fail": 36,
+  "passed": 11,
+  "gate2_samples": [
+    "Linde stock holds steady as global gas leader focuses on long-term growth - ad-hoc-news.de",
+    "RBC Raises Price Target on Air Products & Chemicals to $358 From $341, Keeps Outperform Rating - Moo",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors despite dail",
+    "How to secure your hydrogen advantage: Nel ASA, dynaCERT, and Plug Power now in the spotlight - Stoc",
+    "Insider Buying: ITM Power (LON:ITM) Insider Buys 134 Shares - MarketBeat"
+  ]
+}

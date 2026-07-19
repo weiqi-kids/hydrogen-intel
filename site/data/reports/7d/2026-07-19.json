@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-19",
+  "date_range": {
+    "start": "2026-07-13",
+    "end": "2026-07-19"
+  },
+  "generated_at": "2026-07-19T09:44:04.416998Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-07-13-027",
+      "date": "2026-07-13",
+      "title": "Hyundai recalls a whopping 14 IONIQ 5 and Kia EVs, warning owners to park outside",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 2,
+      "last_week": 10,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 6
+    },
+    "chart": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hyundai": {
+      "event_count": 22,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 9,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "nel": {
+      "event_count": 8,
+      "sentiment_avg": -0.19,
+      "rank": 5
+    },
+    "siemens_energy": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "air_liquide": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 192,
+        "last": 214,
+        "change_pct": -10.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-13",
+      "event_count": 35,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 27,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 43,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 50,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 26,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 7,
+      "sentiment_avg": -0.21
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-13 ~ 2026-07-19）共 192 則事件，重點為「Hyundai recalls a whopping 14 IONIQ 5 and Kia E...」。綠氫成本、電解槽產能為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "查特工業",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
