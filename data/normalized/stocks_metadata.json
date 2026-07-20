@@ -1,47 +1,47 @@
 {
   "air_liquide": {
-    "earliest": "2001-01-09",
-    "latest": "2026-07-17",
-    "count": 6553
+    "earliest": "2000-10-11",
+    "latest": "2026-07-20",
+    "count": 6618
   },
   "linde": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "air_products": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "nel": {
     "earliest": "2004-10-11",
-    "latest": "2026-07-17",
-    "count": 5483,
+    "latest": "2026-07-20",
+    "count": 5484,
     "history_complete": true
   },
   "itm_power": {
     "earliest": "2004-06-11",
-    "latest": "2026-07-17",
-    "count": 5596,
+    "latest": "2026-07-20",
+    "count": 5597,
     "history_complete": true
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
-    "latest": "2026-07-17",
-    "count": 1477,
+    "latest": "2026-07-20",
+    "count": 1478,
     "history_complete": true
   },
   "thyssenkrupp_nucera": {
     "earliest": "2023-07-07",
-    "latest": "2026-07-17",
-    "count": 769,
+    "latest": "2026-07-20",
+    "count": 770,
     "history_complete": true
   },
   "plug_power": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
@@ -50,19 +50,19 @@
     "history_complete": true
   },
   "ballard": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "fuelcell": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "cummins": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "chart": {
     "earliest": "2006-07-26",
@@ -71,14 +71,14 @@
     "history_complete": true
   },
   "hyundai": {
-    "earliest": "2001-01-10",
-    "latest": "2026-07-16",
-    "count": 6368
+    "earliest": "2000-10-12",
+    "latest": "2026-07-20",
+    "count": 6433
   },
   "toyota": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6353
+    "count": 6417
   },
   "nikola": {
     "earliest": "2026-03-02",

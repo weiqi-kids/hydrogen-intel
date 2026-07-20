@@ -1,0 +1,13 @@
+{
+  "total_raw": 102,
+  "dup_title": 7,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 86,
+  "gate2_fail": 2,
+  "passed": 7,
+  "gate2_samples": [
+    "Foreign Firms Follow the Money: Why Evonik, Siemens and Hyundai Are All Building Hydrogen Shops in C",
+    "Nissan Sakura Keeps the Crown as Japan’s Best Selling EV"
+  ]
+}

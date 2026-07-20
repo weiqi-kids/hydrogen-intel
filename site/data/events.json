@@ -198,6 +198,117 @@
     ]
   },
   {
+    "id": "unknown-2026-07-18-008",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Production Soars as Kanadevia and BEC Join Forces in Oman",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1784534463685.jpeg\" alt=\"Green Hydrogen Production Soars as Kanadevia and BEC Join Forces in Oman\" /></p>Kanadevia and BEC partner to deploy advance",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-soars-as-kanadevia-and-bec-join-forces-in-oman/8576246/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-009",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Lhyfe Delivers Green Hydrogen for First Industrial Ceramics Combustion Trial in Spain",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1784534219565-h7fxbm.jpg\" alt=\"Lhyfe Delivers Green Hydrogen for First Industrial Ceramics Combustion Trial",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/lhyfe-delivers-green-hydrogen-for-first-industrial-ceramics-combustion-trial-in-/8576245/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-010",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "EIB Finances OMV’s 140 MW Plant in Lower Austria",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1784534374343-3edw1a.jpg@webp\" alt=\"EIB Finances OMV’s 140 MW Plant in Lower Austria\" /></p>OMV’s €450 mill",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-eib-finances-omv-s-140-mw-plant-in-lower-austria/8576244/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-011",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Renewable Hydrogen Production: Messer Takes Stake in Lhyfe’s Green Hydrogen Sites Under 10-Year Supply Agreement",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1784364219614.jpeg\" alt=\"Renewable Hydrogen Production: Messer Takes Stake in Lhyfe’s Green Hydrogen Sites Under 10-Year Supply Agreement\" /></p>Lhy",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/renewable-hydrogen-production-messer-takes-stake-in-lhyfe-s-green-hydrogen-sites/8576242/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-012",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Production: EU Approves EWE–Verbund Joint Venture to Bolster German Hydrogen Infrastructure",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1784364123074.jpeg\" alt=\"Green Hydrogen Production: EU Approves EWE–Verbund Joint Venture to Bolster German Hydrogen Infrastructure\" /></p>The Europ",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-eu-approves-ewe-verbund-joint-venture-to-bolster-germa/8576240/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-013",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Solar-to-Hydrogen Efficiency Tops 31% with Fraunhofer ISE’s HyCon CPV–PEM Module",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1784536356402-eksyr.jpg\" alt=\"Solar-to-Hydrogen Efficiency Tops 31% with Fraunhofer ISE’s HyCon CPV–PEM Mod",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/solar-to-hydrogen-efficiency-tops-31-with-fraunhofer-ise-s-hycon-cpv-pem-module/8576238/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "siemens_energy-2026-07-17-001",
     "date": "2026-07-17",
     "companies": [
@@ -663,6 +774,26 @@
       {
         "name": "hyundai",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2MzZGt4WGRJMFNEeDhMZE90aGlQV3oyRUpxclZtZkpDbjBObE9zeUtsY0Z6bVV3bmJKeHRQV2tlTjRrNzlpYkw0amFyMXQ2YUlPRFJwNjVDWVZXUTJYQW8xTUxtVmVCaGNBbXg2czRJTHFEbjdqZUR6THd1SzdOczdZeDUwQkRONTVFTTlaNC0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "plug_power-2026-07-17-027",
+    "date": "2026-07-17",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Project Financing: Plug Power Extends ATM Facility to Support Green Hydrogen Infrastructure",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1784315230487.jpeg\" alt=\"Hydrogen Project Financing: Plug Power Extends ATM Facility to Support Green Hydrogen Infrastructure\" /></p>Plug Power exte",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/hydrogen-project-financing-plug-power-extends-atm-facility-to-support-green-hydr/8576234/",
         "type": "rss"
       }
     ]
