@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-21",
+  "total_events": 17,
+  "by_company": {
+    "linde": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "siemens_energy": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "mcphy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 91,
+  "gate2_fail": 30,
+  "passed": 46,
+  "gate2_samples": [
+    "Linde stock holds steady as global gas leader focuses on long-term growth - Ad-hoc-news.de",
+    "RBC Raises Price Target on Air Products & Chemicals to $358 From $341, Keeps Outperform Rating - Moo",
+    "How to secure your hydrogen advantage: Nel ASA, dynaCERT, and Plug Power now in the spotlight - Stoc",
+    "Nel ASA Reports Dismal Results! ITM Power Enjoys a Cash Windfall! Is dynaCERT Poised for Multi-Bagge",
+    "ITM Power (LON:ITM) Insider Simon Bourne Acquires 134 Shares - MarketBeat"
+  ]
+}

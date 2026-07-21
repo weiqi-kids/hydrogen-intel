@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:13:46.359406Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "linde-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Linde stock trades steadily as earnings and hydrogen growth support the valuation - Ad-hoc-news.de",
+      "companies": [
+        "linde"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnJXYjJzNlVJUERmdGpkOTJzbWtLNUVEeGpyb2tPU1NZRm8xOEtwVllDMnhmbXhjMzQ0RnA4X3c4OVBrbVRvbzE5OUZyY3IxZ0NNcVZPOWh6b2tnbV94dFV1MWhFZVBpMlFWWHplLUFJV3M5Qy13NHlfMmtBNFJUVDhya2RsQmE0WFRJbmNYR241NF9KMVJsRjZQYUtVX0sxWmd1LUhsTFpnSnJhRlZLZVkyWTQxbXNiQVdza2U4Vjl4LTZnZ3Zzc2tn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Launches Construction of Mississippi Switchgear Plant to Expand U.S. Grid Technology Manufacturing Capacity - SolarQuarter",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYzlSTTNOa1NlM2owSFpoUXNXX3JHMmJhdmxJRFlVaDNXbUhpNlRZbHlaTk5BN3d6aHpwLWM0Q3BqVWlqZV9zNGhYYUM5MklBTmhiamFEODR5R1RtLUlUQ2xhd19ZTDFwS3ZPTGs5d2lwSlQyQlNVQldMUER6NGFpTUhqTlJHdWktUlJaSHEyOExqbk9BQlJQYXNqY0dGQ0pUellUTVUzZ0t0VC16U1B3b28yOHFPVzlqQ3ZUODdONUttUWZGN2V0TUItRHVaNFZMNk51LW9GRVhGNmctMG5IRi1MV09IVlhaTURLMUs5TQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Unveils ‘Omterra’ as Its New Independent Global Brand - Machine Maker",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUxPY0hEN2VxazNHY3FGSUhXdHNuRmlTdmZnRW5uVWtsbHVXcTloaEQtTHg2ZEVDc1JhbXZtXzRwZ3B6QlFmMm03d09uWTN2bWNxVWtyNmNqVzVGNXl5NGRmaXUwczhyZkh2ck1tbW8wNXBCWTVhVEVETEdYSjNpSF9rMUtEUEtxRFNOSm45RWJGdlY5ckxSOVRYTnpEcDNMWEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mcphy-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of Mcphy Energy – OTC:MPHYF - TradingView",
+      "companies": [
+        "mcphy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1RQNXN3cVdjeW1IY1RFVnc5WXJHdi1GLWFRazZoWW5vNjNEYkREQmFXdGt4emFMX1VJYjNlTmhLTzZUMXpESUZaVVF5LU9hQjBXMHY0NWZMTWZUV2JrdDc5a0ZaeWhlT2RGOXp0ekV2TEpqVV9Hb0JBTng0UWl1MFlrNUdMa3J5OWx3ejU0ZkkyRFdMVFA2am11YmFnZWNPbTJPWVRqbVdaZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "chart-2026-07-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysis: Will Baker Hughes and Chart achieve supply chain synergies? - gasworld",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXlUUmZaMDY0OFlNMzFKOFlDc29RUGNBQUxpclk0QXdIMXhFZmI1TWtBZ1ZXeVVJSVVGa0ZCaG1rNkNmdmRDTEIyVnI5WHk1Smw0ZkFHaktBdFBrLVJNSlpGRFNmcTZydFJhNER0NGRsQXFjZUlzbjN5YjQ1Z1NMVllIWTBDOEM5djlQQWJ5UFdOa2ZFZlhxRE1paERPUTltazZ6dFlYZ3U4UndRS21MckRfcnlkdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "mcphy",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 98,
+    "too_old": 96,
+    "gate1_blocked": 91,
+    "gate2_blocked": 30,
+    "passed": 46,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Linde stock holds steady as global gas leader focuses on long-term growth - Ad-hoc-news.de",
+      "RBC Raises Price Target on Air Products & Chemicals to $358 From $341, Keeps Outperform Rating - Moo",
+      "How to secure your hydrogen advantage: Nel ASA, dynaCERT, and Plug Power now in the spotlight - Stoc",
+      "Nel ASA Reports Dismal Results! ITM Power Enjoys a Cash Windfall! Is dynaCERT Poised for Multi-Bagge",
+      "ITM Power (LON:ITM) Insider Simon Bourne Acquires 134 Shares - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為現代汽車、西門子能源、林德相關動態：「Linde stock trades steadily as earnings and hydrogen grow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Linde stock trades steadily as earnings and hydrogen growth support the valua...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy Launches Construction of Mississippi Switchgear Plant to Expan...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
