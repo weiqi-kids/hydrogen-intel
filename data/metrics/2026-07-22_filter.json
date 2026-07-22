@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 96,
+  "gate2_fail": 35,
+  "passed": 33,
+  "gate2_samples": [
+    "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+    "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+    "Can Air Products and Chemicals (NYSE:APD) Shape S&P 500 Gas Views? - Kalkine Media",
+    "How to secure your hydrogen advantage: Nel ASA, dynaCERT, and Plug Power now in the spotlight - Stoc",
+    "Nel ASA Reports Dismal Results! ITM Power Enjoys a Cash Windfall! Is dynaCERT Poised for Multi-Bagge"
+  ]
+}

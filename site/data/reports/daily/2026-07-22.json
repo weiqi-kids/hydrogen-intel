@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:13:19.084481Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-07-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy breaks ground on $300M plant - BIC Magazine",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2lkblB0am1xYTZUdHQySExwOFQ4bVhxZ0xxTEp5OWg3UERCUFFEeE5nb1JCaFVhNlJsSy14cFdwNTNYTThOdXVnVm5JM2F2aHBYWmQzYXA1V2l6Q2l4MUJpY1llOUF4TkJ5enVqaWF1VVhBVlBqS2NxQWxCMVRuTTBIc2VILVUtYlRoX0xEcjQwalV2a19jQ3l3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Inside HMG’s Digital R&D Revolution ②] Digital Measuring Center: How Hyundai Motor and Kia Validate 1,000 Measurement Points on Every Vehicle - hyundai.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxTDR5Vko0VXZFZFlCLVdQaUZMSnV4Ql9Ba2EtaVBWWThkQVBNM1BDWW1DdWJZVmNvZEJ6Z193MUdDSU9BcGltR3lNNTdvdl9TZU9uQTFKQnU5cjlWd3NhQVpyM0U3N1p3dlZWYVdOTUw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KR leads world-first pilot demonstration of MobED, Hyundai Motor and Kia’s autonomous mobile robot platform, aboard HYUNDAI DUBAI - Cyprus Shipping News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQi13S3pKSVN3REoxSnNtb0JLNUdYdHNJREROUU1laUxJT29tX21pd25XdDg4c0hlczdLR3RFOGFBekNmdGJqRkhneDVCQ0hDTDZMdWNnWWhEbW5UXzdxdGxjWjAwQ2ZISWhxV0hKcDlYU3QtbDRDLUZ0XzVBeUZORE9XbnFPTGZ4R0hGQlltTVhtTXBpT3BzVlliNFdhUHAwMlJDd2dwZFhUVDVKSnNfNUFNZUpkSjJUejVVU1FvRWd4LXBmaS1SOFdnb013Y05aa211NzFuTTJiTjdXRzdPX2txb3FkNm1rT3NQbEJCZ2IxTGp1eWdBN0RXN2FOUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The race is on as Japanese brands join Hyundai, Kia in expanding U.S. production - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmp2NjFvc2hfTTR6eHFCcnNZVmJpdnhBZUlOQkxjSE5LMU9acjFCZHI4TmpBYVRHc1QzM2ZtSTFyTkxEajVSY21TMHlMQk1qVzZqM1B5S3owdUxHQWNHTUNiU1dGWWhRelpQb2VlcUhweVpOUjkwWXBldG04ZGxfSElJbU95WkZ6ZER3cGp1bTNoak1waEJtNVlUWkNmWG5DRVlyVUNCd0UtWGZCcEhLTXk4Z3pRUzYzVmJXRHZ4N3gzZThPSjZhNXFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 103,
+    "too_old": 92,
+    "gate1_blocked": 96,
+    "gate2_blocked": 35,
+    "passed": 33,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+      "Can Air Products and Chemicals (NYSE:APD) Shape S&P 500 Gas Views? - Kalkine Media",
+      "How to secure your hydrogen advantage: Nel ASA, dynaCERT, and Plug Power now in the spotlight - Stoc",
+      "Nel ASA Reports Dismal Results! ITM Power Enjoys a Cash Windfall! Is dynaCERT Poised for Multi-Bagge"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為現代汽車、西門子能源相關動態：「Siemens Energy breaks ground on $300M plant - BIC Magazine」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy breaks ground on $300M plant - BIC Magazine",
+        "level": "green"
+      },
+      {
+        "text": "[Inside HMG’s Digital R&D Revolution ②] Digital Measuring Center: How Hyundai...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
