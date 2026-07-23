@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:10:45.152334Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-23-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Q2 profit falls despite record revenue - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10SWI3ajZHUE9wcFVhVTNlZzBRWHJ6TWtVTS13WndGOUhNcVNVazJSWENVX0dsbW9Sc2R4LXpDUTVpQ3YyWHMxLTlQYlJOeWdSeEJ3aHFPWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-23-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor posts record Q2 revenue as profit falls on higher costs, in line with expectations - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GTUhOYnladGpEMG5QOTI2Zzgxd0lzbXcxMlZmcUJ2d0dOSktSaWx1QXVtTkF2VHp4N3BHdEJFWGhTOWIxMUg1RS1Ld0FOcFVQNEFBMHB5SWRJaEVsbENPMFoyaWN3Tmo5V3dB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-23-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Company: Record Q2 revenue and hybrid sales offset lower profits from supply disruptions and higher costs - TradingView",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZVhabVpKMi1pdG5tZ09iU1hEaVZ1aWNUcmxhTWNjX1FNeHVrc2F1anZOMWg1QVJDZ0NUTHNXYnRlNk10Ti10NWpZRlZvdWtXZDVrbHg2LU5KcWxfb3FEbGVfdU1wQkNsSEhXYlFWRUJqX0NadWRNMkc2cEoxWW9QRmJNX1l2SlhtN3YxXzJUdHB6UVBWZnVTZTNycUkwZ2s2Zkc5LTFjeWUyY1FqMXpVODVHaVFVck1mQVZzRkJ6NU9vRlJCOHFpNDRJTld1UlRJRk9xYmV2SXB5NDBsd004TnUxYmlXaklxajE4dUw5dTNWQXJBYS1NdU9EN3VZR1V4eElCdGt2OG1lUzdqbTBlem1zdm5vV2JTME9JcGhaQ3FrX194WGROUXpKZlVZQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-23-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai second quarter profit slides 11.2% on costs, production losses - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUm5vcF8wMF9KRnl6cnlmN3VvTzFNZHZNRFFYQlh4QlNfU1RXaDRBQ0JKdnZ1VjhoVThOejhUdEU1NEc0dk14OHVabkVDRUxuR18zcWN5WkV0bmtNWWRQcVE2ZzFESlRfSXg3YjdoWmV4VmllNlBoanhuWWNaTjUxOFA1Z3prY2RRSzNiYS1fM1dLUlZ3amhYcWVLWHlWWEU0WEJJQTJtSnc5X1dCTGlUeWd6eTY1bnI4S29qTg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "air_products-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals (APD) Declares Consistent Dividend of $1.81 - GuruFocus",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEVfNFZ5bm95QlZXR0FsR29FZXVyd2VwYXl5Y3k2TEpTMnVvVGRyRDJORnk4T2w5SVNCZ3BMVGwyaWdaWjhiOEZUVTZhNENDZW1DdFFROThhYlNqYnpyXzB6QzBIN0ZRRDlkQzhEYjdrTm9yUTlBS0VCR0tGazJTcG5OVEE1aU14QVZDWFNXdV9nbmxUanlrVThXQzFBbm5OLXVuYjhac2ZHcUVNaktkd1gwblJLODNu?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 95,
+    "too_old": 82,
+    "gate1_blocked": 102,
+    "gate2_blocked": 38,
+    "passed": 46,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products Expands Gas Supply Network for Taiwan Semiconductor Industry - ChemAnalyst",
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - Maca",
+      "Nel ASA Reports Dismal Results! ITM Power Enjoys a Cash Windfall! Is dynaCERT Poised for Multi-Bagge"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為現代汽車、Air Products、Nel ASA相關動態：「Hyundai Motor Q2 profit falls despite record revenue - Th...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Q2 profit falls despite record revenue - The Korea Herald",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor posts record Q2 revenue as profit falls on higher costs, in lin...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
