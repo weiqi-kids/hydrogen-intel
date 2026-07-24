@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:06:41.280820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-24-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor reported record-high revenue in the second quarter, with operating profit declining by more than 20%. - Moomoo",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjBQUUNCQWNVeWRnMG1CeUpxNUk4dTQwWFdZZjhoZ2FWLW9tWEJzMThVZ2Ffd0l6Ymt2dVFqYU9mOW56OFV6dS10Rlk4WEh2b1k1ZnpTekstNU1CLVRlbFd0SDdQVjJsVFBocHBhYzlScmhBOHM5YVpsdXlJWFNUMXF5S0dMb0ZWc1o1SzgzMDBDUmFhc3hwNk1VbXBvQm03ZXl0bFkwanh1Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-24-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor posts record revenue in Q2 but profit slumps over 20% - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWjhkYUczbmRwdDNxRnhGUVRHS1hIcURVMFNBUnZpRTUxS25QdzJ5STIzeXcwdUlsZ2M5SDBrOG14a0tISTZFcGQ2UTQzZklKckE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor’s net profit falls 11% in Q2 - Just Auto",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UNS1TRWRoaVlGYVV6Z3ppbTZpRlZSV3gzVWl4YjdJT3BSbFZTYnkzSXFsbHVhRGFEdThfQ2g2M2w1MnY4YnpOdEFPV0JxV0RTSUFKcVVJTkxKdHFyNkJJRUx6VGVHWk5PWXNQQWd1M0tYdDJSdnFjVFlIVlQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor workers to extend strikes for higher wages - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdVlWN0V1WTYyZGVPbnU5S2VJVWFKQUUzbUhEamNkTWpNeGwwUFF0ZW1CUnNpTlhNYlNBMWJzckFiMzlIbGo1X25FQUhlVGtPYWdVNTUwWExQQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s green hydrogen export ambitions require faster infrastructure build-out and market alignment - pv magazine India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHo4bWxuQ1BGVktLekhWek5RSm9qemFYWF9rdWU3QzA4ZE8zNnlWUVJfRVNDWHlsbEcwUEtoQVM3b21RaHlkNUtIMUFnTlFWZlNQb3hrM0VFUXRad0xtd3YzY3o5OXJkLXFBVEF3WFZvMG84YjNqRG9fQjFxLU5TQlFxeHdLSzdodGhRWWVaR3lNSW1LUGxfa3pRX3hkUWs1TWJJQVc2RzllRllzcXZPeUFTdDRvVHRIR24xaDBGLTJPTDZmUWJpZXNkZWdGdmRvdWlEOHhXdFR6VVBBZWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 109,
+    "too_old": 90,
+    "gate1_blocked": 103,
+    "gate2_blocked": 38,
+    "passed": 22,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products Expands Gas Supply Network for Taiwan Semiconductor Industry - ChemAnalyst",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+      "Things are heating up! Disappointment at Nel ASA - can A.H.T. Syngas, E.ON, and ITM Power deliver? -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為現代汽車相關動態：「Hyundai Motor reported record-high revenue in the second ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor reported record-high revenue in the second quarter, with operat...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor posts record revenue in Q2 but profit slumps over 20% - 매일경제",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
