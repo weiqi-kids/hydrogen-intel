@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 98,
+  "gate2_fail": 33,
+  "passed": 24,
+  "gate2_samples": [
+    "Air Products cancels blue hydrogen project in Louisiana - C&EN",
+    "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+    "EXAIR redesigns website for compressed air products - Design World",
+    "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+    "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N"
+  ]
+}

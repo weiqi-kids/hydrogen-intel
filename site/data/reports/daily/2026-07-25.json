@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:26:11.787019Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-07-25-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA: Record Orders and Trade War Headwinds Create a Fractured Picture - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnZrZTRIcElGc3ZOTHVRZUNySmVBQndsQWNkRGZhNHJZcE1lMFhURVpKd1AyaDRRcjlVTkxhYXRjUUFjSm5EZXdwaDBiSy1TM09Wd3dwVjVzWHY2VGhod1B5NWRVYTZWOG5OMGlQVkNhSXFJcEVvUzBzQ0oxZmhGOFJWOV9lWHVYQ3haOGMwc2lkQkM1UlpHRHBGVHF4WEY4bUtkN2dDUWlOUHRMTjN0TjB4NC1LLXdtR1JvdElEWFRodExGeFRNejE1Yw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit - PR Newswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc1Z3NkU4QnFNZjI0a3B3am0tUkNnNUgzT2VVRzdnM2Q5WUg5VzN0SUw4MFNkZWVjNFZZY2hOcG1veEdpMG1pMjk5TVIxV1hLR3MxTWVWcUlSdzJwNFlLUXBUdTRxMmthXzVkUTd2dF83Y3ZtMkxQcXM3NEs5emh6a1BlRmxDLUo3NXEyQkJsc1VScGpOamt4SkxHRThlS05kNTZIc1pxR25WbXY2bGNGd29CdzlOS3NjT0xHbnp5a3FWTm5zZ0dDeXRoR1RIRXJRRkRiUUFSemxRaG92SDlnV3dEVEtTNGNId2luczV2dGg2QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai’s Chung Says Big Tech Partnerships Can Build Physical AI Ecosystem, Meets Nvidia CEO Huang - bloomingbit",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85bUQxSXBxVWEzTVJFdTg0RUk1UDFQQXVJQV9YTHY1eExxeXlGRVBTazFOVldkTExGOEhudnowdk1hMWQ0MUpmMzBONzZjRUlCbGY0Rg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 112,
+    "too_old": 95,
+    "gate1_blocked": 98,
+    "gate2_blocked": 33,
+    "passed": 24,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Air Products cancels blue hydrogen project in Louisiana - C&EN",
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "EXAIR redesigns website for compressed air products - Design World",
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為現代汽車、Nel ASA相關動態：「Nel ASA: Record Orders and Trade War Headwinds Create a F...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA: Record Orders and Trade War Headwinds Create a Fractured Picture - A...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
