@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:50:39.144025Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-07-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Trade Tariffs and a CEO Exit Complicate a Promising Order Book - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObExaTHRRYXhvU0tqcC1jbVVQSjlfSlVpbVpzVE1oS0RRZV9GNGZSWEFrNUpna1pkWEpJQ2F5bnlQYU81X2lEamI4WW44OURFTXcxek52UkJUeUJQSGtydXJvQk1DSVZkc0d2em5fdGpTbTIyQmxUQl9mWWhua3NUaTljbzRkYzVPMkZOcC1jVzJrVEkzajdSdzZMVnlRMGU3SVBwajUzSERRaFgzbmhnaFRqbU4tMXFaaTVMUVh3Q2ZSMEpRQmxRTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: A CEO Departure and a $7.5 Million Legal Hit Complicate a 224% Order Surge - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFhWVGFvN18wXzlJV1dHSEVZTXN6MlgycUp4bjB0NDFJSmpmV2x0ZWliOXdGVXU4Znd3RTZESGpBUFZXaHV4cUhzQ2cxOUxudXBySDFLd0FDQndNMlMxUWh0Z3ZEZUNydVdHa0RDMm9TdHZSWktMVmhsX0JzM1pqX3VLb21EMkR0Ni1oRHUxa01JZlRhcjlnenFFaDhsYkpzNEU0amhLaVdIeVAxbmNvRjJlc2h4b2JfbXlYUEh0WHIzQXF5QkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-07-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GTLS|Chart Industries Inc|Price:209.925| - TradingKey",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RVDVERnppSW00Znpza2VFM1BLaGJvbjRpRGVmQUxfY25hckZRc1U4VW54RHFVNGt5dVY3VlZOWlNUelk5MUtQREVibHVxQU5XVWdsYmlzSmJkSVVKWlZndHBBa1c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Unveils AllDayEnergy Global V2X Energy Service - Electric Cars Report",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3lRa2NkaVY2Rlg0UVpfc2tQQk02dzNiOGpWVUIxSklucHFCSjJlcFdIYUM4VTZTdk1ET3c1d0lyNGc2QkFTSElrdGhIbDNfMTNjdmVkdUdwUk5GNHRyS2ZTWFk0MTJWd2JRVUx0ZlNZZC1RN1c1VTBneVlsUE9HYzdhREw3YTBzUlM2ZGJtU1lEM0R1enhJNjkxbFpndnhWMjVnWkx0ZDczT0J1SGFUUw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-07-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota's new president calls for front line 'kaizen' improvements to boost profitability - 毎日新聞",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWEJqc3ZQUDFCSlF4TzJheFdmcEpURjhvQVkwTWEyLXVlQ0NwTUlPVlR5aGp1YTFyNGlpZmdGVTU2dUpET3loSnVoZkhZaWJWeGxZRDdfSVFCM3N2QnJidWJ4SFVGZHYtUU9QYWlOblcwLU0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "chart",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 111,
+    "too_old": 95,
+    "gate1_blocked": 98,
+    "gate2_blocked": 37,
+    "passed": 20,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Air Products cancels blue hydrogen project in Louisiana - C&EN",
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+      "ITM Power – Award of £46,5m DESNZ Grant - Hydrogen Central"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Nel ASA、查特工業、現代汽車相關動態：「Nel ASA: Trade Tariffs and a CEO Exit Complicate a Promis...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA: Trade Tariffs and a CEO Exit Complicate a Promising Order Book - AD ...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: A CEO Departure and a $7.5 Million Legal Hit Complicate a 224% Order...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
