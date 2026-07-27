@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:01:18.872161Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-07-27-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power: A 68% Year-to-Date Gain Masks the Pain of a 53% Plunge From the Peak - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWJmUDVLd19GejJabWw0djd1T2RxaDhSOXpKS1lyNnhSUWI0VUJVZjd4ZzNpVUlhaG9EUWxfT3J4VGJYVkQ1cTdTcmdJWmE2MnJ0M3N2QjZkdW5WZXlKdTJwUlRKVngyWEVtVW84NXE5OFVIaTB6WmtwZWJweTFTOEJmc1I3b2xoMHRWWFk2bEJidnJwd0QtMG50SFB1eXROWmNCM0otNFV4am9BOXhmY1pjdWlCTlktZmRfTHE5QmlsOWV5cnRZdFdn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "chart-2026-07-27-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Do Record IET Orders and Chart Deal Synergies Change The Bull Case For Baker Hughes (BKR)? - Yahoo Finance",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY21xckF4eGNqTmZWTF9KSG1IWmNCVlR5b1FjZ2V6d1JmVjdDdXB6ck81bmVTdWFPYV9wb1hzbHlDM1dSSExpZ0xuckJaNHVYQ01lbGw4eVNMQVlXRnU3bDBWTFVaSml2RS1oaUNyVURwNFhTdEs3djJxRVRQb3NzaDBmNjIteHFmaFhWTXVsUm44UzdTaThDWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2026 Kia Collection : Designed to Move You - Hyundai Motor Group",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHlYN01TbnFJMzBTVXFnN3M3M29KczlhOWhyNDY4UTN6dmE3RjVFSi1YTnBrMGFGc3FHZ1pmZ1c5WHNNNl9fb2ZWWHB0eVpEVVN2eS0zLVZ3aExLWDR2NXVoeGdOaFBhaGRTZWJpdHdIZmttaEJ1ckk4aGtndHd6akhjQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Mobis to Deliver Atlas Prototypes - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XeGE4czZadXJiZ1pLRTZlTmprVkNBTzhwUDZrR21LbGF1anp1TE93eFJsS2tVeGNSSkRRaGRndjcyYlVWaDZyN3VLT0hQckZFN3NMOXNzTm9JVFpGdGczcExjcm84alN4UHhtZ0F5dzNxZ3hP?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor deepens AI push with Nvidia partnership - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbXFVbXhHS0NZVi1ubVdiUE9UVlRIbnBKaklhQWRNTXFTR2lEUjcwR1BBWUQ2OGpEaVc0OF84XzZ1NGYtLVJuQ0UwOFdZTi1ua2E5Uk1YQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 112,
+    "too_old": 94,
+    "gate1_blocked": 95,
+    "gate2_blocked": 32,
+    "passed": 29,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Air Products cancels blue hydrogen project in Louisiana - C&EN",
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+      "Nel ASA: Technical Signals Flash Caution as Brussels Provides a Policy Lifeline - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為豐田、現代汽車、ITM Power相關動態：「ITM Power: A 68% Year-to-Date Gain Masks the Pain of a 53...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ITM Power: A 68% Year-to-Date Gain Masks the Pain of a 53% Plunge From the Pe...",
+        "level": "green"
+      },
+      {
+        "text": "Do Record IET Orders and Chart Deal Synergies Change The Bull Case For Baker ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
