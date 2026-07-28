@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:21:56.339432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Driver Goes ‘A Couple Hours’ Over 10,000-Mile Oil Change. Then The Mechanic Hears What It Does To Her Engine: ‘Wow’ - Motor1.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelc5dWdtdnByaVAxR2paRUV2UjZjdDJfcjVxS2N0anowZVVOVHlQOU9SdndEaWZSdWlEbEpfTmowRm51bk9UMEpVaWl4SWdVa09IWm1iMG94YkJqd2N0MlNScUtSY2lsbTBQRjR1NlN0bFlWOWtQR2RCcWhqSzYyWTV2b2twV2Nk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Marginal costs for green hydrogen are falling significantly - energate messenger english edition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWEJRSl9VQTlkemFrRVJmVHNHSEVwT29obDhNTUdJWEV3dFUtcW5ZZUxBODBIMU5wZ1dnZmw4aU0tVTVaTk0xNy1FTVNHUE9OR0s1UzFCTlE0cXIzY05Zc0xLR3QwUXM4YzFINkpJY0k3WFRhVExDY2F5Z0llZzlsREhQR2gwWHZKQWNpMGlQQ0duQVl6bl92c3ZCTnBPTGR4MkU0Q0ZKWmU2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global race to produce green hydrogen - Nhan Dan Online",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM282MmowZG9rT3NOdFBYV2FOckhKVThyYWxfN2dXMkhFUnRzWUhMRTc4TTJ2MWhnSHc1TXBzS3F0RGVjWnRSdjlSUEdRNEJTWXQ4bWhiTXYzR1NUVG1Jc3dIejk2bnVMdnRoeHkzbTRhZXZGeHJiYmZaeFk4Y2dOWA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 109,
+    "too_old": 103,
+    "gate1_blocked": 103,
+    "gate2_blocked": 28,
+    "passed": 20,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Air Products to expand gas supply network for chip manufacturer - Evertiq",
+      "Air Products Cancels Louisiana Clean Energy Project, Takes Up to $2.9 Billion Charge - Pipeline and ",
+      "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan - PR N",
+      "Siemens Energy to save hundreds of millions of euros with Omterra rebrand - Wind Power Monthly",
+      "Siemens Energy to Become Independent Brand - the Electrical Distributor magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為現代汽車相關動態：「Hyundai Driver Goes ‘A Couple Hours’ Over 10,000-Mile Oil...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Driver Goes ‘A Couple Hours’ Over 10,000-Mile Oil Change. Then The Me...",
+        "level": "green"
+      },
+      {
+        "text": "Marginal costs for green hydrogen are falling significantly - energate messen...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
