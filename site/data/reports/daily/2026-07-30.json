@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:10:38.332072Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "chart-2026-07-30-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Growth Strategy in Brazil - hyundai.com",
+      "companies": [
+        "chart",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOGp4dHRoOUNPSGdKZzMzZU5EOF9lNmRROEN3ZWJERHFLdFZ0WEFBZ0tHSHBaMV9xcnRaVmNIZUs4NGNCNWdjNkw1c2tVUW5ady1mNS1iT19wYU82cl9XWVpNTkNqLVhJc1kwS1hBemQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-07-30-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA: Orders Surge 224% as Net Loss Widens and CEO Search Drags On - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXJyN3FBUWZZX2hZSU5Jdk5YQ01yZU5SMWJ6eTItOENiOTZNSHkxak9fY1JzU3AxQ0VyRTB1dzViVEMzNm1qeGh6NVB1OXdNQklOazlnMlltZEpnTGRGcmpxSHRNMXFjbFlRakhuZGl1bFhzOXVBMGRFWFIxbTUyaHp6bjlVTVpVVW5KTl9xdUFEakFVUlNJYksxSjdqVUFjanZaLXc2LWsyUVhyRGF4T0lyc1pabkhuQnlLV0x4azd0cFF4X3pMc2dYbU9ZWERHeDMxdmQwRFdTa25l?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-30-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Q1 Preview: Results Expected To Show Decline In Revenue And Profit - NDTV Profit",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1NEVGdiamg3UG95dWVUaXFxMEVaUjY4QXZ0UHdsX2o0XzA4cFhaTjQ2S21wM1Foc2lUNkgyTmtsMFRrZVFSenBpRVJZY0w1TnZEUmh1a01sejN4dnhidUxDdU9hWTFnLWFOcy1KdUFYVkhuRDk1bUVXM3NRbjc0RW1ZWG1TbkRnRDZuNU1jeW9fTmFGelJtTDduVnJodjVCdmZxa3dmSnhZTS1LbWlrOHgwWHFRTmVieEVPRGlKWWnSAcgBQVVfeXFMTm4yMmdBdkVhUUw1ZC12SFZaSGtZTkwycnZUbXBLMTFiODF1SlVWdnV1bHk0WWN0QWNXaGswbGttaWlHNHE2NEhCOUVWM1RxeVI3UlUyVm1QSHpscV9hQWhoQXo0clBScXRQUEQtTXRfeGxXem5HME91bFpabVF3N21lVFVPYUEzMTRPeDc1cnduU1N1MjZxSDMtdGpFLUFsejNDWlZyVUdaRW85THgyNENKZ3hrMDUzSG45NkRTZG02T3NtckJMQnU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "air_products-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products earnings beat by $0.14, revenue fell short of estimates - Investing.com Canada",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTB5Nnp2a1gxb1dUZUxCT1JydGlMYkNjVjB3SkhKQkZ0VEJtVy1iUkRldVNXMXVYa2phdi1fdV9TR1p1RXg2ZHpZbURqaUNRb19DbVNzMWg0VjNJd3pZcXc0aU1KOE1Fclk1MWMwckFYNHBSd1Jka0FkanZTbnFFZ1VLRjE4ZWFIVngwT0JfaFlLZWQtZEpTVGFUMnNhWjBaSXVnQW1EVEFuUzBzNFVlN0J3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India shares fall 2.26% in early trade - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFlkRERNUWlzOEpsTDNmQXJJSWhkdldnMXVuQ3pIdDROdXN0OTlvZlM1SUVfSEtNQmlnaVVMSTJ4RTdvLXhQYlluanBOcGc2enVDM0MxaWd3V2cyNTFVZ1huc1dRWmVaUWRibVhwWDQ2d2VSbjMybHBDU1EtUVU3YjJxbE5hTTBkZ3NQWVFxdWxUQzktbV9oTWJDUEdWcXoxRUpIZnoxZ2JfdjA4X1IzWFp0YWlvZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 95,
+    "too_old": 99,
+    "gate1_blocked": 93,
+    "gate2_blocked": 34,
+    "passed": 42,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "Siemens Energy Stock Joins Corning And Klaviyo On Cash Flow Value Screen - simplywall.st",
+      "Siemens Energy to save hundreds of millions of euros with Omterra rebrand - Wind Power Monthly",
+      "Siemens Energy to Become Independent Brand - the Electrical Distributor magazine",
+      "Is Siemens Energy (XTRA:ENR) Trading At A Discount Or A Premium? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Hyundai Motor Group Executive Chair Euisun Chung Charts M...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Grow...",
+        "level": "red"
+      },
+      {
+        "text": "Nel ASA: Orders Surge 224% as Net Loss Widens and CEO Search Drags On - AD HO...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

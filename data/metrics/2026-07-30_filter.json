@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 93,
+  "gate2_fail": 34,
+  "passed": 42,
+  "gate2_samples": [
+    "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+    "Siemens Energy Stock Joins Corning And Klaviyo On Cash Flow Value Screen - simplywall.st",
+    "Siemens Energy to save hundreds of millions of euros with Omterra rebrand - Wind Power Monthly",
+    "Siemens Energy to Become Independent Brand - the Electrical Distributor magazine",
+    "Is Siemens Energy (XTRA:ENR) Trading At A Discount Or A Premium? - Yahoo Finance"
+  ]
+}

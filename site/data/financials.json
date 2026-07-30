@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:27:54.908289Z",
+  "updated_at": "2026-07-30T10:10:32.911916Z",
   "quarter": "2025-10-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "Bloom Energy",
       "ticker": "BE",
       "currency": "USD",
-      "ar": 359406000,
-      "ar_prev": 371796000,
-      "ar_qoq": "-3%",
+      "ar": 458126000,
+      "ar_prev": 359406000,
+      "ar_qoq": "+27%",
       "ar_period": "QoQ",
-      "inventory": 732528000,
-      "inv_prev": 643306000,
-      "inv_qoq": "+14%",
+      "inventory": 758188000,
+      "inv_prev": 732528000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "chart",
