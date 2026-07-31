@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:27:38.881415Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "chart-2026-07-31-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Growth Strategy in Brazil - Hyundai Motor Group",
+      "companies": [
+        "chart",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUXA5MW5LQmFlY0hmS29Ka28tajhMMGoyajJrT2w0ZkN3elR0NFA3ajloYjdldHZhZk5KZ094emVBd0Y3TGFkLW14YlRWSEZ5RFhfbllJYVU1N1ZzOWxfN1NjbE03ekRvTDlOSUp2NDBRcE00Sk5ra1A3R3lsZ2J4NldvSV80Ry0zWExwbkFMaVpwMF92NnE3SkhhTkF6c1laN3N6RzlCV3hJaUh3TGVLRUJnSlRPZjZiQUl1NzlnOU1pVkw5X18wN1IzTnlES2VDeTBMZTM4aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-07-31-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Air Products and Chemicals (APD) Undervalued After Its Latest Earnings Loss? - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2lVd21Ydm5oQl9XaUl2Zi1US0tCdFJ4ZkJCdEZYSVFyMW0yb3JUOF9xUTctZUVpc3QzSng0elpsSi1uY01Oa1gxZHNjUkRUaVQ5cWNiUHpub0p1OUpWNFhPVjFMOG5Nc1NwRWk0ZVZvQ09admphaWxCU2Z6VzI2aVFOWFV5YmwyWlVKdzRpSDF0aE9HTFZTa3RxeHpPVFRsQ3lDTS0zYWZVenA5TzJSTzUtUjNiSUtUVlJHSjduc0hnWFJPaUxRV3lCRmJWTy10ZDlqeUZzQms3eXfSAeABQVVfeXFMTU9VQy1fcnJkM0Y3dEROdVJwVm0yaU1Ja3J6VzJYZktiRlFiaTlxUElBYnlHU3BjdlR5TkhrVHVtTk9tUmJHWkZaQktfUDk5RDVjQllJYmxWMFFyWFdEVVAyLWQ3QlFMOGY2LUcwdWRXcDNiUjQ1M3lVZkkySGFoSGdSRHlmejJCa2V1OWpsT29HRlRXaHFOaXZrZktheWVjWGl1VGJtMktscEZySjdCLWVtWW5zSENIZmNhdGYzeTVSS2Z1T09oSzVfV0txWlUwc0c0TDlvcUE0Vy1fY2RMb0w?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals: Fiscal Q3 Earnings Snapshot - theheraldreview.com",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3ExdHRiZklnelk3ZHNzV0ZDUjJCRnBvVlU5RTdhTDBSYjZXTGJmTm1JR28zZVhNeXgxemdfQWowZ25jN2tWdDF4WXNrMFl4WGxjNG1tQzE0LWZVSDBXbEM5RVBLaEtlM2lvTXBYdjB6QUprQlpxbXNxZF84YUtjQ3ZVX3kwaFl4SFlYMjRITEcwd09ib1VWM2dsUG93bk9oNDU2UU1YMnYtTGs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power: A Stock Torn Between a £152m Order Book and 88% Volatility - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLU5RSkdoTDl2c0RYWVV2SjF5ZDZSU0pFUFRIcFRQTk5FMUZ4ZktVREZUQk9wTGtfVGZJeGc2QUJtdHhiY3pHQVEtRTVRc3VaNWQwQnRhcHFpRmtKaUpZcDVmcVNDR25wcDBuNlU0djNpSzQ1NnVQTXBBbHZkSnFBOUhVOE9hNVI0YXRFQWVsOWFrUF81bTJLMXROem95YlRoaDBGQ2h3Yms1OVpPMW15U1RQMFM3djdDc3pTSFptTVJpZHNCNTkzc0dLQUxTRUJy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-07-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India shares gain over 2% in early trade - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzBmeFRZLXYwUFlnbWsxeHJlYU9JQ1pNa255V0RoUGJlS1pqRUVSZWdIcnZfZXRodlE1UFZ3ak5qYTVIb2tESDQ1OTYwbHRyQTVGTEhGNUNYbmxtX2ZpcGhubVhnSFAyUUU2ajhPYk9YX1podXRQZWJOTnVnM3RRR05PcmM0SUV2OHhfaGxfcUhOZ2tsM3FkeGE1clBpWXY2WGdRdnJRVkdUWko4Y1JyRHFvMUplMkpB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 89,
+    "too_old": 97,
+    "gate1_blocked": 89,
+    "gate2_blocked": 34,
+    "passed": 53,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo",
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "We Expect a More Disciplined Capital Allocation Strategy From Air Products' New Management - Morning",
+      "Project cancellations drive $1.44B quarterly loss at Air Products (NYSE: APD) - Stock Titan",
+      "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、thyssenkrupp nucera、Air Products相關動態：「Hyundai Motor Group Executive Chair Euisun Chung Charts M...」。主要關注主題為綠氫成本、氫能政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Grow...",
+        "level": "red"
+      },
+      {
+        "text": "Is Air Products and Chemicals (APD) Undervalued After Its Latest Earnings Los...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

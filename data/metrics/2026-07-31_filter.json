@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 89,
+  "gate2_fail": 34,
+  "passed": 53,
+  "gate2_samples": [
+    "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo",
+    "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+    "We Expect a More Disciplined Capital Allocation Strategy From Air Products' New Management - Morning",
+    "Project cancellations drive $1.44B quarterly loss at Air Products (NYSE: APD) - Stock Titan",
+    "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+  ]
+}
