@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:49:02.979365Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals Q3 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmlNZ3R4bWlmczdCaURXMDlVM19Fdm5jdDBuODdNV0dfcF9Ea0xvQ1Jqa0hQTmQ5ZFFrQXNhUGtPa0dhNGFYUjVYZnh1VnB6MkhRUnBITXF0MFF1Zm9rM2NlUVRxcFVXSWd6bWxJUkNtQ3lnd2k0UUlYU19FYmRuZlZNbk9jcjV3M3FMSDEyekJGQTl3YnljUVk5aVVhS0RRbllGMDhPcGJEN2p3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Is Surging — But the Balance Sheet and the Boardroom Are Telling a Different - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM01rRW55T3FhMXJKVUlPdGx4N0NMRE90b0JrbkwydEJaY1hiV21fRFpfekxYTGZaYkgzMkZqZnVzR2w5czNJRnFOd3h2ems0Z3RTZzctVGJVam9RRWhsWkwxQTU2RHBwN1E5bXhZY0hSRXJWUkZRenBNR0N0dEF2Tlk3NXNTYnF1YlV4UGpjcnVwNzFTN2QyWDY2X0ZweUtCZkhSQkU4QWJqbUVuZklyMzVaT2hiOGJkVG53andMVVB4aHZJV3pzWUZxZy1wQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Interim Captain Faces a Defining Test as New Electrolyser Economics Take Shape - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZk5ORnJQcEtyM21HVDdiZ0xoLVZILVJvVjBVRkRKRW1peTRMSW1RcmxDaXAxRzNpdzJLOGx2emhYMHVqVjl2TjB5cXVkWTk0M2dqN25fQXFzaHhqeFlwSjA2cnR5Q1llMnhqcEFoZUtCOGkwN2pLMVhOUDFWbkVsZ0xoekZXS1NHZGlCVU9uajV3R0RXVW1ieTVhYXpwZ0Z3X2RNbnJXV2NNeF9USDdwZWhIczhrN0E4OFA5UE11dXVHVWRRSlMtbUllRFBZaHl6cV85UjVR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Appoints Naomi Fudo as President and CEO of Hyundai Mobility Japan - hyundai.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZmU5cnl2RS1OQk40ZGRVNVBQRkFWNFZCQUo0U0QtMXotbzYxYkhLNGZpdVB1R1ZhQTlMNjBhRlRnZUhhTTQ5R0FnLWItS1Vpdkp1SlplcEV0RTZ6VkVackJyQlllbmUzV0pjUE92Vkg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 111,
+    "too_old": 95,
+    "gate1_blocked": 96,
+    "gate2_blocked": 38,
+    "passed": 23,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo",
+      "Nel ASA's Record Quarter Hides a Simpler Story Beneath the Surface - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、Air Products、現代汽車相關動態：「Air Products and Chemicals Q3 Earnings Call Highlights - ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Air Products and Chemicals Q3 Earnings Call Highlights - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Order Book Is Surging — But the Balance Sheet and the Boardroom Are...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

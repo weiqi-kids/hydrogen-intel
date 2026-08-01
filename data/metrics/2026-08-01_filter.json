@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 96,
+  "gate2_fail": 38,
+  "passed": 23,
+  "gate2_samples": [
+    "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+    "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+    "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo",
+    "Nel ASA's Record Quarter Hides a Simpler Story Beneath the Surface - AD HOC NEWS"
+  ]
+}
