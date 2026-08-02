@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:48:32.611664Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Air Products And Chemicals (APD) Undervalued After Its Earnings Beat And Raised Outlook? - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3lTYVN2dWdOY3dMN19wakZXSjVhRl9IVDd6dHNVZUd5UXZqZEl2dkxGRDVjQmtGWDBYU2R5dU5acklMOWMtU0NIUWJiU1hBbG5PUDU4SWdaT1FodzRiYnNJYmJvV1dLdVVOX3BmdUxOdG5QckdvUndjWjV5SlpCQnAyVTBpdE1kc0htZnYydmtDcXdCTHNha2Q4N1FsNDJwdGs0UlZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Chair inspects Ioniq 3 in Turkey ahead of Europe launch - koreaherald.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uQUZvTTNVbGZaalBMeDFFbjRDeUxMOWVDVlFxbzZnTC1uWXdNNjBEQk5lUTY2ekVmRGNYTTNjbXhiclBYS0JZVXBrbUFiR3BPQVlHZGdGMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[PHOTO] Hyundai Motor chief inspects IONIQ 3 line in Turkey - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWd2eGtPN0Y1MG45cVNvSjUwSEZMOTE4YUxvR0thdmplZzZnb2w0ZDRRWml1UkFITktqRHZ2dnRfb3B0Zmk3ZEk0eWU3SXFsSWJvOGdmNXZMNjlnS2x0UzlTaXFrbWg3MFdIT3NwNnladndEbHpHNEV5V2pwZjdxYk9ZYURfNF9TeDc0NVBDN3dUUVh6U3otNHl6MGpnZXY5b3FlaFg3eDFCdUpKSDlESWNCWlbSAboBQVVfeXFMUGRWcl91SzJYNkZQSnAtczQwSi1PUnVjZm0wUzVBcWVsa0JvRVdZOTVQSFphUnF5UTVFdmo5UnhUU1lJMXU2ZWQ2bmV4MEkydUFWRG9aY0VhUC04N3RyWTAtZUhsZGQta1hQcUx4dnRKdjM1U0d6NWl3WE1oWnVwWkN2VHNFZGtGcFdBWjJqNGY3RjB2eUFfYWY2ZjN0cDZtLWVCWWZQZEFIYlVjNnNCV0RqZXdYd241cUF3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Chairman Inspects Ioniq 3 Production in Türkiye - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlphWmFwWnlfb2lId3VqSHI5NEp3TnI0VHNyQ0VRQzBSLWZhRDBrcjZicEsxUWxxZGdRdm5rdzZBeHI4Z0lJV1l3Qnk5Nk5fRDF6eVdKVll2RUZSaXhKRlBVaWNvVjJRMUN1V3JIME5NTTlYNzZVU1NVWUYxT0hhUjFySnFnVkxM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 120,
+    "too_old": 98,
+    "gate1_blocked": 95,
+    "gate2_blocked": 35,
+    "passed": 15,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo! Finance Can",
+      "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+      "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為現代汽車、Air Products相關動態：「Is Air Products And Chemicals (APD) Undervalued After Its...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Is Air Products And Chemicals (APD) Undervalued After Its Earnings Beat And R...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Chair inspects Ioniq 3 in Turkey ahead of Europe launch - korea...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
