@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 100,
+  "gate2_fail": 32,
+  "passed": 25,
+  "gate2_samples": [
+    "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo Finance",
+    "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+    "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+    "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo"
+  ]
+}

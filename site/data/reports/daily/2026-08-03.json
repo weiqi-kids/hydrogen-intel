@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:12:02.309843Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor America, Just Like Its Cousin Kia America, Reports New Record-Breaking Sales in July - autoevolution",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0pLcXJMUVlWNVMxaEFLbWtTNGdabmFNcFZlZW81YXFBb2R5TkRVS1E3YUphN3dpeG5TcHJLZWhTejZ2bER6bTRGYjV2REI1YUtmOHlPbE9HVVJRSjhHaF9xV3RCN0VQWUNNaHFnYkdVZDNzTFF1bzhVcllBcTlGQWxqQ1JmZkxsLVdCNy1IeVpCS21peXN3bHJGdVNjdWlYc0djR2NwWmR5dkxTYl9EVHNDWDZNQkJQbjFyUDNiOWlsUl85anMwSFV3X2o4RkpoNzEwSklMTkVVT3M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-03-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai, Kia Post Record July US Sales - businesskorea.co.kr",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ta1BoZXdjWmVxUDNoZk5CaFBZbDNFa0gtdXFiTWZCS3lKNjVWWHlZVTdCUERpektSak9CVUI0Y2s1OVF4OUd3bEpxTG9zTjhlU2FfYkl6c0lTNnVXdHgwYUZSUzNnczV2QUJyUjl4YU1GTEth?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp_nucera-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp nucera expands Brazil chlor-alkali capacity with renewable-powered plant - Indiatimes",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQTdZYUkwUTBhY0drQnRLaVBMSHdzS2cxS2NvRkRtaUNPeFlTQWplZTBRXzRfMWp6YjUycEprR01oSzRsYWhBVVVmaE44aFZCWmhLMDRoN3dkbktuZE12QXZhWVJnc2FzUXR0R0F3TUhtUWE3SGRXS2k4Uk4wTjhmTkxjZHRPd3dWOWI2UW1kSTlTMHdiRDlpM3ByYXFxNEQzR3FlVWFKOTlFeVAzUDNEMGRiTGRoV0l3bkExU1p2WGR2YmhIemUwNzJsTkVkTzItTEFyNm9acWVpeW9WMGIxcVNwS29yMzczdnprNmhaN3RRbVF0dWR2c1VsMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Visits Hyundai Motor Türkiye to Review IONIQ 3 Production Readiness - hyundai.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jc0t0elJhLXZvUm8yRW9JSEhCQVliNy00dDJNV2NLR1YxN3czVTNJNTQtdU9lUGF3X2VyY29VdGtsSWZ3QXE1bV9rN2Eyd1pmQ29pcWZMVWxHLUtxam9lN2I4SGFEMU1xMENtY1NCZVo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai chair reviews Ioniq 3 readiness at Türkiye plant - Automotive World",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDVRSHNXMWJiY3BtRWVIR0pmX21ZOG9pajlTQzVqNmRvVlRSVEhDMjRuWG9Ib1pzdGJCMG9LZXMtV1Z4Tk52SktsOEN2NS1BM0Jrc00yVF9CY3lYSnd6bExWbS1GdDhVYVdNVEs3TGVvWlBRYW1PbnRvVWhJeXBXUlVTaXdVakl5VUNuNHB4ZmxKTG5GQjJqdVdB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 92,
+    "too_old": 114,
+    "gate1_blocked": 100,
+    "gate2_blocked": 32,
+    "passed": 25,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo Finance",
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+      "Air Products looks to sell, redeploy equipment from scrapped Louisiana blue hydrogen project - gaswo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、豐田、thyssenkrupp nucera相關動態：「Hyundai Motor America, Just Like Its Cousin Kia America, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor America, Just Like Its Cousin Kia America, Reports New Record-B...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai, Kia Post Record July US Sales - businesskorea.co.kr",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

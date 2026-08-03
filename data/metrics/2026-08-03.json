@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-03",
+  "total_events": 11,
+  "by_company": {
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "toyota": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
