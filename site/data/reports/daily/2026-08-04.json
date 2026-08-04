@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:26:43.210512Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-08-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Achieves Major Green Hydrogen Milestone at Lingen Project - Yahoo Finance UK",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWZfa3FGdHlMRVVUaklLdTVmeUtmZVJOMzZiQlpvdVBrRlJIWG9sR3E5ZFRDc2hhMC1ZTWVidGVyZHNJWVBBSTVrQTFFWU9UaGxyTGFhdWRWMzdrUnFfNjZJU1FJX0xpS2ZnTzVTU1dFOWdxRWk1X2I5YnBxbDlQc1g2eWxmdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-08-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Reports Delivery of First Green Hydrogen from RWE's Lingen Plant - marketscreener.com",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWZZRDB0eEdIa19DS0JybVRiTXVJaXZQbV9tWlJOaUNhRjl3cWxqUTFWQUtNbUl1SWJlcXgzTTdmYlN3LWVMbnlaYmRkVFJYalRTSHlDaDB4dXdFaFgwTmlWT0FuV0MwUGhjV3VPdC1NQng1REZzS0ZPc28xMVIxbkpXME9aZFdVTk1UY3NIaE0zQmRQb1YyV0dmY1ZtYWdEVkVFMDRtdXhvOWF3cnJHMXNqU2dQUXFwd3F4VHdqbXl5SkpxY3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-08-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Unveils $6.3 Billion Buyback, Raises Profit Outlook - Bloomberg.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdZUU56S0F4bmdES0F1SFhGakpkN1dab1ZUQ0duc1JqbUc5aTdrUkZnODVoVWx0NnNIUFdHS0hUbFpCT2tEZmxTNUZ4YUZJWEZCYmxvSXkzZy1MbXZNcFl6REhzUkpqcnlIOEhRWUtwOXg5YmhUZEJTTEZ3UGZXbEluQU1tVUItX1Z4NXdYZF80OWhRR2JzYkM0bU5iQlRNVVJ6V1dZOWJxY0Z1dGdEelg4Tmx3WmtYYnFiWmJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-08-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan's Toyota reports hefty profit on cheap yen and solid car sales - WRAL",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9TeVFmVkhXb2hjajJZYXBwSXRzS0RwTEdEMVdhLXFxMkQ2VXVGN0RaT0k4dTA0d0EwWXZoaFU3UWlJaVJiWU1uRGplV1ZlM2Ywc2R4TjhOMlhhTXpzNEdGeTM5OE4wUjh5cHplbElwZDFtR0xwSDRkbVZfUG1aUVRIUVVDcHNjYUs5dFdSWmlJeUtOU0FxZE9LSS1rSjl4Vkk2OHp3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-08-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota plans $6.3bn buyback as weak yen boosts outlook - Financial Times",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTl4U3NzQTdTMWszbXN4MmxpejkxWVZBclZ5VkdRVjJaOF9ELWV6eFlZVWhkclF6Q2w0c3ZXWlRSb0ZUaEhEMjlkZTZidWwxV3V1ZDZVTWN6V0pJZ2FkcUw1dkl5ODNSMjZ4RnBpTTljMU9qbnlrV3pJcExOOFY3elNQT2o?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 8
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 103,
+    "too_old": 102,
+    "gate1_blocked": 97,
+    "gate2_blocked": 31,
+    "passed": 27,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Yara and Air Products reach NEOM green ammonia agreement - World Fertilizer",
+      "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo Finance",
+      "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+      "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+      "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為豐田、ITM Power相關動態：「ITM Power Achieves Major Green Hydrogen Milestone at Ling...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ITM Power Achieves Major Green Hydrogen Milestone at Lingen Project - Yahoo F...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power Reports Delivery of First Green Hydrogen from RWE's Lingen Plant - ...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

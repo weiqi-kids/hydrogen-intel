@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 97,
+  "gate2_fail": 31,
+  "passed": 27,
+  "gate2_samples": [
+    "Yara and Air Products reach NEOM green ammonia agreement - World Fertilizer",
+    "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo Finance",
+    "Air Products Reports Fiscal 2026 Third Quarter Results - PR Newswire",
+    "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+    "INOX Air Products Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+  ]
+}
