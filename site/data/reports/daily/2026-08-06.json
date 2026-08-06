@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:25:08.888320Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-06-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai's New Avante Sets First-Day Contract Record at 11,094 - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdngwWUpGQndPQktqbng2NUN1NFFjaVBFQXM3U2FDMXo0aldKZ2JmV0xqRDRWSlE2MWtXWnk3RXhTcXhZOXpzeFJHdHN5Y0hpU1VabnlpUnZ0U05fNll1R1dJWVhKOTl2S0RjTXBVdDd3YUszeF9remZCMmFtWTl6WGszRk15bk95?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-08-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products Pivots Global Hydrogen Strategy - esgnews.earth",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hydrogen_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3d3RUlVaVVmZDFPMlBqcXBSTEQ5ZmxTVm1NWWlNNkVYOHRaQlVjNGN2NW80UWRhVGdWeUlHWFItalE3WFdvVUJzUHpsQURDbm96YV81bWZTd1VfRVU4bk5kdkQtcEFPX3ZUdUhzRHVIOXY5STZ1V2tYS1FRVTFPWnc5bV9jOWQ1dVBXalItVlpHYk0xUlpNMg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-08-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: When a 224% Order Surge Isn't Enough to Move the Needle - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSmwwYnJBTFIyY25BVWIxRkxiOV9WQTk3M1A1NzdVUlFycElVcmdydDM3a2w5WEp5TkUwYkJjVDBwTV9tQ1JfU1RNUTBFR2Zrc2UzZDdwc21WemZ5YzZESUJQN3BjY0ZIV3VSSTJnR2hpcm9OeC1xb3F5UExET0hCdlhySW1mQTVBcDFKXzk1UkJTMF9HM0JQRnk5cHBQR0lVNWNxMXB4bGxnQnFFeTNsRWE3RmQ3YW1RanhPQVJUSVlCamloRjlDbkthUEFhNGtZSVVIYXM2MV9kdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-08-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: A Hydrogen Story of Contrasts as Orders Surge and Costs Bite - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNmkzMFZWdzZNZUlfb2QwNmotc2pMWi1TVTFJSmsySlB3NTc4WlVIVmhEMmkwYjV4TWYzd1MxVTFsbWFKWExJVGhWdVZXWF95RlZtWGlZelQydWw0ZHNuNERaUVh6dEhHRVpoNnRsNFpxUUhzX2tNUTVVRXlnVVQzeE91bjVTdlJBZHJobTBsR2RYX0YxVS1lbmtJcW1HZG44cHVJMl85TjljZGhlcUFFUWMtTm14WkdwaFNiZDJMbkdMSmFld3dCejJyc01rZ0RSTko3alRTWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-08-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Surges 224% — But the Balance Sheet Tells a Different Story - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlNzMUdQa0lwd1cwNVdGaHZwUHJodmg1TENCQUtWRFBCU1pPRHdwOEtyRWg0dk9BMVVYUXU4RTVBaXgzX19fckFXOTdlajlpOENNVl9nTlBJS0pXbWNFYVZaRWxpT3YxbkYwM2ZSTkktQWN0ajV5R1d2d1h4Si1ZSVc1azBlSTJvdUlHWlFPLW52b2dwYnIxVllmX0ZGM1p1YVB0dTNRckxRNWtBUmowcFhNempqUzllUUtJdDRGNEtVZ2ptZXBRMHB6VlNyZmRqbVFCY3o0SHo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hydrogen_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hydrogen_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 115,
+    "too_old": 99,
+    "gate1_blocked": 95,
+    "gate2_blocked": 26,
+    "passed": 27,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+      "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+      "Yara and Air Products reach NEOM green ammonia agreement - World Fertilizer",
+      "Air Products (APD) Stock Faces Clean Energy Exit Fallout After EPS Beat - simplywall.st",
+      "Air Products (APD) Stock Looks Undervalued On Cash Flow But Overvalued On Sales - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Nel ASA、現代汽車、Air Products相關動態：「Hyundai's New Avante Sets First-Day Contract Record at 11...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai's New Avante Sets First-Day Contract Record at 11,094 - 조선일보",
+        "level": "green"
+      },
+      {
+        "text": "Air Products Pivots Global Hydrogen Strategy - esgnews.earth（氫能政策）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
