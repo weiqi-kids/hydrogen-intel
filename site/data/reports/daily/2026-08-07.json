@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:45:23.884539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-08-07-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Siemens Energy Fires On All Cylinders In Q3, Gets Target Price Hike From Motilal Oswal — Check Upside - NDTV Profit",
+      "companies": [
+        "siemens_energy",
+        "linde"
+      ],
+      "related": {
+        "customers": [
+          "linde"
+        ],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEpwT0UtTlg2TG5ueHR0VUNPNzhia3NqMmVxT3JaWUtnSnhqTmpCT3EzeXBzUnQ2NEFhZDFHWTg0N2hySFU4cUlpQTRwS3BER2JFMDdXanVRQlU1ZXJ4UF8tenJMVjJaZmltV05KMEN0bWdPSkp5T2N4SEhJcUwwb3EzVlVKdERjcldWYWUwY19GMk9FdmJLaE9pZFUxb1JialF3VVRwN2JFc2FSNW1xN0QxT3FQVENlbTR6T2RVS2d4VFBhTzR5M1ZjSGRjZFFoSDlWNW5XOUV1UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai, Kia find 200 issues early with NOVA Lab bench - Automotive World",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMS1ybFRlQ2NONTMtaDhfTW9JNXRLcHZ5WWhHQWZoQjBBalFuby1OUFQteHAtTHJvQWtSZ1VwZkw0RFE2N3FSQ3Q4Q09MazB2U0RCM3NjSmpadlRGNUNBT0tEVnltX2ZnaUhEbkVHamczaGNDQkR5RkcwcTdFcU1TVWs1d2NXcnNrRjNfVTJORFVxRm8xTnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Corrects Q1 Figures as Profit Jumps but FY2027 Margin Pressures Loom - TipRanks",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWtjRll2QWZsakZXYTdKR3o2b2ttMmxSYUhoRWhxUlRUN0RoaUloWENJQ05BLWdsVjBUeFkzUFFzX3RXTXl1bHc3OXlMR1FnZGZwTS1DVFhieFJlWHpabmNyekhJdWVLT1NGYWpEaUVJcndUa3drcGxMUFBWWWxSTG9hbWx6ZGNGMkZadlM0UHNTam1sOThRYy1EQ3dWTWlHejZZV2IxTWxKU3A0eVBWSWFMSGVsMElER1BZNUxaTkp0ekticlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "linde",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 87,
+    "too_old": 108,
+    "gate1_blocked": 101,
+    "gate2_blocked": 34,
+    "passed": 32,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+      "Armstrong Henry H Associates Inc. Acquires 5,185 Shares of Air Products and Chemicals, Inc. $APD - M",
+      "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+      "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+      "RBC Capital Adjusts PT on Air Products and Chemicals to $360 From $358, Maintains Outperform Rating "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為西門子能源、林德、現代汽車相關動態：「Siemens Energy Fires On All Cylinders In Q3, Gets Target ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Siemens Energy Fires On All Cylinders In Q3, Gets Target Price Hike From Moti...",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai, Kia find 200 issues early with NOVA Lab bench - Automotive World",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

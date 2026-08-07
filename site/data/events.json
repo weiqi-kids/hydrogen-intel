@@ -1,5 +1,60 @@
 [
   {
+    "id": "siemens_energy-2026-08-07-001",
+    "date": "2026-08-07",
+    "companies": [
+      "siemens_energy",
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy Fires On All Cylinders In Q3, Gets Target Price Hike From Motilal Oswal — Check Upside - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEpwT0UtTlg2TG5ueHR0VUNPNzhia3NqMmVxT3JaWUtnSnhqTmpCT3EzeXBzUnQ2NEFhZDFHWTg0N2hySFU4cUlpQTRwS3BER2JFMDdXanVRQlU1ZXJ4UF8tenJMVjJaZmltV05KME",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEpwT0UtTlg2TG5ueHR0VUNPNzhia3NqMmVxT3JaWUtnSnhqTmpCT3EzeXBzUnQ2NEFhZDFHWTg0N2hySFU4cUlpQTRwS3BER2JFMDdXanVRQlU1ZXJ4UF8tenJMVjJaZmltV05KMEN0bWdPSkp5T2N4SEhJcUwwb3EzVlVKdERjcldWYWUwY19GMk9FdmJLaE9pZFUxb1JialF3VVRwN2JFc2FSNW1xN0QxT3FQVENlbTR6T2RVS2d4VFBhTzR5M1ZjSGRjZFFoSDlWNW5XOUV1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-07-002",
+    "date": "2026-08-07",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai, Kia find 200 issues early with NOVA Lab bench - Automotive World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMS1ybFRlQ2NONTMtaDhfTW9JNXRLcHZ5WWhHQWZoQjBBalFuby1OUFQteHAtTHJvQWtSZ1VwZkw0RFE2N3FSQ3Q4Q09MazB2U0RCM3NjSmpadlRGNUNBT0tEVnltX2ZnaUhEbkVHam",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMS1ybFRlQ2NONTMtaDhfTW9JNXRLcHZ5WWhHQWZoQjBBalFuby1OUFQteHAtTHJvQWtSZ1VwZkw0RFE2N3FSQ3Q4Q09MazB2U0RCM3NjSmpadlRGNUNBT0tEVnltX2ZnaUhEbkVHamczaGNDQkR5RkcwcTdFcU1TVWs1d2NXcnNrRjNfVTJORFVxRm8xTnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-07-003",
+    "date": "2026-08-07",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Toyota Corrects Q1 Figures as Profit Jumps but FY2027 Margin Pressures Loom - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWtjRll2QWZsakZXYTdKR3o2b2ttMmxSYUhoRWhxUlRUN0RoaUloWENJQ05BLWdsVjBUeFkzUFFzX3RXTXl1bHc3OXlMR1FnZGZwTS1DVFhieFJlWHpabmNyekhJdWVLT1NGYWpEaU",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWtjRll2QWZsakZXYTdKR3o2b2ttMmxSYUhoRWhxUlRUN0RoaUloWENJQ05BLWdsVjBUeFkzUFFzX3RXTXl1bHc3OXlMR1FnZGZwTS1DVFhieFJlWHpabmNyekhJdWVLT1NGYWpEaUVJcndUa3drcGxMUFBWWWxSTG9hbWx6ZGNGMkZadlM0UHNTam1sOThRYy1EQ3dWTWlHejZZV2IxTWxKU3A0eVBWSWFMSGVsMElER1BZNUxaTkp0ekticlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [
@@ -177,6 +232,318 @@
       {
         "name": "google_news_green_hydrogen",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1RjaW5mS0dUSmJNNTlsNHl3VDJpMWtqYjRfY3NTdG9uWEZPMERFV0ZTd1UzWU1MQklLOEY4dGY5QWkwb0ZrSWJ6ZlpjaTFCRmhialNOVzRTOU9pX19UazZFZ3B2WUdRWUt5WmVpTC1XUWlsbW1kR0JBNVVIY2ViRkVYdlNXeVpzdDRsOUZNYl9qcFFEeEtkdkVTVVV1ckNTTTUya25yYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-06-011",
+    "date": "2026-08-06",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products Gets A Guidance Lift From Chip Demand - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWd5bjJrbS1RYzBRNXU3TXNOdi1WUjNvenNwQ3dGaEdMVnZOcldNRnNHRzJBU2JOSE5mNmFmaUVFY1MtX3Q5MVdGcHJPLWRFUGRfNFZIQmlLNGJabUl3dzZqTU4tVUI4QVlzYjFXSk",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWd5bjJrbS1RYzBRNXU3TXNOdi1WUjNvenNwQ3dGaEdMVnZOcldNRnNHRzJBU2JOSE5mNmFmaUVFY1MtX3Q5MVdGcHJPLWRFUGRfNFZIQmlLNGJabUl3dzZqTU4tVUI4QVlzYjFXSkoyVDZrSUI1eFJIMkZZaHRMVktuRXM2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-06-012",
+    "date": "2026-08-06",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "RBC Capital Adjusts PT on Air Products and Chemicals to $360 From $358, Maintains Outperform Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNclBQS0hiSHRoRExYXzVVSkNIMW9Ta1pYanZHMWdSZkgwc3RlREtfZlZjSlAtLUtSMXY2NmVtSG9jVGxXWHA2NTZEcFo4Y1JXazk0SS1CdW5IaEVkWmhJeVZKN2Jsa2VIS19UQjJ3M0",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNclBQS0hiSHRoRExYXzVVSkNIMW9Ta1pYanZHMWdSZkgwc3RlREtfZlZjSlAtLUtSMXY2NmVtSG9jVGxXWHA2NTZEcFo4Y1JXazk0SS1CdW5IaEVkWmhJeVZKN2Jsa2VIS19UQjJ3M0tzQ19KOXZoXzR4dF9oNVN5R3NOS1ZjSHQtMlZkTWVicU0tWkFVMDB0ZW85T0F1dXRvTERXTkZlenA1VU9xRE1lQ1BmenF3N3BpQ1VQRm9iaVVyUG9xQTRkcTZSQmRYTFBQVTdmbGRka2tpVlRDVlpfLVdNRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-06-013",
+    "date": "2026-08-06",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Royal Bank Of Canada Raises Air Products and Chemicals (NYSE:APD) Price Target to $360.00 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelpFTXBoVWdiS19PN1d1R21VeWZrcVRvWnU3dXU0VFl2dWJuZkVYTzVwb19kZElxVTVlODNyajltQktQTUdaTWZzdXg3eDFCRE40Um14ZDZGVlIxd0FEalVScU5MR3BNcVlGMFFxSW",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelpFTXBoVWdiS19PN1d1R21VeWZrcVRvWnU3dXU0VFl2dWJuZkVYTzVwb19kZElxVTVlODNyajltQktQTUdaTWZzdXg3eDFCRE40Um14ZDZGVlIxd0FEalVScU5MR3BNcVlGMFFxSWJ6Y1R1MDdvMlY3MlJVSzczSzZHRGFOSWNHNThKSkx1eWVMcy1DR18wM2YyZldkU3RRUVUzek5QMmozYkFlemVkUG44UUR0VzlOdE1DRm83RXJIMXdKNEl5VVFISUV3TnhnaUNNaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-06-014",
+    "date": "2026-08-06",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's 224% Order Surge Can't Mask the Red Ink — or the Leadership Vacuum - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnlJcFBWRldra0tQenI1TUJuYjlkM2pkU01iT3BwTzhqUmxaNXhwZkFRdDBpR010SzludFZaWjg0d2x2QmdKOV9DZFNUMUFRaHJQa1Zvd0xtNEJMeUs5MEw0cU5tTDF5TzNoTG1xaU",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnlJcFBWRldra0tQenI1TUJuYjlkM2pkU01iT3BwTzhqUmxaNXhwZkFRdDBpR010SzludFZaWjg0d2x2QmdKOV9DZFNUMUFRaHJQa1Zvd0xtNEJMeUs5MEw0cU5tTDF5TzNoTG1xaUN2NW1WS0o4VUc0eGthang4YlNndTBqUDhKYmg0ejN1RG5ReHYwMkw0SVkwTmVaSEM4c0cwYnV6eE5WQ0NHbFluT081aWt4YS15NUl3LWxVU0haOVFVZUN2RVllODRlSVc3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-06-015",
+    "date": "2026-08-06",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel ASA: JPMorgan Halves Its Ambition as a Legal Settlement and CEO Exit Cloud a PEM Order Boom - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnlya1NCam1kVjFGTnFvU1VJWFdnSzh3OWdGSWJYaWt1TTFzUjRQbHJhVTZ1bmhEbUdpUjBLd3YzVlpWRkZra01tVWZNQ3RvQy02SDVRN0lJcldfMmdEbmQ2Q1V2dkQ0ZnNJb1JMWH",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnlya1NCam1kVjFGTnFvU1VJWFdnSzh3OWdGSWJYaWt1TTFzUjRQbHJhVTZ1bmhEbUdpUjBLd3YzVlpWRkZra01tVWZNQ3RvQy02SDVRN0lJcldfMmdEbmQ2Q1V2dkQ0ZnNJb1JMWHZMM2JsdTgwdHQzWF83aXp1WWpIR0RfZmNobXROeHI1dmNNMGQ1UVJLNlVueDhodHdZMlRGVVEweVhRMFp6SGJIT0NLWU85enJOQUwzLVBOUTY1QUUyZHpQc0hQamFaeEozMGM1UEtqTFR3WWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-06-016",
+    "date": "2026-08-06",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA: A Hydrogen Order Boom That Can't Outrun the Balance Sheet - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkhfTmRXdDJKUXhMYW9SVjhHeUhuSDhuQ0Y4Z29fSHF1UWZsVHgtWktvYmRKVW9rdGdiVUlNMlBfcldqQWhEYkZnNWFGOGNHWmx4eGlzSG5jSnV4dWhQcVJnTlZGSktBbXIwUTJ6NX",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkhfTmRXdDJKUXhMYW9SVjhHeUhuSDhuQ0Y4Z29fSHF1UWZsVHgtWktvYmRKVW9rdGdiVUlNMlBfcldqQWhEYkZnNWFGOGNHWmx4eGlzSG5jSnV4dWhQcVJnTlZGSktBbXIwUTJ6NXFrTkF1aGlkNmU0eGNFLXUzUERnazdGbEo4YTEzOFZETzMtd04zTkFDcDVELWdPVTFHNU83U0JTZlA5LWhyRzFBZWRrbFBJaHZwSF83bGJ2TTR3NnkzWWhFMl9aVE91MGY0OVMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-06-017",
+    "date": "2026-08-06",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA: A CEO Exit and a Shrinking Cash Pile Overshadow a 224% Order Surge - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVVqcFRHR2x5Z1FISlpyWFQwLXp3RnJpMVdlVUhYTnRkMVVaLVJJVVNFeTAyNElMdVF1SHgzb3hpSFNRWDRYcERpWjJJZ2V2bUNJT0xnTE9rUUx6RWdjZmtKc1FyeTF4NDVMV3NOUm",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVVqcFRHR2x5Z1FISlpyWFQwLXp3RnJpMVdlVUhYTnRkMVVaLVJJVVNFeTAyNElMdVF1SHgzb3hpSFNRWDRYcERpWjJJZ2V2bUNJT0xnTE9rUUx6RWdjZmtKc1FyeTF4NDVMV3NOUmp1TEN1SFk5cjBEdElYekdSUnh6UkRKVUJUdmc1d3pXMFhraTFDclByRVRwT3NadmhDd0IxUURYVUMxVTVraV9Nd09zZC1PU0J1VzNPcnNWTnBOLVZGUmUzMXNRYms5ejVTX3lLMnZDU3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-06-018",
+    "date": "2026-08-06",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy: record orders and Gamesa earns profits - Inspenet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE85eE1FZHVITTJsMUVUUzZFLXZzdm51VWprZkhVS2ZWX0JXUFJrYlpzd2hzNlpZTGZJamFGTHVLOVM3dF9QZldPOXczT2t2aEktR0ExbDJFeVNsWUJ6NTA5ODlFOTdreFl3NnRORnV6S3",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85eE1FZHVITTJsMUVUUzZFLXZzdm51VWprZkhVS2ZWX0JXUFJrYlpzd2hzNlpZTGZJamFGTHVLOVM3dF9QZldPOXczT2t2aEktR0ExbDJFeVNsWUJ6NTA5ODlFOTdreFl3NnRORnV6S3kySHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-06-019",
+    "date": "2026-08-06",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Inside HMG’s Digital R&D Revolution ④] NOVA Lab: How Hyundai Motor and Kia Find Up to 200 Vehicle Issues Before Prototype Exists - hyundai.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9tanU4S0hXZ21NSHN4cnp0X1RQT19fQUFtN0x1NTJYSk5wb2ZMeVU4cUpVRk5waUg5RG4tSnFwWGpPN0ZfUEJnel96VUF6QjVnWUkzNW1LM0ItMm9XM3lrZVVndnVNRzQ1UmJiUDRxb2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tanU4S0hXZ21NSHN4cnp0X1RQT19fQUFtN0x1NTJYSk5wb2ZMeVU4cUpVRk5waUg5RG4tSnFwWGpPN0ZfUEJnel96VUF6QjVnWUkzNW1LM0ItMm9XM3lrZVVndnVNRzQ1UmJiUDRxb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-06-020",
+    "date": "2026-08-06",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Toyota Motor (TSE:7203) Fully Priced On Strong Q1 Results And A New Buyback? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjJuRExuejhRN1BJX0oyTVpybnBJdTJNWnZxQUxRNTFueHUwOWVSSEpVYjU4YmFka1M4cVpnbUpBdmZjTThXOHlnR21rMi12eXlpS05CWG5iSFpvZ3E3cXdCMmkzRUl3SWZxdkdOR1",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjJuRExuejhRN1BJX0oyTVpybnBJdTJNWnZxQUxRNTFueHUwOWVSSEpVYjU4YmFka1M4cVpnbUpBdmZjTThXOHlnR21rMi12eXlpS05CWG5iSFpvZ3E3cXdCMmkzRUl3SWZxdkdOR1d4bnJQenRxZkhsUzBLZEY0ampyNi1oRElNcXAxanNseHd2MTJOa2kwSE9zVFRuVlc2TGg3RTNnQ2RsaFc3SUNRcjBTVGVkWkNwUElsQm12YXpvYjJIUHVvUFU1TkNlYVFaUXZHbNIB2gFBVV95cUxNR2lCZlBzblBueVFlbkxFSFlYS0RqU2l6bk4zRVp1ZTRNRjdoZDl5YzlLTmF0QnpjcHFBeXRibURSY0NfY3Y1a0tpUEcxZXlYOER6cm5YYmdIUjRtYXVmTzZ3R0dhbDZXMFRCMVlPZUVQSUtqbDNNQWllVjJsMkJxMVFDUTlBVHM4Q285UHd1UkdZOG0zUDVNbFhZMkI4T0RPYm9XaUNaQXBCUDU1eEc5d0g2UTVTS3JiUHpSbkx4OU9BZDZjdk1GSHR2elVINmRfc2VkNkxWaDlyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-06-021",
+    "date": "2026-08-06",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Q1 Earnings Miss Estimates on High Labor Cost & R&D Expenses - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzZMbUV3QzlXZ2F1YXRmQW8tWElZWjZPRC0yVXhsR0FRRzI2VHJNWXowWG04ZEh1UTVwMUs5b2ZsZGpqQUtLcXc3Zy1LUEhhNTduSmFYVDNNVENhZTk3cm45S0FRd0pjU0pabVR5VH",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzZMbUV3QzlXZ2F1YXRmQW8tWElZWjZPRC0yVXhsR0FRRzI2VHJNWXowWG04ZEh1UTVwMUs5b2ZsZGpqQUtLcXc3Zy1LUEhhNTduSmFYVDNNVENhZTk3cm45S0FRd0pjU0pabVR5VHM2N2h6MTJDRU9FX3B3TzR6WkdwU0NPODVJV09tR2FILU9aZExHT204SkVFck1qYWhKMHNTaWtSaHNOSHBrLTJIUzdjZUFGODRvbmE1OHkzS3ZHWTc1aE5rNk50bHRmeTZVWjNIMkdXcVRsbi1VSll4WC03TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-022",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "EU Approves €780M Dutch Green Hydrogen Subsidy Scheme Targeting 400MW of Electrolysers",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/06/electrolyzer/eu-approves-780m-dutch-green-hydrogen-subsidy-scheme-targeting-400mw-of-electrolysers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-023",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Has Not Failed — It Is Entering a Commercial Reality Check, Chilean Researcher Says",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/06/h2/green-hydrogen-has-not-failed-it-is-entering-a-commercial-reality-check-chilean-researcher-says",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-024",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Loses Competitiveness as Marginal Production Costs Rise Week on Week",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/04/green-hydrogen/green-hydrogen-loses-competitiveness-as-marginal-production-costs-rise-week-on-week",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-025",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Research Project “PEM Circle”: Digital Solutions for a Circular Economy of PEM Electrolyzer Stacks",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/03/h2/research-project-pem-circle-digital-solutions-for-a-circular-economy-of-pem-electrolyzer-stacks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-06-026",
+    "date": "2026-08-06",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai launches the updated IONIQ 6 in Turkey with a sleek new look and 422 miles of range",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-new-IONIQ-6-launch.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Th",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/08/06/hyundai-launches-new-ioniq-6-turkey-422-miles-range/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuelcell-2026-08-06-027",
+    "date": "2026-08-06",
+    "companies": [
+      "fuelcell"
+    ],
+    "topics": [
+      "green_hydrogen_cost",
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "EU Approves €780M Dutch Green Hydrogen Subsidy Scheme Targeting 400MW of Electrolysers - fuelcellsworks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0NJYW90bGU5WGoxVEw4cjk5WVkwT1EtUm5tdG1WbDIybm40cW95ZFNUV05hQTJScjVCTmx0VlpMckctT3VsRjFsamhncDhEM01iSS1NUW82MjhjSnY4TVpJNUlSa2l6N1U3NEZxQ1",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0NJYW90bGU5WGoxVEw4cjk5WVkwT1EtUm5tdG1WbDIybm40cW95ZFNUV05hQTJScjVCTmx0VlpMckctT3VsRjFsamhncDhEM01iSS1NUW82MjhjSnY4TVpJNUlSa2l6N1U3NEZxQ1dVY3hQWC15aF9zTEw5c3NOX0RuaXpuMkdyWjJHdkdra3dodzFxdEpPeTYwS3ozWjZPRVpVdDRTdVJ3WXpRNzUzMkdOc1FPT0kxOHk2RV9rWnRpOUhQYVJrTm9uMElTMXVqSWc?oc=5",
         "type": "rss"
       }
     ]
@@ -683,6 +1050,119 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "http://www.hydrogenfuelnews.com/green-hydrogen-infrastructure-rwe-s-lingen-plant-sends-first-renewable-hydrogen-/8576382/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuelcell-2026-08-05-029",
+    "date": "2026-08-05",
+    "companies": [
+      "fuelcell",
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power Delivers First Green Hydrogen From Lingen - fuelcellsworks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjY2UjFhdG4yckRfQVVJSDBSSFFvNTFUZUY1WnVDVFFwNGMzdU1jTEpJR21GOWdYb0h4cGZwei1QVE5rVmdkTmdKSGlwOUFsQ1Q1OFNaSUlUY2pzRG52Nk4yWmpjcUZ2Vjl4b0FGOV",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjY2UjFhdG4yckRfQVVJSDBSSFFvNTFUZUY1WnVDVFFwNGMzdU1jTEpJR21GOWdYb0h4cGZwei1QVE5rVmdkTmdKSGlwOUFsQ1Q1OFNaSUlUY2pzRG52Nk4yWmpjcUZ2Vjl4b0FGOVlwWlNNOWlPYmZuVXNhbkhUYUptMG9kWDBPY0dRZWxrcm9MX2VQbXd1czlBU19hdkRuNmZjd0tOMk8zM0JydmNtNVRtclFqbDY4ZXh1Y0lEWHYtSDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-08-05-030",
+    "date": "2026-08-05",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power Marks Milestone as First Lingen Green Hydrogen Reaches German Industrial Customer - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxONkFBMkRraEdYU2hoNTFGcHhuQVViV3FTY2VSQi1teVF2QjRISkNCR3drM2hvY21zbkpjdDc4YnNxWlR5WkpwZnRvMHEydlZCNjAzUXNELURSMllYd2lDU19IcVpkdzVqbWhLUTBSNk",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONkFBMkRraEdYU2hoNTFGcHhuQVViV3FTY2VSQi1teVF2QjRISkNCR3drM2hvY21zbkpjdDc4YnNxWlR5WkpwZnRvMHEydlZCNjAzUXNELURSMllYd2lDU19IcVpkdzVqbWhLUTBSNkUxRV8zS1JmVXZEQjRES2NRRnZFZE5iRWJLVkZ2bi1saTdZNHJGTllWWFkyX0NxLWo2ZE12SmlndVdxaktUeGFoWE0xLVExWnJnUmJ6a3pWLTgtRnRhSWY2d3BsWG5yVTV4aXdFcUJYNUUtcjM4Rmx4R0RYd0tmRHBNWFNOVllSZ0FmQ1V4OVFnSlotZFNVM1ZibXNUNE5iUWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-05-031",
+    "date": "2026-08-05",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy Eyes Top of Outlook Range on Record Orders - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmlGVmZTQkMwcDh4N1pZMUItUUV5YktVb2s1Vmp3OUlFWkh2Tmd6RU1jd0tzSkd5aFJLOWhVOHdHLTNwaEdWSG5nU2d1S2hVUlhZYnlMb182Y3dGRVZIRE9YOG9COHZXWmo4NEpyZH",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmlGVmZTQkMwcDh4N1pZMUItUUV5YktVb2s1Vmp3OUlFWkh2Tmd6RU1jd0tzSkd5aFJLOWhVOHdHLTNwaEdWSG5nU2d1S2hVUlhZYnlMb182Y3dGRVZIRE9YOG9COHZXWmo4NEpyZHN4UWZDNTVOUWZXam9jNHdLQUktOWs1RWU5ZGppVUhDMmhnZDJ1VWNuYThQcTEyWlZkN2RtUnFEdlJPQTlIcWJhdDhpV25fUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-05-032",
+    "date": "2026-08-05",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy Achieves Record Orders, Revenue, Profitability - the Electrical Distributor magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHpNdEZBZkhDY0pRRHR5RWY0blBCTUh2S3R3RGU0SEtFdWh6WnBNZDVWeTFGNjhvNG0xS1BiWjlzWDh1akVwM0xDUTV3ZFMzS09FZW9XSXlhdzNoZU1OYWhfVlVTdUgyLUJrVC16Sk",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHpNdEZBZkhDY0pRRHR5RWY0blBCTUh2S3R3RGU0SEtFdWh6WnBNZDVWeTFGNjhvNG0xS1BiWjlzWDh1akVwM0xDUTV3ZFMzS09FZW9XSXlhdzNoZU1OYWhfVlVTdUgyLUJrVC16SkpFOXlTcVJWdGNNWDVyN3VsQkRHR280UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-05-033",
+    "date": "2026-08-05",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy AG (SMEGF) (Q3 2026) Earnings Call Highlights: Record Orders and Margins Signal ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQelFDUkpudDBKQ0gwek5mNnNhLWs2dW1qTjJBR0EwQUlvX3d1MXRFdHBKZVdhMGhJbk9BVE14eXBVVTd3T2ZvV2V5MEt5SFBrTW9uaDZjaTg2cFRCYUlGYTlyNkJQVmZrZXY4dnpjQn",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelFDUkpudDBKQ0gwek5mNnNhLWs2dW1qTjJBR0EwQUlvX3d1MXRFdHBKZVdhMGhJbk9BVE14eXBVVTd3T2ZvV2V5MEt5SFBrTW9uaDZjaTg2cFRCYUlGYTlyNkJQVmZrZXY4dnpjQnpNTXZMSllPRmtQNG5wV21sbmJrZDdGY0pZOUlWUUhrcEtEOXc5RkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-05-034",
+    "date": "2026-08-05",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Siemens Energy beats forecasts as AI data-center demand drives record orders: Q3 Earnings - Blockspace Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXl0NlI1NEdGbnNxdE1UWW9Xa2FYV1VadFhWWmR1ZjRZSExTV0E1NjV0RERQbk9ORmZ1NW5qWHlpd3FUVHZTLWc0enRsRTdMV040VHpFd3AxVFYtQl9UWjMwa0NZdUNRUVRkbWU3Sm",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXl0NlI1NEdGbnNxdE1UWW9Xa2FYV1VadFhWWmR1ZjRZSExTV0E1NjV0RERQbk9ORmZ1NW5qWHlpd3FUVHZTLWc0enRsRTdMV040VHpFd3AxVFYtQl9UWjMwa0NZdUNRUVRkbWU3Sm9KOTg5Uy0xMDNSbGd5Skc0VTdsWnp2Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -1250,6 +1730,116 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmVtS2Z1UkRfTUpkRGxfV2t0a0MxdlNLUnVuQnhqaEVQcFNydGVUVFk3TXI2Vzl2RWF3WTFnM1VfUlpQU28xOTlWQnRDNmJ1VVRhV2tsaE9wcElDYThfbDZyOE5SbTYyMktrZGltQm1ZZkN6bERlVFowdlBrU0lQckFBZzl5NGZhZFhBNDFWeWlWanFiOHVjOG96T3g2SXBhX3lGWVVFTlBMTlFO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-04-032",
+    "date": "2026-08-04",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals, Inc. $APD Shares Sold by Confluence Investment Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmJwQ2JpSm1FMzY4UUhfWmRjTEpTUWNQOXgyMU9Ta2M1c0k1bkt2d2M1LWx2LUhzM3MzVlNoMlR1dXlkbjRXWlI0V1A2V25KaUNXakstdHFET1k4Vm5ZWXJ5ZnlJM3BOdDc4QmkycE",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmJwQ2JpSm1FMzY4UUhfWmRjTEpTUWNQOXgyMU9Ta2M1c0k1bkt2d2M1LWx2LUhzM3MzVlNoMlR1dXlkbjRXWlI0V1A2V25KaUNXakstdHFET1k4Vm5ZWXJ5ZnlJM3BOdDc4QmkycEVoazFFMGo0emJPY2tYb2F4ZldaR2VnTnlMVWU3Nm5PUDFzdXJweHBGcFUxbjJhRTVHb2w3SEhWYkpXeUItVnlTVG9Zdnp4d2xKLWI4YkczYUZPOURxMDBfSU8yRU1lWjVCam1YN3U3Vjg1S3N1LVNYcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-08-04-033",
+    "date": "2026-08-04",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "ITM Power Reports Delivery of First Green Hydrogen From RWE's Lingen Plant - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVi15Q2VFaUtaQVRxd1Y4aUhyTG5RQ1BHWjcxQXVfMk04WlI5MnRveWNXZWxpZWRObF9RMEJYRzF3TWN3cUQ2dlNzWHFWYkFrcnBNUTVEanhuOFJsZzhnQlJ5MS11cGNOVDNseXdaWn",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVi15Q2VFaUtaQVRxd1Y4aUhyTG5RQ1BHWjcxQXVfMk04WlI5MnRveWNXZWxpZWRObF9RMEJYRzF3TWN3cUQ2dlNzWHFWYkFrcnBNUTVEanhuOFJsZzhnQlJ5MS11cGNOVDNseXdaWndWRHg5U1JSbVZkbGlINGFlMG5oMTdrSnJIajgwQ1Z5TlB1R2tZTm4tZlpQbXRSZlh3LWFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-04-034",
+    "date": "2026-08-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMn",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-04-035",
+    "date": "2026-08-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan's Toyota reports hefty profit on cheap yen and solid car sales - abcnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnZMblV6Q2pTLWNpenJqZk5ZNjM3WlBJVDJFOVdOcmdhS3pFazh0M1Z1cTYxX1p4MUJET1VfZ1BhUHR6ZHBYdFF4LVhyQkViTXd3TU42RDI4VFU1dzdPZXVGMDI2SVBWa05PZl9xY2",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnZMblV6Q2pTLWNpenJqZk5ZNjM3WlBJVDJFOVdOcmdhS3pFazh0M1Z1cTYxX1p4MUJET1VfZ1BhUHR6ZHBYdFF4LVhyQkViTXd3TU42RDI4VFU1dzdPZXVGMDI2SVBWa05PZl9xY2RGNHU3dDJxQ2ZNMldWdEUtY1hfaGVtY0F6MnN5N2dpTkI1Qk91MFNpU2JvZFAwWnJK0gGmAUFVX3lxTE9LOE9hcUw3ME51WVprZVZ3d3djTF8yZU1vUHJaMFppY3l2VjcyRk5DRDlNVHNJR3dMZGxEaUc3a3FheS1lQ2w0bm43cEVrRzdFQVFBbjkzX201S2syeHNuNDcxY3p2bU9jWFlEeTg4SzViV18xVk5RT1dsNDhOS0FrdjFnOHpzN3hiYmtuTm5fMUo0WEZUaXpTZUZXbWVjcUxwdEM1Rnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-04-036",
+    "date": "2026-08-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Raises Earnings Guidance, Announces More Than $6 Billion Buyback - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGlQUWZfUFRCU0xibU9KWVhENGtBYzJnZFZxZWxFbTNESktYVWJrWmRaT0tQTXowQXBpSlZWMzFsNG5LVmlqV3R5MnhQUnVRRV9NR2RKTEIwQ091bHZlRUNwUXV5RVcxaDNYN2FmRU",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGlQUWZfUFRCU0xibU9KWVhENGtBYzJnZFZxZWxFbTNESktYVWJrWmRaT0tQTXowQXBpSlZWMzFsNG5LVmlqV3R5MnhQUnVRRV9NR2RKTEIwQ091bHZlRUNwUXV5RVcxaDNYN2FmRU1nbVhiMkhxUEowbDNvVWF5MnhvSXFPMmNULTZ5RGFyM0lZQ0d4ODlMbUppNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-04-037",
+    "date": "2026-08-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Unveils $6.3 Billion Buyback, Raises Profit Outlook - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdZUU56S0F4bmdES0F1SFhGakpkN1dab1ZUQ0duc1JqbUc5aTdrUkZnODVoVWx0NnNIUFdHS0hUbFpCT2tEZmxTNUZ4YUZJWEZCYmxvSXkzZy1MbXZNcFl6REhzUkpqcnlIOEhRWU",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdZUU56S0F4bmdES0F1SFhGakpkN1dab1ZUQ0duc1JqbUc5aTdrUkZnODVoVWx0NnNIUFdHS0hUbFpCT2tEZmxTNUZ4YUZJWEZCYmxvSXkzZy1MbXZNcFl6REhzUkpqcnlIOEhRWUtwOXg5YmhUZEJTTEZ3UGZXbEluQU1tVUItX1Z4NXdYZF80OWhRR2JzYkM0bU5iQlRNVVJ6V1dZOWJxY0Z1dGdEelg4Tmx3WmtYYnFiWmJB?oc=5",
         "type": "rss"
       }
     ]

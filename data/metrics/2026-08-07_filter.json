@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 101,
+  "gate2_fail": 34,
+  "passed": 32,
+  "gate2_samples": [
+    "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+    "Armstrong Henry H Associates Inc. Acquires 5,185 Shares of Air Products and Chemicals, Inc. $APD - M",
+    "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+    "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+    "RBC Capital Adjusts PT on Air Products and Chemicals to $360 From $358, Maintains Outperform Rating "
+  ]
+}
