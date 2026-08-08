@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:26:45.528730Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: PEM Orders Triple, Yet the P&L Keeps Digging Deeper - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmJsUnVqb3dscXlTZHluRENJcmc4Z1ludGNLeW94eEFjUk9sT1lTVlpZVkdKbE0xT1BCeGZMaVdGem9ORmg5MkQ1OW1Pa0NjZFcyMGJtVXVxeHFjVVozeExhaGFCZnJVQzZCN1UyR201S3ZIT3ZMSXpTQ2pLTG1WbE9SRnBMQWZkTkJvdW5YRFFId2FiYW80NVRFRGdlN1BCU2ZnOHpwYk1Zd0I2UUtWS2tsWTNPbGlMeGdZQlEyZVBBcDZoVkcyYU9FaVZPT1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Toyota Camry Nightshade Is A Stylish, Sensible Family Sedan: Driven - Motor1.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUGhKdTdaWWNaT2tGN3JLMGdfNlFUVUtpUHcwRVQ1U2VaOHdGZDg1X0pBOEZSUGY5UTMzSWR0NnQ5RUtncWx3QTE0QkxEMjdJWlBCZ3oyOXg4TFByaWhZYTVMOUdENFNBb1EyNmw5RnVKbHY5dkd0Nm9pdmVodTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Road To Green Hydrogen Is Paved With Green Deuterium",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 109,
+    "too_old": 101,
+    "gate1_blocked": 96,
+    "gate2_blocked": 34,
+    "passed": 20,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Abner Herrman & Brock LLC Sells 5,656 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+      "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nel ASA、豐田相關動態：「Nel ASA: PEM Orders Triple, Yet the P&L Keeps Digging Dee...」。主要關注主題為電解槽產能、綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel ASA: PEM Orders Triple, Yet the P&L Keeps Digging Deeper - AD HOC NEWS（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "The Toyota Camry Nightshade Is A Stylish, Sensible Family Sedan: Driven - Mot...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

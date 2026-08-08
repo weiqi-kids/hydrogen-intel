@@ -1,5 +1,62 @@
 [
   {
+    "id": "nel-2026-08-08-001",
+    "date": "2026-08-08",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel ASA: PEM Orders Triple, Yet the P&L Keeps Digging Deeper - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmJsUnVqb3dscXlTZHluRENJcmc4Z1ludGNLeW94eEFjUk9sT1lTVlpZVkdKbE0xT1BCeGZMaVdGem9ORmg5MkQ1OW1Pa0NjZFcyMGJtVXVxeHFjVVozeExhaGFCZnJVQzZCN1UyR2",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmJsUnVqb3dscXlTZHluRENJcmc4Z1ludGNLeW94eEFjUk9sT1lTVlpZVkdKbE0xT1BCeGZMaVdGem9ORmg5MkQ1OW1Pa0NjZFcyMGJtVXVxeHFjVVozeExhaGFCZnJVQzZCN1UyR201S3ZIT3ZMSXpTQ2pLTG1WbE9SRnBMQWZkTkJvdW5YRFFId2FiYW80NVRFRGdlN1BCU2ZnOHpwYk1Zd0I2UUtWS2tsWTNPbGlMeGdZQlEyZVBBcDZoVkcyYU9FaVZPT1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-08-002",
+    "date": "2026-08-08",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Toyota Camry Nightshade Is A Stylish, Sensible Family Sedan: Driven - Motor1.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUGhKdTdaWWNaT2tGN3JLMGdfNlFUVUtpUHcwRVQ1U2VaOHdGZDg1X0pBOEZSUGY5UTMzSWR0NnQ5RUtncWx3QTE0QkxEMjdJWlBCZ3oyOXg4TFByaWhZYTVMOUdENFNBb1EyNmw5Rn",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUGhKdTdaWWNaT2tGN3JLMGdfNlFUVUtpUHcwRVQ1U2VaOHdGZDg1X0pBOEZSUGY5UTMzSWR0NnQ5RUtncWx3QTE0QkxEMjdJWlBCZ3oyOXg4TFByaWhZYTVMOUdENFNBb1EyNmw5RnVKbHY5dkd0Nm9pdmVodTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-003",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "The Road To Green Hydrogen Is Paved With Green Deuterium",
+    "summary": "<p>The US startup Aternium aims to crack the green hydrogen code with a new electrolysis system powered by renewable energy and co-producing deuterium.</p>\n<p>The post <a href=\"https://cleantechnica.c",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "siemens_energy-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -50,6 +107,222 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWtjRll2QWZsakZXYTdKR3o2b2ttMmxSYUhoRWhxUlRUN0RoaUloWENJQ05BLWdsVjBUeFkzUFFzX3RXTXl1bHc3OXlMR1FnZGZwTS1DVFhieFJlWHpabmNyekhJdWVLT1NGYWpEaUVJcndUa3drcGxMUFBWWWxSTG9hbWx6ZGNGMkZadlM0UHNTam1sOThRYy1EQ3dWTWlHejZZV2IxTWxKU3A0eVBWSWFMSGVsMElER1BZNUxaTkp0ekticlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-07-004",
+    "date": "2026-08-07",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA: A Hydrogen Order Boom That Can't Outrun the Balance Sheet - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakpueDB1N1l3ZkZQa20yRmVuUVBNek55LWJVUFhwbE1rMm4xdlRTektfUEQyNG5GTXplLWkxdG56Z2s3NzhsU1M0RFozTmR2STY1SVV6S3lHOUFLa1FIWHJPYjNzWUZHNXBjUWRYcm",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakpueDB1N1l3ZkZQa20yRmVuUVBNek55LWJVUFhwbE1rMm4xdlRTektfUEQyNG5GTXplLWkxdG56Z2s3NzhsU1M0RFozTmR2STY1SVV6S3lHOUFLa1FIWHJPYjNzWUZHNXBjUWRYcm8zbUN2UkpONm1hZXJ4aXc3YlpqOU5kZDU1QkJWdWpzMU9LSE82eGc1T29RNFBmcmxwakwyZkwyc1FoZ3N6cTVNdHBGcnJtYUJFQjczSUM0aWZzaFNtcWkzWjF5emR6TjNEZEZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-07-005",
+    "date": "2026-08-07",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Order Book Surges 224% — But the Cash Burn Tells a Different Story - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbS12aWNXV1RsYVdiVlBlaDVjeG5qMlNvdFBySUE5Ylo5Um1vcW14b3cyR2ZjWVRpZ1k2ZFFiUW1IRHkxT3gxSjFUVFo5Tl9uT2NnaGlKNklxSVY1U0xFa3ZVTEdUYUVuQk9EQWU0QU",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbS12aWNXV1RsYVdiVlBlaDVjeG5qMlNvdFBySUE5Ylo5Um1vcW14b3cyR2ZjWVRpZ1k2ZFFiUW1IRHkxT3gxSjFUVFo5Tl9uT2NnaGlKNklxSVY1U0xFa3ZVTEdUYUVuQk9EQWU0QURKdEUtTVgwVGw3dnN1RnJ1RzdRZURoaFRlNnZReUR6YzA1ME5xZUEyMjVLdEk5NUxLMGJuNFJhbU9CbE5qc09oQmlOM2F5dlRpb1daZkJhQ3dZc3A4eXl5MjdfUFhWYmxKcS0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-07-006",
+    "date": "2026-08-07",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA Faces a Defining Stretch: Order Momentum Meets a Steep Analyst Reality Check - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVpWWFUxSzdKVjA3WkZMdmp4MFU4RWJFSDQ0bk1YaXk4WHRYUUNIdTR2VXB1YU9pYnJPTXQ0Z1RoNGRmREdYR01vRDRkZ1BkTVl2aWk2Uy1aNm1iMVA4Q3dFLVRMa0dfWm1DUE1ocE",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVpWWFUxSzdKVjA3WkZMdmp4MFU4RWJFSDQ0bk1YaXk4WHRYUUNIdTR2VXB1YU9pYnJPTXQ0Z1RoNGRmREdYR01vRDRkZ1BkTVl2aWk2Uy1aNm1iMVA4Q3dFLVRMa0dfWm1DUE1ocENURDkyWG4xSndfcUI3Y3BKN1RHQl9seG81Sk4xejdSdkotVm5pamIzOFBjWVMyWFVzdkFCdS1QZ0tHU0wyTFQ2V0Q4LTdia2t4aTNLT2pkX19FUklPNnFsdmpabU43N1hGUl9Wd2FRUDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-07-007",
+    "date": "2026-08-07",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chinese EV expansion in Latin America threatens Korea’s Hyundai, Kia market share - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE83WUc0NDU2S19IVXlkOWl2Vmx2TXVXb0F6MFZDRkQ4Y3owLThqRDB6UThjVGkyYUV2N2d5bDgzTk1lVjI2X3VRVlA5ejdvcV80TE9rWThGOTdYMnNWaFdZRUVEdnh6NGNjVVBHaXZkOA",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83WUc0NDU2S19IVXlkOWl2Vmx2TXVXb0F6MFZDRkQ4Y3owLThqRDB6UThjVGkyYUV2N2d5bDgzTk1lVjI2X3VRVlA5ejdvcV80TE9rWThGOTdYMnNWaFdZRUVEdnh6NGNjVVBHaXZkOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-07-008",
+    "date": "2026-08-07",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota suspends 17 lines at 9 plants as typhoon follows earthquake disruption in Japan - autonews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzNneUpnSmstMkU3bEVsN2tYZW9YdHJHY2ZlaGVyUklHbE50YWFRMVpqNVRheW81VnVRakQxYXkyRUZQWUs5bzBOZldEM1ZTRldid0F4a3UzUjU4R3p1NWx0VW9pNlE1djdCTmpvbk",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzNneUpnSmstMkU3bEVsN2tYZW9YdHJHY2ZlaGVyUklHbE50YWFRMVpqNVRheW81VnVRakQxYXkyRUZQWUs5bzBOZldEM1ZTRldid0F4a3UzUjU4R3p1NWx0VW9pNlE1djdCTmpvbklTYld6NkNTTkI1bmdNZHdLZEk0dzhMbGhVZnVfWm9GQUxjdWQxbC1FX3pJcWZZUFBPNHgwMDRVeGpwV3c3NHM5YTc1TkhMVkot?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-07-009",
+    "date": "2026-08-07",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Motor Corporation Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1FoeGU4OTJjRHRfQ0tBSS05UlZBUk1CUlU1cGhfcXhZdWM1SFM3dWtrc1BtTE10cTlKOXo4RWFSRnk2d3pKem8wWnJkMENSQm5CX3JENllCR3ZuRDVTXzcyMDhscnV5NDhHTlZYVn",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1FoeGU4OTJjRHRfQ0tBSS05UlZBUk1CUlU1cGhfcXhZdWM1SFM3dWtrc1BtTE10cTlKOXo4RWFSRnk2d3pKem8wWnJkMENSQm5CX3JENllCR3ZuRDVTXzcyMDhscnV5NDhHTlZYVnBmZl9BZkhLSGl2RG1vRld2eTBvTVFZelkzLUpBeU1KQ19yWi1aQ0Mzc0NwMWxHdDNPMzN3Z0JaemJoUGMteW56cEpsUEZXY2VPMndxU3YzdDdEUXZ3X2dDNkd0aXh2WEZYTHVBaHZsTdIB3AFBVV95cUxNaFQxcDFMUXVyc0ZkNnc2VWZ0Yng3Z3B1d2E3RnFNVGdiZ3lfdWZ6c3NqcWFzMGhpLUR1Y0IxOFdhX1FHeFVSZmxVZXJEakVCQ2xOdXZ4VDNlY0k5RUdQeUxfcVE0Z0I2QWZyLTZST0RHZVlRM2RHVWZpMWhUdGd6U0ZZd2QyMEFMM2xmeXA2M293d3I4RzBJd2ktQllHQmk0RFVtSmlEekNlSklzYXhZOFFlbVdTSDVPRjFMUzV3ZjRqSFNCSDJ2TGhlZUNJTjAxUXZad3VFbjVwNjdh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-07-010",
+    "date": "2026-08-07",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota to Join cellcentric as Equal Shareholder with Daimler Truck, Volvo Group - Fleet Equipment Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzR6c0xNbzZ5aGlQbzUyVC1QR0dvbnBVNnM5UmZSa25HLWxFQkFfQUhhSy1jVVg2VURVXzFYRUh1LTM1MGkxTnNQdkxoc3pGSVNTSEtxblVvTkxmTXhVSlBnYUZ3RWM3aEV1d2k2dk",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzR6c0xNbzZ5aGlQbzUyVC1QR0dvbnBVNnM5UmZSa25HLWxFQkFfQUhhSy1jVVg2VURVXzFYRUh1LTM1MGkxTnNQdkxoc3pGSVNTSEtxblVvTkxmTXhVSlBnYUZ3RWM3aEV1d2k2dkUtQ2tCOGE5a2RaSWJXaGxGbTRXNURiZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-011",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "De Nora and Maffei Sarda Silicati Announce the Completion of the Dragonfly® Plant for the Production of Green Hydrogen in Sardinia",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/07/electrolyzer/de-nora-and-maffei-sarda-silicati-announce-the-completion-of-the-dragonfly-plant-for-the-production-of-green-hydrogen-in-sardinia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-012",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "H2 HotBoxTM Solid Oxide Cell Pledges Affordable Green Hydrogen and Zero-Emission Power; A Game-Changer for Distributed Energy",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/07/clean-energy/h2-hotboxtm-solid-oxide-cell-pledges-affordable-green-hydrogen-and-zero-emission-power-a-game-changer-for-distributed-energy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-013",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "New green hydrogen process to prevent 500 million tons of CO2 a year - interestingengineering.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHpTSDNhOTh2ZkVIYU02V1RRanF6OGk2M2FUR3lGbVZrOHVvQTJPQlZnYTl0bUhNUEtJdVRueUdGOWhXNXFRLXZydUt4WDBmVWh3UHBLRTZPM3NYSTYtd2NRYWpSX3VSdUFrcV9Bc2",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHpTSDNhOTh2ZkVIYU02V1RRanF6OGk2M2FUR3lGbVZrOHVvQTJPQlZnYTl0bUhNUEtJdVRueUdGOWhXNXFRLXZydUt4WDBmVWh3UHBLRTZPM3NYSTYtd2NRYWpSX3VSdUFrcV9Bc2llal8yUnZhdTMxR1dKTHV4Vw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-014",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen for the Future of Industrial Gases - Kings Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHVBVGo3dVJNWUpfSHp5QjRPajkyWHl3aV9sekxMN3liYTRJRlVwWWFDMkVscWFJbzJsYk5wQ2tfd1JyejU0b2I4eDFvSmZWbEhpeEREajctX0dxUG1fVVg1OG9oQS1RSFBpLUVBN0",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHVBVGo3dVJNWUpfSHp5QjRPajkyWHl3aV9sekxMN3liYTRJRlVwWWFDMkVscWFJbzJsYk5wQ2tfd1JyejU0b2I4eDFvSmZWbEhpeEREajctX0dxUG1fVVg1OG9oQS1RSFBpLUVBN09VMm5ZTkJQakhoSjY1S2JYRUxFWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-015",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Over $1 billion in funds for projects in Spain, the Netherlands",
+    "summary": "<p>The Spanish government has allocated €274.2 million for four renewable hydrogen projects with a combined electrolysis capacity of 102.27 MW, while the European Commission has approved a €780 millio",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/07/the-hydrogen-stream-over-1-billion-in-funds-for-projects-in-spain-the-netherlands/",
         "type": "rss"
       }
     ]
@@ -539,6 +812,79 @@
     ],
     "impact": "neutral",
     "title": "EU Approves €780M Dutch Green Hydrogen Subsidy Scheme Targeting 400MW of Electrolysers - fuelcellsworks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0NJYW90bGU5WGoxVEw4cjk5WVkwT1EtUm5tdG1WbDIybm40cW95ZFNUV05hQTJScjVCTmx0VlpMckctT3VsRjFsamhncDhEM01iSS1NUW82MjhjSnY4TVpJNUlSa2l6N1U3NEZxQ1",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0NJYW90bGU5WGoxVEw4cjk5WVkwT1EtUm5tdG1WbDIybm40cW95ZFNUV05hQTJScjVCTmx0VlpMckctT3VsRjFsamhncDhEM01iSS1NUW82MjhjSnY4TVpJNUlSa2l6N1U3NEZxQ1dVY3hQWC15aF9zTEw5c3NOX0RuaXpuMkdyWjJHdkdra3dodzFxdEpPeTYwS3ozWjZPRVpVdDRTdVJ3WXpRNzUzMkdOc1FPT0kxOHk2RV9rWnRpOUhQYVJrTm9uMElTMXVqSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-06-028",
+    "date": "2026-08-06",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals Tops Q3 Expectations as Electronics, Semiconductor Demand Drives Upside, RBC Says - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQa21kMzdFU0stazJSVWVJRGVYZ0E3VEtPeVNzWkhqQUVCWm5hZno2c2hub1FGTTd1bTdyWEdNOWRmRXhIdlBNcGItY3ZYZno2Z3BHZHpWY2lKUnZJREpENjNsOEZ3UXZ0S3ZpcUJmeX",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa21kMzdFU0stazJSVWVJRGVYZ0E3VEtPeVNzWkhqQUVCWm5hZno2c2hub1FGTTd1bTdyWEdNOWRmRXhIdlBNcGItY3ZYZno2Z3BHZHpWY2lKUnZJREpENjNsOEZ3UXZ0S3ZpcUJmeXZwX0llREZoampfdDhINlVIbU1wN0ZDbmJUejlpdFpHeXloSHRTeHNYUDdoYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-08-06-029",
+    "date": "2026-08-06",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canandaigua National Bank & Trust Co. Purchases Shares of 4,504 Air Products and Chemicals, Inc. $APD - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV096ZFloNW45VjYwMG5aVDVOd0U2bDlhcDVTSmw2a0lMNGZYQzh0RmVyTkg3LURfUm1vREdYZ1lvd0Vad2J4NGw5NTlkR3JXY0RvLTFKR2lzSnNaQm1oeFg3SFpmYlRmVVhvVndRY0",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV096ZFloNW45VjYwMG5aVDVOd0U2bDlhcDVTSmw2a0lMNGZYQzh0RmVyTkg3LURfUm1vREdYZ1lvd0Vad2J4NGw5NTlkR3JXY0RvLTFKR2lzSnNaQm1oeFg3SFpmYlRmVVhvVndRY0EyMnRscEliNEVxUW5jWUwwODNuV1k2UTdubjRGcV96akR0ZnN5dmxBVXhwUjY2YVV4SmhuQ1RqaVRCZlBHZld1U0plcGdURFQ4emFlRk9MMjNvZzc0XzBvMGpKcjNlV2JJUXVzSVRKZkdmZWk5bzJQRUFvRkphclJ6UGQ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-030",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Impact of polygeneration topology on the technoeconomic performance of green hydrogen production utilizing integrated CPVT systems - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSnNDZWpFU3JaY3BNLXhPQS1VeE9objRMcDdlQlg0bVVjRHFUVWZFNEJzeFFGdDNNb19PR09qQ2prTjJ3ZkdJR3Jvb28zcW5Dd1JndUJsdlpZeXFuMF9j?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSnNDZWpFU3JaY3BNLXhPQS1VeE9objRMcDdlQlg0bVVjRHFUVWZFNEJzeFFGdDNNb19PR09qQ2prTjJ3ZkdJR3Jvb28zcW5Dd1JndUJsdlpZeXFuMF9j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-031",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "EU Approves €780M Dutch Green Hydrogen Subsidy Scheme Targeting 400MW of Electrolysers - Fuel Cells Works",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0NJYW90bGU5WGoxVEw4cjk5WVkwT1EtUm5tdG1WbDIybm40cW95ZFNUV05hQTJScjVCTmx0VlpMckctT3VsRjFsamhncDhEM01iSS1NUW82MjhjSnY4TVpJNUlSa2l6N1U3NEZxQ1",
     "sources": [
       {
@@ -1840,6 +2186,24 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdZUU56S0F4bmdES0F1SFhGakpkN1dab1ZUQ0duc1JqbUc5aTdrUkZnODVoVWx0NnNIUFdHS0hUbFpCT2tEZmxTNUZ4YUZJWEZCYmxvSXkzZy1MbXZNcFl6REhzUkpqcnlIOEhRWUtwOXg5YmhUZEJTTEZ3UGZXbEluQU1tVUItX1Z4NXdYZF80OWhRR2JzYkM0bU5iQlRNVVJ6V1dZOWJxY0Z1dGdEelg4Tmx3WmtYYnFiWmJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-04-038",
+    "date": "2026-08-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota reports hefty profit on cheap yen and solid car sales - expressnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObUppVFpIam5Jd2RwZXJLNHM2QVVNeGo3UmJUYXpyeTVpT1pKdW83MF9iMmVfUTEySXhYX1pMUDZnWllQZmk1YTlFNnhOMzFXTDI4dldDUkxPUE9kZkFXU21mckNTRzlhZkZ6MFFjNk",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUppVFpIam5Jd2RwZXJLNHM2QVVNeGo3UmJUYXpyeTVpT1pKdW83MF9iMmVfUTEySXhYX1pMUDZnWllQZmk1YTlFNnhOMzFXTDI4dldDUkxPUE9kZkFXU21mckNTRzlhZkZ6MFFjNkxndnBKZU4tTUM4THRoUGdYUVFlNDktbC01WFJPaXhCOVRWZUQt?oc=5",
         "type": "rss"
       }
     ]
