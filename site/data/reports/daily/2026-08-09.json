@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:29:14.454330Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Is Screaming Growth — But the Cash Position Keeps Whispering Caution - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkRIbzh5Zk5rU0E3M0hxSGFMX1lLX1V3SzVJdDNpTkd5Y0tpMGhKUVZBY2VLcEFHN05KZzlYaVowdllVQmFTN25WZll2WS1WYnNNZURIQ3pSZE01QkZrc0ZEU19WS09jdThranlJSnJ2NzBoMHlMNWl4d0hJOTFlS213SlB6MzJqY0RHOVJYUHlnYmltUmpVSnpaUzdnbGNJNzN4RllnMVFFbzZHR1E0Nkx4dGpldFVlQzcyZlpxNmxmTVB0TUg0cHMxbUFuZWc0YzNKRGlTRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power's Hydrogen Pipeline Comes Alive — and the Market Is Finally Paying Attention - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGVKaTU2Ml9MOUl6RVFIbldJTDJjcTVxRWh3c3FWQl8tVlVBZEplMVFkT09xZ25jOHV1Z1dHckNQVExBNFNEMkJvYUQ1NllnLTlwTDVQbkRBZHZHUHc4N1pRSTNZVTdzaUUxb3ZNdHp2ZEJDd1JDTnVlZ3hHTE9NOFFBb1JvZXNwTU84UjV4NmpEQ3dnNDN3ZDc0N0dCbm5PTVFwby1kNzBzR1UzVk5RODdUZjllYUdGUkpvS0pLTUVEQlVFWXdiY2puSzhheGVtSGZUMFBB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor's New Car Production Blocked by Prolonged Union Strike - Seoul Economic Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHk2MUdQMzBVMDV3cTNYRGVNUlU2M0Exakc0bTlwOXdjUkFXWEsyV3o4dko0d0hkVmItZ19oZFpmZEtNV1duT3gtVDdNSXVWdGRVRXA3Q2VMaGFKVFhRS1daaHp0Si12MFdObU4za19tMnRXeWt3VEpyUVhYdkdqSkZ4b1IxNURIQXg1ZXYtOVFHMHNWX2FWSkVCemY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CDTI supports Hydrolyca in turning its disruptive scientific technology into a real industrial green hydrogen solution - Capital Riesgo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWkg2SHhhd3ItLTZsdHpjMDVQU2xlSzFQalFCMzcyZ1I2ZHlnTVdwYXNzSHJWa1JDSHNUM3hPYUIwRl9ZVDFKS2hpekYzbU1mc1ZpaTVGMlRxSHFzNGNOTlJtNXBuSlJXNHdwU2YtTFlPV2N5c1o1YVVzMzAxWUM2d3Fya3dSS0Vjb0xldExrVzNGeDJaWWpfa0ZLajQxRHRJSTQ0Rm1zM0tMdGx2TEl1TmZkakZDVHhBNFNHMkZDQ05QTC1lOGtVRU9aZWtySllrUnhsai1LdFJiQ0luYzZDUGtVYUxjbGpGY2dVT2Jn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 122,
+    "too_old": 98,
+    "gate1_blocked": 98,
+    "gate2_blocked": 33,
+    "passed": 10,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+      "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+      "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、ITM Power、現代汽車相關動態：「Nel ASA's Order Book Is Screaming Growth — But the Cash P...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA's Order Book Is Screaming Growth — But the Cash Position Keeps Whispe...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power's Hydrogen Pipeline Comes Alive — and the Market Is Finally Paying ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 98,
+  "gate2_fail": 33,
+  "passed": 10,
+  "gate2_samples": [
+    "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+    "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+    "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+  ]
+}
