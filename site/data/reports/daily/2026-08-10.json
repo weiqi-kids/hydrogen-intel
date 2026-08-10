@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:05:46.872818Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-08-10-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weekly Recap: Record Q3 results and buyback progress at Siemens Energy (ENR) - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFRVRjlIajRheVlfU1BMTWMyQmFNQ3c3NjVTQTBVRW9QQWl2bERSR21jckVBLTdnbHBROURmQ0I0VDNHbzYzTkZRSU1ocGN2cVhQaFVlYXJ4ZDE1M2JsbjB4S2NZamtXQzZSbXk0MnFNYnpUaVVHTm9ickZnbVBhRlJJeFh6Y1Nva29kY3RYZnBhMV9XLUhONnlnQUlPdUJlSXpjMnB3QVJWUVFqQ0pSbFRzbzhOTkJXc3FKNElNaU1jTjdzVXR3UXNHSzRJZkRL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-10-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor preferred shares outperform on dividend support - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIMWpMSFhQQUQ4dDRCbUlCYXdYaWdyT0ItVHFEQi1CbUpzXzhadGpnN1JETWNsY1ZNM3dYbXRuVzBUcURMUFNkVE56cWE0NlhBX2p5TGx4NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - simplywall.st",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWR2SjQxbkZEODZtSzJXMWRoZ09GUS1YNU5TSUNaV1RXUGVrVGxUb2JzWW9TOUZxX1AyXzFHTFJ4MVFfanNnRDgtYTZxOHIxZUk0VkJSUnlDekJlT1YxajhoQUlDYkd5STBnNWdwUkNWYVIxZEFFMlNtN3FadU84dGRGTk5BMXY1TE9MUGhlbGlyQkJBcDNlUHZKVDNVd0tPMnkxaU10dUl4M3BSN2dua2RnT191MFhDVTl6aW80UElGY29ZTlNjSlU0T19NMXE1Rm96Uk1UZEJoUVpndEZaaGU4d9IB6AFBVV95cUxQRTVaa3pkOUNINmEwUC1NcmZWMFZGMFRSWG5RNklnZmdWZE9GWjBseGFrZ3VySVRHbEUxdXVPLW1ZRWxwX1ZBdkpoNGVvZEhjOVIxMUtlN3ZTbU50NUVFNGQybjUzNm9UclRiakdzeHI2M0FOd3l0ZmNmaUE5TDZmd1FYTGdEWVMwSlZuQXBCMTR2c3NoSW5mdTR5VWlMeWJWUTlHejY1TFRLd1c3ZS1sbmMxME1sMmtUMHBBTG5HU0xjLVE5TVJQUkhXaWk0MzBTWDJ4YVNHWDhtQTNBMVN3UERjb2Zob1Rm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-08-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India shares fall 2.02% in today's trade - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVdyZEtYbTR1VFNwbEtWb0dTd1hzd21UVHQwZDFxMmJWb0IybVZKVHpacEZDSmR4Yk1LZWs3WDVKTm9hLUtEel9LR2xyamIyX3ktemZ4aXZMX3E3aUtNZFlobjhlRFphX2ZqNmdwVkFJVlhUMEc5Sl9aZzdHVVkxcDByb3dyUUYxeU43WnBvWVh4aHlvZjNxZ3dFRnhDWklaX1EzcURwOF90aGczNHYyb0tkTEpTZnpS?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-08-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India among 4 stocks that show bullish RSI upswing - The Economic Times",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU0dNb2ZqMUdvQWlkTjFnS0wzeDVFQWVmV015Z0hwdnp4bWZFanZVd3lYR1pwLUJtX1VEWXBDWjZTUDBjVllkVUNlN3BlWE5FbjFkZzFtS21LZzZMYzg5VFR3Vlh1OVZMNHpMZkhJZXBiaC11MXdldUl4OXo4bzFuY0JZOWdxTVl5NExFa0VlSWpXQTBwT2N1SU9uZWpRY1BsTkFNR2M2NmxkU3VTbzZpck0yMHBoaHRGbE1NUkRoOGM0V3d6em5XY291UkpNdGNpV05LWlRLSzFGWlBoWWlST19Uc3oyQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 108,
+    "too_old": 105,
+    "gate1_blocked": 98,
+    "gate2_blocked": 28,
+    "passed": 22,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+      "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st",
+      "What Air Products’ Louisiana exit means for blue hydrogen, according to readers - gasworld",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Weekly Recap: Record Q3 results and buyback progress at S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Record Q3 results and buyback progress at Siemens Energy (ENR) ...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor preferred shares outperform on dividend support - 매일경제",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
