@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:42:41.964652Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Two-Speed Story: Order Books Accelerate While the Income Statement Stalls - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkRTaUYza2YwTEMyNTROMkVWNUZETFZFcUstZGNwR1VwWmliRUFYRE9JY1dVZTBPdTg3SjFTWW9tSmN6WTI1VWlvajNHaUhKbklsUjhrUlNSVnQtem1DbFNRZmE3SGZXV0Y4MnJzZWNKZ1pPM2h5aHR3dHpmcHhoQ1RQbEw1LTNKOW1Rc213YTE2cWR3d2pxblZWYXpqSmdQQVNGODFjSXcyYXludTdHdDNleTBJOVRkM0NhM2xRbjNDbzZJa2tIZW5LUGdDV28wQm9Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Union to Extend Partial Strikes as Wage Talks Stall - chosun.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakcwOFZZT01OLU5taVJZQzhZVkVIeHQwZnROTVpLT29pNEhjU1kxTHhib1lEXzg4UUxFYjdROF93UkotYW1BVk5qQmlTYVJ6UmgyT1pFRmV2aTk4Ml9MRzhTVjE3dlpGZnRDY2ZjV2MtNEowcGh1eVoxbnZvVER1elloV1MwTWFp?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Union to Discuss Additional Strikes After Vacation; New Tucson, Avante Production at Risk - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hOExhek9iYS1FdWY4LXZNX3dfel9HX1pJRWlieWk4cktLcFJ3bHNncWhsNHktVm5NaGp2SG9DbWpEU194MmlsTE42QnB2b1JsbjdDSWFfZXAyNGxUNk9NN0I0ZGFBOFRLdFRyYWwwRF9RekJubFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-08-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota to recall over 508,000 US vehicles over instrument cluster display issues - Reuters",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG1wSlFNYloxVzA4YVJISFhNeVBDRXBtam82Z21NbnNWRkEwU1liTy1QcFVfaC1MWl9PTHZVbmwyaUowb3NvRHI1TGo5bzhyc0s0UjY0T3Y1MkFpdUlucVV0eHR0TjFNczNLVHFCMmczXy1oUXVMYi1vWHhoM1pueVZEQW8tM1VxMDUxMmNscm45ZElaVkJnMUpaWFp3Z3phMU1IanhmSTc3RFQxdUwyV3BhdVFjd1pyZkl3SkZ1VGE1c2FoNk9jMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-08-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Motor Asia, VIRTUE Asia build regional music community via ‘Move Your World Beat’ launch - marketech apac",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm9hVHR6NnRrUjZlWm5RSzhwX09UMmRrMjVXVDZtdV9sWnA0M29qcGhxLWNIUGZvRTZCa0J5Vi13OHFmclJvVDlycU9ZWW15TC0ySFU3d290bjRGQTR0ZVdtSGpES09WYTI4NDBzalBPbUtfenZMci1tbFlBYWRTUVZWS1ZBV0Q1Q2dFRFFxUE9oMll0ZnI1WmJGd2pJQ2NTeGR5T0I2OHprQzBXc3U0VDlORGR3ZVJ6UjZ0Ug?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 103,
+    "too_old": 105,
+    "gate1_blocked": 101,
+    "gate2_blocked": 28,
+    "passed": 23,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Air Products and Chemicals, Inc. (NYSE:APD) Receives Average Recommendation of \"Moderate Buy\" from A",
+      "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+      "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st",
+      "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「Nel ASA's Two-Speed Story: Order Books Accelerate While t...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA's Two-Speed Story: Order Books Accelerate While the Income Statement ...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Union to Extend Partial Strikes as Wage Talks Stall - chosun.com",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

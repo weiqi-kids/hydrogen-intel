@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 101,
+  "gate2_fail": 28,
+  "passed": 23,
+  "gate2_samples": [
+    "Air Products and Chemicals, Inc. (NYSE:APD) Receives Average Recommendation of \"Moderate Buy\" from A",
+    "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+    "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st",
+    "How Investors Are Reacting To Air Products (APD) Turning Higher Sales Into a Surprise Quarterly Loss",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+  ]
+}
