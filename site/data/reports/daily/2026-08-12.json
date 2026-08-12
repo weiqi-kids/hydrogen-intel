@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T08:59:59.142844Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Is Swelling — But the Income Statement Tells a Different Story - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkdrR0xRUEZKUC1zZ19ORVhSeV9CR0JLemNNTHY5UUlDX0NoSW9RTUpyWERHUXZHZ0xhQ2Z4bnJUMHR5bVpwWWQ3SVU5YkpJN0RRT3ZrWHFITGhhQ0p6QkhmbHlWRVJhelhGOFlUNjlnb0NrS0pVVjd3d01iR3FkS2xHMHhPajNuRkI2VGdNRkN3bFV4WVZJdHVGSkRFN0dyTTF0OHBQVlBsY1BUWHBDWGpweUk3d2NDQ2xvM2lkRVQ5UzhDMEgyT3NoVS1vVnl6TnFr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shareholders Can Be Confident That Siemens Energy's (ETR:ENR) Earnings Are High Quality - simplywall.st",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWVOTGNmMUJ0QXlpYjFtZ2c0UjJKekQxdXk4UEtya1BHZEt2Z3dDQjBPdlZBYlBKUTM2LU5idktUUlZKS2FpMEtGbk5NU1VRMngyQlNqZXcwSVlGdFZ0dEVlQkRmbVM2bWhHTk5KSy1oUUF2aG83N3pCaG91LWJyejNJN09oRktSYTNTaXItZlJxYWhKZWxpejNWZzFTRElVaFc0ZHpNUElUSC02V3BKdk04cUg3d3ktc1k0SVFueDRXblp3R0c4WnhaNy01R2pTdmNLSHBBWUEycFXSAeABQVVfeXFMTlRvdXAzVFFVTkJpQ1hIWUhKc19QRGlJRzdkeS04d1JnZVI3TmJ2UlBzcHNFZjVqX1I5dWNkQjJLQ2hKc2ZVTkVRTHd5ZFVCV3lDaDNnaEhrZEJoUjlsTV9SWGstUURRVjRKb05kVXl5YWRkekxXTjFmbEt0NG5nTDdOWkd0M0t5dHBiVTJwb1FMRE9LTThzSFZuekY2UkVsX1dQUjYxYm8wbEVHcHFWd3U4Nkl0cXVMMDNQZkx6SUh2SGVmN1UzY2xqR3NNdHJMUi05OGp1cnRpYUtwNnk4LXU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp_nucera-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp Nucera scraps SOEC production plans, downgrades hydrogen sales - gasworld",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDdTYUhsc1ZRMXdhbFFZMGxVNGFveHNldWlVdXl6RGRzTkpqenRreXZocnYweDhJVU5ZUlFaa3BOcjBsVTVST2l4elZ5QWNGR1hFYzE2SHM3aEJVWmh3X1Q3LVNqdUI3cEJfZ3RDMEZob0tSVlBCUlFKdFE1Z3pTMFcyYnpRaGx2cElUcUJOanVpMjJLNWhzb3gyZDEzSk5lazBWQkhnQ0JSYUJBQlk2ZHlXeGRRVTBtYmtrd0hocw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp_nucera-2026-08-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp nucera: Chlor-alkali strength and disciplined strategy offset green hydrogen volatility; outlook remains solid - TradingView",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMEhoNzZ2WUpvNzd0QlJMNHRrTjFUUFZRMnFjWndSWTJRSHRaQnl4UEUyamN4Umg4MWRNOWxQczZnSm1KLWJUSDJkQXNEcmdqRzU4M2RaYUVyTlBEN1BvM2VVamlWNWNDdWV1VGRPNHkwOS11RGg3Zk5kZWVhMDNoSF93U0lMTTlpdl9lX0NRQ2I3eG1qSXdwUUc0SjZvdDRHb1JyUnZtdXpST2htRUhQV0puS1VPLVBBRHlHRFBhSGZtNzl6dm0wQllLUm9tcWFCamNld3F4UEd3QnF4WTFLeTNMc0RmUjYzSVZoYU92WW9OWE40VGtTcUNjclVhdHpTWnFiMmo2Z3gxYkJ6eHZTX08yV3NJRXpCNlRMTXZoWUFyMG1ONU5PakxWSlUtSGxLN2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp_nucera-2026-08-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Transcript : Thyssenkrupp nucera AG & Co. KGaA, Q3 2026 Earnings Call, Aug 12, 2026 - marketscreener.com",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGhrbEtEVWpEVVVyUDdwSlZrcW1JQ3pFQnZ1TWFXYXBUM29GcXRiZm1xMWVSVjdJOHk1UDFzdDc5SDF5NUZiTHQwbWVUUGNxOGhCYWxGWlVFZGQ4SEI0Qkh1WVF0c1NNWDlkTV9Hc05IRWRhbmV5VlR5bmNrVGhDV0dPbVZpUEJoUGxabjZvazJDZl92WHNlZ2xPMmVXaUI3cVRub2ZETjR2STJzNFQ2ak5GMG5YVTY0dlFoczJvQ055TFp6VjBF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 7
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 63,
+    "too_old": 112,
+    "gate1_blocked": 102,
+    "gate2_blocked": 46,
+    "passed": 39,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Air Products confirms plans for massive data center dead - WFMZ.com",
+      "Cardinal Capital Management Inc. Grows Stock Holdings in Air Products and Chemicals, Inc. $APD - Mar",
+      "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+      "Air Products confirms plans for massive data center are dead - WFMZ.com",
+      "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為thyssenkrupp nucera、現代汽車、豐田相關動態：「Nel ASA's Order Book Is Swelling — But the Income Stateme...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel ASA's Order Book Is Swelling — But the Income Statement Tells a Different...",
+        "level": "green"
+      },
+      {
+        "text": "Shareholders Can Be Confident That Siemens Energy's (ETR:ENR) Earnings Are Hi...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

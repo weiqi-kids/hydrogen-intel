@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 63,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 102,
+  "gate2_fail": 46,
+  "passed": 39,
+  "gate2_samples": [
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "Cardinal Capital Management Inc. Grows Stock Holdings in Air Products and Chemicals, Inc. $APD - Mar",
+    "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom - Yahoo Finance",
+    "Air Products confirms plans for massive data center are dead - WFMZ.com",
+    "Air Products And Chemicals (APD) Q3 Loss Puts Its Undervalued Narrative To The Test - simplywall.st"
+  ]
+}
