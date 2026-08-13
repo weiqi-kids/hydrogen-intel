@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 105,
+  "gate2_fail": 45,
+  "passed": 29,
+  "gate2_samples": [
+    "Air Products (APD) Stock Still Looks Cheap On Cash Flow But Rich On Sales - simplywall.st",
+    "Clark & Stuart Inc Lowers Stock Position in Air Products and Chemicals, Inc. $APD - MarketBeat",
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "DATA CENTER PROPOSAL AT FORMER AIR PRODUCTS SITE ENDS - WCCS AM1160 & 101.1FM",
+    "Air Products confirms plans for massive data center are dead - WFMZ.com"
+  ]
+}
