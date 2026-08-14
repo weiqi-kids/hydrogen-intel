@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 104,
+  "gate2_fail": 34,
+  "passed": 25,
+  "gate2_samples": [
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "Air Products (APD) Stock Still Looks Cheap On Cash Flow But Rich On Sales - simplywall.st",
+    "Wealth Enhancement Advisory Services LLC Reduces Holdings in Air Products and Chemicals, Inc. $APD -",
+    "Proposed 2.6 Million Sq. Ft. Air Products Data Center outside Allentown Scrapped Off - Construction ",
+    "Air Products confirms plans for massive data center are dead - WFMZ.com"
+  ]
+}
