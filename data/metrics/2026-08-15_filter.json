@@ -1,0 +1,16 @@
+{
+  "total_raw": 364,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 112,
+  "gate2_fail": 36,
+  "passed": 26,
+  "gate2_samples": [
+    "Diversified Trust Co. Acquires 4,458 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+    "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+    "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "Air Products (APD) Stock Still Looks Cheap On Cash Flow But Rich On Sales - simplywall.st"
+  ]
+}

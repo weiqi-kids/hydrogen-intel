@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:15:10.204224Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-08-15-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power's Hydrogen Breakthrough Meets a Market Demanding Hard Numbers - ad-hoc-news.de",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdUpQSXkxSGdYS3cwWmt4OEVMaDd5S0ppbG5wcmtiNEpWakFBOTVWQ2Itc3g3dlloMnJ5UWhzcXBKMml6M0ltRVRNY0gyX1JFaUFZZE1ZNEVLX0F6bTNnWW9OT19uYU9sMmcwMVRjWWlXM20yRkE5SW5aTVlpb3pGRGZLUzhVX2pwWUFtQVQ3QTRid2h6RTNVM1pTQS02Yk9wdGNUNjR4NV9Vbi1XMGRvZDM3NDM5S1RxR2prSVJnV0V0djA4a0hWZm5JUEc1QU9PUElGMHlGOWJCcWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Cash Runway Becomes the Central Question as Orders Outpace Revenue - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2kyNXpuTm1QYVlkcHoxci1ldlY5Y1NBZV9rVU5BajZzZmJocVBDemdkdWhTSHpheGkzU2szWE1Ra3l3RkpKYVhJTVZTRi1STThUWTFHVnI2SDBxUzlnVHJBQWdTQWNhSHRMeWJxNjMwZDJyRmdxbDAyWnBKelhRRzJzczRVSmFMZU14OVRfenlnWXlOUEFyWE5ycXJISnJ5OGx4bzFUbktkazd1SkFSa0c3Y1JrRGRHcUI2em1IckcyenluTzBQc2tMZGlGeEFZWDJNX2ZGNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 364,
+    "dup_title": 97,
+    "too_old": 93,
+    "gate1_blocked": 112,
+    "gate2_blocked": 36,
+    "passed": 26,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Diversified Trust Co. Acquires 4,458 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+      "Air Products confirms plans for massive data center dead - WFMZ.com",
+      "Air Products (APD) Stock Still Looks Cheap On Cash Flow But Rich On Sales - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nel ASA、ITM Power相關動態：「ITM Power's Hydrogen Breakthrough Meets a Market Demandin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ITM Power's Hydrogen Breakthrough Meets a Market Demanding Hard Numbers - ad-...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Cash Runway Becomes the Central Question as Orders Outpace Revenue ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

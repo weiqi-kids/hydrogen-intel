@@ -7,14 +7,14 @@
   },
   "linde": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "air_products": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "nel": {
@@ -43,32 +43,32 @@
   },
   "plug_power": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-08-13",
-    "count": 2024,
+    "latest": "2026-08-14",
+    "count": 2025,
     "history_complete": true
   },
   "ballard": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "fuelcell": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "cummins": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-13",
-    "count": 6693,
+    "latest": "2026-08-14",
+    "count": 6694,
     "history_complete": true
   },
   "chart": {
