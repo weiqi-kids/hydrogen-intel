@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:15:49.710578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's CEO Departure Casts a Long Shadow Over a Pivotal Hydrogen Transition - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXVyMDBFdnlaSDM2a0UyVnBFeHVpYXJyRFdrWnhXamp3VERkRGNwUVIxajdseFFGMWZ2WXlOUmMyTEhicFFYMEZTaDFjUERSXzdfamJSVWNsUlJWN2xPU0g2YjY0MG9fYXJud1pkdnhGazFCeHFBMnkzeUZkM1RveV9CUWFCQ01PMVoyUnVYS2o2Uk9xTDVWSHNqTmpRTXYxZW1pSmhWQ2FzdW1fdzlqLXpGZ3h3Ql9JTnRiYk1pWjV0SjNuNVpwNkMwZWVzNzFycklldHFn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 118,
+    "too_old": 101,
+    "gate1_blocked": 105,
+    "gate2_blocked": 31,
+    "passed": 7,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Air Products confirms plans for massive data center dead - WFMZ.com",
+      "Diversified Trust Co. Acquires 4,458 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+      "Clark & Stuart Inc Lowers Stock Position in Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "Air Products (APD) Stock Still Looks Cheap On Cash Flow But Rich On Sales - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nel ASA相關動態：「Nel ASA's CEO Departure Casts a Long Shadow Over a Pivota...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA's CEO Departure Casts a Long Shadow Over a Pivotal Hydrogen Transitio...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
