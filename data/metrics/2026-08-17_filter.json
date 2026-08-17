@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 109,
+  "gate2_fail": 32,
+  "passed": 17,
+  "gate2_samples": [
+    "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+    "Diversified Trust Co. Acquires 4,458 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+    "Clark & Stuart Inc Lowers Stock Position in Air Products and Chemicals, Inc. $APD - MarketBeat"
+  ]
+}

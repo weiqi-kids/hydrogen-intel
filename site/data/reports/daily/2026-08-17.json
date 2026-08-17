@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:30:09.813571Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly Recap: Siemens Energy AG buyback and Petrobras offshore contract - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUxZS3BUZW1ESm5UblVaVmhEN1NHanFhemUzOVU3eEVpV2R4c1UzVWxlakNGNXhza0Jxb0dadFUxN3VwZ0lLRi14aTlfcTlxN2o3T3VzVmh6ZTRqVnhGejNoNXFub2JwLXVlMWJ3SXA5dWdVSFhVTUZ2UWRhaVRkNzVQaUJOSkpRcXNEWEV3Z0VYcm5sWW10d2NRRGN5bFB1aDc2YjEwVWdYdnpLaG8tOXpRUW1GZUJxbnE3NDBuS3liakJDZTBlZmtNYlM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-08-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota steps up efficiency drive under new CEO - Just Auto",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU5MRmpFT2hMSFg2eHdQMExjdWtxd1lOdTZSVHJ2ekFhNWxnbTF2c0VBUE8zZTVLQnBsSkFpclJoNkJJckEzNGJfV0NTMkVCMUV2aU16blN4WUg3OUhTVU9kXzZwR21mWEZYY2RENDJIUWtoZW5vUTBNOXliM3BaRVIxalI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Production from Rainwater: INP Nordenham’s Solar-Driven PEM Demo Joins National WENde Project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-from-rainwater-inp-nordenham-s-solar-driven-pem-demo-j/8576473/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hydrogen news: Rome powers forward with green hydrogen hub at Acilia depot",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "hydrogen_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/hydrogen-news-rome-powers-forward-with-green-hydrogen-hub-at-acilia-depot/8576470/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 111,
+    "too_old": 94,
+    "gate1_blocked": 109,
+    "gate2_blocked": 32,
+    "passed": 17,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+      "Air Products confirms plans for massive data center dead - WFMZ.com",
+      "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+      "Diversified Trust Co. Acquires 4,458 Shares of Air Products and Chemicals, Inc. $APD - MarketBeat",
+      "Clark & Stuart Inc Lowers Stock Position in Air Products and Chemicals, Inc. $APD - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為西門子能源、豐田相關動態：「Weekly Recap: Siemens Energy AG buyback and Petrobras off...」。主要關注主題為綠氫成本、電解槽產能、氫能政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Siemens Energy AG buyback and Petrobras offshore contract - Tra...",
+        "level": "green"
+      },
+      {
+        "text": "Toyota steps up efficiency drive under new CEO - Just Auto",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

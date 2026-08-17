@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-17",
+  "date_range": {
+    "start": "2026-08-11",
+    "end": "2026-08-17"
+  },
+  "generated_at": "2026-08-17T08:30:09.918223Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chart-2026-08-13-014",
+      "date": "2026-08-13",
+      "title": "Toyota Motor (NYSE:TM) Combines Dividend Growth and Quality for Income Investors - ChartMill",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.17
+    },
+    "electrolyzer_capacity": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "hydrogen_policy": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hyundai": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "siemens_energy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 142,
+        "last": 177,
+        "change_pct": -19.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-11",
+      "event_count": 33,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 38,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 25,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-11 ~ 2026-08-17）共 142 則事件，重點為「Toyota Motor (NYSE:TM) Combines Dividend Growth...」。ITM Power表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
