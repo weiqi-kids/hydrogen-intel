@@ -1,5 +1,116 @@
 [
   {
+    "id": "nel-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel ASA's Pivot to Cheaper Electrolyzers Faces Its First Real Test - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0dXczZEa3FiclkyY1dub2k5UU1fek9RRUhtMl9jdUtibDdzeWptUFdTdnRZQ1NmcmVRdUhYV0Zoa0ZTX1pVOThvNjVrdE85dC1XZ0o5MnZoR0NTWEFCMGpOUnhFN1E3Z0FfbHVtZ3",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0dXczZEa3FiclkyY1dub2k5UU1fek9RRUhtMl9jdUtibDdzeWptUFdTdnRZQ1NmcmVRdUhYV0Zoa0ZTX1pVOThvNjVrdE85dC1XZ0o5MnZoR0NTWEFCMGpOUnhFN1E3Z0FfbHVtZ3dldHhRS28xeENoN0wtMkw2QzRsQ1dXYzZSM3hCZUplcjZzNmRyNDRQQmdEYy03b19wOHdQRVd3STlfb0lGSEpmNVRhZFlMdGw1bWhpUUZVUzZIM2oyVV94MGVxVTdsT2h4NS0tYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai begins Ioniq 3 EV production at İzmit plant in Türkiye - just-auto.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyN0JlSE95dEZLU2l6MGZjMFg4RHZOVnFMTmx2OHp4cVV4bzA2cDNGN0Y1WUZyNjJSOGk3RE1ER3Jid1JxRjdmSXZfYjdWWkpkYldDTUhPUjl6VEh4RmV5ZVhaZHMtT2xrZ0hqQWhKWD",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyN0JlSE95dEZLU2l6MGZjMFg4RHZOVnFMTmx2OHp4cVV4bzA2cDNGN0Y1WUZyNjJSOGk3RE1ER3Jid1JxRjdmSXZfYjdWWkpkYldDTUhPUjl6VEh4RmV5ZVhaZHMtT2xrZ0hqQWhKWDFrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor exits Aurora stake as South Korea pivots to in-house autonomy - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk9lZlk1ZlJ4NG40OE1KeExtQ1Y2dGVYSDVyLU15LUt5NF83amhJUTRsLUVZY1FoOTRXM1hjbUdZR3A5Ym1pSGZRY09oY2NuUmptTlZCaVpmU0dXNmJaazN5REs4RHlfWWtBTS0tUV",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk9lZlk1ZlJ4NG40OE1KeExtQ1Y2dGVYSDVyLU15LUt5NF83amhJUTRsLUVZY1FoOTRXM1hjbUdZR3A5Ym1pSGZRY09oY2NuUmptTlZCaVpmU0dXNmJaazN5REs4RHlfWWtBTS0tUVQycmxVbzN2Nzl1MDUyRGVyODBB0gGWAUFVX3lxTE5INXpyX1RTTUtmMGhYdHJQZHMyYmpEUXd5MW85a3hCR0hicFM1T2ZTcHpuUHlpVVZtS3BQUW1Pb3FtX2FPdnJvYmpnVXAwcnpUZTZuMTBXNHdxQkhkamJaVVA5V1Z3bERXdVh1bTE1QnZGWWRmTDRwa1VDZ1R5cWE5dFEzTDJPcGs2UnZRMER6OEFEU3hmdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Joby Aviation and Toyota Motor Launch Initial Phase of a Strategic Manufacturing Alliance to Realize Air Mobility for All - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZE9HeGU2QW5EZEh3eFk5N0pKM0IyOFVHa1piWHNtZWJSWEtrcS01X0pCM3IyWDJ3ZGlycWVOTUxPeVVpcWgzeWtHWVZqemtPakdKbXJjcnVKZmpxMzhfbF9JQ2VRRHdhTmRzVEN2UG",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZE9HeGU2QW5EZEh3eFk5N0pKM0IyOFVHa1piWHNtZWJSWEtrcS01X0pCM3IyWDJ3ZGlycWVOTUxPeVVpcWgzeWtHWVZqemtPakdKbXJjcnVKZmpxMzhfbF9JQ2VRRHdhTmRzVEN2UGdWUnktU29tWEdJQU1LNmJLMGVNS2d3bFotREljWm1VNERUQlV1Ri1SN21iYmJlY2ZSVlQzY3drQVlvNk5Ba1VEOG83QlhlRW1OS2ROWTNfUjhPSC0taURrcTM3VV92R3cyTEJXcE8xZUJnVlNhQWpHTzF6QkZRX3Vp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-18-005",
+    "date": "2026-08-18",
+    "companies": [
+      "toyota",
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Joins Daimler Truck-Volvo Hydrogen Fuel Cell JV, Intensifying Pursuit of Hyundai - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE52Qkl0OTFaVE1fZm5FbXFhYWw2bG9kWmZPQlhzR0hVdXZMODlrRUlzdE5JaUE5ZGFCY2p0eGUyVHpuWk5SRTliREhkNzZfWnFWMWZUOW5YYWlTY05kbDVLZXdwSW9FZ2RvV2t4TmlCT0",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52Qkl0OTFaVE1fZm5FbXFhYWw2bG9kWmZPQlhzR0hVdXZMODlrRUlzdE5JaUE5ZGFCY2p0eGUyVHpuWk5SRTliREhkNzZfWnFWMWZUOW5YYWlTY05kbDVLZXdwSW9FZ2RvV2t4TmlCT0ZqTHVGSGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Europe’s Banks Are Treating Hydrogen As A Niche, Not An Economy",
+    "summary": "<p>The Port of Antwerp-Bruges now has what its developer calls a commercial-scale AEM electrolyzer. Power to Hydrogen&#8217;s half-megawatt system is intended to make high-purity hydrogen for real use",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/18/europe-banks-hydrogen-niche-bankability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "siemens_energy-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -69,6 +180,222 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "http://www.hydrogenfuelnews.com/hydrogen-news-rome-powers-forward-with-green-hydrogen-hub-at-acilia-depot/8576470/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Quiet Stretch Masks a Pivotal Product Bet - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDFCTmZCenFSUkRndXB1cWxMUjdfWjVrZkFyZTMzdzNjcGE2VU9IbnloTjZkZHhrTk80QktkS0U3b3Y5R3hmYXVzRmlIZ1VZNW52akFfbHl4N2tEc3RaeEVqUnZrTXdyR1BoeDAyQ0",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDFCTmZCenFSUkRndXB1cWxMUjdfWjVrZkFyZTMzdzNjcGE2VU9IbnloTjZkZHhrTk80QktkS0U3b3Y5R3hmYXVzRmlIZ1VZNW52akFfbHl4N2tEc3RaeEVqUnZrTXdyR1BoeDAyQ0ZrcjUtamVTSktYOTA1Xy1Ka3hIQnBQa1pwa0RtRjlKQW1xSlAyREE0cXlXYlRIUmhEeWM3MElfTmFxb0xhMndvV1hJOU5ib3VTLWFlNTVIM0M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Babcock & Wilcox orders 1 GW of Siemens Energy steam turbines to power upcoming AI data center project - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRmF6d0c0VDdpSmNRY3RMdFpSX2NZcE42SEVJRmdfbWItX2x2aDBYV3VoaGZUTmpXdG5oNXVWd0hEZE11WEExbmpvVUhaTWlVNmZpdFVlTnlUTk9MU3B1cVd3NE4zSnlmMjN3WTR3TG",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRmF6d0c0VDdpSmNRY3RMdFpSX2NZcE42SEVJRmdfbWItX2x2aDBYV3VoaGZUTmpXdG5oNXVWd0hEZE11WEExbmpvVUhaTWlVNmZpdFVlTnlUTk9MU3B1cVd3NE4zSnlmMjN3WTR3TGM2eHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group achieves 80 percent employee adoption of new AI tools, slashing engineering and service times - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkQzNVIxZWNRbVFjUlg3dzZtRnd2bWY1aFh2dU8ySDVDbjNzbjVIU1pDRWo5WTZGNkZYUVV1cWs3VU9RY3RpN0NicXh1N21SLVE2ankzSFBJaXk0VFhpLWRGSGRJOF9yeDZKVS04cX",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkQzNVIxZWNRbVFjUlg3dzZtRnd2bWY1aFh2dU8ySDVDbjNzbjVIU1pDRWo5WTZGNkZYUVV1cWs3VU9RY3RpN0NicXh1N21SLVE2ankzSFBJaXk0VFhpLWRGSGRJOF9yeDZKVS04cXdTRnZJZmJaQmJTWnJpTWQ0aTBIT2ZfYWEyaEthV1E2WlRGd1EzQ1cxOHdCYTNEREl2R2FISkFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota steps up efficiency drive under new CEO - just-auto.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU5MRmpFT2hMSFg2eHdQMExjdWtxd1lOdTZSVHJ2ekFhNWxnbTF2c0VBUE8zZTVLQnBsSkFpclJoNkJJckEzNGJfV0NTMkVCMUV2aU16blN4WUg3OUhTVU9kXzZwR21mWEZYY2REND",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU5MRmpFT2hMSFg2eHdQMExjdWtxd1lOdTZSVHJ2ekFhNWxnbTF2c0VBUE8zZTVLQnBsSkFpclJoNkJJckEzNGJfV0NTMkVCMUV2aU16blN4WUg3OUhTVU9kXzZwR21mWEZYY2RENDJIUWtoZW5vUTBNOXliM3BaRVIxalI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Sunfire Ships 100MW of Electrolysers by Barge to RWE’s Giant German Green Hydrogen Project",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/17/electrolyzer/sunfire-ships-100mw-of-electrolysers-by-barge-to-rwe-s-giant-german-green-hydrogen-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Nordenham Commissions Green Hydrogen and Methanol Demonstration Plant",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/17/green-hydrogen/nordenham-commissions-green-hydrogen-and-methanol-demonstration-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Adani Takes Control of ₹85Bn Vizag Transmission Project for Green Hydrogen and Ammonia",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/17/h2/adani-takes-control-of-85bn-vizag-transmission-project-for-green-hydrogen-and-ammonia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-IONIQ-3-prices-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragrap",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/08/17/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Why Startups Are Key to Green Hydrogen Cost Breakthroughs - mvapulse.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQllIQ1YtMXZLWDA3Sk5yNXphYXFua0hlZWNUNVZSWlhuLWlhUGFHWGJWVHJIUW0zZmNDaTRuREhtWUZIU1NmM09RNnNBbzJ1QjVuU3BadTk2cWY2Y08wc2Z4UXJyeDBBN0Ytb1NJdm",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQllIQ1YtMXZLWDA3Sk5yNXphYXFua0hlZWNUNVZSWlhuLWlhUGFHWGJWVHJIUW0zZmNDaTRuREhtWUZIU1NmM09RNnNBbzJ1QjVuU3BadTk2cWY2Y08wc2Z4UXJyeDBBN0Ytb1NJdm4wX1RlSW55V0dyX0d3NzRNRldWdXlxNVdpUW9V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green hydrogen project at German refinery cancelled for the second time - Energy News Beat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnhKeXZwbGFzM1dQYWtLSEI4d0NCZ3R3dEFiamNJZlpETk9oZ1NzU1RZVm9WdGE1TXRvdWxva2tmTFRVZlJiQS1hOTd0STNVd3FodVhUM0htLUc0dXVDWTg2anpWOVROX1AxelhiTX",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnhKeXZwbGFzM1dQYWtLSEI4d0NCZ3R3dEFiamNJZlpETk9oZ1NzU1RZVm9WdGE1TXRvdWxva2tmTFRVZlJiQS1hOTd0STNVd3FodVhUM0htLUc0dXVDWTg2anpWOVROX1AxelhiTXdVN0pnckk0WFBBUUZpd2tQNm83MWtTZEEzZjhYN0poRkZBdUFxeWR6VTB0LWdwZnpjaXVlUUtjOElVLTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Why the next breakthrough in green hydrogen may come from startups, not energy giants - pv magazine India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1pMNkNBc3V3Mi1ZN3NxS09yNHJJNzI0TzU3TFZCUE5qeE9yREZtUk95Y3lyT3ZudTJDYW5WWXVCWHBtcDF5Q2FtVjlhWWNIV0RRV2J3U2E2X05PT3J3RUZvaUF4Q2tGZ1p0ZjRxRW",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1pMNkNBc3V3Mi1ZN3NxS09yNHJJNzI0TzU3TFZCUE5qeE9yREZtUk95Y3lyT3ZudTJDYW5WWXVCWHBtcDF5Q2FtVjlhWWNIV0RRV2J3U2E2X05PT3J3RUZvaUF4Q2tGZ1p0ZjRxRWIybmxmMFRGVlVzVzd1S1JfbWNWc21BcGQwajNwMGduaDM1UHhmNklneUJhTk84UjdXMzFEZEIyT2NEM0c3bTBYaDlvZUZsUG4wWU1WMmRSTE9hSU5FV0g4MjR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "positive",
+    "title": "Breakthrough Catalyst From IIT Bombay Boosts Green Hydrogen Production - rediff.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0NQWjQwb3ZVMWRCQVUzcnBHOEtTajgyekpOQjlDZ1M3T1hETTh4andvdkFzRkRoUXJtSk1ETDM5a0ZyMEY0WWJTRS1sa2lWQ1NLeFhOWjFGQ0xkT1BvcjNYRkNsLVdibDUtTG1Can",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0NQWjQwb3ZVMWRCQVUzcnBHOEtTajgyekpOQjlDZ1M3T1hETTh4andvdkFzRkRoUXJtSk1ETDM5a0ZyMEY0WWJTRS1sa2lWQ1NLeFhOWjFGQ0xkT1BvcjNYRkNsLVdibDUtTG1CandNb1pPblBDektqcldmWk5oYlpnN0didnZBYVZOa0ZXUmNKb3BVbGhjOFFGcmpxclFyc09mZl9vOEZjUdIBqgFBVV95cUxQZ0NQWjQwb3ZVMWRCQVUzcnBHOEtTajgyekpOQjlDZ1M3T1hETTh4andvdkFzRkRoUXJtSk1ETDM5a0ZyMEY0WWJTRS1sa2lWQ1NLeFhOWjFGQ0xkT1BvcjNYRkNsLVdibDUtTG1CandNb1pPblBDektqcldmWk5oYlpnN0didnZBYVZOa0ZXUmNKb3BVbGhjOFFGcmpxclFyc09mZl9vOEZjUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -178,6 +505,42 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0taUGNZeHRhZTBmeEFTakJ6X3FiYTFWWG5NbDdibkRpODI4UW1pdHl2OUNWcEJxQ09kb2FsRS01VjRYc05PQnRUem5jcHFST0lLb2RvTW8tQlJrMTIzYms4TXpOa3FvNVUzXzJ2RjU3WVVpV0NuTWMtTGJiN2c5WWF1dU5BUnVYdFE5MnFmZERpbTlRU0ctS2EwYzAtU0FmaE5wd3U4bkVtOWcxSFFFNjhOdDV4SUt6RjhaNGtTNURTd1ltaXRZOHVWRlBMbjJvREFHZks5YS1pR0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-16-007",
+    "date": "2026-08-16",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's CEO Departure Casts a Long Shadow Over a Pivotal Hydrogen Transition - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXVyMDBFdnlaSDM2a0UyVnBFeHVpYXJyRFdrWnhXamp3VERkRGNwUVIxajdseFFGMWZ2WXlOUmMyTEhicFFYMEZTaDFjUERSXzdfamJSVWNsUlJWN2xPU0g2YjY0MG9fYXJud1pkdn",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXVyMDBFdnlaSDM2a0UyVnBFeHVpYXJyRFdrWnhXamp3VERkRGNwUVIxajdseFFGMWZ2WXlOUmMyTEhicFFYMEZTaDFjUERSXzdfamJSVWNsUlJWN2xPU0g2YjY0MG9fYXJud1pkdnhGazFCeHFBMnkzeUZkM1RveV9CUWFCQ01PMVoyUnVYS2o2Uk9xTDVWSHNqTmpRTXYxZW1pSmhWQ2FzdW1fdzlqLXpGZ3h3Ql9JTnRiYk1pWjV0SjNuNVpwNkMwZWVzNzFycklldHFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-16-008",
+    "date": "2026-08-16",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Longtime Toyota CEO and Father of the Prius Hiroshi Okuda Dies at 93 - thedrive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWW96aDhJR2tCbkljMjNVTDZtajlPSUUydXFlRW5hd1dZMHdfVVk3eFhON3lzQWxrZEVzSnhmV3NuLTRtaTAyM2s4Uy03LUxPSE9tS2lNWlNmdEdGaXJKWE1Za0tHQkgwejVWR0daWX",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWW96aDhJR2tCbkljMjNVTDZtajlPSUUydXFlRW5hd1dZMHdfVVk3eFhON3lzQWxrZEVzSnhmV3NuLTRtaTAyM2s4Uy03LUxPSE9tS2lNWlNmdEdGaXJKWE1Za0tHQkgwejVWR0daWXhEalBEejk3UmZiUDJXMWV5NXcwWE12SzZnUUVGQ09CVkNIV1h0S3JGa09GWDNURHM?oc=5",
         "type": "rss"
       }
     ]
@@ -309,6 +672,26 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "http://www.hydrogenfuelnews.com/green-hydrogen-news-europe-s-electrolyser-plants-face-overcapacity-as-projects-s/8576457/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-08-15-008",
+    "date": "2026-08-15",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel ASA Pins Its Turnaround on a Cheaper Electrolyzer as Cash Reserves Erode - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNelk5d2JaVk1YejBQakhfLXBqZ1g3bHI5Mi13Sm0zV1pBWThDYWlMbEE1dUZZVk9xLWdScnJETlhSSl9JeEVZLUhsZG55aUsyZ2g1MVNydTQxY3dtNUoxWFkzTUhET1g0WVd4SmdoMl",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNelk5d2JaVk1YejBQakhfLXBqZ1g3bHI5Mi13Sm0zV1pBWThDYWlMbEE1dUZZVk9xLWdScnJETlhSSl9JeEVZLUhsZG55aUsyZ2g1MVNydTQxY3dtNUoxWFkzTUhET1g0WVd4SmdoMl90V18yS1hhZ3cxQTE4Y190XzhUcEVHeWJKWU9MWmw1UEp4dW5qaTNQdzlGeFNQSDNLSmpra0pIXzNIak9FbE1UazJOcUc3WS1EVkFOSTRRUXo1UnVNQjE5aTlseXBaWWRVWEg2RkF6RDhXQQ?oc=5",
         "type": "rss"
       }
     ]

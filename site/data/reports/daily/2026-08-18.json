@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:22:26.876873Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-08-18-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Toyota Joins Daimler Truck-Volvo Hydrogen Fuel Cell JV, Intensifying Pursuit of Hyundai - finance.biggo.com",
+      "companies": [
+        "toyota",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52Qkl0OTFaVE1fZm5FbXFhYWw2bG9kWmZPQlhzR0hVdXZMODlrRUlzdE5JaUE5ZGFCY2p0eGUyVHpuWk5SRTliREhkNzZfWnFWMWZUOW5YYWlTY05kbDVLZXdwSW9FZ2RvV2t4TmlCT0ZqTHVGSGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Pivot to Cheaper Electrolyzers Faces Its First Real Test - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0dXczZEa3FiclkyY1dub2k5UU1fek9RRUhtMl9jdUtibDdzeWptUFdTdnRZQ1NmcmVRdUhYV0Zoa0ZTX1pVOThvNjVrdE85dC1XZ0o5MnZoR0NTWEFCMGpOUnhFN1E3Z0FfbHVtZ3dldHhRS28xeENoN0wtMkw2QzRsQ1dXYzZSM3hCZUplcjZzNmRyNDRQQmdEYy03b19wOHdQRVd3STlfb0lGSEpmNVRhZFlMdGw1bWhpUUZVUzZIM2oyVV94MGVxVTdsT2h4NS0tYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai begins Ioniq 3 EV production at İzmit plant in Türkiye - just-auto.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyN0JlSE95dEZLU2l6MGZjMFg4RHZOVnFMTmx2OHp4cVV4bzA2cDNGN0Y1WUZyNjJSOGk3RE1ER3Jid1JxRjdmSXZfYjdWWkpkYldDTUhPUjl6VEh4RmV5ZVhaZHMtT2xrZ0hqQWhKWDFrQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor exits Aurora stake as South Korea pivots to in-house autonomy - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk9lZlk1ZlJ4NG40OE1KeExtQ1Y2dGVYSDVyLU15LUt5NF83amhJUTRsLUVZY1FoOTRXM1hjbUdZR3A5Ym1pSGZRY09oY2NuUmptTlZCaVpmU0dXNmJaazN5REs4RHlfWWtBTS0tUVQycmxVbzN2Nzl1MDUyRGVyODBB0gGWAUFVX3lxTE5INXpyX1RTTUtmMGhYdHJQZHMyYmpEUXd5MW85a3hCR0hicFM1T2ZTcHpuUHlpVVZtS3BQUW1Pb3FtX2FPdnJvYmpnVXAwcnpUZTZuMTBXNHdxQkhkamJaVVA5V1Z3bERXdVh1bTE1QnZGWWRmTDRwa1VDZ1R5cWE5dFEzTDJPcGs2UnZRMER6OEFEU3hmdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-08-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Joby Aviation and Toyota Motor Launch Initial Phase of a Strategic Manufacturing Alliance to Realize Air Mobility for All - marketscreener.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZE9HeGU2QW5EZEh3eFk5N0pKM0IyOFVHa1piWHNtZWJSWEtrcS01X0pCM3IyWDJ3ZGlycWVOTUxPeVVpcWgzeWtHWVZqemtPakdKbXJjcnVKZmpxMzhfbF9JQ2VRRHdhTmRzVEN2UGdWUnktU29tWEdJQU1LNmJLMGVNS2d3bFotREljWm1VNERUQlV1Ri1SN21iYmJlY2ZSVlQzY3drQVlvNk5Ba1VEOG83QlhlRW1OS2ROWTNfUjhPSC0taURrcTM3VV92R3cyTEJXcE8xZUJnVlNhQWpHTzF6QkZRX3Vp?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 109,
+    "too_old": 99,
+    "gate1_blocked": 102,
+    "gate2_blocked": 32,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+      "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+      "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+      "Air Products confirms plans for massive data center dead - WFMZ.com",
+      "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「Toyota Joins Daimler Truck-Volvo Hydrogen Fuel Cell JV, I...」。主要關注主題為電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Toyota Joins Daimler Truck-Volvo Hydrogen Fuel Cell JV, Intensifying Pursuit ...",
+        "level": "yellow"
+      },
+      {
+        "text": "Nel ASA's Pivot to Cheaper Electrolyzers Faces Its First Real Test - AD HOC NEWS（電解槽產能）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

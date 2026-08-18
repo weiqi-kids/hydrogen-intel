@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 102,
+  "gate2_fail": 32,
+  "passed": 21,
+  "gate2_samples": [
+    "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+    "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+    "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+    "Air Products confirms plans for massive data center dead - WFMZ.com",
+    "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+  ]
+}
