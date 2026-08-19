@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 95,
+  "gate2_fail": 31,
+  "passed": 31,
+  "gate2_samples": [
+    "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Yahoo Finance",
+    "Air Products (NYSE:APD) Presents a Strong Technical Breakout Setup - ChartMill",
+    "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+    "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+    "ITM Power (AIM:ITM) Stock Draws Fresh Price Target Split After Analyst Revisions - Yahoo Finance"
+  ]
+}

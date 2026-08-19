@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-19",
+  "total_events": 10,
+  "by_company": {
+    "air_products": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "toyota": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "fuel_cell_vehicle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

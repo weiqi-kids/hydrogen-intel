@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:23:17.373610Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-19-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor faces production losses amid prolonged strikes - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazBRQVBPNnFocFRNY3B6LVotQnZpckdhbXEtWVlyTUFnd3FPd2lBMUl5dEh3bF9fd1NRNHVtV21TMGZidE1QX2hJb1BxV3lwMV9SSGtKb3lUekhSMEFkZHRGbW5xLWxjMlcxQmRkNGR6RjF5RGdNTUpERVFoNHVUWTJGcUxZbjFJcFJqM0JWUFVOQUVPSEJvNkVGdmNHSHE3MTh6X1g1QkMxSkh6dU1uVzZ2SGM5bnVuelU3MnZn0gG-AUFVX3lxTFBrMFFBUE82cWhwVE1jcHotWi1CdmlyR2FtcS1ZWXJNQWd3cU93aUExSXl0SHdsX193U1E0dW1XbVMwZmJ0TVBfaElvUHFXeXAxX1JIa0pveVR6SFIwQWRkdEZtbnEtbGMyVzFCZGQ0ZHpGMXlEZ01NSkRFUWg0dVRZMkZxTFluMUlwUmozQlZQVU5BRU9IQm82RUZ2Y0dIcTcxOHpfWDVCQzFKSHp1TW5XNnZIYzludW56VTcydmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-08-19-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Toyota Shares Drop 3.1% After Tacoma Recall; Decline Less Than Industry Average by 0.5 Points - TechStock²",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHVoVGxWSE03bnF2OUlOajk0ZEdwYnk4SHZUVUQ4UkM4UXhKTTF6bk5wZlBNQnBZSFZiX0hTSmQ3VHRRUVFJT1NMREE4UjFXZUMwLWJBeWxIOUlBdEtfaHpBaDF2UFFLYVpQSkpNa09hU2ZvUTYyYTdvc3JiakNyX00wQ05FeTkzMkZCeXJyMERQd1ROTUZTYlRiM1RvcFhURzBuYXJSMWo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks Industry Outlook Highlights Air Products and Chemicals, DuPont de Nemours, Avient and Innospec - Zacks Investment Research",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXB0Qkpfb0FrTzFYZDF3N3FiSWJ5UzhYNUJZSWdrWEpGZWpZVXpKQlk3eHF1WGx2NGFOOVg4TklUMTZiN04tcnlxd0tCYkxjZjBxenFPdkkzWWRoX2VrUkduYlBRTGk1TnpFdkFDTTBtZmxGdTZ0c2NvUlB4UHBocml1SGhyX0M2ZGhBNUc5OC0wdzV5QkhUYUg2STlVejd4NlZHV296MnRlY1BNSWRHQXR0TUZYZm51Y1FsN1VadVlWVkxnU3ZONzdBdUhZbUNfcE1ueTVR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Surges, Yet the Market Remains Unconvinced - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1c2R212ZlVYel9nZ0xYaXFHNE1KaDU5NzI2ZnFZZUFXbmRWNGtpa3RteFZ4eVZDVm9JcFZ2dmZOYU1tLW1OVVo3cU5yQ0VBalNoRDRzc1l2UGk0RXB0enBYdmZGU0FMdmtqdFhySkFEcXlhdW9HZ1UwLU44b1RkWWRZcTZ2LV9oZGxJUXdBZzRqLXpWWWg4VktjZVo2SHRWai1CVk5RNEV1bmcwVFd3bks1TDdIMk9NTjhya1J0c3cyaEVYVlE0czFKa05lZkk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor and Shell Extend Strategic Partnership to Advance Future Mobility Solutions - hyundai.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVVpDdUFHd2xOcFpyOGk3Ykwzbi04YVRaVzZEWVVzaXZLRTItRjA2dHR0cFFxZGVkZEhUMTUyTU8tWE5vamJNbUZoc1FmbGZ3cDJCMHpuT3BGcmxlZ0dfZzJUcnR3R2loVHBMb2ZvdDY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 103,
+    "too_old": 101,
+    "gate1_blocked": 95,
+    "gate2_blocked": 31,
+    "passed": 31,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "Air Products (NYSE:APD) Presents a Strong Technical Breakout Setup - ChartMill",
+      "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+      "All You Need to Know About Air Products and Chemicals (APD) Rating Upgrade to Buy - Yahoo Finance",
+      "ITM Power (AIM:ITM) Stock Draws Fresh Price Target Split After Analyst Revisions - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Hyundai Motor faces production losses amid prolonged stri...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor faces production losses amid prolonged strikes - The Korea Times",
+        "level": "green"
+      },
+      {
+        "text": "Toyota Shares Drop 3.1% After Tacoma Recall; Decline Less Than Industry Avera...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
