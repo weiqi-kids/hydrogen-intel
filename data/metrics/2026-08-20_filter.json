@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 101,
+  "gate2_fail": 29,
+  "passed": 28,
+  "gate2_samples": [
+    "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+    "Air Products outlook raised to stable by S&P on lower spending - Investing.com",
+    "Air Products (NYSE:APD) Presents a Strong Technical Breakout Setup - ChartMill",
+    "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+    "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Yahoo Finance"
+  ]
+}
