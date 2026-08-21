@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 93,
+  "gate2_fail": 31,
+  "passed": 30,
+  "gate2_samples": [
+    "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+    "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+    "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Yahoo Finance",
+    "OMXNORDIC:GNELX2026 Seasonals Chart - TradingView",
+    "When offshore platforms have no permanent crew - Siemens Energy"
+  ]
+}

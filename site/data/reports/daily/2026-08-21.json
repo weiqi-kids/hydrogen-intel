@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:25:55.233987Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-21-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "IIT Bombay Develops Breakthrough Catalyst for Efficient Green Hydrogen Production - Chemical Industry Digest",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWZpUHd4eFlxSVRUaXJwZE5YNlNlV0Y3Sk9MQmhPUVQ3d3JSN3MxYzRaclMwa1o4VkRjNjFkZE9CbFYtZFpENWxkZkU3aDBoc3ZKWEkzMTl3Q1ViLWhBZ1JrVFlVQk5rUjA1NUF1NmREX0dfY0lKTlo0RWhGci0wWlFXZWRldVp6aXZIVnZlRlVRZkhPbUMzV2NRV1AtREFWTzBXd3gtWFg4MXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-08-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Leadership Handover Takes Centre Stage as Order Book Outpaces Revenue - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0FZa0N6MmVxTnVFcHkzVHhMNGtlLWpNTktldkxacHRBX3JrVXJ6ZUFHWHN6dEhvZVpPbTFNTHNYWXB2VV85MUNpR0JsblRhWkZZNVQxRC1RdExwdm1UVnp6U28zNmZid1U5RFl5eEJzUndXOWVZYm0wSjVtZm1JYXpyVzBMVlBHTV9xMHV3OVo0eE1rcXoxV3dRd3JkOUVqTFR2M09FMmpqQk1HdXBVX3Y1QTZyemV0YUlpSG05S09ERUhCclR4bkI2TWdldHliSnZmVmg4ZVdvdk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-08-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "S&S Power Subsidiary Secures ₹8 Crore Order From Siemens Energy - Sahi",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblQwcmZ0MFlfRHlzUWhsckQ1WEh2N1p4QlRzVTg5UlRQcmg5cl9zRk1iMG44MHVnUWRKQm42N3l1b25fSVloYkk2MUN4b2U1TW83MFU4NEoyeEFvMHdIU29oWDljV1BKcHVYWmcwbzJ6MDBFSDh6NGs2bk1xWURuNmI5eDk3dEp4ckN2bFd4M3ZzNm1XZFlRMkxrdHRxQ0FJdlR3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor and LACMA’s Ten Years of Art, Technology, and Experimentation - Hyundai Motor Group",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXRKYnJPREQwTTlpY3Q0M1NMeENlVm13VUxsN0xSRjVOZzJqSEQ3c0tKaTZjclFESmlFRFg1X1lCVmpZMExTU0JJVlpqcnRXU2Z3aDZiZUhWdnh2NHhvVl9CNXNKTW9kcEM0SHpCZTkwLXZ5eWtCdVFiQlNjdkdtV1BJOGxqeG5ZRThOREhYUXZWRlYtaEFkak5nS2laSFdXMW9j?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai's Growth Is Pushing Genesis' US Production Back to Korea - Business Insider",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWNvZWQ1MWdQdnlETXpFZ3FvcklEYXJnLWVYclBabUkxcEEtZGthU3E3Y2dvel9UMTc4UjByaEJ3ZzdCR0VjZkdIelpRdlVOOEdVUjlTeVpERVM5Q3hxUmt3WUlTUUN2WllsRVFuZ1kzQUlNZExZREFHUm9qZVpwREpUdlBpbjRWN2NMUE9uTUQxMWFvblREcjhManNVcUFqREotS0tzY1BGWlpV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 104,
+    "too_old": 103,
+    "gate1_blocked": 93,
+    "gate2_blocked": 31,
+    "passed": 30,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+      "94,594 Shares in Air Products and Chemicals, Inc. $APD Purchased by S&CO Inc. - MarketBeat",
+      "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "OMXNORDIC:GNELX2026 Seasonals Chart - TradingView",
+      "When offshore platforms have no permanent crew - Siemens Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、Nel ASA、西門子能源相關動態：「IIT Bombay Develops Breakthrough Catalyst for Efficient G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "IIT Bombay Develops Breakthrough Catalyst for Efficient Green Hydrogen Produc...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Leadership Handover Takes Centre Stage as Order Book Outpaces Reven...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
