@@ -1,0 +1,16 @@
+{
+  "total_raw": 102,
+  "dup_title": 6,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 85,
+  "gate2_fail": 7,
+  "passed": 4,
+  "gate2_samples": [
+    "Manawatū Becomes Home to New Zealand’s First Toyota Mirai Rental Fleet",
+    "True Zero Pump at San Diego Station Highlights California’s Hydrogen Refueling Infrastructure and Co",
+    "Hydrogen fuel cell news: Bloom Energy’s Power Connect accelerates onsite power deployment by 40%",
+    "Norwegian Hellesylt Hub Secures RFNBO Certification for EU Markets",
+    "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging"
+  ]
+}

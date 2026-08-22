@@ -216,6 +216,78 @@
     ]
   },
   {
+    "id": "unknown-2026-08-21-013",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Colruyt Group and Scania Are Pioneering the Use of Hydrogen Trucks in Day-to-Day Operations",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/21/fuel-cells/colruyt-group-and-scania-are-pioneering-the-use-of-hydrogen-trucks-in-day-to-day-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-014",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Hiringa Targets Diesel Parity with Australian Hydrogen Truck Network",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/08/21/hydrogen/hiringa-targets-diesel-parity-with-australian-hydrogen-truck-network",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-21-015",
+    "date": "2026-08-21",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/hyundai-ioniq-v-purple.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Hyundai",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/08/21/hyundai-starts-taking-orders-for-17700-ioniq-v-but-you-cant-have-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-016",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "positive",
+    "title": "The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind",
+    "summary": "<p>In other news, Egyptian researchers developed new catalysts for hydrogen production from plastic waste. Asahi Kasei, Perdaman, and Sunfire also advanced electrolysis projects in Japan, Australia, a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/21/the-hydrogen-stream-jcb-hydromax-sets-speed-record-for-hydrogen-powered-vehicles-of-any-kind/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [

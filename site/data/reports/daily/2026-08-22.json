@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:17:58.068135Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 102,
+    "dup_title": 6,
+    "too_old": 0,
+    "gate1_blocked": 85,
+    "gate2_blocked": 7,
+    "passed": 4,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Manawatū Becomes Home to New Zealand’s First Toyota Mirai Rental Fleet",
+      "True Zero Pump at San Diego Station Highlights California’s Hydrogen Refueling Infrastructure and Co",
+      "Hydrogen fuel cell news: Bloom Energy’s Power Connect accelerates onsite power deployment by 40%",
+      "Norwegian Hellesylt Hub Secures RFNBO Certification for EU Markets",
+      "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-22 無氫能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
