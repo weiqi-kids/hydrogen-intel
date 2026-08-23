@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 91,
+  "gate2_fail": 32,
+  "passed": 18,
+  "gate2_samples": [
+    "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+    "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Barchart.com",
+    "Siemens Energy Stock Leads A Screen For Global Environmental Policy Winners - simplywall.st",
+    "Why grid innovation is turning to direct current technologies - Siemens Energy",
+    "Siemens Energy’s First Lightweight Offshore Substation Installed in China - offshoreWIND.biz"
+  ]
+}

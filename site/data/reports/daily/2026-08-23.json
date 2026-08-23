@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:17:12.976731Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Two-Speed Story: An Order Book That's Growing While Revenue Shrinks - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTzNkclpYVXo4Wkstelkwa3JRMkVQdF9pR3htcllqZEptTklrMS1qM25RSkx1RzVTaDFmdG9QSUxOVlgyQVVYdFhldnhqZDF1TzA3NDFtOEVoRDk2ZUJWMmZsZWdIY1AtSmZMMjBpbDB3VFRsVW1ETmV3dVFpeFlNQy1tMHpTZ3JZeGd4dTBwekp0TENGd2hyRWtmV3pTUTJzdHJ5MDRrTEN0NkZmai1iVGhod3hFVkdINjJjbU9Hdjh6T1NqWGJaMzZPY2VzUmw5OWpkWXBacw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor's union suspends Monday strike as wage talks resume - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0lCTmlJLW93RkVkLWU1ZnBWdHYwOEtFV0tUTVd0SXVneEpHNjNBWkwyM01pdDVQS2JuZUdDVjV0NkhidzF4Y1E0djNma2RWVk9hQVUxdFNUeWpfYkZyRVFXMGVpYkhBV3l3aHFySlgwQURiY1g4MjRQbUtXTHdzVlhhMEVLeUVLWGpNejZmYmhvQU04WFdBc3BJWVBPS1hNYlR3dGVka04xNXZHYlltSmxQMzctc1dp?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PTFE Membrane Films Market Growth Forecast to 2035 Driven by Fuel Cells and Electrolyzers - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkg1NVdoUWpXa0RUU1FEQmJTYnIwNHdKZmJVcXk0c0hZM2lXTURkTUpSc0xWRXl3VkJtOVRTWDQ4ZkI5NTBPS1FncG0zYk81OG1xZUFCUVNDbDM5Y2FTOUpNQlplLU9EU1Rnc2R2SXRUVkhlYktFOVREenc4SnFManhaLUNVTnQ0dzVZYnh0eEdaenFsNmxQSVg0aklXbVdp?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 111,
+    "too_old": 109,
+    "gate1_blocked": 91,
+    "gate2_blocked": 32,
+    "passed": 18,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+      "Air Products and Chemicals Stock: Analyst Estimates & Ratings - Barchart.com",
+      "Siemens Energy Stock Leads A Screen For Global Environmental Policy Winners - simplywall.st",
+      "Why grid innovation is turning to direct current technologies - Siemens Energy",
+      "Siemens Energy’s First Lightweight Offshore Substation Installed in China - offshoreWIND.biz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nel ASA、現代汽車相關動態：「Nel ASA's Two-Speed Story: An Order Book That's Growing W...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA's Two-Speed Story: An Order Book That's Growing While Revenue Shrinks...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor's union suspends Monday strike as wage talks resume - Korea Joo...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

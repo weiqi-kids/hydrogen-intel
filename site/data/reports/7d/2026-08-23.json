@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-23",
+  "date_range": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "generated_at": "2026-08-23T08:17:13.109403Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-08-18-005",
+      "date": "2026-08-18",
+      "title": "Toyota Joins Daimler Truck-Volvo Hydrogen Fuel Cell JV, Intensifying Pursuit of Hyundai - finance.biggo.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "hydrogen_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "siemens_energy": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 2
+    },
+    "nel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 19,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 132,
+        "last": 172,
+        "change_pct": -23.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-17",
+      "event_count": 21,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 27,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 30,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 22,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-17 ~ 2026-08-23）共 132 則事件，重點為「Toyota Joins Daimler Truck-Volvo Hydrogen Fuel ...」。綠氫成本、電解槽產能、氫能政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
