@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 93,
+  "gate2_fail": 25,
+  "passed": 19,
+  "gate2_samples": [
+    "Here's Why You Should Retain Air Products Stock in Your Portfolio - Yahoo Finance",
+    "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+    "ITM Power (LSE:ITM) Comes Into Focus as Energy Stocks Conditions Shift - Kalkine Media",
+    "Siemens Energy Stock Leads A Screen For Global Environmental Policy Winners - simplywall.st",
+    "Why grid innovation is turning to direct current technologies - Siemens Energy"
+  ]
+}
