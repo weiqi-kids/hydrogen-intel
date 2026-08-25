@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-25",
+  "total_events": 12,
+  "by_company": {
+    "siemens_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

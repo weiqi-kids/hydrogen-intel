@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:29:04.312375Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-08-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy hires Goldman for steam turbine unit stake sale; stock up premarket - Investing.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTNfY2UydUhVZ1lGbGw0cjJXclRYcXNrQnZPZzBZNlZkaThLNG9CbnE1ODRiQmFjZ1NVbDVhZi1WNFJJN3RJTnBvNGg3MEhKSTdjZVZxU0VoTnZLSFJTTEFFeXVVcWdkYzh3RWp0QXJhRU1MRFBtMGt4LWxQSVlOanhiNEJqRXFteEVDODZSQTlfbWU5QnZ6a0pZX0EwTnZ2ekVna3V5WXIzVHQ3OGRpWk1OcERPdU5BYnVpMVM0b2dmZlNpRXdqaC1QYWM5aEJwTHM3Xw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor, Union Reach Wage Deal to End Walkouts - WSJ",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXBiUXJGQlkwbnNVRm1tbnlDdTdqTnNCb1BSWVJhLUZ6S1llMEoxelpTa0hJRUdWdk1MS0RVYVd4MUlDMGZFay1ndkY5SWdCOWhJckNwUjdXX0IzSFdHVFc5NmlnU3dkZEFYUjdBU0NVVWc1dW1JdEFuNWEyQjVFUUxveXBlcDB2eHJIRE1EdTh6eUc4TXZzM25VWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor launches 2027 Palisade with high roof, new trims - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYnMtZlpwem5wNl9QYXhEZEJtYl92OXBzWXJFbnRPNEN4OHN1YUpMSnVSdTZKWVpJMUp1R25LMk1QRzhJVURCenBQeXptbkVPX0FPam1FN1IyQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor, Union Reach Tentative Deal to End Wage Dispute - Bloomberg",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWZxbDVmOVZNS1BPYXlTTENLQ3owX3Raa0JvQWhnTmVHelB0WFVqREZYNnpvcWFlRTQ4N0R1akNKbVJzdkF5bEtra3ZOYWwwTExRVVRhTllfY2ltQl9FQjNPM0Jmb0ZVakJUZnBVU3NVb2ZZNmZMZ25DdGY0X2loektFdGcyZGQtRVRaTUVsM0t2cWQ1SHQ2Mmx2a1pvdGV0YkxwM3hKZTdBZ05lRV9NVw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor, workers agree on this year’s wage deal, ending costly labor dispute; shares rise - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rdlJtQjZqeWYxRTNfR1FYaXVtQXFxSnJxTjhXbUU2OG56bnRUdUdkWWFrNVFRM09UeU5rTm5qNHVGNFpLbVhIZHF3NGFlOG5lUGJPandPOV9TZVNIVlFxNXhWb0dVb0tndVNEeWJtYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 106,
+    "too_old": 110,
+    "gate1_blocked": 92,
+    "gate2_blocked": 24,
+    "passed": 30,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Here's Why You Should Retain Air Products Stock in Your Portfolio - Yahoo Finance",
+      "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+      "Nel ASA Faces a Double Squeeze: A Leadership Vacuum and a Wall of Analyst Caution - Ad-hoc-news.de",
+      "Nel ASA's Leadership Exodus Sharpens Focus on a Make-or-Break Autumn - Ad-hoc-news.de",
+      "ITM Power (LSE:ITM) Comes Into Focus as Energy Stocks Conditions Shift - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、西門子能源相關動態：「Siemens Energy hires Goldman for steam turbine unit stake...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy hires Goldman for steam turbine unit stake sale; stock up prem...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor, Union Reach Wage Deal to End Walkouts - WSJ",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
