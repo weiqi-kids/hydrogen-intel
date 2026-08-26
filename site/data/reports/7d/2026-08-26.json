@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-26",
+  "date_range": {
+    "start": "2026-08-20",
+    "end": "2026-08-26"
+  },
+  "generated_at": "2026-08-26T08:29:25.691875Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chart-2026-08-26-008",
+      "date": "2026-08-26",
+      "title": "Hyundai Motor Company Charts Profit-Driven Growth Roadmap at 2026 CEO Investor Day - hyundai.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "electrolyzer_capacity": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "nel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "siemens_energy": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 31,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "chart": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 137,
+        "last": 149,
+        "change_pct": -8.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-20",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 24,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 27,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 13,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-20 ~ 2026-08-26）共 137 則事件，重點為「Hyundai Motor Company Charts Profit-Driven Grow...」。Air Products、查特工業表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

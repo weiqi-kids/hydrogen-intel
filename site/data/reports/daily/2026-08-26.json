@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:29:25.556803Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "chart-2026-08-26-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor Company Charts Profit-Driven Growth Roadmap at 2026 CEO Investor Day - hyundai.com",
+      "companies": [
+        "chart",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RV0JOVmctdElKOXJwbjJwVEhmUkJFNlYwNExtWGV1cHkzZWNGQnpoNHg3Zl9lNmdQMVNRcmJ4QVN0X2x3MWI1anpLOWF3d1VQRWJhYk0wZHJrV0MzNFV1WUQ3MjJMaTR3bVllSUlWY2E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-08-26-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai bets on US hybrid boom to take on Toyota - Financial Times",
+      "companies": [
+        "toyota",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1c3djZ2Y2tPUGxHTVIyYkJRVDlOU3JhV3JORVMySWxHVENteWFrcmRCNldmVm5IUjFUM0hHelRveHlyWnJweTZaSkdxZ2lLRU1DRW5RX2JvdHpDRVdyTzJRLXdEYllENFRnSzFLZDZRMnoyUHR4aG82VFd4UFpKU2RpVXQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-08-26-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Air Products’ Earnings Momentum and Sector Outperformance Might Change The Case For Investing In APD - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVI5WFpUVkhRUC1fNGZLR2RLZ28yRGVqMjVBNUNzRmVBekVFczVQa2c2RGx0ZXdHSFZUZGJoZ2VtZkI0TV9BUjctUVp2am5UcXpia0hGc0xjellPTC0zNDNyemJUV3l0NElDT00xVTZkbUNKQVZpeXNlcWtmWUY3cWx2RGJrVFZXVmpxb0JRb1JXU2ZEOGxJM3hXTWpSNVJaWE1kang1ZEVnNmV6TnY3UlJMUVBGbkY2U3pfNjRBUzg1elJhZHI1a2tXbEJNdXY5bWRyanpWMEFLd1HSAeABQVVfeXFMTTkwRUg3RzhvTjJEVzZfLTg0WEViY0RNbE8xUGdjMGZBMEQ4UWhNNW1HUV9DRFdNdFBVNjB2cWJuUEVXZktMVC1vNVpXRnlEN0xkQ25XMnFPNGFrb3U4YVVRQTVhMnJiWGFFWXFIVnFXUG9QYTRNQVBmUVY5RWpmNWs5dVlZMUdYTEl1UUZ4VDFCd3dvVGJnWnRPbXdmbDVwSWQteE9GdnNyNEQ5NWVjY1M5eHpMM2lvQklKVVAxblkxWWxlVkQyQzRDajBuTnBPYnlHTWpZeE5HWURjcDh2amg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-08-26-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "RBC keeps Siemens Energy at 'Outperform', target €200 - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1BpT0JuOWxiMjN6MkpIc1dJN1J1WFJEVy15UUNEUnlPUVQtLVB1bzB3cjhQLU5ibnFTNjZkdGFiZ0JRYzYwYTZ0Qk1EMUJvSFRtem1KQzByMjBkZ0N0OW10X3JGc0V4eTZhRkdMaFlIbXpHWWtOYVV5Vk5pTWE1SlM3R2U0MTEyMGlUQ3hNREpXbXAtX0lyQlBQS0lxeC1IUmxMX0MxUktGZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-26-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Company: Raised 2030 targets, electrification, and global expansion drive record growth and innovation - TradingView",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQODNJR3JTQ25JM0V3VzVFYVVBYTdnTjl2UW1vdGtQNHlkYk9SVXdiMVkxdDVlUEQ5OHFlc0FOWkxLWERZaG1oM3JIdTZFVUdvNEZxMGIyRHliOUFLeHRwMVBrQngtcVRUUmxtX3ZNLUIzTTBtX0ZXeTR5V0JtSV9DaE5zQTZoNzJVek1FbjlSLVhOVk52MXdibVpidzRWSTNzV2xualZZUGRKVFg5bnlhdVMxRnpBRG15MW4zQUhnQ2VoNFdIUEJTLVFvMzdSLWNFYVpaakh0VnkwV2N1dTV6MzVuVkJpS0c4aWlYNkN6aElveVpEM19qdDZEVDEtTnpkZm16YWZHZFh3UGV4eW9OWVJaa3otVXo1dHVncWpoT2V4Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 90,
+    "too_old": 104,
+    "gate1_blocked": 96,
+    "gate2_blocked": 36,
+    "passed": 34,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+      "Why You Should Add Air Products Stock to Your Portfolio Now - TradingView",
+      "Here's Why You Should Retain Air Products Stock in Your Portfolio - Yahoo Finance",
+      "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+      "Nel ASA Faces a Double Squeeze: A Leadership Vacuum and a Wall of Analyst Caution - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為現代汽車、西門子能源、Air Products相關動態：「Hyundai Motor Company Charts Profit-Driven Growth Roadmap...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Company Charts Profit-Driven Growth Roadmap at 2026 CEO Investo...",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai bets on US hybrid boom to take on Toyota - Financial Times",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

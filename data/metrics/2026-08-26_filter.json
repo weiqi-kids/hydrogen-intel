@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 96,
+  "gate2_fail": 36,
+  "passed": 34,
+  "gate2_samples": [
+    "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+    "Why You Should Add Air Products Stock to Your Portfolio Now - TradingView",
+    "Here's Why You Should Retain Air Products Stock in Your Portfolio - Yahoo Finance",
+    "Air Products (APD) Stock Looks Fully Priced Despite A 14% Fair Value Gap - Yahoo Finance",
+    "Nel ASA Faces a Double Squeeze: A Leadership Vacuum and a Wall of Analyst Caution - Ad-hoc-news.de"
+  ]
+}
