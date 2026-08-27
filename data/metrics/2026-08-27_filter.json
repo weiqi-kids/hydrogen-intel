@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 95,
+  "gate2_fail": 45,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+    "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+    "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+    "Here's Why You Should Retain Air Products Stock in Your Portfolio - Yahoo Finance",
+    "Nel ASA Faces a Leadership Vacuum as Its Cash Runway Becomes the Defining Metric - Ad-hoc-news.de"
+  ]
+}
