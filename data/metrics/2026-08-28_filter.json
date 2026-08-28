@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 94,
+  "gate2_fail": 42,
+  "passed": 21,
+  "gate2_samples": [
+    "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+    "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+    "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+    "Nel ASA's Autumn Calendar Is Set — Now the Hard Questions Begin - Ad-hoc-news.de",
+    "Nel ASA Faces a Leadership Vacuum as Its Cash Runway Becomes the Defining Metric - Ad-hoc-news.de"
+  ]
+}

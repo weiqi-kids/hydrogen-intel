@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-28",
+  "total_events": 12,
+  "by_company": {
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "toyota": {
+      "count": 4,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hydrogen_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

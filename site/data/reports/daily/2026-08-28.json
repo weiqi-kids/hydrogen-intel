@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:43:57.968444Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-08-28-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Toyota sales, production fall on sharp declines in China, Middle East - Reuters",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEtxSHAxUUVBZTFKQk0xVnpjUDlpUFBUR3dFcEdIT1RCYTVGWkp3WUNTeno4TjlVdno1VWN2UmhURmJ1TGJVT1NNcmpwVGxpcDMzTFY2WkRHRlJnajh4RS1FTEt4SDdCZnV4dmphX2ZFTlBFRnluWkhTR3E2UkZ5TUJhdkJXaU9WdVdxdE5pREVvU2JDXzlxWV9RUWM0WjRsMk9YWWZUNzdoMFkxTHNoWWdFMFJJVk1iNUljZHNScVpJWS1LcGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-08-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Investors Face a Defining Autumn as October Report Looms Over a Vacant Corner Office - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ2dtMTFvUDNzSTlyQ1UxMFdBNXBvTndjSjVYM0ZNLVItSjVFTFpKTHdCUkhFNEszTmd5RDZMa0RpeUlOdTZKRUk3dHpRdHoybW9KYjA5QmhCY1lYYWRoNjNJY293WDdxMG9YM0U4YWl4WmsxdWs3TzJqSUZ5U2x3ajVleTRpTXBLYTZVY3NMd0xqOHFqaVFzT2gtclRud1NtUVhjZEViWnJ0dHFNZVZpbU9WVWc4VlMyMFpsMU1xeURCZ1JTLTBzYl9VVnljblFITHFPUVV5S2lqTk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "chart-2026-08-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LNG Storage Tank Market Report Now Available, Published as Report-Profiled Chart Industries Wins Bechtel Order for Woodside's Louisiana LNG Project - Yahoo Finance",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1Vjd2RMOVBmbDFVUmlDRFNDLXZBaXhtQ1BITG12cTJJWGJFRzlfaWhTQlEtWk8wLVJScWRPbHB6cWpuQ2N1aDZIMWEyeXFiRXdqV1FtYUJTeVotNVdGMGxOaTlDZnVBbkpKcjVtZnBhdlBDcUVPcG9RSlJUakY4eU9nLWlzMkgtdjBEb1VnQkQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "News | Hyundai Motor Group's R&D arm expands footprint with Detroit-area office lease - CoStar",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaGl6Rjk4N012UWg0Z0VLb0R2TlZKck1ER0VzR0FZNzBWYkpJMUlVODBjaWZXZjZUbURKOFhrb3pPeDAxazhxRnFObGVvWFRYWWI3RHBpczQ0NlB4cjU4cy11QkJpWWJDVnZxNXRLNUFUTHJMcWp5NzA0c1Z2SkJXcDhZcjVHQV9KRnVndnd5ZmNLcF9tZkJGMzhVTHE1TVFGMDh0RFM0RUtjVDZHNGFCcDZId1ZEZXVVN1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai seeks to diversify revenue with its latest robotics acquisition - Manufacturing Dive",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemdlMWpjMWlzSjh1MDM0dzJmUGZXY1RXcmNSZmV0TC14VWQxNVMzNy1aZnZrTElNcDFtSUcySVJ6bElwR2tPTjZjVDY5Z2EyOXktQzlYeUUwRmR3QWNuOXpfT0lyd2p2TlJaT2syUlloZDIxLWVNT1UxNklENHVJZkZJLWg0NUxIM0t4d2Z6ZHliN3RKTkxwanZjX3d4TE84c1NoSTlUSUNsOE5UMENnLUNXcXIyWnRweWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 104,
+    "too_old": 102,
+    "gate1_blocked": 94,
+    "gate2_blocked": 42,
+    "passed": 21,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+      "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+      "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+      "Nel ASA's Autumn Calendar Is Set — Now the Hard Questions Begin - Ad-hoc-news.de",
+      "Nel ASA Faces a Leadership Vacuum as Its Cash Runway Becomes the Defining Metric - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「Toyota sales, production fall on sharp declines in China,...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Toyota sales, production fall on sharp declines in China, Middle East - Reuters",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA Investors Face a Defining Autumn as October Report Looms Over a Vacan...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
