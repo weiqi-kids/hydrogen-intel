@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 92,
+  "gate2_fail": 41,
+  "passed": 11,
+  "gate2_samples": [
+    "Air Products And Chemicals (APD) Could Be 10% Undervalued On Its Long Term Project Narrative - simpl",
+    "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+    "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+    "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+    "Nel ASA Faces a Leadership Vacuum as Its Cash Runway Becomes the Defining Metric - Ad-hoc-news.de"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:28:19.220206Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Cash Runway Becomes the Real Story While Its Former Subsidiary Moves On - Ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajZXa3VLaG1FNExKR05NY1hlcHhjVzh1ckhwUGI3TnFRTnd2SXBZM0oxTVNiZ05FUU5KT0JUWnNRVnpFTHFNb3B2cy1hdjl3SUpJU2dkUUZycS16RExTN1doZDFMOVp5SGpyQzlNM2VnWjVXNjhtOUNGRE93YVNpcEZJQ0hLZVQ5ODU4YV9DaDVTSzNTMUFjTmtYeWZfSW9zS1FLd2hWQVpteGxUaEJUSE9LZlJFSlFpWWZOMjhYbG1yMlR3VWc0VFZmM0FWcTdLdTFwbEJGaGdfR2Nn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp's Rally Holds Its Ground: A Green Hydrogen Setback Meets a Defence Windfall - Ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM0ZjMmRjY01zTGc5ajFrcXhWNGpPRG91d2RLVDNkUmZqT1RRY3BxNXZKRjFjZ2o2d2NaSi1FcTdLbUdaM1lHOGRHczlIeHctQWt1S3l1dkJZYlJibUdaOGFaYmNXc1Vrd2tRNElSMWg4ZGZQN0RtS3kySnE5bnNHMTk1MUxMdmNIUlVCa3pQbl9OWHlvREdQNzVPZzVYejRYVUs0UF9ZNnY3WHRGSlI3aW8zZ3Y5M3E3b3NYRmE5a05jV3o4RjJuVVJvOUVjdU1veTFUNG94LWh2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "'It Needs It': Toyota Camry Driver Comes In For Routine Replacement. Then The Mechanic Refuses—He's Right - Motor1.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTZOX1Fwc0ZEenM2S0ZvNWhiNFdqVnJlalZVQ2NtN3JOMVNKdDBpUzloWUtNV1hFeXIzYTA2MG1SUnhXVEFvWFV2M0xpb29PNTBkZVJVR2FzSkJERUExTmIzSGJxN0dzbXVwYXlRTDNMaWFzX2w5RFRVdjdPNExQdzNUSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-08-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Toyota Motor (TSE:7203) Putting Its Next Lexus EV In China First? - Yahoo Finance",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUxSazJmUHItMnhTRjRsZVd3cEF3ZVZSRWMzbl83LWljTnFlZkVJUUpkUU1uSE5Memo2ZW9ZYzVjVzZIanRnZGhZd3Z4NXhzOTVXT0RQdVJXTlg3Y1VIQkpTNW9zYlFWeThCQXRHZXdGb1A1RlNpdklaZzlnTE92SzlwZ1c0UnhydlExa1VJUEM5cHRz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 108,
+    "too_old": 107,
+    "gate1_blocked": 92,
+    "gate2_blocked": 41,
+    "passed": 11,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Air Products And Chemicals (APD) Could Be 10% Undervalued On Its Long Term Project Narrative - simpl",
+      "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+      "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+      "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+      "Nel ASA Faces a Leadership Vacuum as Its Cash Runway Becomes the Defining Metric - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為豐田、Nel ASA相關動態：「Nel ASA's Cash Runway Becomes the Real Story While Its Fo...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel ASA's Cash Runway Becomes the Real Story While Its Former Subsidiary Move...",
+        "level": "green"
+      },
+      {
+        "text": "Thyssenkrupp's Rally Holds Its Ground: A Green Hydrogen Setback Meets a Defen...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
