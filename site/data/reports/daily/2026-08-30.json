@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:24:08.549754Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Is Growing — So Why Is the Share Price Still Stuck in the Mud? - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQWlvYjNJWUpTdkRoNTZTdUpDRFNiYUJpQWdDRWk2TXE4b0NhSF9xRXNMek5EU0FKSF9JcGlpdkVhYjZSZ0ZpaHdMZTNIQTdsOWR2czgwWUw4QVFnbkJUcE9vdGpDTDlKam5lRHZna2ttUGptWjJZTGEzeUtCNjFaSVdlUXBsSm1WWmJsSlFYVnNQbHlPT0llN0FwVUFfMjg5dTVrSExXTmZUdDZxNlBJZk8tc0pVOXVBSzhkSXA1UDNpVk04NFV0bDQxVmRZSHhscUFBSG82R0w?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SangYup Lee of Hyundai Motor Group is a 2026 Automotive News All-Star - Automotive News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVphN0h2cWdoNXh1YXlvdHlLSy1hSFdzRjRoa0V5LWtYMTRDY2ktZEIwZS1aWEJvOGl6NG1QbC1FRU45bktNcWstcE5sMjg0WEttZ1IwbnJzX0NGNEplQV9CYlhzbVNTQ1FGTjdQY1o0eVRRQXBOLXNpbUtVcWJVNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 114,
+    "too_old": 108,
+    "gate1_blocked": 92,
+    "gate2_blocked": 38,
+    "passed": 8,
+    "pass_rate": "3.3%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+      "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+      "Is Air Products and Chemicals (APD) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Fin",
+      "Air Products And Chemicals (APD) Could Be 10% Undervalued On Its Long Term Project Narrative - simpl",
+      "Nel ASA's October Deadline Arrives With the Balance Sheet Doing the Talking - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nel ASA、現代汽車相關動態：「Nel ASA's Order Book Is Growing — So Why Is the Share Pri...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nel ASA's Order Book Is Growing — So Why Is the Share Price Still Stuck in th...",
+        "level": "green"
+      },
+      {
+        "text": "SangYup Lee of Hyundai Motor Group is a 2026 Automotive News All-Star - Autom...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
