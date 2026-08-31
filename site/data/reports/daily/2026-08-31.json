@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:37:01.532651Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-31-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai, SK Square Executives Surpass Samsung, SK Hynix - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjF1UVl4dFgwSnRLRm1NdHRnQ09LRUx0Y2tERlpuMnh3MGd6SktjV3I3dlVHWXpPRV8zQXhQWWxsZE8zWFJPdXR2MnZZbTNDRlpGNWRROF9XNERPQm0tX1dXWVBVdkhVOXZBVlA1U250ZDd4WXBGTVNBazJXUktEVVZMMTlsamNK?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is ITM Power The Clearest Read On Britain's Hydrogen Ambitions After A Metals-Led Week? - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUU5EZjlhQTYtRk5DZjRLNHRaSEtJX0lGRWNBc05WSExuT3ZJc1psYVh3SVBwZnFoWENfMkdUQkcyTDNoRGppQ29vT3Z3Ui04RU0xMDR3N3hTTUQ4cDUxbmdfLVVLUUl2clpmOURqRjVUQ19mNU93RmVQdUpKNDdtYTVFNC11S3lFYjNERzNlcEJHRXc0ZTIyM1Q0QVVwMXpEWFJHMklSUmZPUG8zMmdFUVVRaFpya25FVndhSWJZclllQWhhNlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Capital launches 14th overseas finance unit in India - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xeG01UVBoM0NxWHZ3c3lpLXFXVndpaEtyTXFDbWwzTXlkOVlDaWxrbHppQWctWmZZYm9rXzVNYV9LVE1GWHFNRWIzVUZmdFZ2eE1iRDJaRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Union Votes on Wage Deal - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXbFJGM1F6a3JaQmFTQTdGTU9ZUmlBTHBNOWxIamF1dkRrM0hnOVN6RThYTHdiMnE1NUJSaGVZVXdMcE05MnA2SHhqTi0zWWx6Q3o1U2twVUNRaW1OWE1scU8yNEZvWlY0YlRVdzBRM3FKd1cy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-08-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Hires Former bp Executive Hong Eun-hee to Lead Hydrogen Business - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkUEpKeHZYTzZtS2xENHlxUG11YVd6bi1CSWVuN19DYVdFeVZiTEE2azlKWllPMnRETU5jaFV5ZGlZX09YZ0hTN0ZQSHJPM1F5N3V1Wjl3LWdJMEx1VnlXMk80bC1QbVlyU2FQX2JnTXR5TmN1Snc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 108,
+    "too_old": 102,
+    "gate1_blocked": 97,
+    "gate2_blocked": 37,
+    "passed": 16,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - TradingView",
+      "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+      "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+      "Air Products And Chemicals (APD) Could Be 10% Undervalued On Its Long Term Project Narrative - simpl",
+      "Air Products stock steadies after $3.47 EPS beat - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為豐田、現代汽車、ITM Power相關動態：「Hyundai, SK Square Executives Surpass Samsung, SK Hynix -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai, SK Square Executives Surpass Samsung, SK Hynix - 조선일보",
+        "level": "green"
+      },
+      {
+        "text": "Is ITM Power The Clearest Read On Britain's Hydrogen Ambitions After A Metals...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

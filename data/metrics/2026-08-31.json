@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-31",
+  "total_events": 13,
+  "by_company": {
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "toyota": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "by_topic": {
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "green_hydrogen_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

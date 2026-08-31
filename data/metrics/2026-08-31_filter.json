@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 97,
+  "gate2_fail": 37,
+  "passed": 16,
+  "gate2_samples": [
+    "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - TradingView",
+    "Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen - Hydrogen Europe",
+    "Why You Should Add Air Products Stock to Your Portfolio Now - Yahoo Finance",
+    "Air Products And Chemicals (APD) Could Be 10% Undervalued On Its Long Term Project Narrative - simpl",
+    "Air Products stock steadies after $3.47 EPS beat - AD HOC NEWS"
+  ]
+}
