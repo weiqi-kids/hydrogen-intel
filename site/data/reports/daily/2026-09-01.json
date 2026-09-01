@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:51:57.303190Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-01-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor's August Sales Decline Over 14% - marketscreener.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXBSUkNQVE1CUEx0amFSeDBiRjRwbVZheS02b1RmX0JHLXMtcEExWlhyQ05EY2lOWjBYYThJYkMzLVZRUUxBZHpTZnJnaEhTcHd6NmZ2RDBjVlh5VmlhQkhQdEd3SEFkVDdGa3d4ZEV5Q0hjc3VfMnpKbGV4T0JHMlFDQWFsREMtaDA4MHkyOEs5d2N3REV1U2RPWTJ1UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power's Two-Sided Equation: Insider Conviction Meets a Market Focused on Metals and Merger Risk - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmktcFZ6X01qcUdnSEU4MTJnUHFyYmhQUzIzMmMxS3YwWXhLVTVRNXdTdE05RWZacHQ4ckVsQ0lVSFFxN1gxem5JdW13V1lrZE5VeUR5N1NFVjhzUC1wOEtFTk1vcnQ3cUVhTWlEaEZPU05nTDdKSmNHVXRvdGFFSndIOGgzWU9sQW9pWXpmOE45ZjFGeGx3ekExZDhJbk5qLUh0WHhTY1dNdk5zenFxdG9RbTZ6SlhpcWNERWtmS0Z6RktnbkNUVDBlay1tQmJaNXdOYjBvUG1lNE9k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-09-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy AG : Gets a Buy rating from Deutsche Bank - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnNfZnNfWWRLYVRiZERjZFhXM0ltblFaYTZuMFphYTl2Q2dWeWUwa2d5MnozN2p2V05xS3VWNlk2R3YxM2gzd3FyNHdKcHdpa3ZLdVppbUFCS3FLbVZmZWpMd3FEcHZ1YkdPQXZRT2loWVk4WndEaEhWQnNpbjFCUG1IdlhsRE9venRfdFhFZENOaGg0SzNqSnZSLWxrNjFZRnNGYjVzdW03RUU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai unveils battery cells to slash charging times as it prepares to launch extended range hybrids, and new EVs - The Driven IO",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0wzR3dYZXJnS184emhpWGJRYXhFY0NWZEdHeUlxZGpKZVU1SDJOZzVYWlQ2OEtTRk4wai10dXV0V3VVems4QXdtaFlYYnI2WEpzWUN1NEQ3SU1mZzVOc1o3aEJMVWljakxMV0psc2ZmNmw1YlNGN3pLZDZsTUZoT1RSbHdNUzZLdzJiVi1jZzFlajlnSm1PS1VlSGNNOXZpeHJDTXdRdWZJeS1oaUJOYUNudFl6bFVOTkE0MGNQOUJkUmg4RDV4UlVUenYzRmZpZFdxWGFJeWhlaXE3eUtB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could Your Hyundai Dealer Eventually Sell You a Robot? - NBC4 WCMH-TV",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3NXdldoTk1NLXpUNHRSS0R1bVl2OU1lRWdZd0ZaRko0YkJ4ZEExdmlKS0lyZjlZVE85OHRzZkoyRHJnX000SXlYbEprZ1JUODlpaEE3TWlEdkFIVnpybnoxbjhyMUZhOEY4YTJxMUJDVzR4X2RJcERQU1VmSFdwTEJ1Q29IejJ4d2h0NzFiYkQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 98,
+    "too_old": 101,
+    "gate1_blocked": 86,
+    "gate2_blocked": 39,
+    "passed": 27,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Air Products Expands Hydrogenation Capabilities at Chemicals and Refinery Processing Lab | News Rele",
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - zacks.com",
+      "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and",
+      "Air Products Expands Hydrogenation Testing Capabilities in Pennsylvania - ChemAnalyst",
+      "Headwinds sink Air Products / Yara blue hydrogen project - hydrogen-central.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、豐田、ITM Power相關動態：「Hyundai Motor's August Sales Decline Over 14% - marketscr...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor's August Sales Decline Over 14% - marketscreener.com",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power's Two-Sided Equation: Insider Conviction Meets a Market Focused on ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

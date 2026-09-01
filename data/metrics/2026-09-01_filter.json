@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 86,
+  "gate2_fail": 39,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products Expands Hydrogenation Capabilities at Chemicals and Refinery Processing Lab | News Rele",
+    "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - zacks.com",
+    "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and",
+    "Air Products Expands Hydrogenation Testing Capabilities in Pennsylvania - ChemAnalyst",
+    "Headwinds sink Air Products / Yara blue hydrogen project - hydrogen-central.com"
+  ]
+}
