@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:22:07.703282Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-02-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Kia sets record US sales in August as Hyundai slips; green vehicle deliveries reach new highs - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGNFo4ZjNtcUpyOThPaEt5b0huS3VtaG1KYnNjek1qenR0NFd2cDJvVFNwWTVpanU2bmVWYVowQ3YyYnpGc0Vya0tDLVgtNUdNbXZzVjQtSjU3WlU0UjBSWkk3ODJSbmdDSGxGUlIwOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-09-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power's Board Keeps Buying — But September's Numbers Will Settle the Debate - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckdnc2c2Y0pLTS12YktFSTJPOXJmUVpoSXVjN05HRkRDOG5TVGsyWlVtZFQxX2NfeFJDSWZTSjZ3VjcxSTdzMVZrQk1pWjNhV2FMQmtBQlFSSzV3WXJVc1BzSkNjVDFabS1jQ3E3MDBaVnpWdWNCVzdEOUo1RVRQaTl1aFV6QnVKSm12Y3VXbFFMdzZ0MkhvaFhrVHlTQUV3WjJFT2ZQU3BRWXlubHlmakZiazJUV0kzV3Z0Z0ZxN0Q2b1BiUG9yeUZmVnVWMG8wZV9JNzhWb3ZEQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai cooling film takes heat off police buses - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjl3TnJ2X2dWemhmOGRYb01HT3pVcUVjOG5Ic3pXZ3psOXh5RGRsUTU3dEFfTTlSSF9IbWo1eDBqWnBFdnFzSnVscGJVaUw1TS1jcE5XaC1RM3RYMzF2WjVYRE5kTXFwWWNsX0RWaXZ4S0JYTDUwcTlydjhEM1lUM1lILUlrelNEQV8wTkJNNXlOT2x4aEhOVlZnNHpRd9IBowFBVV95cUxNNlJoY0ZBZXZ2ZFljZFBsLVlING9WdzdGMHJST0FvUm16OGhWWGRidDVnaTQzdmlJXzB0MW0wNE5ZenZhNUZjbndwMWk4M201T1paeEwtM3hrOEsyVTNaakoxVy1HMU1LWmdSYThWZ0ZhYmdvV29ReFQtVldIVFR0UmNVZDlCYjBnR0x5UlVBYi0yMVRLb09WdDNiMzRLczBhN3Jv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Mobis Lands Full Atlas Actuator Orders - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqVzlsZGdPV3JEUWhYbTdKUHdOTUFvbWRtaVlRS0hJM29HUS1KWHlERXM2Qm1kUlhxVTRXNmtkM2xrUEdDNVRyNWNpSG1LeHFZQy1Md3RvTWgyYnZMYVNIMVdyc0R1VmlINmpjWkFTZFhvMlJo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Pilots 'Nano Cooling Film' on Police Buses Amid Heat Wave - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sUGVjVk13WVY3UGd2aW5GenhkdDVXbkp4bFM4OVYyU21wVDhRZW4tMWl4SU4taDc0UzBoeXY0YktRN3dRN3dRS1lEWTZmM1N5YVFHbVExenl6WnJrbmJLcnItOUJodUdiYmhQb2hWMDIzTUc1ZXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 87,
+    "too_old": 123,
+    "gate1_blocked": 87,
+    "gate2_blocked": 33,
+    "passed": 20,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Air Products Expands Hydrogenation Capabilities at Chemicals and Refinery Processing Lab | News Rele",
+      "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - finance.yahoo.com",
+      "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and",
+      "Air Products Expands Hydrogenation Testing Capabilities in Pennsylvania - ChemAnalyst"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為現代汽車、ITM Power相關動態：「Kia sets record US sales in August as Hyundai slips; gree...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Kia sets record US sales in August as Hyundai slips; green vehicle deliveries...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power's Board Keeps Buying — But September's Numbers Will Settle the Deba...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

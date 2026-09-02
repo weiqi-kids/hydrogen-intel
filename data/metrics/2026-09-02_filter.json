@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 87,
+  "gate2_fail": 33,
+  "passed": 20,
+  "gate2_samples": [
+    "Air Products Expands Hydrogenation Capabilities at Chemicals and Refinery Processing Lab | News Rele",
+    "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+    "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - finance.yahoo.com",
+    "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and",
+    "Air Products Expands Hydrogenation Testing Capabilities in Pennsylvania - ChemAnalyst"
+  ]
+}
