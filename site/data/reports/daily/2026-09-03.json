@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:19:54.665055Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Electrolyser with 50 MW PV in Zamora",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-castilla-y-le-n-authorizes-40-mw-moreruela-ii-electrol/8576575/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regional Low-Carbon Fuel Hub",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/green-hydrogen-news-omv-petrom-s-petrobrazi-refinery-emerges-as-a-regional-low-c/8576573/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 172,
+    "dup_title": 36,
+    "too_old": 38,
+    "gate1_blocked": 80,
+    "gate2_blocked": 7,
+    "passed": 11,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "ITM Power (LSE:ITM) secures state backing for its next generation stack — is domestic electrolyser m",
+      "ITM Power's Payroll Plan Reveals a Board That's Staying the Course - AD HOC NEWS",
+      "ITM Power's Board Keeps Buying: Inside the Hydrogen Group's Two-Track Story - AD HOC NEWS",
+      "Top Research Reports for Toyota Motor, CrowdStrike & Welltower - Yahoo Finance",
+      "Hyundai Motor accelerates U.S. hybrid push to take on Toyota - 매일경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為綠氫成本相關動態：「Green Hydrogen Production: Castilla y León Authorizes 40 ...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Elec...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regional L...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

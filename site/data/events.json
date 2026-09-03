@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Electrolyser with 50 MW PV in Zamora",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1788394789068.jpeg\" alt=\"Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Electrolyser with 50 MW PV in Zamora\" /></p>Castil",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-castilla-y-le-n-authorizes-40-mw-moreruela-ii-electrol/8576575/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regional Low-Carbon Fuel Hub",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1788412191131-wgotd6.jpg@webp\" alt=\"Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regi",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-news-omv-petrom-s-petrobrazi-refinery-emerges-as-a-regional-low-c/8576573/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "itm_power-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -121,6 +157,114 @@
       {
         "name": "hyundai",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mS0JFRmZJdlAwZzBVNnpsQS1wNm56YzVTYk1mbUhRd21HZVEwUFR6eHQ5MXF4TG1kLURURUhZTTMtR3BZM1lCdEtQSzFIRFFkTmdVWk9OcjVlblA1cHpJdXJseDRoRG1NcHJBTXhXUjdfZ1M1Vnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-09-02-008",
+    "date": "2026-09-02",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ITM Power's Post-Lingen Reckoning: A Delivery Milestone Meets a Market Demanding Proof - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEx0WmJBYmM4b1c2RkdkcjJBZFk3TWlmc3BrcV96d0FTVkh1cU9WMmIxbDlUajVzb1QxUnZ1LWxhc25RbWo2eDYzZjJyVVo2REU3TGV2NUVGei1qOUhRUXhlVkJyUXBlbUFYdTNlVV",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEx0WmJBYmM4b1c2RkdkcjJBZFk3TWlmc3BrcV96d0FTVkh1cU9WMmIxbDlUajVzb1QxUnZ1LWxhc25RbWo2eDYzZjJyVVo2REU3TGV2NUVGei1qOUhRUXhlVkJyUXBlbUFYdTNlVVFmUE4wVFRRTUhiTnhsNFR1X3ZRNWV3dUxEYWJIUVVwSU5fRTNsc3ZFN1FDM3Q0dHhtYm14Y2lhYWU1eTVRcXNGdHNrSjY4c3BPU1BPOVluWXBRTG8wc2lxRlVBU0pHbVRqUUh3YU9lZXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-02-009",
+    "date": "2026-09-02",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Toyota delays launch of Highlander EV, its first US-made electric - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2p0YjVHb1BpZXJLTlE1Rk9Bckw1NktSeFgtMXB0N1N1cEFVZTJneGhfOHRXc3ktOS1ycEJ2NnpyNDl2ekIwNnYwbDRwZUxrQnBSaHNwakY1VEllUnBiWF9idkYxc0ZGRURQRTd1TH",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2p0YjVHb1BpZXJLTlE1Rk9Bckw1NktSeFgtMXB0N1N1cEFVZTJneGhfOHRXc3ktOS1ycEJ2NnpyNDl2ekIwNnYwbDRwZUxrQnBSaHNwakY1VEllUnBiWF9idkYxc0ZGRURQRTd1THVMX3RNb0JPUlU4MmNybDBONmN5WWQ1dGJyeFlvVG5qMWVUZllOZmpwa0d0QW9YdTRyMEZ4RFcxMUpuRXZVT3kxeHo1blFpLTd4a004ZmVwMXNsZDdha1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-010",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green Hydrogen Becomes Cheaper Than Conventional H₂ as Electricity Prices Fall",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/09/01/green-hydrogen/green-hydrogen-becomes-cheaper-than-conventional-h-as-electricity-prices-fall",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-011",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Jeju Starts Korea’s First Direct Wind PPA for Commercial Green Hydrogen Production",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/09/01/h2/jeju-starts-korea-s-first-direct-wind-ppa-for-commercial-green-hydrogen-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-02-012",
+    "date": "2026-09-02",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Toyota is delaying its 3-row electric SUV again: Here’s when it’s expected to launch now",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Toyota-delays-Highlander-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/09/02/toyota-delaying-3-row-highlander-electric-suv-again/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-013",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green hydrogen steel unlikely to reach cost parity in Japan by 2050: RMI - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkw3UE9WVmlMdzh5V25TY0lSWWZZLTlFZVRtdjJGNk9wMEU1Q0R2WTdhZHhOM0N5TERpaVNnU2NTc3dwUkQ3MGZYUm8tTExlUXgydnhzeXI5d3dkVk5xSkdrcFVDdDN4amU3ZHA1TS",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkw3UE9WVmlMdzh5V25TY0lSWWZZLTlFZVRtdjJGNk9wMEU1Q0R2WTdhZHhOM0N5TERpaVNnU2NTc3dwUkQ3MGZYUm8tTExlUXgydnhzeXI5d3dkVk5xSkdrcFVDdDN4amU3ZHA1TS1oUDJLUHhWZDg1MFlTN2dpS3AzeWJlRVJaX1pTME9KOEc4V25MLTYzYXd6OEhNVWtXRE9TLWx0MlFSNGVfWFQxVzVnei0ySmo5UXZj?oc=5",
         "type": "rss"
       }
     ]
@@ -519,6 +663,24 @@
       {
         "name": "fuelcellsworks",
         "url": "https://fuelcellsworks.com/2026/09/01/h2/france-lines-up-second-hydrogen-subsidy-auction-250mw-up-for-grabs-as-bids-close-by-year-end",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-01-023",
+    "date": "2026-09-01",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG8yNVF3Z2twQWVrNmJ3bnZ6c1dMNEZMWXFuMzJIUW9SUFo0cHEzb0ZKLUpxSHdzeGtqcmZjY3ZlNXpwckxTMExjN3MyeU5ISlBDcXBWcEMxVk1CWl9XZHZ4REg1TXlJLXZRZURBaG",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG8yNVF3Z2twQWVrNmJ3bnZ6c1dMNEZMWXFuMzJIUW9SUFo0cHEzb0ZKLUpxSHdzeGtqcmZjY3ZlNXpwckxTMExjN3MyeU5ISlBDcXBWcEMxVk1CWl9XZHZ4REg1TXlJLXZRZURBaGZGbnhZZk1OTHNXb010RDdrM3NRWTdzd0x3QVJVeTZqUGJLcUlpX0xMTE9OcnB6TzN4WE1mcDJRWm50ZUtHdXQzcUQtOXMxT2NxM2VqcWt1bG90SGdxUElPSnFvNA?oc=5",
         "type": "rss"
       }
     ]
@@ -969,6 +1131,42 @@
     ],
     "impact": "neutral",
     "title": "Can green hydrogen become commercially competitive at scale? - Energy Source & Distribution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzk0bEVNNHQzZUVHa3BSUGI2WG9VdW5JSFhGUE5hSVZCdVBCUzkyT25HT1EwR0xHdXAtdk9waWV0SGpDS0JKb0QzOUFnNkZHaEtUelE5U0xUVnk5NlBMQXVzU3BfbDVpanI2WjVvTm",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzk0bEVNNHQzZUVHa3BSUGI2WG9VdW5JSFhGUE5hSVZCdVBCUzkyT25HT1EwR0xHdXAtdk9waWV0SGpDS0JKb0QzOUFnNkZHaEtUelE5U0xUVnk5NlBMQXVzU3BfbDVpanI2WjVvTmVpYTJmb1VGOV9WcUZ1N3VjdjRlczNrOFBVbi1v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-08-31-026",
+    "date": "2026-08-31",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQekJXdENjTXRObnhzSG1DSWxuSmpYVXRUU0JocjFDTUM1YjB1S0x3ZFQtUzFjNUtqNnpTVDlQSXNDREpzZURXc3FMR3FZTFRXREROU20zbzBVTXd1eXk2dkZjSWs4a1RPVHlBVjBWZn",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekJXdENjTXRObnhzSG1DSWxuSmpYVXRUU0JocjFDTUM1YjB1S0x3ZFQtUzFjNUtqNnpTVDlQSXNDREpzZURXc3FMR3FZTFRXREROU20zbzBVTXd1eXk2dkZjSWs4a1RPVHlBVjBWZnBMZU16aW5qLXZnYUlINlBpSllFZ3cwSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-027",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Can green hydrogen become commercially competitive at scale? - esdnews.com.au",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzk0bEVNNHQzZUVHa3BSUGI2WG9VdW5JSFhGUE5hSVZCdVBCUzkyT25HT1EwR0xHdXAtdk9waWV0SGpDS0JKb0QzOUFnNkZHaEtUelE5U0xUVnk5NlBMQXVzU3BfbDVpanI2WjVvTm",
     "sources": [
       {

@@ -1,0 +1,16 @@
+{
+  "total_raw": 172,
+  "dup_title": 36,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 80,
+  "gate2_fail": 7,
+  "passed": 11,
+  "gate2_samples": [
+    "ITM Power (LSE:ITM) secures state backing for its next generation stack — is domestic electrolyser m",
+    "ITM Power's Payroll Plan Reveals a Board That's Staying the Course - AD HOC NEWS",
+    "ITM Power's Board Keeps Buying: Inside the Hydrogen Group's Two-Track Story - AD HOC NEWS",
+    "Top Research Reports for Toyota Motor, CrowdStrike & Welltower - Yahoo Finance",
+    "Hyundai Motor accelerates U.S. hybrid push to take on Toyota - 매일경제"
+  ]
+}
