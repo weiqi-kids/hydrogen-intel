@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:20:34.080117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-04-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Honda And Hyundai Chased Turbos, But Toyota Built A Bulletproof 50-MPG Camry Instead - CarBuzz",
+      "companies": [
+        "hyundai",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BWktOV19DVHdHQnpLYko3d2k5Rkc5UnU2ekdHQl9mZVFBZGdyYjdPUmM5a181ZVoxS2ZrQ1NUdHB0TFBac2xjUWhMc2JVSEgyazZtYmRQckl6cC01c25Zb3J6WXZBTFlJMkxQUVBidEZSTm5VNDZwWg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-04-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Air Products eyes record South Korea investment after shelving unit sale - KED Global",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YcmVCVi1LMFNPeThxWHkwcENTLVY4M0NnZENxSlVpcm4yUWc4RWI1WDE5X25MaGROZW45YmpaYzMtanpURlNFMHFMa3NZZ042VHRCS1JTVXVhT2NsZUlFcDVZVmVQdVFVN2FGUXpXeV9NdVJ5MEhfSkpzaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-09-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Leadership Vacancy Casts a Long Shadow Over an Improving Order Book - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVRxUHFoV0xEU3EtVkJ0b2diZ0lxMHItNGtIWXFsR3ljbkdER09xV21uNjd6WlQxSDU4SW1WQThaUHZOZWs2ZGVDbEZPbDZTSzFrYTBDOVZoR1VzejRPbnhJeDczVXJxQkQyRmdfT3JCTWhPR21JeHJpT1BVeHNpMDJqM1ZURnFFMVZnWlMwV0xYSk1OeWxPQWZWdTdENlQ4UERxQlhsZmd1NHZ3LWh0WmJ5T3NkVjBrcEtkaEI3MDByYUV4dVZ0eHFPMHpZUVduNEpWUnBvM0tCency?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy CEO: Germany is coming under particularly heavy attack - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNRczAzZUtRTzhGXzhhRVdrVFdaR1RZM053R1RIcy1nbnc5b2tvYTNyUC1fcUdBb0RtbG5QSldWQjdtZ3dFMVlia21QR3NPbkMydnZDc2h5T2owMDJzV1NlM2xYVUl6UW9hQUNRQjRZbWpEV3Y4MzBpSVJpcnZlWFhEUHZqMmJHTy10Z2Q5Q1h0dlNOWG4tM1l6TkNMNEphSUNoUk1CQm1jd1JNdkUtbzFVV3FfVXBPcTM5cFdn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy plans separation - Utilities Middle East",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEM2NFUzZldndxeWZscmdnaW1mQkFTZmNmWV9fRVhQeDVEMGJja3M2NWp5TmV3aEdKVFV1UVd5U0djVHR6UDZ5cGszSmI4TENHVWJ6R096NUdGR1JvcVBmMUhYNjBxRnFMekE5bEZXR29yME0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 75,
+    "too_old": 119,
+    "gate1_blocked": 82,
+    "gate2_blocked": 37,
+    "passed": 37,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - Yahoo Finance",
+      "Air Products expands hydrogenation capabilities - specchemonline.com",
+      "Air Products expands hydrogenation capabilities in Pennsylvania - gasworld",
+      "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為豐田、西門子能源、現代汽車相關動態：「Honda And Hyundai Chased Turbos, But Toyota Built A Bulle...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Honda And Hyundai Chased Turbos, But Toyota Built A Bulletproof 50-MPG Camry ...",
+        "level": "yellow"
+      },
+      {
+        "text": "Air Products eyes record South Korea investment after shelving unit sale - KE...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

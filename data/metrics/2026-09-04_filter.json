@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 82,
+  "gate2_fail": 37,
+  "passed": 37,
+  "gate2_samples": [
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+    "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - Yahoo Finance",
+    "Air Products expands hydrogenation capabilities - specchemonline.com",
+    "Air Products expands hydrogenation capabilities in Pennsylvania - gasworld",
+    "Air Products Cancels Louisiana Clean Energy Complex: Blue Hydrogen and CCS Under Pressure - News and"
+  ]
+}
