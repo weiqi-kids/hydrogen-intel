@@ -1,5 +1,59 @@
 [
   {
+    "id": "siemens_energy-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy CEO: AfD Sends A 'Dramatically Wrong Message' - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGp1UzkxbVdSZmVyWHpjVHNUT3djRVpwNVdkQWppeHNCdW9fby1fQzVNazNNd0wwNzc0N3VmQ0NyQ25FMm9vR1JFU0dJcGk4Z2JJbnhjNkZBdkFJQ25wUWRQbFY2alZ1YS0yOWg0ak",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGp1UzkxbVdSZmVyWHpjVHNUT3djRVpwNVdkQWppeHNCdW9fby1fQzVNazNNd0wwNzc0N3VmQ0NyQ25FMm9vR1JFU0dJcGk4Z2JJbnhjNkZBdkFJQ25wUWRQbFY2alZ1YS0yOWg0akpjZ01KUWxrbzM0R3dadmdqSnRkUTFVUnFsUVl0ejBTYS1HdnRDTXFUTnNTWXVYSWlIUlctWXA3YmRPeGk4VlFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Going local, cutting carbon: Inside Hyundai's US steel expansion - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XLTFkVFZ2NFNrRVJIQVdWZ2ZwYUNQNXNEZU92dktMeDNqcWJxWjhCdjVwN1NMaDV5cUV5R3FycVF2RDFaLUpfaE5nNW5kekpsaVVTQzJTcw?oc=5\" target=\"_blank\">Going loc",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XLTFkVFZ2NFNrRVJIQVdWZ2ZwYUNQNXNEZU92dktMeDNqcWJxWjhCdjVwN1NMaDV5cUV5R3FycVF2RDFaLUpfaE5nNW5kekpsaVVTQzJTcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuelcell-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "fuelcell"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1788682919297.jpeg\" alt=\"Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture\" /></p>FuelCell Energy inked a 380 MW d",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/fuel-cell-technology-delivers-data-center-baseload-power-and-industrial-co-captu/8576611/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hyundai-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -140,6 +194,115 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itm_power-2026-09-05-009",
+    "date": "2026-09-05",
+    "companies": [
+      "itm_power"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ITM Power awaits a Scottish hydrogen investment decision — can Cromarty anchor its order pipeline? - kalkinemedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXZ0NnV2bHU3NEdncTB6Mk92cWVlcS1hYmFOelc4cDAxOUZaOTRpX2RpQS1wb3U1bkYxMjduZlNPa0ZZSkZ0enFtZDJhY3lMV3RoYmp5ZnJuSS1uMWFzRS1aNXRsOWdRYm5BWkwtbV",
+    "sources": [
+      {
+        "name": "itm_power",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXZ0NnV2bHU3NEdncTB6Mk92cWVlcS1hYmFOelc4cDAxOUZaOTRpX2RpQS1wb3U1bkYxMjduZlNPa0ZZSkZ0enFtZDJhY3lMV3RoYmp5ZnJuSS1uMWFzRS1aNXRsOWdRYm5BWkwtbVlfLXdCV3hHcldPUnpJRDMtX0ZXNndxbjAydkh2emNTWUdzNnZKRWRma2xua0owLWI4MjBVdkFhWjRvTnNMcU5ZSWozTzA0UFNJM3QtYWFRSUU5cTJtQlFGSEI0OHFvNFlBUXBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-05-010",
+    "date": "2026-09-05",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Hyundai Steel Celebrates Louisiana EAF Steel Mill Project Launch, Driving Growth for U.S. Manufacturing - Macau Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNekYtY0NzeWkyREEzYkNrMjVwUmRmVjc4Yy1tTmUyMVhxQ3FXcEs0cWVkRUxMemQydXlCVVcydU1jYkU3QmplYzJRWmhKM0ZYZlZldms0QzQ0NGFLV3hTbGxRVnZiMHNJclNNWFh6el",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekYtY0NzeWkyREEzYkNrMjVwUmRmVjc4Yy1tTmUyMVhxQ3FXcEs0cWVkRUxMemQydXlCVVcydU1jYkU3QmplYzJRWmhKM0ZYZlZldms0QzQ0NGFLV3hTbGxRVnZiMHNJclNNWFh6elhqZEtNekJzZVNMdl9uSm9WV09rNmJsUHZKMUxEV3VzY2x6aFpla1RUS3dPQ2t5UlowMExyM3hTUWJudnRPNlNMR3pJd1dlNzUzSk83cWRBSG5iMzF0bW0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-011",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen news: Chile’s homegrown hybrid fuel cell truck drives green logistics revolution",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1788686341513-ovxved.jpg\" alt=\"Hydrogen news: Chile’s homegrown hybrid fuel cell truck drives green logisti",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/hydrogen-news-chile-s-homegrown-hybrid-fuel-cell-truck-drives-green-logistics-re/8576606/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-012",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Gold Standard’s New Carbon-Credit Methodology",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1788635381919.jpeg\" alt=\"Gold Standard’s New Carbon-Credit Methodology\" /></p>Gold Standard has published a Green Hydrogen Production methodology th",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/green-hydrogen-production-gold-standard-s-new-carbon-credit-methodology/8576605/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bloom_energy-2026-09-05-013",
+    "date": "2026-09-05",
+    "companies": [
+      "bloom_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fuel cell technology brings on-site power resilience to Japanese data centers through Hitachi–Bloom Energy tie-up",
+    "summary": "<p><img src=\"https://media.verna.one/68663aab9afdfcd5a6fd3d8a/agent/67c6b6aca667a773c184c26d/1788686457040-n1wn0s.jpg\" alt=\"Fuel cell technology brings on-site power resilience to Japanese data center",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/fuel-cell-technology-brings-on-site-power-resilience-to-japanese-data-centers-th/8576604/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-05-014",
+    "date": "2026-09-05",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "One Detroit-area Hyundai dealer wants $400 to charge your car",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/hyundai-sign.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Drivers opening a",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
         "type": "rss"
       }
     ]
@@ -708,6 +871,42 @@
     ]
   },
   {
+    "id": "hyundai-2026-09-04-032",
+    "date": "2026-09-04",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai opens orders for its new electric van, starting at about $66,500 - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzRCTHlVd3o4NmZnNEktTFVZa200dTJuc3EySUlkQVo0VmJUb2s2Wm1RNGNtQUFRX2JKR3h0R3BkaERWN29kX28xVm11U2FYZUlTNjh3ZVNEV00xd2pPMFJnZndkM3VaUFB4ZGJfVV",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzRCTHlVd3o4NmZnNEktTFVZa200dTJuc3EySUlkQVo0VmJUb2s2Wm1RNGNtQUFRX2JKR3h0R3BkaERWN29kX28xVm11U2FYZUlTNjh3ZVNEV00xd2pPMFJnZndkM3VaUFB4ZGJfVVlCcHpiSWhnWElRel9DVVlWS2hjRjFCeWxBYzFSOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-04-033",
+    "date": "2026-09-04",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota weighs hydrogen power for trucks that ship auto parts - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFgwWWtXcm9kRTczMGhsRlp2M1diU0dobkVQRnVOQkF4eDVQeTBGRkFpQXhVUmZDMGg3aXJvZU1EXzJ5YUVmeld2alc2b3JtTGVxdG1oY1VDNEFsbF9rVXFGWXdabjhUakh1X2RaUT",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFgwWWtXcm9kRTczMGhsRlp2M1diU0dobkVQRnVOQkF4eDVQeTBGRkFpQXhVUmZDMGg3aXJvZU1EXzJ5YUVmeld2alc2b3JtTGVxdG1oY1VDNEFsbF9rVXFGWXdabjhUakh1X2RaUTlTRF85QzRKWTBFQlRfMkY1SnE5cU5zTlZON1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-03-001",
     "date": "2026-09-03",
     "companies": [],
@@ -995,6 +1194,24 @@
       {
         "name": "hyundai",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWI3SzRUalhpZHllM0liYkpRUXdHZGRubjM3d2FlQXM4NFV6Qm9mdmtfcGI3WGdBdDM2di1VSW5ORThvNWs4b3NNcXFkTk9DRWRNQUUzSVFoWWZ0Sk9zVWFJSTUzZ1NQMXducGh1SGdkeWlfZW5sRWFOWTIxNkp4N1UtQWx4RUszSlRuUmE4ZzRHX3VXb2NYMHVmcGE1VkVNVXN3alVMNmZONnVvd3pFcXc0MGNSazZNY25yM3BPVk5qbFo4UjVqT25UZ0lpc1pNcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-03-017",
+    "date": "2026-09-03",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2027 Toyota bZ Review, Specs, Pricing, and Warranty - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zdDJVTU9IdnlZcVRBOEVUcEhQd0E4a1lUTElBaU1UeWdBVzRPYXBfT21VbUJMUmtzOHdxZkhPZ1hOS1J4YWE2VjZ3NGdPUWo4Wjg2NUdkVQ?oc=5\" target=\"_blank\">2027 Toyo",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zdDJVTU9IdnlZcVRBOEVUcEhQd0E4a1lUTElBaU1UeWdBVzRPYXBfT21VbUJMUmtzOHdxZkhPZ1hOS1J4YWE2VjZ3NGdPUWo4Wjg2NUdkVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1301,6 +1518,24 @@
       {
         "name": "hyundai",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEZwMVo4SHJJa2VvdVFrTEJweUQ1TUR5cWJVT3pjQ2RBSjRXTWZFMHpXYWctY21aeExzMXI5WFZHMjJ0a0lZcW1fSzVPRFVLTDBnQlJQOEpFbms4M24zckNsYk9sN0dzQmNLNk5LSEVESVp2T0VHbU45NWtWUWkxb2xlYkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-02-018",
+    "date": "2026-09-02",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Live Oak Private Wealth LLC Makes New $6.08 Million Investment in Toyota Motor Corporation $TM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1lIOHMyMzBELS1QdmNOSHhUVVNpMHlqSkptYjM4SXEyRzZNaDA1ZVgtQ3pHRjE4bnFrRnppcTlvRnEyeENPTnJxZnYtY1dMX3JsN1F3a3VvUUNRMFdnY3BjdzRjb3pXRkNiS01vZE",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1lIOHMyMzBELS1QdmNOSHhUVVNpMHlqSkptYjM4SXEyRzZNaDA1ZVgtQ3pHRjE4bnFrRnppcTlvRnEyeENPTnJxZnYtY1dMX3JsN1F3a3VvUUNRMFdnY3BjdzRjb3pXRkNiS01vZERjRVNmbWZ1ZjRlZm5BWEcwSzJXSE44VS1hM0VKbVBpRnZNUGpmRl8zWGsxNVQ3TWtrNHV1ZVpDQ3B3eTFXelZ5S3ptNGZSLTNqekFZWE00UHQ2WGU4QlVPMFE5Vi14QnJqMnJDS2xpamR4eWUwVEZUNGJiZFhoZWc?oc=5",
         "type": "rss"
       }
     ]
@@ -2293,6 +2528,24 @@
     "topics": [],
     "impact": "neutral",
     "title": "Hyundai Motor's South Korean union approves wage deal - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNC1CQ2x6bUF5eFJCNDRneEhqRDJtSzlkQW43UWdKZTl0NUFnb0NBMmstSFI5ZVd1Uk9yaUpIWW9aNVlVX2dBcXJkbGU3N2pRQVRNNXB4Z1Faa2o0UUhVLUs2OXhpQXBodjd2SlNVen",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNC1CQ2x6bUF5eFJCNDRneEhqRDJtSzlkQW43UWdKZTl0NUFnb0NBMmstSFI5ZVd1Uk9yaUpIWW9aNVlVX2dBcXJkbGU3N2pRQVRNNXB4Z1Faa2o0UUhVLUs2OXhpQXBodjd2SlNVenJfaEx0Y0N5WlQ2WmIwR09KLVNBaDhOVmNFTk9RbmNOTzMzNVhDN1l6bllHY3BFaV9mU2xvY3Y2OTdfNUVMRVJvWEdrdGk4RkdzVGFWYXllb1dPWHgzRDEwOEstM1hHRzRySFpOUHM0Q193d3k0M0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-08-31-031",
+    "date": "2026-08-31",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor's South Korean union approves wage deal - reuters.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNC1CQ2x6bUF5eFJCNDRneEhqRDJtSzlkQW43UWdKZTl0NUFnb0NBMmstSFI5ZVd1Uk9yaUpIWW9aNVlVX2dBcXJkbGU3N2pRQVRNNXB4Z1Faa2o0UUhVLUs2OXhpQXBodjd2SlNVen",
     "sources": [
       {

@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:48:58.045011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy CEO: AfD Sends A 'Dramatically Wrong Message' - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGp1UzkxbVdSZmVyWHpjVHNUT3djRVpwNVdkQWppeHNCdW9fby1fQzVNazNNd0wwNzc0N3VmQ0NyQ25FMm9vR1JFU0dJcGk4Z2JJbnhjNkZBdkFJQ25wUWRQbFY2alZ1YS0yOWg0akpjZ01KUWxrbzM0R3dadmdqSnRkUTFVUnFsUVl0ejBTYS1HdnRDTXFUTnNTWXVYSWlIUlctWXA3YmRPeGk4VlFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Going local, cutting carbon: Inside Hyundai's US steel expansion - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XLTFkVFZ2NFNrRVJIQVdWZ2ZwYUNQNXNEZU92dktMeDNqcWJxWjhCdjVwN1NMaDV5cUV5R3FycVF2RDFaLUpfaE5nNW5kekpsaVVTQzJTcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fuelcell-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture",
+      "companies": [
+        "fuelcell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/fuel-cell-technology-delivers-data-center-baseload-power-and-industrial-co-captu/8576611/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "fuelcell",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 103,
+    "too_old": 122,
+    "gate1_blocked": 84,
+    "gate2_blocked": 27,
+    "passed": 14,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - Yahoo Finance",
+      "Air Products expands hydrogenation capabilities in Pennsylvania - gasworld",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+      "South Korea says Air Products, three other U.S. firms pledge $2B in chip, energy projects (APD:NYSE)"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為西門子能源、現代汽車、FuelCell Energy相關動態：「Siemens Energy CEO: AfD Sends A 'Dramatically Wrong Messa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy CEO: AfD Sends A 'Dramatically Wrong Message' - marketscreener...",
+        "level": "green"
+      },
+      {
+        "text": "Going local, cutting carbon: Inside Hyundai's US steel expansion - The Korea ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-06",
+  "date_range": {
+    "start": "2026-08-31",
+    "end": "2026-09-06"
+  },
+  "generated_at": "2026-09-06T11:48:58.170526Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-09-04-012",
+      "date": "2026-09-04",
+      "title": "Honda And Hyundai Chased Turbos, But Toyota Built A Bulletproof 50-MPG Camry Instead - CarBuzz",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hyundai": {
+      "event_count": 29,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "siemens_energy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 5
+    },
+    "nel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "fuelcell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 141,
+        "last": 145,
+        "change_pct": -2.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-31",
+      "event_count": 31,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 25,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 14,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-31 ~ 2026-09-06）共 141 則事件，重點為「Honda And Hyundai Chased Turbos, But Toyota Bui...」。Air Products、FuelCell Energy表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
