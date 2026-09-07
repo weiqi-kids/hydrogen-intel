@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 83,
+  "gate2_fail": 27,
+  "passed": 19,
+  "gate2_samples": [
+    "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+    "Air Products expands hydrogenation capabilities in Pennsylvania - gasworld",
+    "South Korea says Air Products, three other U.S. firms pledge $2B in chip, energy projects (APD:NYSE)",
+    "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - Yahoo Finance"
+  ]
+}

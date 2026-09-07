@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:46:08.538978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea secures US$2B from Air Products, Axcelis, Corning, Pacifico Energy to bolster supply chains - Digitimes",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVAtMWplSkJKYm9BZW1Kc1pCaVhmdGJlUlNFaDdMWHA2STNDbm43MS1Qa1lLRUZGZ2RmN2tNYkFOZFdfdVpiWXFUMnNaOGFvRWhxUTJMZkNfcmZwdlRHNWQyektVSVdEUFNZMWhWNDhFVGVVTS1Kd3h6QXI4MFRBa2JSMUluN0dHbWNSejNRNWpoZk1rUDJVMS1CSGU3Y0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals stock holds steady as guidance and dividend support valuation - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS05tQ0tWc2tQVUgyd2FZQ3pfLTg2cVZSOUlIcmctS2MwTzhpLVk4aXlybTlJckJhTmN2N2ZKOFpGVXotbjU5NWMwNlhyLWFFd3I2clZOZHUtQVBteUgwaWZ3ckY0SmhYOEdMcnoxSjFuNkVaLTZlM1pSd2JYeUhhT1lDTlRac1Y2Wkw0X0ltS0p5Vk9oalFpbGk4emFSRDdnZjN6clBpVjZBbTNjRXVnSnhzX2V3VktILXZBdC01ZjV6bDNSYklNLWFSalBSQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is (LSE:ITM) Power Building Momentum In Defence And Green Hydrogen? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHVZeEE3MjQybHFycVB6UlFxdS1Ga18ySHYxTDJNTzRmUTBXLTFjREtLWTFQVWV6aE9GZWl1TWRnQnpBM3d1eXJ4N25OOHVGVHZZeHJxUERNZUt3VXRDb2tnYnppZkVVNlN6UEFzYzBUUkQtRU5faU1ONWY1SFZVLW5zclBMMW1VYW5yQXhaZ0wycFZuQW9mU0gwcVEtYUJLSnBiU21ONGczcmpVRkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy to Build Rolls-Royce SMR Turbines in the UK - energynews.pro",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDNrVFdlMVpTdTJ3bTg4Uk8yS2JBRjB0eUF6d2R5X3RUS2Z6bjF6N1lZVHZJVG5zU0F1WHc0cDJUWC1PN3hEZWRqUHhUaXh3UlhhLWt5ZjVDcldnaGR6RU44R29kM1hpYnIwS0NndHd5b3FlVWsxQlhKeU8tWGtJTmhhc19jazhRM2xIRw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy CEO Puts Crisis-Readiness at Centre Stage While Investors Weigh Restructuring Against - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc2Z2cmVTakRRc0p5cXBiV09SNmstR0lnU3pGRkhzdWpXaDM3aVRSb2QyeW5IVHQxTXZod0xzbzNzVk95Wl8tU2JEWnVOYXJQVGh2Uy13bERCR3YyR1VPUS1LZ3BxOTR1MHMwMzRSSTE5Qm5VNF9kRWZIUjRhSG9NRnA2TU9qMVQ0dDdKdk93WW5DQzVCbnN5bUdBcHZ2TVN5NHRKVXNXRkczUG9TSTFRUDlKTGxlUzMyTy1VU1BRcjdCUmJuVDBFZFRLdVdlZHJiVk1QWmZiWkpfdWVz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 94,
+    "too_old": 128,
+    "gate1_blocked": 83,
+    "gate2_blocked": 27,
+    "passed": 19,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+      "Air Products expands hydrogenation capabilities in Pennsylvania - gasworld",
+      "South Korea says Air Products, three other U.S. firms pledge $2B in chip, energy projects (APD:NYSE)",
+      "Air Products' Shares Rally 25% YTD: What's Driving the Upside? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為現代汽車、豐田、Air Products相關動態：「South Korea secures US$2B from Air Products, Axcelis, Cor...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "South Korea secures US$2B from Air Products, Axcelis, Corning, Pacifico Energ...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products & Chemicals stock holds steady as guidance and dividend support ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
