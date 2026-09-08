@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 91,
+  "gate2_fail": 25,
+  "passed": 22,
+  "gate2_samples": [
+    "Air Products & Chemicals stock heads into the open after a 0.97% slide - AD HOC NEWS",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+    "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+    "South Korea says Air Products, three other U.S. firms pledge $2B in chip, energy projects (APD:NYSE)",
+    "Nel ASA, Plug Power, and A.H.T. Syngas: Which cleantech energy stock shines the brightest? - news.fi"
+  ]
+}

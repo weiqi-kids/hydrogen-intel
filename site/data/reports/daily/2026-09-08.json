@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:22:53.276876Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buy Siemens Energy India; target of Rs 3655: Prabhudas Lilladher - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2tCLXlBMlRaQ2dPNEF4aWx1aXRQck1ISlNHQkg1TEZrQTJHc2U4V0lPR3RXQ013ODg3R3ZkU3Z2R1k0eHk0UjVod3A0a0I5ZG5JQjVNbUNZTkczaEIwRlBUX29RSmxpOHdENHdOUlg3ZWpnMFo2VjNQZ21NcUMtMm9pSUVYVXl0ZHRPVnIxVm5uMV9pQ3pkSmFZaDNqcGdZOVc5SlhzVFc5SGhudGxvREFFX2J2SFN0WjBvTzl3OWdrd0k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group builds on 40 years of U.S. investment - Axios",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnBXQ0NVT0NmMVJQN0k5OWJ1U0s0c3FQRkhkNnE2MmY2MmM5WmpIdFY1bGpkZmhhZXNQWEljTml6dk52Wko5TTFMdUtvM1FpWjd2VUh3VkU1RURzSkR6MHVNOGowVjZXN0djNC1FMVktNm9jN0N3NnJxNGtYdVIxU2RFLThjNzk3NHk3R19paHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Securities Launches New Low-Risk Samsung-Linked Derivative Bond - TipRanks",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelZxdmJGUmpQckVTbFZnWlpzd3AxRy16cEFsZ3dKM1pjUm9IRWdBOUFHTnJQc2RUVnJ2Y3VIX2NhRDJIVldndWkxNDlSN2lWTVhOTzRmLVAtNXFtNmJYSGRsVWJtZl80NkdHWGlWU3NVaV9zcTZOUk9HUzEzbFF3QWR0T1lqS3o0U3JMZEVWc0NFZ2FjYnlUSDQ0elV2RWl6c3NZa0t3WVFaOUcxZ1dyTzVfYnR6WVNiTzg3ODYzNVBqNHR3Y05jdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor expands autonomous driving push beyond EVs to gasoline, hybrid models - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbklndmxFb1hHREY0SFlvMk8wSjZpMEZ5c1dHRndHQk1UazZDSzZKXy1ITE0xQzY3VmJGcV9hNWZpUE1iSUFia0FYWEc4M2dMcDhCdGFQd1pMM2VTOFRBOXlEOHQtZUJIUXJub2VXOXUxTndl?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Announce Partnership with UEFA Champions League as Official Automotive Partner - Ministry of Sport",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN19NOEt4STQ5YTFYN2x6bGZBNWlBb29hUFJoS25JV3g1bThMUkhfU2N0NUdzVFpTcWhVajJZa05GZDVfYjVtdW9UZHpuZ0xVSXpRUWZRVVM4NUNjeVVZbE9paWpmSmc0WGFNdXdoUko5ZkdFU3RFSHlBZnNIMUozcVlZZzM0bW90bmNoYTlweVNGMTR5dmJaVVNDV2VfYzJfOEFhUW5la1BCMDdfQm1lenA1SERuT1hCT0FldEFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 92,
+    "too_old": 118,
+    "gate1_blocked": 91,
+    "gate2_blocked": 25,
+    "passed": 22,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Air Products & Chemicals stock heads into the open after a 0.97% slide - AD HOC NEWS",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+      "Air Products expands hydrogenation capabilities - Speciality Chemicals Magazine",
+      "South Korea says Air Products, three other U.S. firms pledge $2B in chip, energy projects (APD:NYSE)",
+      "Nel ASA, Plug Power, and A.H.T. Syngas: Which cleantech energy stock shines the brightest? - news.fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、豐田、西門子能源相關動態：「Buy Siemens Energy India; target of Rs 3655: Prabhudas Li...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Buy Siemens Energy India; target of Rs 3655: Prabhudas Lilladher - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Group builds on 40 years of U.S. investment - Axios",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
