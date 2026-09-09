@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:34:30.994763Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-09-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Securities, which recorded solid earnings in the first half of this year, up about 50%.. - mk.co.kr",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52cmJDMWdsR19teHo0ai1TSzEwZTY0UndXTVlaQktqZlZSQ3c1Ymx6bUE2bDdZZHg2VHNsS2g1SDZnQkphdEZHdTEtS3hwaWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Backlog Tells a Promising Story Its P&L Can't Yet Confirm - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ0VMSDhwNFRpb0tBemNXYVkyN3hkUFFDTnpTTUp2LUtkZmg1RlQ4YWF6NGFxX21sLW9RVnZQamY2aE9ZMVRreVppSUFfR01CMjI0c0lKLVJTUmkwN2VHaHhmVHhOTHpJT21OSnYwcFpjU29MRTRNY0tPbnpUUTdRNEF2blJxQ2Q0WGthLUR5ZUEzMWF0WU9nRzBSc0QtNXVSamJ5b0ZzSnNTdkhvUGt0Z1VJeTJKN0F5Q09kNGp1R0I1NFk2bHVNcjVCT3g5Nmw4anZuRkZKUVJ2UjA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy AG : JP Morgan reiterates its Buy rating - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTRlV3gxNVIxbkpsdjV0UHVSLThaV1BHei1hNVhka0dzQlQ2UUdUc3VrOGFjNlZvYUNkSmFNUFFjOVlZd3diTm8yRDBCUWtRUURqaElpOHA0RkNWaGFBNnZnWnYxNTlZbFZfLWd4REJ2cVZtZnFXMHJnbFo5cXQ2VGkwaTQwMlZ4Ul9YdzZfU3dSZ1h3WHFTSzRONVRkRlh6ekM4djR4RHR3QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group and African Development Bank Partner to Accelerate Sustainable Development Across Africa - Hyundai Motor Group",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdW5Bek9IWlVHODc1RmtzUFAtTldCUVg4Uy1KOVRVd0dfYmx3dXc2YkxwckhrTXpsdnpPLWF0c2dOQXhwMnVMVTBoVVdGamhGYVdJMi1tVjloV1VkMGxSM081ZC1vZXFlckRncFN2YmU3eTBLa2h1UUkyNmRfajVvN1FPc1RuYUlKNFByc0xmeUlNZmt1VDR1WlNQVEFGRnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor to Validate Atlas Cost Economics Through 25,000-Unit Internal Demand - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2RC1hQzQyMkltZW5tZC1JVi1FOHl2LWo2SUotQVJWRTdsWGQzMlEwWkliV3V5UHFSNXRXZmFsM09PNXlWQnFuUjNPZlJYYThreWF0ZGd1bUE4SWpIWnVhUEQxV3RjVG9mYm1UUUJEbUlBczZrbkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 95,
+    "too_old": 124,
+    "gate1_blocked": 81,
+    "gate2_blocked": 28,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+      "Air Products, RWE sign Rotterdam PPA - reNEWS",
+      "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+      "Air Products & Chemicals stock heads into the open after a 1.2% decline - AD HOC NEWS",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - marketwatc"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為現代汽車、Nel ASA、西門子能源相關動態：「Hyundai Motor Securities, which recorded solid earnings i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Securities, which recorded solid earnings in the first half of ...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Backlog Tells a Promising Story Its P&L Can't Yet Confirm - AD HOC ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

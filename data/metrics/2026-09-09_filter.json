@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 81,
+  "gate2_fail": 28,
+  "passed": 21,
+  "gate2_samples": [
+    "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+    "Air Products, RWE sign Rotterdam PPA - reNEWS",
+    "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+    "Air Products & Chemicals stock heads into the open after a 1.2% decline - AD HOC NEWS",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - marketwatc"
+  ]
+}
