@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 82,
+  "gate2_fail": 36,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+    "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+    "Argus Research Adjusts Air Products and Chemicals Price Target to $329 From $316, Maintains Buy Rati",
+    "Air Products & Chemicals stock heads into the open after a 1.2% drop - AD HOC NEWS",
+    "Air Products, RWE sign Rotterdam PPA - reNEWS"
+  ]
+}

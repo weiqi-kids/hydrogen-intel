@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:28:20.949921Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RWE to supply renewable energy for Air Products' hydrogen plants - Renewables Now",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTVXUm94b3FlSW1YWW5HZFVrR3loRDloY0xzREwyWnFIUExLSWhJRjg2Rjl0QlN5Z1FoSkJFRjJUMk95MmttVUNSamdZeGN4aUZ0Z1BQMUE5SVNnOUwwQ0kxbmJzdDhRMU1FMVlHNm5UYjhYUTl3NlR0N2pVWHhBU3JvT2g5d0k5RGJROXpsMGhtSXVaN0RGTldqV2tTZlp6NFgtamFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Enters framework agreement with Hydrasun as a European integration partner for PEM electrolyser solutions - Yahoo Finance",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamNhRjJrMDRaU0k3U05IRFNwTzhFQnctYkxiaG9pMUxnbnQxdWEyRktQRFlfQkxOaW0wa2lwZm5UNDdmVmx2Rm1UNDlZTUZCS19QYV9EcUlIOHBfeGRINTAwbm1SaVhKUy1kNEpWWFl3Y0JVaUFMNVVXa3JlcUtnLWNoY0VpVWlINFE0U24ySnIyN0dicFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-09-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Nel ASA Set to Rebound? Analysts Are Singing Bayer's Praises! RE Royalties Entices with Dividends! - Stockhouse",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3hlM0ZldlBORk1RYTZSQVpDTzdESUNDUDlaVmtUYlUtTHEtOGo1X0pqTklONS1jejFqbHgzZFlZOG1KX3BMZ1JiNmZYUEx3cEdhQWdqRlRWNFpPdW5velBpNm44cjlTYzMxVUNmdzZDSzAzNmVFU1VRSmJSN1BuYll6YXNNb29wa1dLNlhkYTVuMEUyU0QzWDVZQzBvaUhKeXN3MElYSFpRZTczRnpxd3pVenRZREpjYXRGUnlNbFpsOW45SkRTMGFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-09-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is ITM Power plc (LSE:ITM) Rising Today As Green Hydrogen Demand Builds? - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFM2TjZLbXNaM3E5M2JqVW5DdU41NVUwaTkwcUVNRHMzNVlJSVdJM1JXSWpvUEp6cFpYVlVJNzlTVkFScm9UMzlhLTNZSlFYdjJTWkdNNjhRQWJMUzdqX3VtVmEwb1lldU1mTFkwNXZ3QXRuem5VcVJQTHljS2gtSnRsNFNuR3hTRVdtZUZrbHlzaXc4ckpwUzRPYm03MDZYeF9fMzFVMHFpNEZVREpJRHh0RS0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "chart-2026-09-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baker Hughes stock gains as Chart deal lifts 2026 guidance - AD HOC NEWS",
+      "companies": [
+        "chart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUllrSENDeVg1bVZmUjM4Rkw0UmxoaXBpZjBIS0hxSThOWnpXS0tOS0JiMGZ5eERkSXpVV3YxMzktbnp5OFluel9zRHhITlhpMnp5NkNLQXI3YWo5b1hqTXNFNDlmTWJiV3A1UFMtd2hWeEw5NWhqUFhJcktnTXdMa0NnTXBVSTNXLWktbU50S1VIeG5JSjhjWnRvTk9OczZmcW5nQWNjNnRtR2I3Q0JuZERweTdqMG1sc1E1ZEl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 90,
+    "too_old": 114,
+    "gate1_blocked": 82,
+    "gate2_blocked": 36,
+    "passed": 27,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+      "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+      "Argus Research Adjusts Air Products and Chemicals Price Target to $329 From $316, Maintains Buy Rati",
+      "Air Products & Chemicals stock heads into the open after a 1.2% drop - AD HOC NEWS",
+      "Air Products, RWE sign Rotterdam PPA - reNEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、豐田、Nel ASA相關動態：「RWE to supply renewable energy for Air Products' hydrogen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RWE to supply renewable energy for Air Products' hydrogen plants - Renewables...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: Enters framework agreement with Hydrasun as a European integration p...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
