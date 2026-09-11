@@ -1,74 +1,74 @@
 {
   "air_liquide": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-10",
-    "count": 6858,
+    "latest": "2026-09-11",
+    "count": 6859,
     "history_complete": true
   },
   "linde": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "air_products": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "nel": {
     "earliest": "2004-10-11",
-    "latest": "2026-09-10",
-    "count": 5522,
+    "latest": "2026-09-11",
+    "count": 5523,
     "history_complete": true
   },
   "itm_power": {
     "earliest": "2004-06-11",
-    "latest": "2026-09-10",
-    "count": 5634,
+    "latest": "2026-09-11",
+    "count": 5635,
     "history_complete": true
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
-    "latest": "2026-09-10",
-    "count": 1516,
+    "latest": "2026-09-11",
+    "count": 1517,
     "history_complete": true
   },
   "thyssenkrupp_nucera": {
     "earliest": "2023-07-07",
-    "latest": "2026-09-10",
-    "count": 808,
+    "latest": "2026-09-11",
+    "count": 809,
     "history_complete": true
   },
   "plug_power": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "bloom_energy": {
     "earliest": "2018-07-25",
-    "latest": "2026-09-09",
-    "count": 2042,
+    "latest": "2026-09-10",
+    "count": 2043,
     "history_complete": true
   },
   "ballard": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "fuelcell": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "cummins": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-09",
-    "count": 6711,
+    "latest": "2026-09-10",
+    "count": 6712,
     "history_complete": true
   },
   "chart": {
@@ -79,14 +79,14 @@
   },
   "hyundai": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-10",
-    "count": 6672,
+    "latest": "2026-09-11",
+    "count": 6673,
     "history_complete": true
   },
   "toyota": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-10",
-    "count": 6661,
+    "latest": "2026-09-11",
+    "count": 6662,
     "history_complete": true
   },
   "nikola": {

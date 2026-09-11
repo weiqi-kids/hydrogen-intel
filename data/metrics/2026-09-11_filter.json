@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 87,
+  "gate2_fail": 41,
+  "passed": 30,
+  "gate2_samples": [
+    "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+    "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+    "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld.com",
+    "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+    "Air Products to donate up to $15,000 to support innovation in ceramic and glass industries at Toledo"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:26:34.361260Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-09-11-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Air Products & Chemicals stock heads into the open after a modest loss - ad-hoc-news.de",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTgzbWNJY2tBM0diRTY0ekk4WFlDSmp2VjkxcU1HT2ZycTExOURRUmJxU0dDdHRfUGN5Q1hLSkt0dEh3N2Z3M2dNSC1BQzlKakJYcWNvdnNWc0V2NjFPNWdMVWZFQ1I2ejVfT2FKVS1jNzI1YzI0UUsyNk1pbWlSU1QtNzNEMmFIakh4dDNJMXIxejV0N3hoazhOcjVUZ2xHRUc4R29mdFlIQzI3aTZPdGVPb1UyUjBMV2JFYm5LaEJSVi1xRVNLRGJPOXFNdzNW?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-09-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Outsources European Electrolyser Assembly to Hydrasun While Still Hunting for a CEO - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb0NUT0xKV3lLNWVqa1NLR25BbWJWVnlTOW1fUjgxRWdHbk5fRlNQRGc3SnB2d1pmWnBUSkNQdmJDdElkc2ZhVkY0TVNVMkZ6SWtwaENWVlFWNGpfNEtzMkc1alc3bHJEdEl2SWZ0SFc3UU9tM0c2emdfQ3N6b0czbERCZjJZLXhQVE1GUTV3Q2pyRm5BZXdxaXhNMDFpTGRDTWQzTXcwTFp5bG5TaHJCVEx5MHhyZXMyYTZrOFY2UTRzNXFBWV9MNnZjM3hEYThZS210UXBZVmxCMGg1SGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kia Purchases KRW50 Billion in Hyundai Motor Securities MMT from Affiliate - marketscreener.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFNFcE9nVU9GaGRaQlJJdHB4T3R1Vy00WjBlSXg5RXdVeFVNRDVROEEtT09TMWdGTE1MNFNNRjVaYVFBU1VzZ3FxR3FwbnBiZGdjT1VYMGVwbUdjMS1fTGN6VFoxTmNCcFZaMWFjU0Q5X0M2d1J3U080MUxJcnliYlpRSzlnaVFmb1Rvdjkwa21VSjJYLUJLY29XaHFfMmtMNGY1SXQtMjBIRGZqYUJCNVpWMlFZVm1KZFVfcG9hM2gxbG1PcGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-09-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota has revealed a new £1,800 GR model that’ll help you become a racing driver* - Top Gear",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2FRc1V0WG85S2RaakVIVTB4RGZuSTdnWHZXTC1hUlkyQm9kaVpLc19SRm40Z1NoLWxCcmVobW93Ri1za0RDRmY2dzAzaUVrY3Z3Zm5NMTd3RkR4cjNBejJIS0ctd2JvQmVCZUhvdkttbHlKcURnWUFpNk1IUks0OEVWY3hzMEJTYk5ZLUhtaDloX3ROZHd3MnQtRDRWUkhqaDhLSWFCMGlfZ0ptZGRvUmg4RTZCZ1Rf?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-09-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families - Hypebeast",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2VUSXhkSDdKNkhpTFBJajVOWEdRYkRUbW0td3J6eEhicjRyWkhJVnhoaFAwUFRqM1U5ekZHSG42ZGM2dDRpUzI4Sk56Zkk1R054eFBoOVpkNHY2VFpZUHA5UEk5TmE4Nzl6bUQ1bjNnLTNKR0ZyZXlXWlhnRm1yUlN3MXhVUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 4
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 75,
+    "too_old": 116,
+    "gate1_blocked": 87,
+    "gate2_blocked": 41,
+    "passed": 30,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+      "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+      "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld.com",
+      "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+      "Air Products to donate up to $15,000 to support innovation in ceramic and glass industries at Toledo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為豐田、Air Products、Nel ASA相關動態：「Air Products & Chemicals stock heads into the open after ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Air Products & Chemicals stock heads into the open after a modest loss - ad-h...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA Outsources European Electrolyser Assembly to Hydrasun While Still Hun...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
