@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 90,
+  "gate2_fail": 38,
+  "passed": 20,
+  "gate2_samples": [
+    "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+    "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+    "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+    "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+    "Is Air Products and Chemicals Stock Underperforming the S&P 500? - Barchart.com"
+  ]
+}
