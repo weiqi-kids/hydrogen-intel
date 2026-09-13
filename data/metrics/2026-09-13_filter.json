@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 87,
+  "gate2_fail": 34,
+  "passed": 16,
+  "gate2_samples": [
+    "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+    "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+    "Argus Research Adjusts Air Products and Chemicals Price Target to $329 From $316, Maintains Buy Rati",
+    "Air Products (NYSE: APD) insider covers $303.62-per-share tax with stock - Stock Titan",
+    "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st"
+  ]
+}

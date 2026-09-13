@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:56:07.357332Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-13-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor to Mass-Produce Self-Developed Autonomous Driving AI in 2029, Says It Will Surpass Rivals' Data Within 5 Years - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVmd4dmRMcXl5akZsejI5VTJXN1FHcEoxb1VGTkU5ZlVob1hzU2RKbnh1QUxnUG14TUtQTlRGM2ZOa1loRGJMcUhyUkc5U1lWeXIxQXhLb1ozYWlrUms3Y1B4Z3AxMHdfVFkwNl9tSVdKdkZ2MHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products And Chemicals (APD) Following Revenue Of US$12.6b Is The Undervaluation Story Still Intact - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYW5lNDVTeDRaVjNrc3dNRm82WlIxU2l5RWY0SkFIMzh4ZFJ6RkJWZ1hxTWhsS2gyV25DekJtNFVQcnZRNm9pcldlNzBNQTBRSFdCUkhwUWxlTjJFTEp6VnVYWW9YMTJKX2pwSzlVcE9hNDFTT014anRqT1pBNHN4eWg0dmxILTNPTDJyd25veHN4cFN4OE92Qkk2R1BlWmpzMVpUc0Y4b1N0MDNPd3AwVGZmdk5jOFZubGJHM0hscVBjQTFlak9mNDd4U21jQ21UZkxqRTBkOGYxTlHSAeABQVVfeXFMTngyeG41Nlp5bGVvM0ZYUEhRZEFITkdNQ0FTcVdxOVlJTkVyNENGNks1VzA2VXlybjR2WWZqSV9QRWVOeHBhU3dPaWk4cGhLOWJmbFBFdEhQZUp1cTFTbkxqM25ZQWFpLXhuQ0g4bnFVbDRNT2c2WVRSaWhlR0VKc01sVE5WekQxSDBxMGdaVnZLbDdlYkViVVlYOWt5YXNiSTdRZmxsZVkzWENsZnJMN0xzZWNFUFRCamhnZ2c5VnhZMGtMSEs5ZXhvLTdTMFFtREhKcFdyVFF2OVhLRkJYQmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book and a Scottish Assembly Line Are Doing the Talking Until the CEO's Chair Is Fil - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcl90bzhuVXpaVzByeFljMnNwaWNHTXNTY0lrV092dUpPOXNpOVpGeGhCVExYZWpGUm5XdF9ZM3NHcHo2ci0zS2k4UU1uX1VYcmVqQWh1Sm1mN3VYbHRHTkFnbURNT2JCZWJwR3pHbWlGemw0UTBBLVJqZ1prRFlzSkdyRmZEM0VqT3FCazliMl90dnVTSFZIYTFOSGRjYm1JcFhtcWtyekxyZXhWOHZ1b28zc2piNkVNRHFMR1BnUk5pQS02Ui1BUy1aQkZ0ek9VSlN3Rmh6d2JsUTg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Draws Private Equity Interest for €10 Billion Unit as JPMorgan Sticks to Bullish Ca - ad-hoc-news.de",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1RFZF9xZmtnU1RHZmRJR1Z6cjVBZHdlWEo1MU5FN2VJdUlvY1RMX0NOVTFMdVdNMDdfMVdCZXpVMGpQblZZVHZhZXp6cXd0Mm0tcF96SGVwbHZfbENha3RaenpCVW9LWGlDQUphNThXbG1VS01KeW1MazJHZFRyX3RJWHhFS2RNX2F6LXhyUTdKVmdueHdjZTBfQkY2NktDck9IVzRsZkhsUTF0MmtVcHFUYUY1djZWZnhtSWp5cWRQb1JxNUZlb0tZWXcwbGJfam5ydHhn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel - PR Newswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYU8tUjlVWDhId3NDa1NhcEZ0ZE1EcHdpeXNGNTlMMkhFNGd5TWppeFM4U2NFcmJ4RWNudzNZRHBJZFJWMHlVNUVOR0N4NEhJZXZ6VXZ3dU81NmZxNnJ6Y2gxT3Z4eTFYWWxnZVRvVy1ESUhZS3BHV2hPRjc1LUpMTWpROHZ4My0yUko4cXFTd0M2YlJNVmJ0ekhWTzhYTFNlYUJ3aEg2OHJOaERmejJOUkxjQW1KU2kwdk4wb1dELWtuVnFVT1I5WXh3YWY0Yk1vSHY1ZGhiai13RGJSZTMyaQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 102,
+    "too_old": 111,
+    "gate1_blocked": 87,
+    "gate2_blocked": 34,
+    "passed": 16,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+      "Air Products and Chemicals: Better Margins, Higher Returns, And A More Disciplined Energy Transition",
+      "Argus Research Adjusts Air Products and Chemicals Price Target to $329 From $316, Maintains Buy Rati",
+      "Air Products (NYSE: APD) insider covers $303.62-per-share tax with stock - Stock Titan",
+      "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Hyundai Motor to Mass-Produce Self-Developed Autonomous D...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor to Mass-Produce Self-Developed Autonomous Driving AI in 2029, S...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products And Chemicals (APD) Following Revenue Of US$12.6b Is The Underva...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
