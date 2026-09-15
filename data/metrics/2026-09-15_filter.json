@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 90,
+  "gate2_fail": 30,
+  "passed": 32,
+  "gate2_samples": [
+    "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+    "Air Products (NYSE: APD) insider covers $303.62-per-share tax with stock - Stock Titan",
+    "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+    "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+    "Nel ASA's Quiet Stretch Puts a Single Date in the Spotlight - ad-hoc-news.de"
+  ]
+}

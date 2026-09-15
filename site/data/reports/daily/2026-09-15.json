@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T12:58:56.529857Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy: Global expansion of renewable energy requires storage and LNG to safeguard grids - CNBC",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmJlQWJLMTgzWlZtMEZGd2VXTF9jQ2ctdWxLcE9qVW1DV3pJQVc2ZVZJSkEwbjVySkFoa3JjdnJLek5JM01mYzA0XzVVcXRvOU5leDBYM3lQSkNOU3hFYU8zaGhaTzY0Zk1ZdzVIOXAyaW1kem85dmJacGJiMm9iWnNpeWhGVzFXNWt3R3ZwNTU1YnhacFc5ejRqRkx4WDVHaDRveTdEMlhyMTd6OWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy turbines reserved for 2.6GW UAE power project - HazardEx",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGJNVnBSMUdlYk8wT2J3SHZ2dDFzTElfcUY4TmwxakFYTmxrYkZtbXBPemFuQURyVzh5NnI1MVlpODFmVWNybG9qeVViUzJSR2pDcXp3dlFYZXZDaXJCQU8xM3dOVmJocm96VUdaSXpHbEZHakpuRGVNdWp3d0ZHN1F3anY4VzU0NEtyTV9NTlV0QzNtQUUtZ0pCR21sR1R0bnRtVVdjT3BXcTlyc2lmcEJGWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Outlines Autonomous Driving Roadmap - Future Transport-News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2ZSaUIzWHhoaVV2QWVBS2VKQ0VjT3RYbmtBTldHUHdrc1d1QkdCZ095dWxZaW4yZUJ0RHFneW5VUktkSjZqeUhSWDkybXBBTmZaT0Ztb3lvMFdncFFpZWJBeFRSYnk0OWZkWmFpZ2d3eTV5V3M2aEFqajJKend3QWJVSE1FQzZoWEVkN2dIVlBKNTg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group eyes expanding production and localization in Kazakhstan - Qazinform",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkFaajdUb2ZIWE9yd2ZiQjF1NXNyWTB2SWxBYW5lSlFwREF3eDltWUJob1lYZzlTMzhxZXRDSEc3aEhJSVhhRGdnMnBveG80SXdvcjJwUEhjZ09oSndBTGthZHNsMUlfdFRlYVlPb29Xa0lKQWFDZXlTVkUzdHkyY2p5U3JacU9SaUNSMTBjTGxXaUw5aFBuUmNablo4a0RRZzlGX0xhV1h3VWlwRDNV0gGvAUFVX3lxTE91RVVXQ3laXzlaS0Y1M0lBd0xvWXd6YTBGVGtlSzhVUndWV0xMdWpyaXRWd2htYjVIVXQtZjZBT1l6dFcwUmNiR0s4X0hUSGVKWno0T2xBQWdicWZ6RWdSb0pTS0JkSGROVVVTSHg1Z2VJSjVaU09HcVFWeW1QVWZqSm9RZlJ6MUJxa0V2Uk9YRXotY1k4WHhxZUdvYWdFZVljVURmcnQyM0tvaGJNTm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group deploys AI Data Flywheel for autonomous driving - Vietnam Investment Review - VIR",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTRiSWlvcmlxUlR4Tm85a2prMUgyNkVkZlRRWnJmTEVVaGg5QzJKc0pfZUFxVGx1c095YUpBdnV6alp3SHlXLU9kQjhla3B2VkFCQlhfeG85SHdJLWkzQ04ya3lVaXVrTkJtMGxWR2R4VmxiMU4wNGxWQnpyVmJTaUhzWmZscmxUWjZreVpvR2lNeUFHSTdiMXZSY0Jvems?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 86,
+    "too_old": 114,
+    "gate1_blocked": 90,
+    "gate2_blocked": 30,
+    "passed": 32,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+      "Air Products (NYSE: APD) insider covers $303.62-per-share tax with stock - Stock Titan",
+      "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+      "Air Products inks renewable PPA to liquefy RFNBO hydrogen in Rotterdam - gasworld",
+      "Nel ASA's Quiet Stretch Puts a Single Date in the Spotlight - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Siemens Energy: Global expansion of renewable energy requ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy: Global expansion of renewable energy requires storage and LNG...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy turbines reserved for 2.6GW UAE power project - HazardEx（電解槽產能）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
