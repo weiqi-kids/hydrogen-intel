@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:56:49.413061Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-16-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Toyota Moves to Consolidate Its Two China Joint Ventures; Hyundai Motor Bets 8 Billion Yuan on Rebuilding - finance.biggo.com",
+      "companies": [
+        "hyundai",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNG5SWThucFZyVEJjX1FwYnN2aTRndmlsVnR1XzR1NW44WjQ3R2R3amN4ejF5T3dFbmZxTm8wNnZsYm1IdVpkS3B5akNOVVduVG93eHBGSnlhcHBMR3pGTVU4NzZPX1JyQUhabDhzQ2NhSWJUNGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor unveils sketches of new India-targeted SUV Bayon - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XdWZ4NnNpc3pqZWFIVnY3UE0zYzV2S0RqdVNtRWdsZE9oUGVmc2xHLWFYM3dqbERiSmtLS2YwN3JrLTNFaUw0RWNZcEFPR3hSdTNyOXNpSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-09-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Motor is broadening its hydrogen strategy with plans to launch a fuel cell powered Hilux in Europe in 2028 - Hydrogen Central",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hydrogen_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXlyOWZOMnZpcWlxeTI2VnJIZ2tMOThMSmE4d05SQUg3SkVmZ3dZMVkwOGtKUVVQcGhjWUZCVW11VEtvYWxpSklPaG9TeFJGMk05WVZWYWJlcVVOMlhHcVY1cnJJMm9ObU9vak42TzUtZ0s0a2FKcTNLYVhCN2ZLWi0zSHhlaEIzTGZzM1JJN2Rva2FNYm1ubDVXbENzNGNUdzhRbll2Vl85NHg0X2dzb3dxR3hlNGJCMXNKUmF4Z0lJWlpPMWdha2c1d1RCVmlUUGlyY0NnaXpZZ00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 88,
+    "too_old": 122,
+    "gate1_blocked": 95,
+    "gate2_blocked": 30,
+    "passed": 16,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+      "Air Products & Chemicals stock reacts to clean energy project shift - ad-hoc-news.de",
+      "Air Products (NYSE: APD) insider covers $303.62-per-share tax with stock - Stock Titan",
+      "Air Products (APD) Stock Looks Overvalued On Sales And Fair Value - simplywall.st",
+      "Shafaq News..Iraq, Siemens Energy sign Phase IV power framework - shafaq.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為現代汽車、豐田相關動態：「Toyota Moves to Consolidate Its Two China Joint Ventures;...」。主要關注主題為氫能政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Toyota Moves to Consolidate Its Two China Joint Ventures; Hyundai Motor Bets ...",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai Motor unveils sketches of new India-targeted SUV Bayon - The Korea He...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,62 @@
 [
   {
+    "id": "hyundai-2026-09-16-001",
+    "date": "2026-09-16",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor unveils sketches of new India-targeted SUV Bayon - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XdWZ4NnNpc3pqZWFIVnY3UE0zYzV2S0RqdVNtRWdsZE9oUGVmc2xHLWFYM3dqbERiSmtLS2YwN3JrLTNFaUw0RWNZcEFPR3hSdTNyOXNpSQ?oc=5\" target=\"_blank\">Hyundai M",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XdWZ4NnNpc3pqZWFIVnY3UE0zYzV2S0RqdVNtRWdsZE9oUGVmc2xHLWFYM3dqbERiSmtLS2YwN3JrLTNFaUw0RWNZcEFPR3hSdTNyOXNpSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-16-002",
+    "date": "2026-09-16",
+    "companies": [
+      "hyundai",
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Moves to Consolidate Its Two China Joint Ventures; Hyundai Motor Bets 8 Billion Yuan on Rebuilding - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNG5SWThucFZyVEJjX1FwYnN2aTRndmlsVnR1XzR1NW44WjQ3R2R3amN4ejF5T3dFbmZxTm8wNnZsYm1IdVpkS3B5akNOVVduVG93eHBGSnlhcHBMR3pGTVU4NzZPX1JyQUhabDhzQ2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNG5SWThucFZyVEJjX1FwYnN2aTRndmlsVnR1XzR1NW44WjQ3R2R3amN4ejF5T3dFbmZxTm8wNnZsYm1IdVpkS3B5akNOVVduVG93eHBGSnlhcHBMR3pGTVU4NzZPX1JyQUhabDhzQ2NhSWJUNGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-16-003",
+    "date": "2026-09-16",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "Toyota Motor is broadening its hydrogen strategy with plans to launch a fuel cell powered Hilux in Europe in 2028 - Hydrogen Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXlyOWZOMnZpcWlxeTI2VnJIZ2tMOThMSmE4d05SQUg3SkVmZ3dZMVkwOGtKUVVQcGhjWUZCVW11VEtvYWxpSklPaG9TeFJGMk05WVZWYWJlcVVOMlhHcVY1cnJJMm9ObU9vak42Tz",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXlyOWZOMnZpcWlxeTI2VnJIZ2tMOThMSmE4d05SQUg3SkVmZ3dZMVkwOGtKUVVQcGhjWUZCVW11VEtvYWxpSklPaG9TeFJGMk05WVZWYWJlcVVOMlhHcVY1cnJJMm9ObU9vak42TzUtZ0s0a2FKcTNLYVhCN2ZLWi0zSHhlaEIzTGZzM1JJN2Rva2FNYm1ubDVXbENzNGNUdzhRbll2Vl85NHg0X2dzb3dxR3hlNGJCMXNKUmF4Z0lJWlpPMWdha2c1d1RCVmlUUGlyY0NnaXpZZ00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "siemens_energy-2026-09-15-001",
     "date": "2026-09-15",
     "companies": [
@@ -199,6 +256,134 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "http://www.hydrogenfuelnews.com/dongfeng-debuts-400kw-hydrogen-fuel-cell-and-new-hydrogen-vehicles-at-iaa-transp/8576663/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-09-15-012",
+    "date": "2026-09-15",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Technip Energies Launches SnapLNG 1.5 With Honeywell Technologies and Siemens Energy - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3pSR2tmWmdscWFqNmFaTllYcnNfTUZrMUUtaWxnNlNFQTY5QnpiWU43ZkppdEJqNGl1UkJLa2dXcldqOVljeldSS1NTUG9CYzhXR2d0S0VyNENWTGF4Ul9RQ0JmRWxtSjVVOHJWdV",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3pSR2tmWmdscWFqNmFaTllYcnNfTUZrMUUtaWxnNlNFQTY5QnpiWU43ZkppdEJqNGl1UkJLa2dXcldqOVljeldSS1NTUG9CYzhXR2d0S0VyNENWTGF4Ul9RQ0JmRWxtSjVVOHJWdVVGZ2RYTUliUXVFMVc1eDhudVY0Y2dlc2ItQ0dGSjRhY1UtU01NdzdxUzRSNWQ4d25QTVRPemdPaE5SUlRwUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-013",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Hyroad Energy to refuel and maintain US logistics firm’s hydrogen truck fleet - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDZ5YVNLellrSno0NXpSam5kSlRrX2tmMEpqQkpIS1VTeVE0Nm9ZSnp0YlVFQlV0QWhBYzUxTDVzVzh3b0lpTzhEZmM3RXZXSlBGQ0w0Zk1rVlBjMG1MYUJLRUFzRFBWRlkwUnVJbD",
+    "sources": [
+      {
+        "name": "nikola",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDZ5YVNLellrSno0NXpSam5kSlRrX2tmMEpqQkpIS1VTeVE0Nm9ZSnp0YlVFQlV0QWhBYzUxTDVzVzh3b0lpTzhEZmM3RXZXSlBGQ0w0Zk1rVlBjMG1MYUJLRUFzRFBWRlkwUnVJbDJRTF9BRTc4THNXdWJvNk1waXdwNXc5U1VjYjlCOFA3UnRrLThjeUdrdkNYNjJxelJmUHVjUlloRzFXNUNVSHlfQllPMkdyQ0VfcUVxemY1dm9zZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-15-014",
+    "date": "2026-09-15",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Metro Council to vote on settling lawsuit against Kia, Hyundai for over $700K - WSMV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05fYWdlclhvSkNISjZGUktIY2pXWllNN2c1VWR4bFp1amVWTFNwVkQ1YUtwdFJTcWk0bVk3N19DeHBQTXNUMTFiWkN6b2w3ZkdzTDFrVVZ1aU44U0pCZlY3eWgxVkMzdllHNlkxM2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05fYWdlclhvSkNISjZGUktIY2pXWllNN2c1VWR4bFp1amVWTFNwVkQ1YUtwdFJTcWk0bVk3N19DeHBQTXNUMTFiWkN6b2w3ZkdzTDFrVVZ1aU44U0pCZlY3eWgxVkMzdllHNlkxM2psWXRqY25iUTFpbGxKOVgxNmhrbk1rZ1VJZmJxQjB3QnhRU0Z4ZzYzX0J0UHAzLTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-15-015",
+    "date": "2026-09-15",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Invited Childhood Cancer Survivors To Reshape Its Biggest Charity Campaign - BuzzFeed",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXRLaGlJTUpfd25Mb1o2NnZ6MGR1cFJ4R3BVcmppS3pWUXVyVTV2ajBIWWJBb3BvQk9wdXhsdXh4Q2V2ZDNYMU5ad1JVcENueGhFX091blkzRTR1TVZVS2JPcXF0b1I0RFJ6UF9La0",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXRLaGlJTUpfd25Mb1o2NnZ6MGR1cFJ4R3BVcmppS3pWUXVyVTV2ajBIWWJBb3BvQk9wdXhsdXh4Q2V2ZDNYMU5ad1JVcENueGhFX091blkzRTR1TVZVS2JPcXF0b1I0RFJ6UF9La0xZdERDTzNUR3pycEU3a3loYkRoZzZhb1JWODUtMnJKY1dxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-15-016",
+    "date": "2026-09-15",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Reveals $2,500 Entry-Level Kart That Families Can Fit In Their Minivans - Jalopnik",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTZLcHcxVjR5OFN0S2JveEFaaDhVakptYTJ5WTBCRXh3VzNKSXY5ZnJSekJfeDVfVTJ3ZXBWMTRIck9mZTNMYmZLSHZxbW9lQUMzZHdaZWd4enNOaDNEd3p2MHZFaHgxTndIRDRadj",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTZLcHcxVjR5OFN0S2JveEFaaDhVakptYTJ5WTBCRXh3VzNKSXY5ZnJSekJfeDVfVTJ3ZXBWMTRIck9mZTNMYmZLSHZxbW9lQUMzZHdaZWd4enNOaDNEd3p2MHZFaHgxTndIRDRadjhOY3hZZkx4MUU1NE9PWHFHWlk5aW16Y0lIMU9yRWxKaVFad1F1MDV1RA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-017",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Chile Shows How Green Hydrogen Is Already Being Used in Warehouses and Freight",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/09/15/fuel-cells/walmart-chile-shows-how-green-hydrogen-is-already-being-used-in-warehouses-and-freight",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-15-018",
+    "date": "2026-09-15",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Hyundai IONIQ 5 is a bit more expensive to lease this month, but it’s still a great deal",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Hyundai-IONIQ-5-deals-September.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragrap",
+    "sources": [
+      {
+        "name": "electrek_hydrogen",
+        "url": "https://electrek.co/2026/09/15/hyundai-raised-ioniq-5-lease-rates-still-great-deal/",
         "type": "rss"
       }
     ]
@@ -726,6 +911,78 @@
     ]
   },
   {
+    "id": "air_products-2026-09-14-030",
+    "date": "2026-09-14",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Air Products to Showcase New Oxygen and Hydrogen Solutions to Improve Efficiency and Optimize Power Plant Production as Energy Demands Grow - Air Products",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmVqSjBYMGZnUzlqbzJfRU9uQnJwRlprd2lnX2d4QTNqNEJDSTFhUzU5cGlnaVpOMG9aQkQ2aWVIT0VTZm95QjRuOUlmS2dtNXRXMFVXYlJNdk9wb2x3ZkJJaUF4WUQxR0pwT2V0Mn",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmVqSjBYMGZnUzlqbzJfRU9uQnJwRlprd2lnX2d4QTNqNEJDSTFhUzU5cGlnaVpOMG9aQkQ2aWVIT0VTZm95QjRuOUlmS2dtNXRXMFVXYlJNdk9wb2x3ZkJJaUF4WUQxR0pwT2V0MnBhNFJ6OGdhZkJTUTVnRmI3YUVrdHczdzk3ekc0Mi1wbkxnaExqbC1XUnA3c1Q4cmJ1Y0pPSHJUcmlBZXhtZzhlU2ZyOFYtYnZoNXBXbUhicDdLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-09-14-031",
+    "date": "2026-09-14",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products Advances Zero Emission Hydrogen Logistics in the Port of Rotterdam - Hydrogen Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlFRbE53MWZSXzQxa29ncVJJci1wckpJVTZFR1diMkVqSnhycnJmc2dTYndiTXZxMmkwdnVnamtmZWZqdkExYWdEd0tkTlU5TE9vYllvZnJjbEIzLXlZazBGR0VkZGlOTlZVQTBGek",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlFRbE53MWZSXzQxa29ncVJJci1wckpJVTZFR1diMkVqSnhycnJmc2dTYndiTXZxMmkwdnVnamtmZWZqdkExYWdEd0tkTlU5TE9vYllvZnJjbEIzLXlZazBGR0VkZGlOTlZVQTBGekZiY0VoY21nZ1V2R0xETE1obG9NNWJWT1VPZ0R0Q3dCUjdkbzBfUWJqQ0pfVzZkMUNFR1NpWG9QLS1sZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-09-14-032",
+    "date": "2026-09-14",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy and GE Vernova hammered in AI rout - Recharge News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmVfZjhrMXNXdVVWQm1xLVV1UVFPbHoteTJVUHVOTEhaUjI3QmtENkRNZXNHdXdKMFZXVDUycVdEUWE3MFZSdnRISktEYl9vT2c5MEVJV19BeUpUZWlQNG0yb3dZRU1RZkN1SlJ0U2",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmVfZjhrMXNXdVVWQm1xLVV1UVFPbHoteTJVUHVOTEhaUjI3QmtENkRNZXNHdXdKMFZXVDUycVdEUWE3MFZSdnRISktEYl9vT2c5MEVJV19BeUpUZWlQNG0yb3dZRU1RZkN1SlJ0U2NZYmRWNUdtcHQzTm1VMThBNDRlWUFSSDlCb2NXWWliZURkS2pBbmVDRWdsa1dGc0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-14-033",
+    "date": "2026-09-14",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Kia PV7 Expands All-Electric PBV Lineup with Greater Capacity and Flexibility - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3NCNEJwckJ4cTRfcGtPSXgzS0pXSWRIRlBROVJKNno5dUNvX3ktc04wcndCUVEzTG0zVGV0NnpYMGhoYXBVVmNWQnkxV0hGNkpRQ0xvaGx5VkotOXMwcndYRGhZclFoWHR3S3ZRWD",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3NCNEJwckJ4cTRfcGtPSXgzS0pXSWRIRlBROVJKNno5dUNvX3ktc04wcndCUVEzTG0zVGV0NnpYMGhoYXBVVmNWQnkxV0hGNkpRQ0xvaGx5VkotOXMwcndYRGhZclFoWHR3S3ZRWDhtMGxLbDU0Q09NbTlxY2tNemZKWFpIekF4RnFOM3cyMEU5X05PS29La2N6cjN6cHJEdkc5THFULVU3MG1JNkpZbmtCYVB6cDN3Vnpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [
@@ -1028,6 +1285,24 @@
       {
         "name": "hydrogen_fuel_news",
         "url": "http://www.hydrogenfuelnews.com/green-hydrogen-news-stl-shifts-optical-fibre-plants-to-100-renewable-power-and-g/8576656/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-13-018",
+    "date": "2026-09-13",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Photos: Toyota launches $2,500 entry-level racing kart for both kids and adults - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmxaVi1DeDNtYVFqLW9ncnlOQ3FLbjE2VDc0TWg5ZWRQZTVZWlIyX0ROb0lZM0dObmVHTnZrekUwaEQtdHY4X3YtTzY5bUVhM2dnMm9vZ2ZRWVFwNXVnODZZOGV4UzZ0YVd3UGw1Wk",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmxaVi1DeDNtYVFqLW9ncnlOQ3FLbjE2VDc0TWg5ZWRQZTVZWlIyX0ROb0lZM0dObmVHTnZrekUwaEQtdHY4X3YtTzY5bUVhM2dnMm9vZ2ZRWVFwNXVnODZZOGV4UzZ0YVd3UGw1WkpwZUxZYlVJZFAtTmVmSFZqR1RfdTJUZ0VQVHdmQWpwNA?oc=5",
         "type": "rss"
       }
     ]
@@ -2665,6 +2940,24 @@
       {
         "name": "chart",
         "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOE5HT3hheUxOczhCRml4eWNlYTQ3UmIxaGhMbEJBc0I3Z0tRTVlGbXdvaGtuQ3JHeGU4VE5GYVpSTDlGNFYzS3BRZ1FERFZIOXdUbjVtRVdzMzRuWTVHQmxqbGNYNWZOVTR2bWJRbmlWcEgzZktVSnRaMkptbVBDaUNHOF84b1RadG1GUWNKd3lzUWQ3X0ZobEx5UEVQTk1pa0ZBNzJJY1R3cHFPMENSelgyOWRzU2U1OEVja25LQ2xoZkNwQ3FkOFVLVlJMa2ZGWXVjTzBlSldvVzNmM3pGenRQbkh5aWZnN0F1TVdxLW5rWWt5WG9HQ21ReGFuN1g1XzQxZFZTNmNiRHh4aTF6REpxN2tmRDJfYUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chart-2026-09-09-027",
+    "date": "2026-09-09",
+    "companies": [
+      "chart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Baker Hughes hikes guidance for 2026 revenue, EBITDA to reflect Chart Industries deal (BKR:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0hVenlBVXZSVVdvdXNqZ2JELVE2TmZQRFRidzVYdk15NHNrU2dJd2MzdUZFMVBlRXF3NVJHRkx4TkxHYnRTRmpvUXluTTJxd3RZb094Vm9tV0Z1N3JkSVgxWm5kMXFBN1lncm13ZT",
+    "sources": [
+      {
+        "name": "chart",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0hVenlBVXZSVVdvdXNqZ2JELVE2TmZQRFRidzVYdk15NHNrU2dJd2MzdUZFMVBlRXF3NVJHRkx4TkxHYnRTRmpvUXluTTJxd3RZb094Vm9tV0Z1N3JkSVgxWm5kMXFBN1lncm13ZThOVDJBVm1QZkRqdldvRVFQWmtUZHFBdFVjVkFreWpIM3NmVnpkQzRHZHdMM21laUFRQkQzWFBoaWgtU1lFN3BHdl9GcXFkTi1qWExQcUlacw?oc=5",
         "type": "rss"
       }
     ]
