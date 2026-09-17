@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 94,
+  "gate2_fail": 27,
+  "passed": 34,
+  "gate2_samples": [
+    "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+    "Air Products To Invest $250 Million In Arizona For Semiconductor Gas Supply Infrastructure - Trading",
+    "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+    "Siemens Energy (XTRA:ENR) Faces A Valuation Test, Is It Still 31% Below Fair Value? - simplywall.st"
+  ]
+}

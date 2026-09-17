@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:53:18.190042Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "chart-2026-09-17-004",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Siemens Energy Tests Key Chart Level as Record Orders Clash With a Growing Bear Case - ad-hoc-news.de",
+      "companies": [
+        "chart",
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYUNuQkFXX3BQQWlTQmQ2RUVXZUdHTjk5SllrNHg1WUFXTXdoWFYxVktZTnBpSUlrWnZ5NWtMVENkX3ZfMXktMDFjWXl1SEV0SFFLaFlpYmo2enM2Zm1xX1FvdzMwczhscGpNNXZiTzdwaWZkTlp4YkZEMWlIa0dEMTdUY20xOE0zMGJuamxKc3RnTHVrVEZ5YmE2czMtSllsUDh5eVQzX2JZdFVibVdRNzgzRlhBYjAyV1Y3T3MxWHBST19jSHpYWlJIX0VrYjdTWjEwRkhvQl91RTBUQU1r?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products to build $250m plant to supply Arizona semiconductor expansion - gasworld",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2UwXzNENHpEajBaMElaVjBFR3dCT3JkUlkzTXR0N29ab1lOQ3UtbDFGQWVqMVhpV3ZLS0Rnc3BYaEhSQWcyRFo3WENtRkJ6Z0g3UXdyeVlCYVkzdG1RWUF4VF9RSFNsYkh0YnpLektZQmxTZG5HRlZ1WUhHbnh5VG5uMHYzMjFrX2VBcmRBaFhUVTBSUkp6a3VITUVOM2xjMV9aV3J0WmJSQVV1cDF2dmFqeTB1aWxGWm5WS1lGZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals stock heads into the open after a 1.5% drop - ad-hoc-news.de",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVTNBN0ZMV3F0M1RIX2E4UklDam55SGctU01CQl9SeGdrcVhmbTlfeTBMbFFoV0NGZThuN1hCaFFqaGNDZEZscjVFMmlLQTZyNlExQXNQeUxfU0FjR3pfZHJVcThwNVNRbm9WbHV2ZUNqenJRR2ZTc0VOd0RqdmlRZWx5cmhZYktBUHc0enlWa3dNMWQxdkxvb3RtejN4Y3BTdmdxRmtxdF9JMUVXako1dDdQT0h5SU9zRktta2tKS2NzejlxQWxnektzNDJ6dkhj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Targets West Africa’s Gas-To-Power Push Ahead Of MSGBC 2026 - SMBtech",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjdaZnJpTGRrWlkzTC1LSmdHSk92VUthWHgyRUhiLVRuWG1LeW9DbHUyMnRTTmduNUp2TG5mdV9wbzFqckxKRVVLNzRGbV94VkdEZ2VJeDdZYVljOGVXemZmN0lscjVGZWp6dUplcUdwR3dQUDNwRUk1VXZXTWMxc1VXUUpyNEdvc0M3U0I5RXEzak5uei1hX3hVS2FWY1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Signs Agreement to Develop Alatau City, Kazakhstan's Largest New Urban Development - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuTnU0X1Jra25kSm5SdndNeUZuclRiUXZ1R3VNcC1CLVRIWnZXNDY1LUFPMjVjckR1X3AwM05TV182SEY2S3hCWHJaOVBjM1ZJc0RSRHBHUDRHeUl5VExiSDdhWWdjYmFfcHJSZEhYSmYtRjh5aXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 97,
+    "too_old": 100,
+    "gate1_blocked": 94,
+    "gate2_blocked": 27,
+    "passed": 34,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+      "Air Products To Invest $250 Million In Arizona For Semiconductor Gas Supply Infrastructure - Trading",
+      "Air Products to Showcase Industrial Gas Solutions at the 87th Conference on Glass Problems in Toledo",
+      "Siemens Energy (XTRA:ENR) Faces A Valuation Test, Is It Still 31% Below Fair Value? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Siemens Energy Tests Key Chart Level as Record Orders Cla...」。主要關注主題為氫能政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy Tests Key Chart Level as Record Orders Clash With a Growing Be...",
+        "level": "yellow"
+      },
+      {
+        "text": "Air Products to build $250m plant to supply Arizona semiconductor expansion -...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
