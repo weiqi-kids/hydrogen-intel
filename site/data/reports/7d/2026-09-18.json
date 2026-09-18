@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-18",
+  "date_range": {
+    "start": "2026-09-12",
+    "end": "2026-09-18"
+  },
+  "generated_at": "2026-09-18T12:28:07.382699Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chart-2026-09-17-004",
+      "date": "2026-09-17",
+      "title": "Siemens Energy Tests Key Chart Level as Record Orders Clash With a Growing Bear Case - ad-hoc-news.de",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 5,
+      "last_week": 14,
+      "week_over_week_change": "-64%",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "hydrogen_policy": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "siemens_energy": {
+      "event_count": 13,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "chart": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "air_products": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hyundai": {
+      "event_count": 30,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 19,
+      "sentiment_avg": -0.08,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 150,
+        "last": 153,
+        "change_pct": -2.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-12",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 26,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 24,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-12 ~ 2026-09-18）共 150 則事件，重點為「Siemens Energy Tests Key Chart Level as Record ...」。查特工業表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Air Products",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
