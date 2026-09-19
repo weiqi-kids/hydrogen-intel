@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:09:11.172792Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-19-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai N and Toyota GR Unite at Inje Speedium for High-Octane Gymkhana Day - Korean Car Blog",
+      "companies": [
+        "hyundai",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJ5Yjh1dnFOd3BXVFkyaGdOTjhWRUVMeUsxY0N3X1lTanBpNk1ReTBoMXRSQ3d1dHVmRzlUNFpLTWdxbGtDSGRWdlhnME9seE9WdU1kY2pleDc0XzljSHB6ZnUxZTFJVDVBaHh2M2dTNWc3RDRDVDJ3ZmlISnlnM2FPalVMdE15Y19IRHJBVUcyd0lnMVNvS1ZvTzhfb3BYSC10TjBobEo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Insider Monkey",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjBPLUVhd2g4UDFYRVhjODRnb3RHUkdOREtZbnJGSlB0Y0lWZlNhb2QtaUVENmcxWldKRlJHQzVzZFFCdjdVNEE4MFREYlMzVEJxcE1IMjVGTjMtazh0bjdBS3FCeDNtM2g5enZjbk1MMzBrYmszNXJ5UlZRY2VnZENrNHVXQ3Y1LUdlc1luZ0lLUE4weGF2WlhvTjItTm5PWERoVXZLaHRuUmPSAbMBQVVfeXFMUFNJNHg2eUhER2VpRmtrRTItQWpxQWh4Rmo0azlDamNVNzRkN3JIbU9wb1J0Y0JraENhMEJwVmpFVUJKSnJsbnBYRWN1NE0zZUJYZVBiYzFDSEpmLXBDV25kdXRONzU0TjZWRWprSWkybGtNSmpLNU1uSkJMbG9BQ0Fsa0VmSGc2YVBSLTJaM2x1U2NlVWYyTzhNaVQ1TmYxUDZVV25Yd1lTOEpjc3ExX0gzcEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-09-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA stock gains on Oslo rally as hydrogen orders remain key - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTNHS1UtbzB6YWE1ODB3NTZ2TnVSYXBnWVdpbjZFZExzNUdIUWllbnBTRHBXbUptOHBFR0xKWndhbVlaOUo3R3V3MnZGM0V0QjN6T2ozQkp1MVVscFc4M0R0UDFTbDctRnVYeXZZb0JxWklidnFhblVBNDB6dks1VXZTekxWZW5yajBsb0ZRVHhkNkRQa1BHWmx4NFhKY2p4QzJObUFxbDgwLVlyaTBDaER1ME5mVy1zbEdtRlo2YmxkVGY1?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy stock gains as JPMorgan lifts target to EUR 245 - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXEtNng0aWxiUzl2NFlNRF80YVdmZXBObUxUcEZVeElOOFJhZ0FBYjRqWlo4dTZXLU10bnlJUGFNbWlvMC1vWUQyaXMzeW9zaGw3NkItWUJ5X1JHMlJVMUVWUjN4TXlNbTNaWERGOWtGQkZydDZpNmttVWFOWGxoOHVNdEJTc2tZclo3a29KYTJsdEtla0tLX0UyaDFPY3ZMMDdtRmRkNlBvQXNRcmdoQzFoYjEyOWJGR19naEhSd2tVN0U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Green hydrogen’s growing share in chemical production",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost",
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 101,
+    "too_old": 106,
+    "gate1_blocked": 89,
+    "gate2_blocked": 30,
+    "passed": 25,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+      "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+      "Air Products Invests $250 Million in Arizona Semiconductor Gas Supply - ChemAnalyst",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+      "Nel ASA stock slips on weak volume and heavy losses - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為西門子能源、Air Products、Nel ASA相關動態：「Hyundai N and Toyota GR Unite at Inje Speedium for High-O...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai N and Toyota GR Unite at Inje Speedium for High-Octane Gymkhana Day -...",
+        "level": "yellow"
+      },
+      {
+        "text": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Insider M...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

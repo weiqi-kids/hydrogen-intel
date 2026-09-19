@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 89,
+  "gate2_fail": 30,
+  "passed": 25,
+  "gate2_samples": [
+    "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+    "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+    "Air Products Invests $250 Million in Arizona Semiconductor Gas Supply - ChemAnalyst",
+    "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat",
+    "Nel ASA stock slips on weak volume and heavy losses - AD HOC NEWS"
+  ]
+}
