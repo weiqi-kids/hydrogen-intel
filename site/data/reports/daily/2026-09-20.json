@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:44:43.866809Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy stock consolidates after strong Q3 order growth - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUhUeUdpNEFKRFczZm82LXRfbDlLOTBHMlFVdHh6Skk2Mk40cWp5bWoza1J6N3JfRnpwZ0VEbU5ZVEE5V3daWTUyWE5RcmRVYS1fSml2TVRFS1Y4MXRYWEFINEE3SmNSeWgwZmZBR3hmQnp2enVQbXlwOHJSVUZwUTZmZ3JySF9UN2ZncFlxR21tRGhjd2FuWWM5SFlRdnkzNldLVkdlM1BrQUlDRnNJeWtkN3Q5cEpzbDlUc0ZZbl9kYXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Recalls Ioniq 9 After Two Alleged Power-Seat Injuries - Fort Worth Star-Telegram",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUENaYzZpYUdLZVU3R1V2WHYtRXhPbmlMQmFtX185Z2ZjdTQ3eGlUR2NJWldCdjdPYzhydi1oMWMwSXhBNEsxVUhET1FTWllKM0xKbTFJaDFuTzlGNWMwSkQwSUxudWJPbVMwZUppZnJNMUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor bets on redesigned Tucson SUV for sales rebound - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnhlNS1zdDV6djhMVE1TRDNmU2pvUUdmOU1pWE9VUHJuNVIxaVRDNXFCT09MNjNPeExFYnpQQXpETnMxU2lZa0pUbHIzSkVHMlBSVm4xYzNQbUV5alZ1NnN4LUdFeGg3MVk2N2xmdjc3VkhORVFBZWdsM0x6ZjlBS3NrMWs1WFROSVZta0NuQTNxSmJGQl9EbHhrdXI2MHl3dWlORnJSSGpSVnUzMVdnTkRDR094dHZHWVHSAb8BQVVfeXFMTmlfS1ZpUEg5WkdTM254SEJUN2Y3eWZhYVAxTW9ob0xSeVIwekFKcXpnMWd5NkI4aGtDN0FBSXUyNHVpcFM4R1cwWVVSRVFid2w0TDRqWWdRTDBSTVpCaUdmWWhndUowb0FKcmZ6cTNmX0hRQlp6Tjl4QWwwX1lmaUlBdE9IR2lBUnVXS08xM2FOa29ZRFBxT0VLMnVEWThBT2huTDNVOEp2ejV5MHVUWFhZbDRlOVZNdWJlMVhGdGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai unveils bigger, boxier, smarter Tucson in first redesign in six years - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tTzhJeFF0ZUV1dzBQdGdBdVlhVlAwcDYxaEZ0aG5obDllT3dmZjdYRXY2Z0dSVmtnX1BNU1hfYnZjR2RIUW5yd1p6SVVYWFhObGJFU1RUOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Unveils First Full Redesign in Six Years: 'The All-New Tucson' with Sudden Acceleration Prevention and AI - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15Q1plcVh6T191OGlBZ1lEamV1QnZYSTAzZkN1WDJlSVRFSEZvTGk5U19kTVpEZDZxOXNlSkYyRVZGblJJOHVhVUZUQ2xVY1p4ajljVXpvRXJhRnJOSHJkQlFrTlVGWTJ6c3U2R1pwNEtBdDBnRGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 109,
+    "too_old": 115,
+    "gate1_blocked": 87,
+    "gate2_blocked": 24,
+    "passed": 17,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+      "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+      "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+      "Air Products Invests $250 Million in Arizona Semiconductor Gas Supply - ChemAnalyst",
+      "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Siemens Energy stock consolidates after strong Q3 order g...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy stock consolidates after strong Q3 order growth - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Recalls Ioniq 9 After Two Alleged Power-Seat Injuries - Fort Worth St...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
