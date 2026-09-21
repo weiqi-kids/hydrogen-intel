@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 84,
+  "gate2_fail": 31,
+  "passed": 30,
+  "gate2_samples": [
+    "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - finance.yahoo.com",
+    "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+    "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+    "Air Products Invests $250 Million in Arizona Semiconductor Gas Supply - ChemAnalyst",
+    "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance UK"
+  ]
+}
