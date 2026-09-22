@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:56:14.032746Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals stock rises 0.24 percent as revenue reaches USD 3.16 billion - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXgzWjI1c1ltcE4wTGw0SXNqUDZxcFRycjR3eG1zRU9LSU1KYTNRa1BJXzdDaTgzOWRkVkNTWVZyVC1mME5GZWZ0aldTY09PNWM2U1dfRG51UFJOaFZKUEtXR3JwQUZianN0d2lMQ3VOZUFhR29GSzBGbDRxNl81N2R1SkpuRGZfWDc2bTdLRXR5MmhILThmRkVHSlhFaFNYcjBxaEN1M1pCX0NVOFlxaW1iWUFkOHYyOWEwNTYxaG1ZYnJyWlRodXAtOWZDRDlqMVJz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals stock rises 0.24 percent before the bell - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHl2YS1HVjIwS3JZdlF3UTBNZ2ZDZDktSjlDWnRiUDhqaTZTOUJSUnJZVHpramtiM3htSmFqdmhGVEV2NUo3SmJvczAyU3hBRU1pc3dBd25PVHAxT1YzQkJycjI2UDkwZDBUbFB0YUtSYm84TVVJX1VrclAwXzRya1phR181ZXotbVBpRE1qS09HUzU3QzA5bURpMTF3X0ZJV05kV3pUZk9XQXZTOS02S2lhY3hrV0JodEtLbzhfcS1OZVJQaGhBVlRn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-09-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is ITM Power (LSE:ITM) In The News After A Director Share Dealing Today? - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUQwQXJBbUVKYVdoNkdaUzZEYXVfcm9ZVTQ3b1ZtN2NZWkxobTdwcGNUb1NHNjNZWVVIX0g3SjhhMWdDQWJfVDI3ZGdQZ2I5MjNkMnhHejZvUFlPNVdJTEREUVliX3BKNG9FOG5qSGNtaHBWQWxFQWdvdEZRNTc2WVZ3SEc5TTFfT3cyd2NIQWpobjN0bV9GUGhYVEtTUHUtY1YxSHAtM2M2RUZqdHRfaWZubHY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pickering Nuclear Contract Could Be A Big Deal For Siemens Energy Stock (XTRA:ENR) - simplywall.st",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOE5iNXk4ZXdfS2Q0VjU4ek1UeVg0RzZNS1BaaVozcWVoSEE1aldnY05Tb3BfUHEwenVZVEFrT0pGSUl6YS1NenlrOEFGdlJyblVDUm9pSUhzVXRLenBlamlCNUVnamJfa2VkeHZZVFUwa3U3VWpiS2hZYjktRV9TRE9DQlBhZ01ZdlZ0UkdSOFdId2g4SnppOTRQaDZfbUd6bW5PdWg2OGk1ZkhzUjhobmgyOFpPc1c5bzcydGJycWZ0SFRpVEJjU3ppaEk3cHZiQlJ6em55bXdadGIwUEHSAd4BQVVfeXFMTThOYjV5OGV3X0tkNFY1OHpNVHlYNEc2TUtQWmlaM3FlaEhBNWpXZ2NOU29wX1BxMHp1WVRBa09KRklJemEtTXp5azhBRnZScm5VQ1JvaUlIc1V0S3pwZWppQjVFZ2piX2tlZHh2WVRVMGt1N1VqYktoWWI5LUVfU0RPQ0JQYWdNWXZWdFJHUjhXSHdoOEp6aTk0UGg2X21Hem1uT3VoNjhpNWZIc1I4aG5oMjhaT3NXOW83MnRicnFmdEhUaVRCY1N6aWhJN3B2YkJSenpueW13WnRiMFBB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy's Nuclear Bet Pays Off Twice as Pickering Deal and SMR Foray Reshape the Story - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcVJtdFdSOWFtbnFGS1hrRlNjN0dGdXFESTBJSnVBRVU4WUZMbXA3ajZFVDFyRXNNV0tROWhYUDN6dDhiLW5iNkF6dFRNUGswaXdUSlBiY3VUa09qbFpDYjBzdzZteThnMUtQWXBEWndCM0FOcVpBaXVBVGl6NlVBMzVTa0NJTnVVV2pPZ2RZWHVQaE5vYjk2RXVFSjRxOUk4c19IVU1jRjBhcDZtTVpYdHB1bDhSLTRCQjMxNmRhVjF4VzgwOFB6VHJObDJrdTZRZWwyd05kc2w?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 91,
+    "too_old": 105,
+    "gate1_blocked": 94,
+    "gate2_blocked": 35,
+    "passed": 26,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+      "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+      "Air Products Invests $250 Million in Arizona Semiconductor Gas Supply - ChemAnalyst",
+      "Air Products plans to spend $250M for new gas supply infrastructure in Arizona (APD:NYSE) - Seeking ",
+      "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Air Products and Chemicals stock rises 0.24 percent as re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Air Products and Chemicals stock rises 0.24 percent as revenue reaches USD 3....",
+        "level": "green"
+      },
+      {
+        "text": "Air Products and Chemicals stock rises 0.24 percent before the bell - AD HOC ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
