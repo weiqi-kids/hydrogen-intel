@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:00:36.365723Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-24-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy's Record €17.9 Billion Order Haul Lifts Sentiment as Omterra Rebrand Looms - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPay1PZ25DZy15aVhjd1Z3aWpKbjBRX2djRTN3QlZRc19OQVZlT1lJYWhOQjFWREd3OHpwMXBVYzBJWVlYdG55bkhGWm9DZjFuWU1vMTlpa3BFcEZyRkJRT25oNnFzN3NOOXUxVlYyMV8zZkZiZ1V0QnR2d2FZTHFtbXdjc3FrVThYRlVlUlJFZDVidUMwamZ6YXhXQXZtUW1GZFlZMWlsRnRlWk5iSEQ5NnhjYUdwTHpXb0FQU2JQQ2gzVDhsVmx0UGc2MGZuaUg4M1N0Sg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products And Chemicals (APD) Could Be 17% Undervalued As Chip Supply Deal Lifts Outlook - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeUxYTzBGbnFLbi03TG1DaDNZQW90bWFwQ1pKck02NlJwM0xxbHZMbjNsRGpleEkzWkowYUtkanItU3EtVTMwSlY5aHA3VjBZMThLekJDbVVJOC1HQTgtZTNCZXJiNTFsODdYZFlpZGVXdHZOODhCOVQzNURzQU9lNmpZWVRlaDFHS00zVDQ2SmJXaXZHM3B4MVlvWF9pdEkxenpzUFczN2RXdU1lUnJ1QXhLWnc3TllWcUNldnpwTTZXUGhKYXF1YmNwWkpsa2FaQ1JWb1ZSQ3hDZWPSAeABQVVfeXFMTVpkYU5tbW15VGdCbmpJUjlFRWV2ZVo3ZGlvRDlTWjZNZlhaZEtYc3VacU4walNrZ3ZTTndrMHhpVkRJZTYwWnFUSWE0N293aWF4OE1VXzh3bFVmeE5xOHBTa2g5dEQ2djNxM1lUcUdXcFUtaDdpVXhybl9qdHpaTTkyeVVFU2MwaFhhd3pweXFDTTVYbkVpU3pZMXVnc0dBdUhuNVZsZEdCcFVKYlVDQnlMRVlJNTlWY1otcG9JMWdWYlhzZ0ZNLVdUOEhhczRMVUNVU0FrRlVOTlJtVDhZbE4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals stock tracks a chip supply deal - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEJQZDFxNWU4Zkl6LTVuSVp1eGJaay1rcksyMFJSU1loV0tiaEZ2M3kydXQ4bW16RGQ1eTFaQ2t4eUpTd1N1bnoycWpnckxYeHBsQWUwWG1qRDUzLVRadzROZGRFeExMcVdQLVRVOEpCZEFLSElUVk94RERLQTRqRmxUNU9RZVVxVjNFTlZDWUNLb244al9YUkxfVkJVbGpDVUxRazRVZ2VtMTExSktJSzVSYy1DZnhiR0JKVXJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "News Content Hub - Siemens Energy CEO says Germany ‘has a serious offshore wind problem’ - rivieramm.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnZESE1aSnpybFk2YVdJbS1MUVhkeHo0eWk0Q0theDYwM1RBelh6WGZtbTJjNHZiOGJzR3U3RHdZeW9TTWVOc21DRV9WYnJLQXRLbkVwMG52cHNTbWk1RGZ3RmVWNFI1TXplems2enhmZThBZ1BJRUVKSkhKa3Q4Slp6RkFzbjhsYm5XSzJETWdSckZNY0FkY1RBSTdIbW9MRVlqUVM0QTgyRnJ5eUlpdnc1THI5YXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy stock trades as EUR 2 billion buyback begins - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjRfb3ZPdGRhVktpUDhoRmd2ZjJNcjBhNGNxeDJ2NHFGakRQVG41d2lhWkhCQ0tMZWJjcHl1N1NhdHBhLTFncTdNQ21fSGtTbThxMXE5VHpfQlloeXhDZG5rUU85QngtX0R2TnluRVFYeGN3cmNuVXd1c0RHUTdqbjJYQ0dvWExrVk5hVm1tVHdpZmtqTDNNdXdFQkpnV0pjdXh6Y3FTMG9LbUc5dTNBX3JRdURDdEdpcE1sNU5Zbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 93,
+    "too_old": 106,
+    "gate1_blocked": 88,
+    "gate2_blocked": 44,
+    "passed": 21,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "17.0%",
+    "gate2_samples": [
+      "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+      "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+      "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+      "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+      "NEL ASA stock heads before the bell after a 0.48 percent fall - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為西門子能源、Air Products相關動態：「Siemens Energy's Record €17.9 Billion Order Haul Lifts Se...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy's Record €17.9 Billion Order Haul Lifts Sentiment as Omterra R...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products And Chemicals (APD) Could Be 17% Undervalued As Chip Supply Deal...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

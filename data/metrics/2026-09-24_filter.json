@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 88,
+  "gate2_fail": 44,
+  "passed": 21,
+  "gate2_samples": [
+    "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+    "Air Products to supply semiconductor manufacturer - Pennsylvania Business Report -",
+    "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+    "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+    "NEL ASA stock heads before the bell after a 0.48 percent fall - AD HOC NEWS"
+  ]
+}
