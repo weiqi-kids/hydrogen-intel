@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-25",
+  "date_range": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "generated_at": "2026-09-25T13:06:50.448332Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-09-19-004",
+      "date": "2026-09-19",
+      "title": "Hyundai N and Toyota GR Unite at Inje Speedium for High-Octane Gymkhana Day - Korean Car Blog",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.08
+    },
+    "electrolyzer_capacity": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.07
+    }
+  },
+  "company_7d_summary": {
+    "air_products": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "siemens_energy": {
+      "event_count": 20,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "toyota": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 128,
+        "last": 190,
+        "change_pct": -32.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-19",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 27,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 15,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-19 ~ 2026-09-25）共 128 則事件，重點為「Hyundai N and Toyota GR Unite at Inje Speedium ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Air Products",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

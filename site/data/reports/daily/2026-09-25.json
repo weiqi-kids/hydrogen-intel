@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:06:50.304383Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-25-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy Cuts the Cord: Buyback, Board Shake-Up and a 48-Gigawatt Wind Warning - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVJRVzZOYXlIaFgwdjJOdTBrM1lJUl84YjJYSjRnbElVZmtoRnVkZVM5d0xOUm04WEFRZGpYVHpoRVF5cFlTTkVHT1JRR1RkTkVleTFKSjc0d0Fxc3NxTUNpUURmV0wyVGNKVVgwOVJqNEVPQ3hpaEo5eDFtNFJRRzQ4QWtVT0VONDVSZnN5b2prbGExSXBvYl9RY0pJSXpUQ2lpeGV6alhIZ0RsZGRrbWlXUlhHYmdpQ1o5TGFDUlp5WHZvWHFYbG90TXZxb3pmQ0UwZm1LcUg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Will Arizona Chip Supply Deal Change Air Products Stock Narrative - simplywall.st",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQmxtWkJUN1JiTnlMWDdPLXVYYnZmU0V2azBObU1wZGJubUUwU3hiS3Fxd3QzNmotcWJQcnI5OF8zMm1ldnRTOTVGWE9VbWowMTNaQW9oY0Rha3JSODF4MGNaQWt1U3VvN2x0NFBIN0RPT0UtV3ZOVUJZLWRHeWJ1QWMyS3JvMjZaTkJXVUtQUGE3RTBGbTlFNlp5M1ZERVI2emx1eFcwN0tsYUpaelpKT0tlNXNYTC0zMUF4X0pDTVdKbzVwYkpmdHlSSG93RF9aSmM5TGdOYzVZTmpoOVB3adIB4AFBVV95cUxNQmxtWkJUN1JiTnlMWDdPLXVYYnZmU0V2azBObU1wZGJubUUwU3hiS3Fxd3QzNmotcWJQcnI5OF8zMm1ldnRTOTVGWE9VbWowMTNaQW9oY0Rha3JSODF4MGNaQWt1U3VvN2x0NFBIN0RPT0UtV3ZOVUJZLWRHeWJ1QWMyS3JvMjZaTkJXVUtQUGE3RTBGbTlFNlp5M1ZERVI2emx1eFcwN0tsYUpaelpKT0tlNXNYTC0zMUF4X0pDTVdKbzVwYkpmdHlSSG93RF9aSmM5TGdOYzVZTmpoOVB3aQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-09-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy AG : Receives a Buy rating from Berenberg - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzNBb2JIWFdQdE1zbEZXb01EalJVNjhQS2d4SnYwQU9leGtwdXBkVDMxQWx3bllQWDRpcjFYei1RdGU5U3pLeEV0VWNXZnZyalluODdlX2VnNlBkTWZacXRfVDNfOWstNjdjMzhPZkViQXVlekIyc1k2NVY3ZDY4cU5pNnZmd3drMGVLa25uSXhJZ05zOXpSQ0xtSDVfOXFSdnl4SDNHU3FlcG8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lawmakers Visit Hyundai Motor R&D Center, Pledge Hydrogen Bills - Hydrogen Central",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEF6RG84cmYzNmxhZ1BtbjNxWk96dGJVUktGUlYwRWhZak53NXVubWROaTRKdnFJM2JaZXloMVJBdVFpYWNVRmpfOHJVckZYd2wtSlJfcTdnaTRFYUp2MEFQMnN3Q1ZXQ0FFWkRWWktVajNSak95bTR5Q3RnWHpiaUZQWFZaWkUyemx3MVowRGhpWlAxbFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-09-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yomiuri: Daimler Truck Looks to Develop Hydrogen Technology With Toyota - MarketWatch",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXRIR3hEM3VzdGpzeDlrX0tyVnYxVmpuWmJSVDZlejN1c2g2S3hRbVdaZHhjVTRsNmZ4VXp5Q2JvcmxXNDZHUzVHQVZadW1mOVRySXpYTFRNWHVTN0hPcFM1a0UzU1JadkxOMTV4YlZOTDJiZ0pBa0lUNnVEeExlMzNHdUxWTjZNWTB5SUxfM3Qxc2RUTEZHSnM0b0hLbTJHeElKcFNBM2MteFpvT2ZuZVZuTmJYdEhUcFRTdUxrQUpNdTFONmRXZ29R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 92,
+    "too_old": 105,
+    "gate1_blocked": 88,
+    "gate2_blocked": 46,
+    "passed": 20,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+      "Air Products and Chemicals stock heads into the open after a flat market session - AD HOC NEWS",
+      "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+      "Air Products and Chemicals, Inc. (APD) latest stock news and headlines - Yahoo Finance Australia",
+      "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為豐田、西門子能源、Air Products相關動態：「Siemens Energy Cuts the Cord: Buyback, Board Shake-Up and...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy Cuts the Cord: Buyback, Board Shake-Up and a 48-Gigawatt Wind ...",
+        "level": "green"
+      },
+      {
+        "text": "Will Arizona Chip Supply Deal Change Air Products Stock Narrative - simplywal...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

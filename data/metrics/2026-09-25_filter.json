@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 88,
+  "gate2_fail": 46,
+  "passed": 20,
+  "gate2_samples": [
+    "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs - Yahoo Finance",
+    "Air Products and Chemicals stock heads into the open after a flat market session - AD HOC NEWS",
+    "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+    "Air Products and Chemicals, Inc. (APD) latest stock news and headlines - Yahoo Finance Australia",
+    "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th"
+  ]
+}
