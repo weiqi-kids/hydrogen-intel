@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:34:08.306235Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Siemens Energy (XTRA:ENR) Cheap Following Its $1.3b Pickering Nuclear Contract? - simplywall.st",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSGk3UWViOUtHdDJfWHJLbzA3bkpUSkE2YW9QOG5taHJkUFRTaEQ2TngtdmQtR005amlDazhubnBubDdRb0dnU2RSVUtQRzNpdTVKZmdySXRHY3h3ZXdDTnNVemFZS3o2aFAwbGtDQTdaVjF2STBBYnZCbWY1b0hiRkVsSlJzZmtZU09Ba1JtbnJNT0RDMmlqUzRTZEo0NmViQ1dSRUVRcDY4N2RZWnJSQlA2WHJBN2x0RUc0cG9uV2s2NzMyVHptUnBJeGpPVHFFcmhHX2xjNNIB3AFBVV95cUxQdm5jRlVfMERpc2p6ZkVacDFyWFhBbWsyNmxCcWtGeFhRMU9OODNvaG5XZkdXdjBkZFd3NWYzcDNobWI4Z04tcnZEUHd5WTBPQ0ZyNmpoZnF2OGlmOFBZMnRoMFFZVUV3ZGtJMnFaUUNZcHZNa2VQOE94Q29KQ0JUX3lyWFE1aHpUU01hZFBYcEtaSURhMlJFNnhXNXRwV1lSWWFJNVZ4UmxkNTFXbGpIckxoUi0tSk55M2NrN0NwMHdhX0V1ME5YRDhnamQxMzRZQ2g3NjJyMHp5bVRP?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy's Siemens Stake Slips Below 5% as Board Reshuffle and Buyback Signal a Standalone Fut - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUzdtdnlCTjNZRzNuWE9IajVFY1pCZDVjMG1PVzRFUHo2cEswREFjdEhzSEdhbEptQlFaNW1NTl82ZkYxZlhWMk1RbjFHcXI4anl3ODZkeXFjdVc5SUZzN0xPWFNObWRlMW0xSzdmMDlfVEtjZFp4eE80QjA2SjU1WXJmS3BsRjZ2Wkc3S1pjRFRwVHFjcjlwa1g1dVB3VDlzeU0wTXBOVzdMbnVnZEJnVXFSOWlQLVUxQ0NiRDFHLW9LZXhDUVplRmhRdWpaZWpsYTgxWkpPZmZjYTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai poised to beat Ford and become top 3 U.S. seller for first time - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3dnRXFSMjdQaXJ3T29BSWN0VjFKclFjQWdDdmlzc3J1LWtwRWNkNDVySlFoMlo2Q3hVTTNleXZ1MDJsZjZnYUFuaEc2cDVvM2pZeEg1ZGtoaGpuelljVjBrSm5HWjBFNGFvbEpGUXkyVDg4NEdJdENyNzNBaFRJZmhyR3RWd0VYRHNSNG1ob2JYdnJHUnpNWGRQQklOWDVHcC1vXzZyZ29tZlk2V1poRjMyZmtldmVGWkJ0dmh2SQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "H24EVO to Use Toyota Hydrogen Combustion Engine - Sportscar365",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2NKUkNJVXEtYjVWYlBRVFFtcVJJUHNsQjVJRURpTy1Td3pNaDJvU3VReG5kNVJKUVBMTFhtNW5TUmlNVEttdTRqUGlDaWFTLUNjcDNkZ0Zrd28zYjV0cHZ4QXRCZWc1NUZoUGZSZVEtTlRnTVRvd0duczlBNE9TdnRUek1aNUhta2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota To Supply Hydrogen Combustion Engine For H24EVO Prototype - dailysportscar.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEJ0Q2pJVGxfNkZhbXFRNllkQWthcWpGWDFPUW9wN0FCRGxVdlFSOHYtb1BTMWF4Nl9jVHQyT1dyUHctaHBqM2tueEtYWTVTS3pzQWRMbUZHT1JXbVp0aGNlejNEdVhJbldicXRkc0RJZUVQRjJpaC1LRXlzSmRVTHV3alJMYS05c3QtZmtlSk5vUzJxbHUwZ0RGVm1LMDlrYV9QRmY1YVZLWDBSamxKbQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 88,
+    "too_old": 112,
+    "gate1_blocked": 86,
+    "gate2_blocked": 48,
+    "passed": 17,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "18.3%",
+    "gate2_samples": [
+      "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+      "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+      "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+      "Air Products and Chemicals, Inc. (APD) latest stock news and headlines - Yahoo Finance UK",
+      "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為西門子能源、豐田、現代汽車相關動態：「Is Siemens Energy (XTRA:ENR) Cheap Following Its $1.3b Pi...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Siemens Energy (XTRA:ENR) Cheap Following Its $1.3b Pickering Nuclear Cont...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy's Siemens Stake Slips Below 5% as Board Reshuffle and Buyback ...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 88,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 86,
+  "gate2_fail": 48,
+  "passed": 17,
+  "gate2_samples": [
+    "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+    "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+    "Air Products and Chemicals Inc (APD) Stock Up 3.0% and Still Und - GuruFocus",
+    "Air Products and Chemicals, Inc. (APD) latest stock news and headlines - Yahoo Finance UK",
+    "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+  ]
+}
