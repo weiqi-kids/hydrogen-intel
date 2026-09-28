@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 87,
+  "gate2_fail": 34,
+  "passed": 15,
+  "gate2_samples": [
+    "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+    "Nel ASA stock at NOK 2.06 on September 25, 2026 - AD HOC NEWS",
+    "Nel ASA stock heads into the open after September 24 data - AD HOC NEWS",
+    "Nel ASA's Split-Continent Electrolyser Strategy Meets a Market That Won't Commit - AD HOC NEWS",
+    "NEL ASA stock closes at USD 0.23 after the close - AD HOC NEWS"
+  ]
+}

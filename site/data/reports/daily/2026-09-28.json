@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:12:00.491396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-28-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales in U.S.; Poised to Overtake Ford in Q3 - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTk9LZzRCbHB2VjNGOXVzSTh6bE10cm1XSkRENmR3RWRLaXZHX1VwQnVDQVQ0YUNfXzFuWEV6TDA1cWtiNWNsZE5ONjVDNGxmN1pobV9UeFJ1YTZUSUVrZlBhWTB5QU5HVHpWcVpqSVQ4MXZjSVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NEL ASA stock weighs a 12 percent revenue drop against new orders - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFB1RDJITzVBbjFUbW51S2ZLR05oc05WdVU3TmtnSEFzRlZDSVV2Y3dPQ1VrU2RYdlNXaXBXRUd1aEpTRG9iQ3cwbjkzU3hBT093ak5YdW5kVnZ2ZTJBMEdnMlBfQnRfcGxSM0U4dVQ2N1NOTThtZFFMNjFjeWZjVVZyemZYTFdIZEJlWDZDXzZGQURaOTk3em16LWUyeHRWRWtnQlUyZ1F0TC1WX3U2Si1kUWhmS2RhdUdfRFljQ3JuOTN3WUMw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy's Final Break From Siemens AG Coincides With Buyback Launch and Board Overhaul - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUmpPN1dUdFA2YzhPQnBaYjM0ZlAydFZ2NE1FWFRISWFzSXdVU1c2dzJuU1A1Q1VYRmJ1MmZYYnE4dkhrdm9XOWw0dldNdElTN3pORFJYTW1zU1JZNFMtNHlKR2FVUG1qNG02Q2dBUDFGd1gyUEZvZ0pKNGxkcmVZWEYwZ0pqekJ0V0JrWmpLaTNTck9XSlVZeFV0alJzTGhIZklNeHozejlLTzJ5eEVrbDZ2RE5UNWVUQkR4Y0ZtVF9zWU1Jd0FzeG5XT2gtZTVjTkVza3RRNUczZmxKTXBN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-09-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Kicks Off Third Buyback Tranche as Board Seat Changes Hands - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM21QYWw5ZFUtb1FjakNRLXlFRDBTYWQwY3doMXM1Q3ZRZFJ5NF9ITXZBNkZGSFhBQl9aYTFOczg1U0FyRHphUjBHTHc2MW1uendUTDhpai16MFZSV055Z2VEYmJYSzE2UWJEVnMtaFJiR1Z2WWFYaHk3Nkt5c0Q3RWR4UnkyZmkzUnZBeWZ2eEVzYjJ4Mzk2R1hBU3pWV25GSWVHam15cEp3SUdEd3hfSWxqUzItMjBIVFZTT21Ya3FJNV9ZZks2QjNuYzRwM1k5ODlhaGpxa2JfSVFvM0Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-09-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Cuts Final Cord to Siemens AG as Buyback and Board Reshuffle Signal Standalone Era - AD HOC NEWS",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnZVNlpsTXhPamFEOThtLXVOa3B1dll3ZjdJWE14Z0JOQ2dCeE1ZcDNhVWI4emY2eTV6NWZWOGxMTElyMFZpR2xtNmRVWHFKTThtaExfQnVOV2thZENTZVdoNWNrMFRLRHFNbmJmTnl6U3VLMHJKS0VWaGpGQmdtR0ZXdUViR0lPekZQSFhtUDZUMFFXZzBUX0pPamI4S2JoeW5nY0ktMUg2U3VjRUcxUXFWWS04UnlhVkVobVJnOVBLWWFWN2wxNFE3cDRtNUhfc0x3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 102,
+    "too_old": 113,
+    "gate1_blocked": 87,
+    "gate2_blocked": 34,
+    "passed": 15,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Air Products and Chemicals (APD) Loses 8.7% in 4 Weeks, Here's Why a Trend Reversal May be Around th",
+      "Nel ASA stock at NOK 2.06 on September 25, 2026 - AD HOC NEWS",
+      "Nel ASA stock heads into the open after September 24 data - AD HOC NEWS",
+      "Nel ASA's Split-Continent Electrolyser Strategy Meets a Market That Won't Commit - AD HOC NEWS",
+      "NEL ASA stock closes at USD 0.23 after the close - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為西門子能源、現代汽車、Nel ASA相關動態：「Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales in U.S.; Poised to ...",
+        "level": "green"
+      },
+      {
+        "text": "NEL ASA stock weighs a 12 percent revenue drop against new orders - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
