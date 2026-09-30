@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 96,
+  "gate2_fail": 34,
+  "passed": 31,
+  "gate2_samples": [
+    "Nel ASA stock at NOK 2.06 on September 25, 2026 - AD HOC NEWS",
+    "ITM Power – First hydrogen from Lingen reaches customer - hydrogen-central.com",
+    "ITM POWER PLC (ITM.L) Stock Chart - ChartMill",
+    "Why Does ITM Power's (LSE:ITM) Hydrogen Milestone At Lingen Matter? - Kalkine Media",
+    "Is ITM Power (LSE:ITM) Left Waiting After A Hydrogen-Free Conference Speech? - Kalkine Media"
+  ]
+}
