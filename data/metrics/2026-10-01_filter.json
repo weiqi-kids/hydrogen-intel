@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 99,
+  "gate2_fail": 32,
+  "passed": 37,
+  "gate2_samples": [
+    "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+    "Operating cash flow per share of NEL ASA Unsponsored ADR – HAN:D7GA - TradingView",
+    "D7GA Stock Price and Chart — HAN:D7GA - TradingView",
+    "Nel stock after-hours at EUR 0.19: plus 0.00 percent versus prior close - AD HOC NEWS",
+    "ITM Power – First hydrogen from Lingen reaches customer - Hydrogen Central"
+  ]
+}

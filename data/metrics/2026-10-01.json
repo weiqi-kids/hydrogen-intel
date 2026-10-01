@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-01",
+  "total_events": 22,
+  "by_company": {
+    "air_products": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "siemens_energy": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp_nucera": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "toyota": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

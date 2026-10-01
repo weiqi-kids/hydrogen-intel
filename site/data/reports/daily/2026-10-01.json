@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:54:42.690447Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-10-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inox Air Products Files Draft Papers For IPO; 7.7 Crore Shares To Be Offloaded Via OFS - ndtvprofit.com",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzdqLXlyNGJ0cy16aDh2NWoxRkVyYUoxY09wR1VGdFA0YVg5QkYyeFZoNHVNOUFSN05SQVg0dUVHNWR5eG14emNFU2ZWUjd2OXdVdjNwQWk0cEJHdjZNdkNKVDVGdXd4UndyLVpXWXdRVXBLM3dvaExqakttUlJnMjhsZzJRWEU0Q19mNGdxb0kwUnlFZHdwV1BiUE43QUJiZE9PdGxINzh4eFF6M2F4Y0tjY01sN0M1ZWpVM05KakRXanFQZk1PV9IB0AFBVV95cUxNVDFNWXVZWVhIR2hERUNwVzB6enBXc2p2RjFSMmRqb0hkVlVfQ2RMcVN0MlVIRV9EZVMyRno3MlNGb1Rqb2FKX2xWVDRxOXZRZGgxVkU0ODJpQjVoaWxoOFI4amZXdVRfVjdrdUlxZ2J6LXhCNHlValJFSXFYdU1kYk9XeHBFQU1EeEJ3R1NKZmI3REdwNjctQ3R4N3JpR3NkbFRhNUJXVVNMMVJ4NTlYQTVQQktpNjcxNThDb2Z5WWUwMmx3OHM0aGVhVjdhcmsx?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indian gas maker INOX Air Products files for IPO - Zawya",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDhXdV9pQm9fRFRqMDFLQXNqalZzS0JMc2lnVHN0LWsxcHU0Y0ZhQjh6Z3hHMUgwQzM3NXZTM1F4MHNBYlFKRjFGNGhJanZxdk9yWG54V2RvVkZxVTJwRlB0UnROek1RS2lkLVNfejRWaE9JS3JWSkpCWGJ5a0haVVBxX2ZVM1Zjdnk3MFctTmVjNTJKRmFZWHNUWUViTEhRbmRZUDg0U3djczRxR0pXVkpQNXJ3OTVxTkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's $20 Million Submarine Pipeline Locks In Connecticut Output Through 2028 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjVQekJnRno3dmJBakxtb2o3VmNMV291N05WZ3M3Q0tqbFpoUVd2OW1rSy1jTE9vY1puNDZWZzh3Z29lV24tN1JDdWIyWl9mLTl6V3Q0WGNZU2NzTVRSa3QwOXpRbE04WUJURTRvYThTVjdYWFU5NVBGWDBTQzhMck16OWpMWDRaTDZhNE90eXhYQTdRNnlieVRja3lnSDNXbWJybzhXbVZ5XzRyVWExemd6eXAySzJhaUFZM3FVV1RLaDk2ZHFBMWhhZVE3cExyNExyM1J3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-10-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel secures USD 7 million orders and Nel ASA stock costs EUR 0.19 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGJYUU5FSVJzb2RrZ2lnaWduQ0pwRVpZdTgydWplcEgxOVFqRWRrZ3JjSEctb3JwM0R0ZnQ0aWh1RWpkbkNTUVo0MHdkcHVxeDA2RVA0RjU4T2xvVDZROVpxTGFvaWNWS0pxVUZJc0Y1SENjVEV6bW1jSU5XaDN6UHd6aG5XWVpOSnF2ajF6QlNVTkZtY0NKQU5yWHJWZDhiczNyRUZKN3hyV2EtZTE2MmRDaDJacm1kbjAwZXdNY2QycHlaODBF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-10-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Books $20 Million in Submarine Work as Revenue Slips to 2027 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVm1zVDZMRHJZYVdBU1plYm5uT3RKRktpRHNnc2MyTlMyT3VYXzVWMEJHOWU0ZFZIQWliN3IyLTBjc1RHcXpSUF9LWTNtWm5XWGZKRWk3bU56ZFFVTkNtMWhkOGlHQ19vY3hRZE5QU21GcGtDem1kYTRhd2h5RnFuc0NwNjc3MjdkMHpxZ1NwbVNiMHE2YzA5MW1JSlFVM0RSZ3ZqR29qNmdxT0ZQY2kxdDMtaEg5Mi10YkhvUmRtOEVmUFhydXBsWXJfek5oRmFiblZqYmZn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 21,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 82,
+    "too_old": 99,
+    "gate1_blocked": 99,
+    "gate2_blocked": 32,
+    "passed": 37,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - marketwatch.",
+      "Operating cash flow per share of NEL ASA Unsponsored ADR – HAN:D7GA - TradingView",
+      "D7GA Stock Price and Chart — HAN:D7GA - TradingView",
+      "Nel stock after-hours at EUR 0.19: plus 0.00 percent versus prior close - AD HOC NEWS",
+      "ITM Power – First hydrogen from Lingen reaches customer - Hydrogen Central"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為西門子能源、現代汽車、豐田相關動態：「Inox Air Products Files Draft Papers For IPO; 7.7 Crore S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Inox Air Products Files Draft Papers For IPO; 7.7 Crore Shares To Be Offloade...",
+        "level": "green"
+      },
+      {
+        "text": "Indian gas maker INOX Air Products files for IPO - Zawya",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
