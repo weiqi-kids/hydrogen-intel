@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 92,
+  "gate2_fail": 47,
+  "passed": 34,
+  "gate2_samples": [
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo! F",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc",
+    "17.499 deferred stock units are credited to Air Products (APD) director Dennis H. Reilley. - Stock T",
+    "A director acquires 33.8266 deferred stock units in Air Products (APD), bringing his total to 5,251.",
+    "170.004 stock units go to Air Products (APD) director Jessica Graziano, payable in common shares. - "
+  ]
+}
