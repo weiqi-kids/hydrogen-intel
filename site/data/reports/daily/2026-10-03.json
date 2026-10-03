@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:49:33.171209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-10-03-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "INOX Air Products Files DRHP — A Leading Industrial Gases Player Moves Towards IPO - LinkedIn",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVE9NQ0Q5cXBUeUlYbmM4dDlhODh1ZjJYT3VFNmxKUVRsT1FzMnZxSjBwNXh5QjlYT2s5V18tVWgzYVkwNWV4NDZLV1BMQXNmNGhwSmVjTlZ1RktTcUJLZWJaRjRFa2RITXJtUEJFRlhnYUNwMFVZcmVPbWMyRTVFcVlCaVloMkNsUDJ0S2NLazhlaFRI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products signs Arizona gas deal: What it means for Air Products & Chemicals stock - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemNtYXBwNEt6M3hIUUE1c2trVTJHWkhPb0ZGQmJvc0xDV05JWUtNUmtZOU1mUWlHN0NDWlBPWjgyV2U5VkZUOFdQbk9zZldmNDJaUVEyVzI2a3lyQTh5cWxVdEpfdGlkZlpCVTVhWFQ4REp5eTBkdmRqcmFlTWNFWGFUOW8yX1dnNkQzVWotdk5Rb2JxaXY1djMxeUxjVkpadldibWM0WWlCWnd2YUhHc1ZGUVZQbHVqUXU5MUNrVmJwb2otb0xPUV83QURyUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Books $20 Million in Collins Aerospace Submarine Work, but Cash Won't Flow Until 2027 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZy1UYWdjaU44aU5VSEpzVHQwTE56NXdHQ195Rjk3bldsM3JEYUltSmJJblJVd1B2Wm5Xdi1GOFp4dmh3TGVGN0lGVkI2ZERsLXA2bXNSRkRfck5nekVjTVp6dTIyT2pFc2JBRksyTFV4VzFxWVZTcVpoR01ZX2k3ZkdTeEgtdGNfN0x0akpDRWwyQTN4M0hZdGlnWGVHRjBlMkhRWm8ybFBCeS1HYVJGWWVJOU8wQzlaUDB3dVA3ZG45UmF0ZTloaHZjV1lpbTM1MnNSbS05TzY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel Hydrogen US receives submarine order; NEL ASA stock trades EUR 0.19 versus EUR 0.19 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnJRYUFyNU5WZFJ4VzNNbVhhSExqMmhnZklFWVhmQS1sRUcwMXJ5ZEl3b3ZFcWxIMEE0NVNseXY1MnBOalFqc2tnSlNHa1BkWGNSX1RCcW5rQmVSbF9tdjBfSVZ2UThLNU9CR0lUcGFKR1BMZzVFVGZEMUdtdjdqam0yU3l3eHZnbzJCOVFpRVl4UEZpYi15SzZBNHl0VzdjYmN1Q01YRlNiM2owRUgtNHhGMmF4MFBTMlpGYWw5Z1V2NUZkS0wwTDh5bW9wQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Taps Hydrasun for European System Integration as $20 Million Submarine Backlog Stretches Int - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYTJVVGg3dFdYQ25hR1Y4MFBZMUtUdWNUWjFvSlJ2WXRpaW9mR1ZjcnoyRFFlaUtPcFZkR29HUnRYdWZrRVQ4dG5lNWtqbERYcUZZc05wVkJOZDVqQTB0SHFBTlNXVDhpZDU0ajVHbFFTMVVzMTV3ZzNTREdCUXFKVnpwcjdEZXdHV3ZrTlQ3bzBSVTRvdnBFZXprODU1N2kxVldFbVhhSklpS0VuR05LNk5JbmJha2Vzc1Vfakl3eXNNVzhPTGQ4bHlIT050UXl5djBWT180a1N0WGVBVzhhVmh6UUZhQkZiYThtYnhyZVhPNHpTbU9aMjlpSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 96,
+    "too_old": 85,
+    "gate1_blocked": 92,
+    "gate2_blocked": 45,
+    "passed": 32,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "17.7%",
+    "gate2_samples": [
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+      "A director acquires 6.323 deferred stock units in Air Products (APD) at a reported $279.19 per share",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+      "Canada Net-Zero Hydrogen Energy Complex - Air Products",
+      "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Nel ASA、西門子能源、Air Products相關動態：「INOX Air Products Files DRHP — A Leading Industrial Gases...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "INOX Air Products Files DRHP — A Leading Industrial Gases Player Moves Toward...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products signs Arizona gas deal: What it means for Air Products & Chemica...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

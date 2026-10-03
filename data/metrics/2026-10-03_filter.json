@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 92,
+  "gate2_fail": 45,
+  "passed": 32,
+  "gate2_samples": [
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+    "A director acquires 6.323 deferred stock units in Air Products (APD) at a reported $279.19 per share",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+    "Canada Net-Zero Hydrogen Energy Complex - Air Products",
+    "Air Products & Chemicals Inc. stock underperforms Thursday when compared to competitors - MarketWatc"
+  ]
+}
