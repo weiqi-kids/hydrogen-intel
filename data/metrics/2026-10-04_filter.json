@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 95,
+  "gate2_fail": 43,
+  "passed": 20,
+  "gate2_samples": [
+    "Air Products (APD) Stock May Be 23% Below Fair Value On Cash Flow - Yahoo Finance",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+    "A director acquires 6.323 deferred stock units in Air Products (APD) at a reported $279.19 per share",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+    "Canada Net-Zero Hydrogen Energy Complex - Air Products"
+  ]
+}
