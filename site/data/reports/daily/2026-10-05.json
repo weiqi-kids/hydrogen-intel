@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:32:23.960079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-10-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Collins Aerospace Backlog Hits $20 Million, but the Cash Arrives Years Later - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2M0dTZfYnZHMW15TGpIVVR3Q2FUNkt0Z0lCZVE1cEp4Q2JPckxkRzJwUjk0X2JkUDR2RE90MzNDWUI2R29wMWc3UGdPd2JjdFBub0xjdEVIU3BMSXotYU8xaW1mR2NiYTVzWFRucFpnY3BWdk1ScUNsWm1zbFRVeFpPd1dxaWlfck14Ym5OcThHRS1FZnlDdGpkazVwT3hGVkNjU1k0cjk5MUp2WlJLUXFZbTJOTDV3TWZtNUJ1eWdZb2NwVjI0NDRUbk9FaWRReWJoRDZXNnZGZmZ1?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-10-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA secures submarine orders as Nel ASA stock costs EUR 0.19 - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGxrQjJVWndkOC1wQTE0X1RTUF9MdEstNGUyZVpMOXdZYm45cGZnRERhYXZkckZfZzI3N0R6aHhnZ1RIeVN3Y3Y3bGFUQmdnMFRRblhxT1B6ZWtIM1dpcmpvSUpRWV9fbjJGRnFvdVRsUXpaaWlaRW1LTTFsRG5HMXB2NS1BSXNfQzM2R2ROQlM2SG5wOHJ6cW4yVVpxQV9XODJxbVdsd241SnVRd08yN3J5Y0FzTFQwZnBHaGhKdk1XbnozTmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is (LSE:ITM) Finally Turning Electrolyser Orders Into Deliveries As A Former FTSE 100 Rolls-Royce Boss Joins Its Board? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRzJQQlZCczRyeHBMNnFpN2FvWlNnTS1LTzJpdHJqWTRqT25rRm9vZGs1N2N2UWJaTnVWd0FGdTROR1JVVVBGeXdUTDBJMWpMMEVzUnA4NEpqSmxjenJjNUZ5bkVscGtadzZaU0l4aGJZbWxkS1VMWEw0TF9yNENSYmFYZFN2RlpXRzVYX3oxc2ltdUxacG1zUVY0WnV3TnlvNzNETzVZaGV2VlVwR1JOYVNleXBzSjRScmFwZjdIRnJuTHJvSU5uQS05b0ZUT3JTS1IyUE1PempSbUdQOXhfdmhkRjVZRnRrZlFkWldn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-10-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy AG (ENR) Buys 894,429 Shares in Buyback - TradingView",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzJ1WFFBTFltY1FiYXJrTDNpTkhxNE5XTVpvTnEwYVpYWDU3RFpTZjIxXzJwVnFSOVI3SHlMSFVyU0NTM0VMSXVicWhSa1RYN1hGYmlqR1F3VWdsUzNsd1habXdMazlBY2RybmJNWDNDSHoyRENhdnpRVnR1LXVSNzhNOERMMFprSGVUaVRfbnkteWk3V3Y1YU5yUjlMdG9aaHQ0N0tFZ1pZUnctM20tdmd5Mmg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-10-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy and Dynamis ink 1.7GW mobile power deal - Enlit World",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZVNzFwcFFrdkNHQl9ta3JNQ1piR1NoYjFoMGxXMmhoSk5aX1dtWTZkU3hFVExjd051NFNiNjVSWnBBNWNQcG8tRWtMbzhaU19pbk1SZElCMXZyYnJIZnNxTklSOFQzc2NQY1N6SGVFM1NxWlhYOV9YNUtPNzFyNThwZ3NTUWtiTjNBM21B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 103,
+    "too_old": 91,
+    "gate1_blocked": 91,
+    "gate2_blocked": 37,
+    "passed": 29,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "UBS Adjusts Air Products and Chemicals Price Target to $305 From $336, Maintains Neutral Rating - ma",
+      "Air Products (APD) Stock May Be 23% Below Fair Value On Cash Flow - Yahoo Finance",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+      "A director acquires 6.323 deferred stock units in Air Products (APD) at a reported $279.19 per share",
+      "Canada Net-Zero Hydrogen Energy Complex - Air Products"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為豐田、西門子能源、現代汽車相關動態：「Nel ASA's Collins Aerospace Backlog Hits $20 Million, but...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA's Collins Aerospace Backlog Hits $20 Million, but the Cash Arrives Ye...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA secures submarine orders as Nel ASA stock costs EUR 0.19 - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
