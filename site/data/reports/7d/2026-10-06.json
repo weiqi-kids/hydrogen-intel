@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-06",
+  "date_range": {
+    "start": "2026-09-30",
+    "end": "2026-10-06"
+  },
+  "generated_at": "2026-10-06T14:34:38.668104Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fuelcell-2026-09-30-030",
+      "date": "2026-09-30",
+      "title": "Plug Power Advances 4% on Electrolyzer Supply Agreement; Bloom Energy Sinks 3%, FuelCell Energy Treads Water - 24/7 Wall St.",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "green_hydrogen_cost": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "siemens_energy": {
+      "event_count": 25,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hyundai": {
+      "event_count": 22,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "toyota": {
+      "event_count": 14,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "air_products": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "chart": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 194,
+        "last": 143,
+        "change_pct": 35.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-30",
+      "event_count": 34,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 53,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 34,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-30 ~ 2026-10-06）共 194 則事件，重點為「Plug Power Advances 4% on Electrolyzer Supply A...」。電解槽產能、綠氫成本、燃料電池車為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "thyssenkrupp nucera",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

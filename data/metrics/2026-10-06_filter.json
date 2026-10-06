@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 71,
+  "gate2_fail": 43,
+  "passed": 35,
+  "gate2_samples": [
+    "What Will Decide the Next Move in Air Products & Chemicals, (NYSE:APD)? - Kalkine Media",
+    "Air Products to report Q4 fiscal 2026 results i... - Pluang",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi",
+    "Canada Net-Zero Hydrogen Energy Complex - Air Products"
+  ]
+}
