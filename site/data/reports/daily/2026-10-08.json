@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:02:28.814086Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-10-08-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power upgrades 2026 loss guidance ahead of results - Proactive financial news",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ycDYyVkxpT0NXOUo4T3lFcXN3azFXT25YU0ZWRFgtUEdaV2hzOG9obUJaTHFlcUVGSm5veE50UlRjZG5mRW4wNTg0WXJCS20zdUE2LWpDaFpoVkdJLWdNREV0aVRuei1Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-08-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Electrolyser maker ITM anticipates lower loss than expected for past financial year - Hydrogen Insight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVwOGdHN0dQbWlZS01RVC1TckdJWmM1cG0zYXZrVXNOUjFGalNuM0VWQXlSdTJIcDYwME53ZDhJQ0Z2cjJxTHZKUzVEODFLZ05fMGpyUHhjXzNCQlZid1FCeVdfZy0zLTdxQXRwaHhRbjlFX09lYkxsc2hPU281NTZTV2kyTXN5Z1JobVR5SkNVTWM5TWZza3lXX0RpaDBqZVNlVHZKTUJDMEVmLVlxOTNjVHNCVnRCZlRKb0R6eFBKTjZUWVZReEpFdG9IVmgxZW5OS1hkakc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-10-08-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power Shares Rise as FY26 EBITDA Loss Guidance is Cut to £20m-£21m - AskTraders.com",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0pSamNlbUFHdkF2NEMwTjRMa2JIX2o2c1ExaF9vNHU4QTFzUzhuRmw4SlItT0RHNzVNeElkUFMtNTBuc29vNlJ5cmo3TWZ3c2lydkhuVFFxemF1YTZyRXJ5b2c2SEs4YmdfM3JoYTdYUnBjS3JaNWZ0emgweUtLMWhJQUhjNEJMMGRYa3dBb3hIQ1JQMy1FRHVadVV3MmZxOFNTNFRUaF8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-10-08-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power upgrades FY26 adjusted EBITDA loss guidance by 27% - Investing.com",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkxLTDlpWkhGMEVEVzY5UURJNG1lQ0ZBTlEzYlg5WldqME0tUHNMYzU5TUl4cmZfYmNNY0IxRDFlRmcya1ZrLTFxdEVPR2txN1RhT2VYNExCUlppN0FXQzd6bjNyMGNfU1ZoZVhJRTlSMW1aU3d0bkI4MWNPdDg4QlFlVXZncG1LRUh3VkpxZHFkUGt5YWEyR0xIMmdUX0VlYmhKTkJORy16Z2RuM3g1N3dMQlVHblU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-10-08-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power upgrades FY26 adjusted EBITDA loss guidance by 27% - Investing.com Canada",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTZrMy1HUnA0X3Z6eDF3VG1sV0RjS3N6NVF3YTI1MjJkbnNBWF9RUHhyV1pjWE9QY180SV9TYTZORHJmWTk4UnJnaVVreVIzMzVZa0d6Rk1CcnAxNGdad1ZaX3ZKY1c2T0liME9HeERsUmtZOWpoQmk1TENSb2RjaTd5NW5KMGFROHN3U21VNWlyQmRzSGstMlJCTE9DbThtMnZqUV82WGVNb0dwR2ZSQTNPWGpKVDliVUZtVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "itm_power",
+        "count": 8
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 91,
+    "too_old": 81,
+    "gate1_blocked": 78,
+    "gate2_blocked": 39,
+    "passed": 41,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+      "Air Products signs agreement to build LNG-based air separation unit in Malaysia - ChemEngOnline",
+      "Air Products to build LNG-based gas unit in Malaysia with Petronas - StreetInsider",
+      "Air Products to Build Malaysia's First LNG-Based Air Separation Unit - marketscreener.com",
+      "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為ITM Power、西門子能源、Air Products相關動態：「ITM Power upgrades 2026 loss guidance ahead of results - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ITM Power upgrades 2026 loss guidance ahead of results - Proactive financial ...",
+        "level": "green"
+      },
+      {
+        "text": "Electrolyser maker ITM anticipates lower loss than expected for past financia...（燃料電池車）",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

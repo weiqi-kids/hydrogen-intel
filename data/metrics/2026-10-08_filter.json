@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 78,
+  "gate2_fail": 39,
+  "passed": 41,
+  "gate2_samples": [
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Air Products signs agreement to build LNG-based air separation unit in Malaysia - ChemEngOnline",
+    "Air Products to build LNG-based gas unit in Malaysia with Petronas - StreetInsider",
+    "Air Products to Build Malaysia's First LNG-Based Air Separation Unit - marketscreener.com",
+    "Is Air Products and Chemicals (APD) Outperforming Other Basic Materials Stocks This Year? - Yahoo Fi"
+  ]
+}
