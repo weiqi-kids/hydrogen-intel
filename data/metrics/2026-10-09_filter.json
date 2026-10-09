@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 79,
+  "gate2_fail": 34,
+  "passed": 25,
+  "gate2_samples": [
+    "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Air Products to Build LNG-Based ASU in Pengerang, Malaysia - News and Statistics - IndexBox",
+    "Why is ITM Power stock climbing today? - Investing.com",
+    "ITM Power rises 5% on loss outlook as Peel Hunt keeps 'hold' - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:46:27.288980Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-10-09-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power (AIM:ITM): Are Rising Revenue And Orders Enough To Ease Loss Concerns? - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUU9mT21hN2JhY3RIYi14cUtCbGl0bWl4SnROUlFOdUY2UUh2b3Z2ZWVsUFZQdkU0YmV2TENIdlZ2NFZOaDFnYlBYck9oakxHZFFyaWdFemxiTHJnc01VRVBjSjNIdmNza3FXQklHVENIQnBZLU5rSHlJY2dIR01ObWlXLUxSdmkyYjJuV1ZlV1RSeW51dXk2SWlDTlJIWXRNbnVuSHlvdzBwZURGSkoxb3VaMTJLT2ZJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-10-09-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power Sets October 19 Results Date After Trimming Annual Loss Guidance by 27% - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYnh1eG5TMGVNY2NoQVE1TEtXOTVucmtqV0Fvc0NVRDZBQ0Y2bllBbS1hd1VkVDdtN19MQmRsWVZLc2dOVGRTTTNPY3BYcUdGZXVKdkMxYWdqZVJuMi1ZZVZGMlN3WlFwdGRVU1Q2cFdBTnFIUmYyWEZDTjR3Q0tRRG50RFpWLXg3bExxdHRzVzRncm43d3FweGN3emdZZW02YWdXcjBpRzhLbGNDbG1qMWhWRHpwYnd0MWc2dVBfTHhiMmhNRjVLaVJDN19oNThyR0xoSXZoZWd5akpYX2F3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-10-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Air Products to build LNG-based industrial gas plant in Malaysia - Fibre2Fashion",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHBxTmdCZ0pjdUVuQUFXdXBpaUtoY0RfMzJTVzh3VkcyY2pzdjc5ZkNRa24yUm1zOUEtQ0J5RDVuanA4YUZUd1laOFc1Yjk4MXJYaU5PT1B6bkZXYmlQZGU2QTZqNXZZTWxoaThrenNUdHR0UDlsZFc5X1hfbXgybXo4TksyM1AxM21yMEhDYkd2SUxXcDY0cTlBcTBmaV9TeFh1UGczWG9JaVZOa0hBc3pic19hVy1kMnZCYnNUMDFSd1ZvSjg3dWhqYTEzbU8tR2x1a19jOUZIQXVwOUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "air_products-2026-10-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS cuts target for Air Products and Chemicals stock - AD HOC NEWS",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmtrNS1tYVRkYmFLQktmT21PMVZ5S2xXN21HSTRkeUQyOHNCcmRwWkhDVlkya3JvUGxsSGFaTUJvSF8xNWpIdVJ5VDBaZkRtanJLRjBGWV9rN3JoZEZ4ME5RcTlIU0xQNEY5dTZhaUlZbGlQbFExcEMtT28xX3VYNkZ0Uk9zamZKa3BaemZKeWh2Z0paY2g0NmRtbzY0WG5ERDNUSEtTWHR3TlFuRGo0MmR0U3lTQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-10-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Lifts Guidance, Sets October 19 Date for Preliminary Annual Results - AD HOC NEWS",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLU1fb0tVcUc3bUVzcHU4XzQwVWRaWVFvSV9ZcldmWllWaGhja3VGLVNPSW1DSzNYellYU0xRamt3cXJqcUZjWnlRUVlfaW5qUll4ODFia3JXTlYzcnc3cGJXN2U4MTFVTXhMS21TdDZsRkJtcEZXaHp4RHRwYmJ4N0NBWEI0OGVzWEYzdXJXYkx5ZzNDVHBsaHZQSHlFdm0tckNMYWJjNFhfY3NxODZuV0pocFh4TTE0NF9nV2dlMUx4RjVwdWVaRlRhZm9XM0hTNFBUalIyVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "itm_power",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 111,
+    "too_old": 79,
+    "gate1_blocked": 79,
+    "gate2_blocked": 34,
+    "passed": 25,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+      "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+      "Air Products to Build LNG-Based ASU in Pengerang, Malaysia - News and Statistics - IndexBox",
+      "Why is ITM Power stock climbing today? - Investing.com",
+      "ITM Power rises 5% on loss outlook as Peel Hunt keeps 'hold' - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為豐田、ITM Power、Air Products相關動態：「ITM Power (AIM:ITM): Are Rising Revenue And Orders Enough...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ITM Power (AIM:ITM): Are Rising Revenue And Orders Enough To Ease Loss Concer...",
+        "level": "green"
+      },
+      {
+        "text": "ITM Power Sets October 19 Results Date After Trimming Annual Loss Guidance by...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
