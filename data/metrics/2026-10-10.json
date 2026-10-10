@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-10",
+  "total_events": 5,
+  "by_company": {
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "siemens_energy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
