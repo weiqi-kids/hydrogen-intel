@@ -1,0 +1,16 @@
+{
+  "total_raw": 327,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 69,
+  "gate2_fail": 34,
+  "passed": 16,
+  "gate2_samples": [
+    "Air Products and Chemicals (APD) Expands In Malaysia As Valuation Debate Stays In Focus - Simply Wal",
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Citigroup Adjusts Price Target on Air Products and Chemicals to $312 From $330 - Yahoo Finance",
+    "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+    "Nel ASA's Q3 Report Is the Only Thing That Matters Now - AD HOC NEWS"
+  ]
+}
