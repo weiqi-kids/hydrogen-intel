@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 93,
+  "gate2_fail": 41,
+  "passed": 24,
+  "gate2_samples": [
+    "Air Products and Chemicals (APD) Expands In Malaysia As Valuation Debate Stays In Focus - Simply Wal",
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Air Products & Chemicals stock last at EUR 251.10, market cap USD 62.6 billion - ad-hoc-news.de",
+    "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+    "Citigroup Adjusts Price Target on Air Products and Chemicals to $312 From $330 - Yahoo Finance"
+  ]
+}
