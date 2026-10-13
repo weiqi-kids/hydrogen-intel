@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 95,
+  "gate2_fail": 37,
+  "passed": 32,
+  "gate2_samples": [
+    "Air Products schedules November 5 results. Air Products stock is 9.42 percent below its high - ad-ho",
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+    "Barclays starts coverage with USD 353 target for Air Products stock - ad-hoc-news.de",
+    "Nel ASA sets date for Q3 2026 results and virtual presentation - The Globe and Mail"
+  ]
+}
