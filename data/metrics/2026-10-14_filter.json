@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 95,
+  "gate2_fail": 31,
+  "passed": 26,
+  "gate2_samples": [
+    "Barclays starts coverage of Air Products stock at USD 353 target - ad-hoc-news.de",
+    "Air Products (APD) Lands Malaysia’s First LNG Based Air Separation Unit Project - Simply Wall Street",
+    "Air Products to build, operate LNG-based ASU in Malaysia - Filtration and Separation",
+    "Nel ASA sets date for Q3 2026 results and virtual presentation - The Globe and Mail",
+    "ITM Power plc (ITM.L) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

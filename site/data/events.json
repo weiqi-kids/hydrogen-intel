@@ -1,5 +1,223 @@
 [
   {
+    "id": "linde-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [
+      "linde"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Linde LienHwa Connects Hydrogen Ecosystem Through Hydrogen-as-a-Service (HaaS), Boosting Decarbonization and Production Capacity by Up to 50% - www.energy-omni.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdUUwNXpTYWgxRy1rQzkxczZGdTVZYXlzSldDMkJFaGZZamdsZjJMRkJnVzRod1lTZzBYY3RveVcwcnd5U3IwUnRtaWd3emRJQ0d3a1ZvdWtzTmtXSHc5VlYwOWFmWm9haEhJTA?oc=",
+    "sources": [
+      {
+        "name": "linde",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdUUwNXpTYWgxRy1rQzkxczZGdTVZYXlzSldDMkJFaGZZamdsZjJMRkJnVzRod1lTZzBYY3RveVcwcnd5U3IwUnRtaWd3emRJQ0d3a1ZvdWtzTmtXSHc5VlYwOWFmWm9haEhJTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nel ASA Clinches $12 Million US Order as Investors Brace for Weak Third-Quarter Revenue - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEhkRVdPVWN2TER2bkk2VTVlLUZ4bFlqcFJaNThRR0JBREdVQ1RxT3hsR0JLZlo5QklaZGlDaFAwWGpUQVZIZkxON2l6cDBhQmVQMVdIZ05fTnBCSlRESzZmN3Vxand0Z2o5eGlwR1",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEhkRVdPVWN2TER2bkk2VTVlLUZ4bFlqcFJaNThRR0JBREdVQ1RxT3hsR0JLZlo5QklaZGlDaFAwWGpUQVZIZkxON2l6cDBhQmVQMVdIZ05fTnBCSlRESzZmN3Vxand0Z2o5eGlwR19fazNFblBEUWJFNko0NFBZYVBZUjZzVjNzcFNhQ2tHU0FFUWlSa05kb0RBLUpVMkd2SG5hbU9LSmpHdjVjNUVPSjhxV0N2MFZxd3V1TjNvT2ZuNnU0QmMzaWNKUFBjWEF6RWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA Wins $12 Million US Electrolyser Order, but Rheinmetall Deal Still Lacks Binding Volumes - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjhQNlJpRTVFVnRJbDFYZFNYUnF3ZUFuWkJDalZaR25tY215aEtGcGUyMXRGdVI3SWlSMUZWVVZxbENObWZxWXRZM0VzQ0o2YVVUU2dEZWJhdXhUeFNsTUw5YVU5QXI3RW5adFJKZm",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjhQNlJpRTVFVnRJbDFYZFNYUnF3ZUFuWkJDalZaR25tY215aEtGcGUyMXRGdVI3SWlSMUZWVVZxbENObWZxWXRZM0VzQ0o2YVVUU2dEZWJhdXhUeFNsTUw5YVU5QXI3RW5adFJKZmVPVS1rbHlIcWRISm5UZVFhY2JXVDN4ajVIN2NqZDBmTlczM3ItRFloaktud2wzVUxIWjZGWVJWemNWWG5vcGtjUVpya0VSYWhSdFFoWmlBRkVZb1NvbWxrSzZfOExOQkpodXR6UXp3dlZMZU1KLXV6aUZBUFRrY05QY2hiS19DVGU1Qk1TODhjaGxB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp nucera Establishes Its First Company-Operated Electrolyzer Cell Assembly Hub in Europe - chemeurope.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVRIMk9mNTMzSG1wYm1uWFp6dlZKclh5VjhPWVpRa25yTUtyLWR6eGZTQTdhLWs5eEJJdUJqaUhxWnpBVV9Ba2JsWnFrWlRSeTVWRVhxWmJLU2tLS3BPTVJIbnF2ZUxGOUc0VXozSj",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVRIMk9mNTMzSG1wYm1uWFp6dlZKclh5VjhPWVpRa25yTUtyLWR6eGZTQTdhLWs5eEJJdUJqaUhxWnpBVV9Ba2JsWnFrWlRSeTVWRVhxWmJLU2tLS3BPTVJIbnF2ZUxGOUc0VXozSjFPWlhKSHZWajZCY3V0SXZXZUc2MElKRDZidjAxa00zQ2kzempHWjdHQzU3dDdtVEQwVmVXeWwxREtjWTBtckFPVHhUQVEzbWRlVy05VWRTMnZDbF9XTy1FX2pvRV9YMVU0eHVWcE5fMlNtQmU1Tmlwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032 - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE43RE5yc2NKZEpJQ0hraHlDcHlKYmUtS3duemQ4b3V3MmxLQzE4VElBal9iUGtnbzl2Wi1WVFZnQlpEeV9oUjB6dWlBSW52Z2ZIQVEtb3BKYXBWa1I4V0Rxbk8tRV9DTEV2Vm0wR3l4Rn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43RE5yc2NKZEpJQ0hraHlDcHlKYmUtS3duemQ4b3V3MmxLQzE4VElBal9iUGtnbzl2Wi1WVFZnQlpEeV9oUjB6dWlBSW52Z2ZIQVEtb3BKYXBWa1I4V0Rxbk8tRV9DTEV2Vm0wR3l4RnBZYlhKcGdIXzF3d0nSAYIBQVVfeXFMUHhyTHNXb0I4NGhBb2xtRGd6NzBYeTEzelpITnlLYXpMeWtjNTAyeXBrMEFSUG9FVkZoZEh2eFFJTGNDNjZfOThHN3g4WWt4STdyMS1iOEx4dmxrdmI3eGl0UUtPVmRVSzNfcTRVWmp2MnFHWWgtanpyaGw1SlV3X3g3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai triples India bet as globalisation gives way - Automotive World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVlPVFM3akJRRUhNVjV4LVgxbUVlUGVWbkNEYXh1LXFDNzlJNDBwV3dXRk1qR0QtTlVBTk1iMXlqY1pSbUtHRmhDR2xMRDNXa09WYXlJWkdwaWt6Vm50Y3FjMXpIdHdzMkprdVlmcD",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVlPVFM3akJRRUhNVjV4LVgxbUVlUGVWbkNEYXh1LXFDNzlJNDBwV3dXRk1qR0QtTlVBTk1iMXlqY1pSbUtHRmhDR2xMRDNXa09WYXlJWkdwaWt6Vm50Y3FjMXpIdHdzMkprdVlmcDVGbVlPa1BEVXl5OUlBaFk5Vm1xQzNYUmYyZFBtcXJDNWRPQ0dO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-14-007",
+    "date": "2026-10-14",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdW0wTU1VZHJyRWFwRDhFUjJTS19vYWhwM2NFOXp5TXlaZmVVME96bUxsdmJTVFVPUUl3cDZEeENLcTVTdGtQQnFGT290dFU5TnZ0NHVwWDlpSkJrOTBDamR4Z0M4REVTcDBma0djWj",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdW0wTU1VZHJyRWFwRDhFUjJTS19vYWhwM2NFOXp5TXlaZmVVME96bUxsdmJTVFVPUUl3cDZEeENLcTVTdGtQQnFGT290dFU5TnZ0NHVwWDlpSkJrOTBDamR4Z0M4REVTcDBma0djWjBicUdoQzk5Rnlhd3F2d3BPQklOamM3UWVQTV9WdHVhcmJIYmYxdGRVY19nMkVaTE9aMnR1NVd2eGQ4LXN2eTRYcTVfaTJYZk4yOUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-14-008",
+    "date": "2026-10-14",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group Launches Autron Despite Executive Opposition - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY19LQ1RqSk9sR0NfcldMY05hMktidDRQT0xwMlBrS0VSODV2TmFSWlExMDhwZXJya2Y5bUpTNF9DdFE2MDI1ZndpOTNKYkQyVHExQm5YZjhjN3NrNHk3dGpPR3hXSmdQRzgzQ0RzVC",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY19LQ1RqSk9sR0NfcldMY05hMktidDRQT0xwMlBrS0VSODV2TmFSWlExMDhwZXJya2Y5bUpTNF9DdFE2MDI1ZndpOTNKYkQyVHExQm5YZjhjN3NrNHk3dGpPR3hXSmdQRzgzQ0RzVC1ZUzF1RkJQdzFLODBqSUhjaUVFLWp5bnot?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-10-14-009",
+    "date": "2026-10-14",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Erste Group Bank Expects Reduced Earnings for Toyota Motor - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHJ2aTc2bDlfUHJnU01DaEc1dlhULXpBbkZmT29YM1R3cV9JRDlHZVc3LVBlc2stRVBsZkZwTmtOOGNib0hyMzhXUHNtTWhTT0FfT05QSl9QY0pYcGkySGRpXzUwZUlXXzJFTW9CVm",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHJ2aTc2bDlfUHJnU01DaEc1dlhULXpBbkZmT29YM1R3cV9JRDlHZVc3LVBlc2stRVBsZkZwTmtOOGNib0hyMzhXUHNtTWhTT0FfT05QSl9QY0pYcGkySGRpXzUwZUlXXzJFTW9CVmZQcThlSmp4YzFWNTlzY2NZVjNBbVpQRFFaTWRCRkxXRUJ2c3hGaTBORVlsWXBibjJJT3VyY0Z2ZHo2RW9mU00zaDMycjAyUUZTMkNsYmhEaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-10-14-010",
+    "date": "2026-10-14",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota to recall 30,978 vehicles in US - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3lwa2o5MG9FcnU2czB5b3Vpd1g4QWRmU1MyWE92V09kRWRDeHVnRl8tR01fWEJwQ2lVN3ItUW5Pb2lZTzQ4TURtLWdJTHBqQnJoeHZ4MUgtdU5abkdjQmxPTWZQUUUzcXlYRk5NSW",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3lwa2o5MG9FcnU2czB5b3Vpd1g4QWRmU1MyWE92V09kRWRDeHVnRl8tR01fWEJwQ2lVN3ItUW5Pb2lZTzQ4TURtLWdJTHBqQnJoeHZ4MUgtdU5abkdjQmxPTWZQUUUzcXlYRk5NSWV2VW84SGx5V0VzVTk4YWg5bWNtZ3VaQWRfSEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-10-14-011",
+    "date": "2026-10-14",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Erste Group cut forecast for Toyota Motor stock to USD 21.91 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdl9hdjVpcGtaQUlITjBZbF9JQzF6VGwyT0NfSEc2QndmNnROOW5hNk90QXpNN1hZQ2ZUbmVyT2J5cER1SHhBRWlDbzFvMXRWYVRHX3YweVNBRjdsNGxHVHU5Mm9ZT3pKbURtUEZIZ2",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdl9hdjVpcGtaQUlITjBZbF9JQzF6VGwyT0NfSEc2QndmNnROOW5hNk90QXpNN1hZQ2ZUbmVyT2J5cER1SHhBRWlDbzFvMXRWYVRHX3YweVNBRjdsNGxHVHU5Mm9ZT3pKbURtUEZIZ2dXT3ktMXoyVnUxVS0tdmpyVkt0aVJUd1UzWGx5R1BjRk5JZzJ1bGlJbWpLMXJMSFQtTExsa2Y0cW5BMWtpM3BzV2tWdHJ6SEdWRVBzN1pzTFc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-012",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Sober Drivers Still Face Nearly 4x Nighttime Risk: Why Road Safety Demands a Safe System Approach",
+    "summary": "<p>Imagine a world where we successfully remove every single drunk driver from the road. Achieving this would be a monumental victory. Alcohol impairment remains a massive, critical crisis on public r",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/13/sober-drivers-still-face-nearly-4x-nighttime-risk-why-road-safety-demands-a-safe-system-approach/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -361,6 +579,266 @@
       {
         "name": "google_news_green_hydrogen",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkVrRTd6b2RWZFN5SFJkUFJodmltbGlnRHFKSzZWanY2LVZpUld6UFBwLUQ4SE5DQklvN3VOZ044V3ZWcFdval8xdU1VTDdxbE5OY3pBRkhXeTllNXdOUzh6R1poOTFXOGxJcHhEMjVTQzF4c3VYZzgyemZRUHhwTEdOOThIV1Rt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-13-021",
+    "date": "2026-10-13",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "negative",
+    "title": "Nel ASA: Receives purchase order for multiple containerized PEM solutions from a leading U.S. technology customer - BeBeez International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzlTcERfdk45UHB0Q3FWRFZfM05ZNmlIYjNjcHlqOGh4TFRnX2JVUU1UaEswQi1YMTFUcmMtOXdISmZMcUdXRldpRUd0dlhvNk9XR25ndGxmenZBd0N1ckhlUHoxRHc5SHFia2JBQk",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzlTcERfdk45UHB0Q3FWRFZfM05ZNmlIYjNjcHlqOGh4TFRnX2JVUU1UaEswQi1YMTFUcmMtOXdISmZMcUdXRldpRUd0dlhvNk9XR25ndGxmenZBd0N1ckhlUHoxRHc5SHFia2JBQktpaXk5c2k5OTlES3FidktQOFVpVlFFTGRDelh3MWNpQ253d1lNVEUyaDlCX3kzb1RJbWpKYVM4M0dkUHJzQzlBRV9waGF6R2VrZ3JRME53RUVtdDJScS1WZDI5R3FjSWNFTzlrbmQxR04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-13-022",
+    "date": "2026-10-13",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel ASA wins $12M PEM electrolyser order from U.S. tech firm - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVoRmwtUjZkRVVnRHEzcENaOFdJd2g3NlN4NTl0STBBc2FDcWlwdUNoWTJJd0N5aG03dGZyamxiZVdHN3NTNkZxalFGc3V4RWVBUlpNd1FJWUJTWmtsWk04Z0dQY0JyZ1YzWVNCcF",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVoRmwtUjZkRVVnRHEzcENaOFdJd2g3NlN4NTl0STBBc2FDcWlwdUNoWTJJd0N5aG03dGZyamxiZVdHN3NTNkZxalFGc3V4RWVBUlpNd1FJWUJTWmtsWk04Z0dQY0JyZ1YzWVNCcF9BSjdGcmp1N25UQWVUSzcwM1loRXo1eVhpRl9DYllpTVp6NmpqZnNjdGIzQm1GYWpwVU1OYU5LRUd3czFVRmlDMjAtS0FyeUk4dnVvckdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-13-023",
+    "date": "2026-10-13",
+    "companies": [
+      "nel"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nel Hydrogen US Wins USD 12 Million PEM Electrolyser Order - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFpXTVU5dWpPMm1NVFFBM0k5dnpfczBMTDFyM1M1VzZsVWF0dXRpemlPN0JHQUloalZjVWphMkl2WnZXcnJfLUU1SjhNWG9rNnRRUUJEMFF6YXJ1UjRmamFLUUNDYnZRN2NTMlN0cW",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFpXTVU5dWpPMm1NVFFBM0k5dnpfczBMTDFyM1M1VzZsVWF0dXRpemlPN0JHQUloalZjVWphMkl2WnZXcnJfLUU1SjhNWG9rNnRRUUJEMFF6YXJ1UjRmamFLUUNDYnZRN2NTMlN0cWZ6TFJkSFktak5kdzVObEQ4YnUxejZKdTNoa2lUSlhRM29wQVdHc0RLTmdfeDhDaVRwZ20xSjBONXZEellzZDh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-13-024",
+    "date": "2026-10-13",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA Lands $12 Million Electrolyser Order as Rheinmetall Talks Add a Second Front - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU5CVmRhSk9UaU9GSXhxTE9iYS1rUW9SMGV2Q3dDd1EzMHRBcEw1M3RZQVVZOWNjQTRqQk5WUXpTMW41YU92ZGtwV1ZQdmNBQ3NpUjlhNkVabThNT2ktam5ZcFVUOHpSbndYeTRzaE",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU5CVmRhSk9UaU9GSXhxTE9iYS1rUW9SMGV2Q3dDd1EzMHRBcEw1M3RZQVVZOWNjQTRqQk5WUXpTMW41YU92ZGtwV1ZQdmNBQ3NpUjlhNkVabThNT2ktam5ZcFVUOHpSbndYeTRzaERJd0pfRTFmX1lYUDNKdVU1d3MzR1ZCVnluS2xiR2NtWnk5VkE2WTZBQUtYR3gyMWU0T0ktbGFUaG5DUVJxMXkzZThXMUpzR2F2dXJUMHgtUV9SN3ZLakEzekJvZ21sRmlfc0JpYWJraWN4ek1JdXVhRXdiWEc2RmlHTjdz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-13-025",
+    "date": "2026-10-13",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA's Rheinmetall Pact Lifts Shares, but Binding Orders Remain the Real Test - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDQ5WS1qUWN3V21nWmUzano1R0ZvU0Rkc0FQTWpDZ3JvVUZJRkpod2d6V0VoQ25UbE0zVWdUTXJJd3kzTWxhanNrNXpaVDAyeVNsQzBYZ1NLVnNONjBWSHVJWW5LT2lPQXhDYlo5TU",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDQ5WS1qUWN3V21nWmUzano1R0ZvU0Rkc0FQTWpDZ3JvVUZJRkpod2d6V0VoQ25UbE0zVWdUTXJJd3kzTWxhanNrNXpaVDAyeVNsQzBYZ1NLVnNONjBWSHVJWW5LT2lPQXhDYlo5TUUwakxJcDdtalBjZU5XX0ZmeUdKUzNmQzloQkZYNm1kWlFfR0wteVVYVGJQbW53VU83YnFJR3VPUnhnOXBkVG5MbVRZZUJZM1N1X1N3SHJtd0RnRUVQTUM4OHVEUUx1YzQ1VE9GTUdPTWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-10-13-026",
+    "date": "2026-10-13",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PTA-NVR: Siemens Energy AG: Total Voting Rights Announcement according to Article 41 of the WpHG - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZjdrNG1HWk5iZWFsWXdMQ3cwWHdqM2Z3LUxzWXlHYVpRSDdHNmRNM1hoY0NhTVdkLTJSbERkdnBvakgtUGgtMUpJeml0M3R2d1pJT3ozVlBwTFk0VVN0ZW82UFFBWURpYVRFZVBJM2",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZjdrNG1HWk5iZWFsWXdMQ3cwWHdqM2Z3LUxzWXlHYVpRSDdHNmRNM1hoY0NhTVdkLTJSbERkdnBvakgtUGgtMUpJeml0M3R2d1pJT3ozVlBwTFk0VVN0ZW82UFFBWURpYVRFZVBJM25SNERaMXotMjZHSG9jM2J6aUZySU91Q1daMlFCT2FIV3RDZ29hcHJVaFdPc2FQUHJTelBiNk56U2hmeFN6SDZNTWpXTk9xb1VVQWZHX0hOUEtZMmlsY0gtNzM4bGZrR3RpbkdlS013YTN4dEtJVWxxTjVjQjRzSDlkUVVfRzJ1X2xFeTFWY3FKMXhyMklRc3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-10-13-027",
+    "date": "2026-10-13",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp nucera Establishes Its First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Hydrogen Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeTVqZzZRckd6Wk1Tak01cmJub3NaelZUNzV0dDhVZ1NCaWJtdGZoMUFnSFc3TXJYeU9ydFVfemNYdnhNOTlQZlRoenNTWnE2OUhJXzdwOWpXSER3OG8xcVBPOVBVajZ1Vl9tcGpXZz",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeTVqZzZRckd6Wk1Tak01cmJub3NaelZUNzV0dDhVZ1NCaWJtdGZoMUFnSFc3TXJYeU9ydFVfemNYdnhNOTlQZlRoenNTWnE2OUhJXzdwOWpXSER3OG8xcVBPOVBVajZ1Vl9tcGpXZzZvZEpvTlNDc2hjX0lUYi0yeUZNNXRQTENQaHREcnFaRmU1Zlh2VklnenJWMVBRSWhYWEprRjltUXNvd1B1M2RTbXMzOUdzZDdrTTNiRXRzOG5EN1RHbFBLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-028",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp – hydrogen subsidiary consolidates assembly in Portugal - Hydrogen Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZklPcGFaVVdPcjYzVFhxM21wRGZNODZnakY1ODdMWTluLW9ydncxcm5oWERzVWp2b0JVZWwxSE14b3VZYi1ZZnBzQzBPUTk0VjNPemN0cjdKbnhsQ2o2UWhpNGRCei12SklFWVdRcl",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZklPcGFaVVdPcjYzVFhxM21wRGZNODZnakY1ODdMWTluLW9ydncxcm5oWERzVWp2b0JVZWwxSE14b3VZYi1ZZnBzQzBPUTk0VjNPemN0cjdKbnhsQ2o2UWhpNGRCei12SklFWVdRclR2bzdzekg1SlNOZFBmSTdNTy1BNU9tNWktaDNzQjROX2tDTzJVQkhJVzdjSl8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-13-029",
+    "date": "2026-10-13",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Hyundai Motor Group to Accelerate India Growth with USD 15.5 Billion Automotive Ecosystem Investment - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1AzbGhsa1MwazBpSFdNbWdhb3ZMUTNVU1dqU1NuOUlWZ3FlUFlpQmZFU1h2dC1JcDlVYVZuSm50ZmlxT0E2OFhxZXRRam03eXRBVmkya2xfWUZkRENqWWd6bEk0Z2VMMUMtYnlYX2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1AzbGhsa1MwazBpSFdNbWdhb3ZMUTNVU1dqU1NuOUlWZ3FlUFlpQmZFU1h2dC1JcDlVYVZuSm50ZmlxT0E2OFhxZXRRam03eXRBVmkya2xfWUZkRENqWWd6bEk0Z2VMMUMtYnlYX2h3YmVNLVFSRXhSSFlwTlg2N21mTzlMN21NU3BjemtTWFQ2YjVXM2dsdU1lRDY1YWdRdlZkOUtRV1R6STYzT2pVYkd4WGlhbnkxVjN5QWswcXprUldZLUpzY1F5ZTd4d0hob3BIZ1hxc3Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-13-030",
+    "date": "2026-10-13",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai and Hyundai Hope on Wheels Earn Two Corporate Social Responsibility Awards from Ragan Communications - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd0V6cElRUFNVcjVDUHZmR0M5UV81Qk04NDBxUjl5SUZYU3hDcTN2Mk5ZNXozZm1CUEFkNXhCYXN6Q0lrWl9XMHNCVnI4emMtY2E0TDBxNXZPUXZTRTdwdFJLZ1R4WjV4WUJlRTZnb0",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd0V6cElRUFNVcjVDUHZmR0M5UV81Qk04NDBxUjl5SUZYU3hDcTN2Mk5ZNXozZm1CUEFkNXhCYXN6Q0lrWl9XMHNCVnI4emMtY2E0TDBxNXZPUXZTRTdwdFJLZ1R4WjV4WUJlRTZnb09wcTBMTjJhTHRfZkk3QXJjRGRhLWRBZEhEd1ZwN1dyTGlTTGFkbkFaMkF6RHppa2ZLNmpzUWVNY0hlTVJRb3VzY29ZbDNEdG51TDMydUo0bTYzRlpBZjRwQnVuSDFCZmM0Zm9MdnRyV3JhU05DOW9rXzRVUmZ2aWYzZERaOFVHNjFTblBHWVoyTUIxTGxiUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-10-13-031",
+    "date": "2026-10-13",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2027 Toyota Camry Breaks Cover With Nothing New but the Price, 'Cause Why Fix It if It Ain't Broken? - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUxYUTJ2NjVXaldfaFlSaDFUbFBicjM2RzBrYVdLS2dNU2syeHRFSEMyMUF4S0lIS0RDMFZoZGVzZE93NXRnY2ZzbjUwVE1NUk9JNzF2cU1jaktzbC1URFVfMC1LekI5UDNWMjQtU2",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUxYUTJ2NjVXaldfaFlSaDFUbFBicjM2RzBrYVdLS2dNU2syeHRFSEMyMUF4S0lIS0RDMFZoZGVzZE93NXRnY2ZzbjUwVE1NUk9JNzF2cU1jaktzbC1URFVfMC1LekI5UDNWMjQtU2VZRWNmVFpNVEs2QUFhM3JHeFE1ekJCblBfRGZ0Mk1nNU9oeEZpNXpuQzRFR3hKaUNNQzlHMGJVME5GT19nbGdQNHVJX2g5VjVPclV4M2R5OGhrVGs2WDEwUzMxTllrWlBxb0JiWkdDZVAxZXk5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-032",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Daejeon Adds 50 More Hydrogen Vehicle Subsidies After 2026 Quota Sells Out Early",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/11/fuel-cells/daejeon-adds-50-more-hydrogen-vehicle-subsidies-after-2026-quota-sells-out-early",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-033",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "H2Accelerate Calls for Combined European Funding for Hydrogen Trucks and Refuelling Stations",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/13/h2/h2accelerate-calls-for-combined-european-funding-for-hydrogen-trucks-and-refuelling-stations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-034",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "DCL International Partners with TECO Corporation to Advance Next-Generation Green Hydrogen Technology - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNMVE1dzNXdnhhTzZEWG03d2xiUTlOMnVSemwtZzlUOEpTQXpqMWM1M2Jtb1FKTWNjOG5zRTgxb2lhOVFYTnVnSzNwLXAxVk1PWlREMXNwUUJKLTNEal9kQk1BUEVHMEo2WnhDYkU5NE",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMVE1dzNXdnhhTzZEWG03d2xiUTlOMnVSemwtZzlUOEpTQXpqMWM1M2Jtb1FKTWNjOG5zRTgxb2lhOVFYTnVnSzNwLXAxVk1PWlREMXNwUUJKLTNEal9kQk1BUEVHMEo2WnhDYkU5NEhrakhobFR5dXJBWGlrUlpMWkMydWx1ZjVmRGpsemJYRUI2QWlLZkZ0NTlfNmpqVUJrQUdxRmVBNkdIdVpwQ1E4TGNMQV9JYjEyenFyNWEzVmFKMW11NWF0NUd0SlF3eWlOWUE5MjFBSkVTRlFtQkhJZEtvSnQ1M29QZ1MyYVM3MnhieWNEaHVQZ1c4Y0xidEdYLUVObWhB0gGLAkFVX3lxTE12aUoyQVVGVU9ubU9teDFzZUM0WHpLYjBuLVZzeGZPRTFzQmd4QWdjWGMwcXE1UlJjOUJpaUdCeGFrQy0weF81d2ltbnBrWkloaXQ0MGxkOGJicGEzQnZKV3pOQlVlaDNkMDlOUTVHc2YzY0lrcjBFbTBXQ09qSEdDcUI1SXRyU2ljUHZudDltUmo0cWQ5ZWpvckVvMTVtMEFvV3EwQkhFS2pZZG9iTDJfTzZPVFhCMGNLc3RoSks1ejBDR3lOc3pjZnZSZ2I1aHFTeXY1MkxKVXZQbG5uYy1Oek1tLU1tODdCYjlFOFJpekNXeTI0dGgtZDAtN00xOWtHeW41blB1eWxaQQ?oc=5",
         "type": "rss"
       }
     ]
