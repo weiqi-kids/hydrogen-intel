@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:56:38.279603Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-10-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Order Back - GuruFocus",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ09UQkc2aGNldlAydWtuZGpYNkk4S0ltVUY1S3hxZXZGTjFWdVdSLUxGNnlQUzVHM0VEQk9pcEp2aE1KZlFpeV8zTEFMNTNYWGJFX29DcFpUMHhHLXJWY3VKaXd6OTctYUpVQU1JMFE0THo0bUNxbzFmc3oxbGdoMXdVMW1YbXJXNkN5OGVBOFI1S18yZW1aaGFCZXV6ZFVSTEdPZV9oYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-10-15-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UMW Toyota Motor records over 24,500 vehicle sales in 3Q26 - The Star",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0pac1planI1anRrOEs2eG5VcTcyaC10YUFWTGZpU1RVcFlrUnFZOXg5QUdDT3FfVzhJVUZwQXkwclItd21fd0JFTDFKcWpLWnBwVndkZVJVR2FlOV9IbjdIbW9IeTNZc1hhNzJPZHBwcG5hOW14c1ZCVWRJNzBPV0lvOVc4Y3UzN3ljXy1SRmpGSEh4ckhGSEIzcVd2M1RQRHoyMmprZUlIMC1VZHN6Vy1VRUZjblZaRUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings call transcript: Nel Q3 2026 revenue falls 63% as orders jump - Investing.com",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0hXRnhUekpTY05pOGRHNXctRDNYSGpkS2d0bGlzd2tyMnVhbXlQWm1admFUZUthNndJYmRoNFBmSnV0cl9uTkZiQ0RETlJwYlJKVEYtVl90Zmw0V3ZjeUhBRE80TmxjVk1kYlA4MWpGekdyQXNnUjZqYUliWjdlSWNQMm1wRHRLNGF3ZWZoU2Z4TUg1a2VoRWI1UEttOW4zMUZfSGgzSS14d0pQV1UydUNRR09tTTJ2Q005UFlrbG55dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Swells 339% While Revenue Collapses 63% in Q3 2026 - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWxvZDRWQVlCU3QxTnNTaXNKeXBiVWlGcmF6NlptZF9hblllWkVMeEFLR1dKZnQtcWJVVDhnNzdDUkwzSWI2TW9PTjQwV016NThjVWsyVjVjN2JldUpJZXczNTkzeDBnVnBJN3J2LVJ6cTNOS0ROdkxSQ1YySlZTaVUyRm5PRks2eTRLSF9SS1BHTWxrNF96bmtscUlXZkNLS1VOeFFnUFpSRW5OOTFkTzktZld2b3g1dkJmQ3dUQ1BhV2xwUjBmcm03bW9JNUh4MDJIbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-10-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel Q3 2026 slides: revenue falls 63% as PEM orders surge - Investing.com India",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlFuaXRrZVI4ZkNwX0wxMGxKNkhRUkxPbF9JYXBVZGtyNmEwZ0VESURhYkNhUmJkNHlpak1yUThzN2lTWVQtUFd6dTNMclc2N2pDUkRIbFZSME1NbEJWYjdyNG1Bc2NwQ1VmLVc5ZllaWTkxMzFrOW51eWVMRzZLeUhRV3AzU08wOGZ4dmNrZ3E5WUVrV25YZzA5NnRpdXR6T3hRVkh3Q1FDV0ZkME95azBQMVg3OHM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 99,
+    "too_old": 90,
+    "gate1_blocked": 95,
+    "gate2_blocked": 28,
+    "passed": 39,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "RBC Lowers Price Target on Air Products & Chemicals to $346 From $360, Keeps Outperform Rating - mar",
+      "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+      "Barclays starts coverage of Air Products stock at USD 353.00 - ad-hoc-news.de",
+      "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+      "Nel ASA, Plug Power and dynaCERT: Who Will Achieve the Hydrogen Breakthrough? There is Interesting N"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Nel ASA、豐田、西門子能源相關動態：「Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Ord...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Order Back - GuruFocus",
+        "level": "green"
+      },
+      {
+        "text": "UMW Toyota Motor records over 24,500 vehicle sales in 3Q26 - The Star",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

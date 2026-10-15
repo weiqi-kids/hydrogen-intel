@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 95,
+  "gate2_fail": 28,
+  "passed": 39,
+  "gate2_samples": [
+    "RBC Lowers Price Target on Air Products & Chemicals to $346 From $360, Keeps Outperform Rating - mar",
+    "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+    "Barclays starts coverage of Air Products stock at USD 353.00 - ad-hoc-news.de",
+    "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+    "Nel ASA, Plug Power and dynaCERT: Who Will Achieve the Hydrogen Breakthrough? There is Interesting N"
+  ]
+}
