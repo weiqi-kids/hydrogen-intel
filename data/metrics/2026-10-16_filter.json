@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 90,
+  "gate2_fail": 35,
+  "passed": 40,
+  "gate2_samples": [
+    "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products to Showcase Industrial Gas Solutions at FABTECH 2026 - ChemAnalyst",
+    "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+    "Air Products to showcase gas technologies at FABTECH; stock last at USD 296.60 on October 15, 2026 -"
+  ]
+}

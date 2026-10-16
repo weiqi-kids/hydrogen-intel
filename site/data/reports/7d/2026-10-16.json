@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-16",
+  "date_range": {
+    "start": "2026-10-10",
+    "end": "2026-10-16"
+  },
+  "generated_at": "2026-10-16T12:48:33.339662Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nel-2026-10-14-017",
+      "date": "2026-10-14",
+      "title": "Energy Security in the EU: An Obstacle Course! What Are Nel ASA, ITM Power, NU E Power and Plug Power Doing? - Stockhouse",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 18,
+      "last_week": 6,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.03
+    },
+    "electrolyzer_capacity": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    }
+  },
+  "company_7d_summary": {
+    "itm_power": {
+      "event_count": 13,
+      "sentiment_avg": -0.08,
+      "rank": 5
+    },
+    "siemens_energy": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 17,
+      "sentiment_avg": 0.09,
+      "rank": 4
+    },
+    "nel": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "linde": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 177,
+        "last": 190,
+        "change_pct": -6.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-10",
+      "event_count": 8,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-10-11",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-12",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-13",
+      "event_count": 42,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 32,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 19,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-10 ~ 2026-10-16）共 177 則事件，重點為「Energy Security in the EU: An Obstacle Course! ...」。綠氫成本、電解槽產能為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 13 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
