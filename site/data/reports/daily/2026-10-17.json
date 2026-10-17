@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:49:39.876660Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-10-17-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nel (OB:NEL) Q3 Results Deepen Losses As Revenue Slumps - Yahoo Finance",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnJCMi1sY3h1T3lVeTBZalBDbWwwZ3BUcGNLVXR5ZGVIQUprRnV5bWZMV0pEb3k1cW1Iak1FZnNXUS1KY3RYTDltUVFBYXZFbjZQUEdIZTZQU3ZMUS1YZnp5UEFLaHNubWMzR3FhU2JLdVBkdzd2ZHJTQWNDUXd3aEZsOUNheDNIcEJzRnlJVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Backlog Is Growing Faster Than Its Revenue — and Rheinmetall Is Still Only a Maybe - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY25BSUlfdlA1ZzY3X20xRXZlb3BWQU56SzVDRmpSYjV4cUZwMDZnaUtzWERaSnpKaWlsRFFkT0lTRE8wbzlzX0VtblJhUUlMVHQyZlI4cF9wRHNBc3ZDMVdEel91dENCUWc0aXc0NDhCU3h0TEo5cW1OcEI1dWJJUnpMZ1dlVjdqWFRuY2pUN3ZDRnZhc0l4WllvQ0RIb0R1RHQzRUJHMEV4YjJVMGVZNkVobEh3SE5PLW5RcEJibDJHWkRZLWs2M1h0b0ZSVl96WW1JUVhEWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Swells While the Top Line Shrinks — The Gap Investors Must Price - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcXZTWWFfbGl3YUJ6OGJCSy1acmI3eUZhYnBOa1BhSGxhcTFzQk5lS1hoczBuOFRhVTN0Z0hyU3VJRFBrTnI5UjNvdC1CYWlCU2oxU1FyeldiVVZyWDlDVGJKejdxZTNiY3FlQ3Zmb2s4Zk15b2p0WXJFVEpBQlFzR0pmSUpnTTZXSmdrUW1kcnNPMk9mbDRBYXRPcXFiUjRhQ0VnS3FLemsydnJFaExvcUVYbmhvY2RrS0lRbTRZZFVURUFkZWhNNlJ1dDUwNGRJSXF5Yy00WnhlVWVGZll3UXRXRjRqWHpkeExn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-10-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy: A Buyback Running on Schedule, Two Analysts Pulling in Opposite Directions, and a No - ad-hoc-news.de",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN25TXzE0czZjR0xhcW5sMGpQN3R4X0ZIa2F3S0wzWFQxZjNVdFpDbDdvN3ozMEFEMHBwaDFUdXJMS2dLSTVrSjJlUFAybkswbUdZY0NOandZeFJ2N3ozeTdQbDBhYnBDbGd0UlBSZHc4aVFkTGRneHJLZ1UzSERTRV94YURtejNwd2NiRGt4dWp1YUpXYWZLNUdudmlRUThDalgtdVFQVWtTWFVreVQydUJuYjNpOGVuYUQtVnRDZ0IxZHBvcC1sNVFVWU8weTE3NWlDV1pPSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 121,
+    "too_old": 83,
+    "gate1_blocked": 86,
+    "gate2_blocked": 40,
+    "passed": 22,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "Air Products And Chemicals (APD) Stock Still Looks Reasonable Following Its 21% Run - Simply Wall St",
+      "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+      "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+      "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+      "Air Products to Showcase Industrial Gas Solutions at FABTECH 2026 - ChemAnalyst"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、西門子能源相關動態：「Nel (OB:NEL) Q3 Results Deepen Losses As Revenue Slumps -...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nel (OB:NEL) Q3 Results Deepen Losses As Revenue Slumps - Yahoo Finance",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Backlog Is Growing Faster Than Its Revenue — and Rheinmetall Is Sti...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

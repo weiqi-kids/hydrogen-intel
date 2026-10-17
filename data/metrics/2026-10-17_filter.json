@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 86,
+  "gate2_fail": 40,
+  "passed": 22,
+  "gate2_samples": [
+    "Air Products And Chemicals (APD) Stock Still Looks Reasonable Following Its 21% Run - Simply Wall St",
+    "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+    "Air Products to Showcase Industrial Gas Solutions at FABTECH 2026 - ChemAnalyst"
+  ]
+}
