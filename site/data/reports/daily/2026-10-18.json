@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:15:10.595847Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-10-18-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power's 2029 Horizon: A 150MW Refinery Deal, a Trimmed Loss Forecast, and the Long Wait for Reve - ad-hoc-news.de",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM185UC1rVFlaY2E2aFZtcDNDVGVHN09CTGJMY0Mta3lHZ0J4R3R3X0Y1SktfVTNvZnI4aEJMdEI2ZEJrSE5Wa0JHeWdURlFURnp2M05NOHcwUTVKZWI1RWItU3ZaZ0pZRkdFcWZ4dmdvT2tEaVBjZFg4RENyd3d6NVlVR08wei1TbWM2QnU3Qml0SGtMNzludGtmZi1DWVpqQkVKNUlsRlg1bExzOTUzeWtsMVhpd0FRNnpvR3JRN3h4ck9aUnR0M0NFWXMwaXhvTm9zdi1RdVRZdmdDdHd2ZjFMbUdtOThYVkNIMTNwMEU0TTFydUVfRjd5eEZsZnpSbkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Balance Sheet Buys Time While the P&L Tells a Harder Story - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUzVjVW01SDlJbVl0R1BleWtwdXVFbkpkbk1HVnVuYlNaVVhBZlVETWJ3ejdMczhqd242Yzd6dnZ4MDZtZXNOdUliV2U0aXpFNVdpZUxfVzFyRjJXdkNobG9HNWVGcUM1Q1JpaHdWeWprcHFONmJrVmZ4UEU5cmdCalJHM1dnVzVOYXozYzZWNWRhUmNOcThqaWhhc1BaSkhNbG51WnlMNmw3OFctTlN6MVRhWkt6U2VfX2ExRTlLOVBzQkMzeEhkSENtWEg3MHJxYjlpbE1Pbno1NUpI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy: A EUR 7 Billion Financing Package, a Confirmed Sell Call, and the Valuation Gap Betw - ad-hoc-news.de",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGMyQTVablpUSU0zWFdBNUJYOXRrVTVCUG1WS0x3VTBQS0tlb1M2bndnanVPM1VnZTJvMlBlQ2FYSFk1RW5taHZJOElKMnBPTlFzVThMQVZHTDBKNFk4ZTQ1eG9XYjdNVjlwdmZSM2h5OWM3V0hwMC1vclhTQkFKZTVsVWlDdzY1bnozekpuUXJkUlpybUFvT3h4Z3BQRXVzcUxvT3RmWkZTWlVqR0g3c2V3UEFVZ1A0RllReGtZaEI2aVRYT0l1M1lXZ1JBR1hHejI2VDNmZkQ5UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai dealer bets on India's next generation of car buyers - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV19MbVBzaHVLZ1VyUjlFdnRoeTNRaEhraFVlVFU1elhRa29LRDFlUFBTaFhPN1AyYnJ6NVREMFkycGJvY1M1eVZwWFUydjh0Snhoand1NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 119,
+    "too_old": 87,
+    "gate1_blocked": 89,
+    "gate2_blocked": 38,
+    "passed": 18,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+      "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+      "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+      "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、ITM Power、西門子能源相關動態：「ITM Power's 2029 Horizon: A 150MW Refinery Deal, a Trimme...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ITM Power's 2029 Horizon: A 150MW Refinery Deal, a Trimmed Loss Forecast, and...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA's Balance Sheet Buys Time While the P&L Tells a Harder Story - ad-hoc...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

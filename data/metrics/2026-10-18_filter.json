@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 89,
+  "gate2_fail": 38,
+  "passed": 18,
+  "gate2_samples": [
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products signs agreement to build Malaysia's first LNG-based Air Separation Unit at Pengerang te",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily "
+  ]
+}
