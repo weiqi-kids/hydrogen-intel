@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 92,
+  "gate2_fail": 39,
+  "passed": 30,
+  "gate2_samples": [
+    "INOX Air Products: The ₹3,000-Crore Gas Giant That Filed Its DRHP After 27 Years in Private - Linked",
+    "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+    "Wells Fargo keeps USD 350 target for Air Products stock - ad-hoc-news.de",
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance"
+  ]
+}
