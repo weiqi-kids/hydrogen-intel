@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:07:16.938953Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-20-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Securities Held Liable in Las Vegas Resort Investment Loss Case; Appeals Court Upholds approximately $6.8 Million Damages - BigGo Finance",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUa3NReEtrVl85ME9zNC1qSTRhTXFYNXpjcjJscXJwZ1BzaFQxcmNORllSckxyanMwbDJZckR2dmZCZXdRcEVUOWNESC1xU2xxSkNjS0NfbzMxdmxrenNGbWVUUjl0SXljS3ZHVGVFbVdYUzR3TWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-10-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Surging Orders Meet a Shrunken Revenue Base - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN25Va2R6T1YtRFRjNWFVQ2loZDdkN3h0djVrMExfb3RxSDJEQThGckhsbnR1VW5Zc0ZPc05tLXVxYmNyWFdCdmUxYjU1dklNaUJQMmFtbUFHU0JPYnVmYkttV0dTNGZ4dWUzOXczQ0ItRXJOb1F1bnFzaGlzQmpOWkM3NlR4c0F0cU55SHdfQ3pVVGk4a1ljSWY1a01IRG1aLUhlUkZabXF0TDhIMEY4Vlg0MzFvbnBpVkFMYzBBU2U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: A Strong Order Book, a Shrinking Top Line, and the Gap Investors Must Watch - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZjd1T081cFhWZlJEZGFoejZ0ZUtLb1MzMmFfQndhYVpPRnpnRlhDN3Z5WUQzWGJlaWZkclFKdmZHNFNnNUJZZ0c3SkdKTHRucngzQ0UwbnRjRWliZ2pNREdLdzdUbVFqOUhKSFctYXRBMXFIXzkzSlBRMTRXZS1YYzNRcXUyS1g0cHJKdFRHaGo4OTI1eGk1RnVqbU9VN01wSHpOODRHZXpDYUdMczAyRm5lWWJRbFhrM2wyMndKOHo0d2xWWXJlNU04QndRMU1ULXU3WTcybi1XbFZQd3ZzUkE3Y25TaDNr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-10-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: Rheinmetall Talks Are Optional — The Order Book Is Not - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzBybFZhSzZvRXVJRzlIVnVIVWxmdk16QUtDT0xZSlVXYW14MGVqZTVmSXRYWWprVHJOYUZ2RUtCUVA4ZTF5eW95dmVVc0hEUnY5cFB4NGhkY0U5YzNpcjNaWWNBdFhFMGVVYXNZNk50YlE2cy1XWGpCSlNMR1g0WXlTZnd0ci1YRHJxbWI0dEt4azVXVDk1eHRMSTJ1c0R6WnM0ZWxxUW9ra2NZTjZ4N2V3Qm5vWjBmX3hyT0RJYVc2Y3NEcGdpUHp3bWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-10-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power (LSE:ITM) Edges Towards Profit Beyond FTSE 100 - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGhIZzlqOEd5M2hjLThHTjFjdVBYbHJ4SUtBNGRFZ2p6MXVSeFdQMzZQZVNrZ1FzaXlMbHBZS2oxZHZkM1JNbnFCVm9YTGRwQUVhR3dVc0pnbkN3TTg5aG5hSEJlN1VUWUNGOVd5Vlptbk9taWQ3ZlYzUkI3LTA4SEVZeGV6dXNLSlh2LWJDNG5DVzRxOWJidU9Faw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 101,
+    "too_old": 87,
+    "gate1_blocked": 94,
+    "gate2_blocked": 40,
+    "passed": 29,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+      "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+      "RBC cuts Air Products and Chemicals stock target to USD 346.00 - ad-hoc-news.de",
+      "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、Nel ASA、ITM Power相關動態：「Hyundai Motor Securities Held Liable in Las Vegas Resort ...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Securities Held Liable in Las Vegas Resort Investment Loss Case...",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA: Surging Orders Meet a Shrunken Revenue Base - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

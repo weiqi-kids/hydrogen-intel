@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 94,
+  "gate2_fail": 40,
+  "passed": 29,
+  "gate2_samples": [
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+    "RBC cuts Air Products and Chemicals stock target to USD 346.00 - ad-hoc-news.de",
+    "Air Products to Highlight Gas-based Technologies for Laser Cutting, 3D Printing and Welding at FABTE",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily "
+  ]
+}

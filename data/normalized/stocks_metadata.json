@@ -1,8 +1,8 @@
 {
   "air_liquide": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-19",
-    "count": 6885,
+    "latest": "2026-10-20",
+    "count": 6886,
     "history_complete": true
   },
   "linde": {
@@ -19,26 +19,26 @@
   },
   "nel": {
     "earliest": "2004-10-11",
-    "latest": "2026-10-19",
-    "count": 5549,
+    "latest": "2026-10-20",
+    "count": 5550,
     "history_complete": true
   },
   "itm_power": {
     "earliest": "2004-06-11",
-    "latest": "2026-10-19",
-    "count": 5661,
+    "latest": "2026-10-20",
+    "count": 5662,
     "history_complete": true
   },
   "siemens_energy": {
     "earliest": "2020-09-29",
-    "latest": "2026-10-19",
-    "count": 1543,
+    "latest": "2026-10-20",
+    "count": 1544,
     "history_complete": true
   },
   "thyssenkrupp_nucera": {
     "earliest": "2023-07-07",
-    "latest": "2026-10-19",
-    "count": 835,
+    "latest": "2026-10-20",
+    "count": 836,
     "history_complete": true
   },
   "plug_power": {
@@ -79,14 +79,14 @@
   },
   "hyundai": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-19",
-    "count": 6695,
+    "latest": "2026-10-20",
+    "count": 6696,
     "history_complete": true
   },
   "toyota": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-19",
-    "count": 6684,
+    "latest": "2026-10-20",
+    "count": 6685,
     "history_complete": true
   },
   "nikola": {
