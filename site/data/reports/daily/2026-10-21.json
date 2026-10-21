@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:18:25.927852Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-10-21-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Toyota Motor Europe posts all-time record sales of 936,042 vehicles in the first nine months of 2026 - Toyota Europe Newsroom",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTZuTVlSejZPbUlZdF9JVEZXRnhzbUlaUnFja1hsZ0lpZ0F0bTlnMURsa3BWbENjS0J1elhvVVYzOXlvZXBNWGstR1JvTFRiQV9IRk8yR0pnWDBpSFdZSlBBUjdySUVnLVRLM1BKalhjQlUtcHYwNFBLYkJLTnRBcnlRc1YwSTBPcUQ4TWdwTEFfaDVsTERSSmJlUGNjaU1FZkp6WWJpa1NTR2xUYXhGS0wwR0pNZk0wVEVOS0dRbDFObk8tZVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals, Inc (APD) Stock Forecasts - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzBQMWVfYXBVZlgxZFYzV09uYnNNa3FkNktZZVNlNVVNQzZnY3BNcVNYVnFtQVduN3JfdzZrSDNMbXBMTlFnSjJZT2VyWWpWRzltRTg2d1VkcTRVSjJ2cmVEUkswVXIwbDZXZU1kYTlvd0I5SXRpWlh3T2Jtb3ZUeTBzTmNQTVhuQW1Raw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: AlphaValue Steps Back to 'Add' as a $12 Million US Order Sits Two Years From Revenue - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRWJOTmtmeTVPVFRFZzNnY0VVVENmaWxwenl0ZGl1VkxGdmtUWHZqaURTYkhfR1VXZzI2ZW52alN3STJyRlpiTmd3TlJocHZkQVV5ZnI2TThXTUY5UFBMUVRjS0hvOUpkQy10TUk1TU54XzhKZTlMYjZKbWRoS0tWNHBCN2FxaVZJa3VmVzVQd1NGRWRSRGV6bWhyTll3LXYxODVVSWd1UzFPSGFOUWVycHY1ZnJuMnk5Z2VfSmVKNkJhdkpFbVcyck1iTTkyZm1rWHlGWmRvRHpFX2dUZUtCaTJTQ1hHRDl0bzZLZF9OYkpseE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA: AlphaValue Cuts Its Target as PEM Growth Struggles to Offset an Alkaline Collapse - AD HOC NEWS",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb1d6eEZ0RVA2T1BzTGNFQmFtcDluM2NsVlI2TU5sMGthalY0WkRiNE8tLXotR280Ujk1dnpZLVg0UW1hRUhfM2ZUQ3F3Zk93MlFlWFNOVk8zVFRDVUtDd1U1TzBaRFZDcjl6OVVMNmRGS014alVudGZXVmEySmpvMzBGRDJyZEppTXdJTDV1bTlMMHIyeHJDcFEzajhXZV85blNlVFBqQTh3eUZvVmw5S1Z2TnBqMHZWaEJWdnNJa0UxaGlmanpnOGtHMFpUaTdKbzJyaERfZ0JHWTcxdG5qMndBRHp2LUNhYnNDSXdheEpuaHM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-10-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power (AIM:ITM) Stock Price Slides Despite FY Earnings Progress - Yahoo Finance",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWJweS1pOXRtMFdKV25aYW9aNHdaNFA4alJPOFNYUUxHUGFPN2lDU09FbTNlYm1WaU1pUTFkNFpvVzNRVmxEWXhkaUZqQ2Y5VUZYeUlPMVJjeEdLNzRkQlZONkMzZnJvSnVrSmZsdk1wV1RqN1VZcG1YNmZjMklvdzJKVFYxWVBYakxaNUpvSkw2Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "itm_power",
+        "count": 3
+      },
+      {
+        "id": "nel",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 93,
+    "too_old": 92,
+    "gate1_blocked": 100,
+    "gate2_blocked": 39,
+    "passed": 27,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+      "Air Products And Chemicals (APD) Stock Still Looks Reasonable Following Its 21% Run - Simply Wall St",
+      "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+      "Air Products & Chemicals stock pre-market at EUR 268.55 before the Xetra open - AD HOC NEWS",
+      "Air Products signs Malaysia gas pact: what it means for Air Products stock - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為現代汽車、豐田、ITM Power相關動態：「Toyota Motor Europe posts all-time record sales of 936,04...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Toyota Motor Europe posts all-time record sales of 936,042 vehicles in the fi...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products and Chemicals, Inc (APD) Stock Forecasts - Yahoo Finance",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 100,
+  "gate2_fail": 39,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products And Chemicals (APD), What Is Behind The Fresh Attention? - Simply Wall Street",
+    "Air Products And Chemicals (APD) Stock Still Looks Reasonable Following Its 21% Run - Simply Wall St",
+    "Air Products Offers a 2.6% Yield. The Bigger Question is What Comes Next - Yahoo Finance",
+    "Air Products & Chemicals stock pre-market at EUR 268.55 before the Xetra open - AD HOC NEWS",
+    "Air Products signs Malaysia gas pact: what it means for Air Products stock - AD HOC NEWS"
+  ]
+}

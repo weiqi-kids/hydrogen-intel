@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:18:26.064395Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "itm_power-2026-10-16-018",
+      "date": "2026-10-16",
+      "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "green_hydrogen_cost": {
+      "this_week": 11,
+      "last_week": 16,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 22,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "siemens_energy": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "toyota": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 20,
+      "sentiment_avg": -0.15,
+      "rank": 2
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 173,
+        "last": 194,
+        "change_pct": -10.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 44,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 34,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 7,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 8,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 38,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 24,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 18,
+      "sentiment_avg": 0.14
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 173 則事件，重點為「The Hydrogen Stream: P2X starts selling renewab...」。綠氫成本、電解槽產能、燃料電池車為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
