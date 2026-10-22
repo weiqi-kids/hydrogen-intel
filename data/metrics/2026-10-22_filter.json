@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 96,
+  "gate2_fail": 29,
+  "passed": 27,
+  "gate2_samples": [
+    "INOX Air Products: The ₹3,000-Crore Gas Giant That Filed Its DRHP After 27 Years in Private - Linked",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+    "Up 38% in One Week: OHB Takes Off - Could Nel ASA and First Hydrogen Be Next? | 2026-10-18 | Investi",
+    "NEL ASA (D7G.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Nel ASA (D7G.F) Analyst insights, Price targets and Recommendations - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:16:54.086697Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "plug_power-2026-10-22-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hydrogen Energy News: Plug Power Reports Preliminary Cash Usage Decline and Names PEM Industrialization Lead",
+      "companies": [
+        "plug_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/hydrogen-energy-news-plug-power-reports-preliminary-cash-usage-decline-and-names/8576926/"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-10-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Higher 2026 Earnings Guidance Just Shift Air Products And Chemicals' (APD) Investment Narrative? - Simply Wall Street",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVM4bXdzVXRpYktOZUhwZWVLVklwbzRiM3RnM0RHekJZOEQxcUNfRzNPREg0azRqdVlZYW5iSTFxSTdiNUVuNktId2tqV0RNd1NkMVNVbWR6WHlCQVZEVDBjb0J2bmZYSGh2NEZZUEdyMFdUQTBRNmdScE1XZ3p2dHg5cDEtaTd2ZnRrVzJOLUdKbjBjdFo0QXB6UjBpVHctY3dPQTg2aEo1REJHempEVUZXY3lzVUJ1T2cwbzRtT2F6UU9mQmxSTkloa0Z2T0xWR0E3dVcxbzg4bF9wd0M2RNIB4AFBVV95cUxPRVM4bXdzVXRpYktOZUhwZWVLVklwbzRiM3RnM0RHekJZOEQxcUNfRzNPREg0azRqdVlZYW5iSTFxSTdiNUVuNktId2tqV0RNd1NkMVNVbWR6WHlCQVZEVDBjb0J2bmZYSGh2NEZZUEdyMFdUQTBRNmdScE1XZ3p2dHg5cDEtaTd2ZnRrVzJOLUdKbjBjdFo0QXB6UjBpVHctY3dPQTg2aEo1REJHempEVUZXY3lzVUJ1T2cwbzRtT2F6UU9mQmxSTkloa0Z2T0xWR0E3dVcxbzg4bF9wd0M2RA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-10-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy Set For Strong Q4, But mwb Keeps Sell on ‘Supercycle’ Valuation - AskTraders.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVEx1VlNPQ0YxUzR1Z09VVTFXZzg0RmRabU5MY3Z5RDBGZXRtQTJGV0p5UzhUNGNBVDRqRHVRVHhlUVREelI0N1VjQmNfZ2R1WjJtSmNfeEV6d2VLUzlYcWdtdWxMNkVFcXpCYWcyd1QweWZ3aU80NkRlek1RaXpHX192bVlkanFDbFdZUjBnZ1JrMmNlUmc0QWVYX1Bhd0Mzak4tNEl0OEdPeEt4cDh2aUR3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-10-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Securities announced on the 22nd that it plans to diversify the means of returning sha.. - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KNXpWT0hNelliTmxpUElTV0I3aEpvWGtBRmNRVFNGWVBLc29FVExFS0tOdlI4R0JNUUtJdHNVZi1GaWVBN01TVjJkOS1oeTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hydrogen News: Kawasaki Launches Construction of 50-Tonne-Per-Day Green Hydrogen Liquefaction Plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/hydrogen-news-kawasaki-launches-construction-of-50-tonne-per-day-green-hydrogen-/8576927/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "plug_power",
+        "count": 1
+      },
+      {
+        "id": "fuelcell",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 104,
+    "too_old": 95,
+    "gate1_blocked": 96,
+    "gate2_blocked": 29,
+    "passed": 27,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "INOX Air Products: The ₹3,000-Crore Gas Giant That Filed Its DRHP After 27 Years in Private - Linked",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors despite daily ",
+      "Up 38% in One Week: OHB Takes Off - Could Nel ASA and First Hydrogen Be Next? | 2026-10-18 | Investi",
+      "NEL ASA (D7G.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Nel ASA (D7G.F) Analyst insights, Price targets and Recommendations - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Air Products、西門子能源、現代汽車相關動態：「Hydrogen Energy News: Plug Power Reports Preliminary Cash...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hydrogen Energy News: Plug Power Reports Preliminary Cash Usage Decline and N...（電解槽產能）",
+        "level": "green"
+      },
+      {
+        "text": "Did Higher 2026 Earnings Guidance Just Shift Air Products And Chemicals' (APD...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
