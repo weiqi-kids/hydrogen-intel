@@ -1,5 +1,96 @@
 [
   {
+    "id": "hyundai-2026-10-23-001",
+    "date": "2026-10-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG hires ex-Hyundai robotics chief amid Korean corporate race to secure physical AI experts - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mS0xtdlphZ1lCSUd3WVpuajJWT3FGQkN5RlNKei1Gc2I1alpNNzRWVENyUEN4azgyNllJVExmY0lVbFhMc3pjcGVOMUJqQ1RvUFJpRUJFdzJMREhpcWpGN2U0d0JfNnVOYjFVUGM1VE",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mS0xtdlphZ1lCSUd3WVpuajJWT3FGQkN5RlNKei1Gc2I1alpNNzRWVENyUEN4azgyNllJVExmY0lVbFhMc3pjcGVOMUJqQ1RvUFJpRUJFdzJMREhpcWpGN2U0d0JfNnVOYjFVUGM1VE5mTU5pWFdmeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-002",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Shipping distances have little impact on cost of importing green hydrogen and its derivatives, study finds - Hydrogen Insight",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkh2QkIxTG14cE96NE1nZFo3dDM0RW5nQ3VLMHFYVzBPWmZyMDhKWkZOWk5VT3lFUFJrTUgtSjRqMTRueEpNdmdhOUFSSXczWjJqalFNbWxFWjQxVGxWUHBpRHRIRjNJQXhqeEx2dm",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkh2QkIxTG14cE96NE1nZFo3dDM0RW5nQ3VLMHFYVzBPWmZyMDhKWkZOWk5VT3lFUFJrTUgtSjRqMTRueEpNdmdhOUFSSXczWjJqalFNbWxFWjQxVGxWUHBpRHRIRjNJQXhqeEx2dmJLNEFVUUJrTkYwQUxLM05lbUlSekxPb0ZrSFI0X1RwbnhfQUNJWTZMMVJFQWZLYkEzdzFOd3RpLWsySWtyV29wdHB1WUJ5ek5BVlptNlJoWm9oWEhERHczc0hQVjlHZHRtSk4yd0pCOUV2RVhsbHFJN0RmT2ZHbi1MbndwNjJaRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-003",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Green hydrogen race in the Maghreb: Is Morocco still one step ahead? - The Africa Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWhaMno4RUxmRVNoa3cyRHZfcmpwUlpzbm9wT0gtM19CTDhwUHF4UXpGam1jaW0yN2tudjMtREJ6al96OXh5NTl6WGZMbW5DcUVGVHpjTkw3ejc1bDk0V1VMbHlKZDZxWktjUjRabF",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWhaMno4RUxmRVNoa3cyRHZfcmpwUlpzbm9wT0gtM19CTDhwUHF4UXpGam1jaW0yN2tudjMtREJ6al96OXh5NTl6WGZMbW5DcUVGVHpjTkw3ejc1bDk0V1VMbHlKZDZxWktjUjRabFVtRmlkZExxeW82TWtsZTFreHhZeVYxamNIem5MazkteWVSeHFSa1lka1d3OC1SeHppX2dpX2dBM1Awdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-004",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "India will lead world in green hydrogen production in due course, logistics cost down to 9%: Nitin Gadkari - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWRSRGgwaWdxUHFrT3FqWlMwZUpmZUNIQnBWMjNhRHluQWh3a2p3RlRwYi1hQVdjNzNoUzM1ZWwwWlQ1SGl3YkJyUDJGdUFZTHRHNG42a00tNzhxTF9aTTY2MnBmUUctVzdXLXhvY3",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWRSRGgwaWdxUHFrT3FqWlMwZUpmZUNIQnBWMjNhRHluQWh3a2p3RlRwYi1hQVdjNzNoUzM1ZWwwWlQ1SGl3YkJyUDJGdUFZTHRHNG42a00tNzhxTF9aTTY2MnBmUUctVzdXLXhvY3NDWWhJLW0yNi1DQkpMS1R4OV94Rmo2RFlNQ2NoejRkZnprQ3J4OXRoV21EOXJNUUdCbHA3ZHpKNHZBQURuazB5MWpXZU9UVGxOLUNWQkxaOVFwNG5MX1otNHpPdmJJbkI2RG45QzdDQ3ZGdXI1OWtMOGRIRUwtUWNEWVFJcGprUlNzd9IB9wFBVV95cUxNcTlDcU01ZU5WeGJpU3I0OHFKbkREN09tS0lmcF9DMDlZdVE2NF9sbG5xT2ZuakF5dlN4Y2N6S2N2QVZhU0poWE83XzJleGozYUJzMC10QUs2OU5odzVfQzV0ZWZaSUhRTHRZamtXY014ZlllUFNYRXFqQ2tCTmM0dVYxVG0wVlQtUmR2dFZjMG81UHdUekNaTWx0MkVNY1FkVUpUSk9EckpXa3dVNnRfOGRpZjRmZm5JMDBSRkM4Z3R3M2lRZ2t4a2VWNkxSZm4yc01OUG5JRWVyNkhwTlNQY1ZndFpOUG8xRk90bjVYOVhVMV85Nk1r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-005",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use",
+    "summary": "<p>Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-10-22-001",
     "date": "2026-10-22",
     "companies": [
@@ -160,6 +251,421 @@
       {
         "name": "google_news_green_hydrogen",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzFnTmRmV3MyWjFaNjgzc3VQWEVRTjg4VXFBT1VYZEJGMWNTZ3d5S24wbkRubGJoVEdMbENmWjR0eldjSWhuTU02bmFwd1pQZDhMRUR3WWMwcnRWWmtCZndhSmcydlRFdTdJdDJzbkdZcjdxclJONm1ndHpRZjgtdnJlQVB3VFFZZUY3a0VSYkN5dXJBbklZVW1pbzVLaE40N3JHbHNET21ZQkhodi1qZEFnWnhIamp1alpqZ1pxTlVlUGFPX0tQTE9CeUNGdmd0aHY2aHdtVWFMNWxhM3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-010",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products (APD) Declares $1.81 Quarterly Dividend - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJzNHN4X2ktSTRzUzRqV3hhRE85N0FMSlV6VUVqcXREbzR2Tk8tVDJVdFpSbUNnVUdnUTdKaVZ0QXVsSkhQV1JIUEYwQW1ndUpBSnZubEJ4aVRDUnRKQzhjN1pxd0FoMU9YZGRBSD",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJzNHN4X2ktSTRzUzRqV3hhRE85N0FMSlV6VUVqcXREbzR2Tk8tVDJVdFpSbUNnVUdnUTdKaVZ0QXVsSkhQV1JIUEYwQW1ndUpBSnZubEJ4aVRDUnRKQzhjN1pxd0FoMU9YZGRBSDQxWE5GM3BWVFZEVW0taGZGbWFwMXBmVXpkNlN3V045Y0U5NzR0ZFZoOHI2eVV4YllEYXFyMFVZWWkwMktOY1Fycg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-011",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals (APD) Declares Quarterly Dividend, An - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXdyTXBaTEJxa3dwV2NXYjBzWFhGY0sxZ3lIT2w2bGJqZGNBTlRmUjQ4dW0yc25RQmFHN0hrOFMzSnZxWXlnNVZwRkVIajZlcDBCa3ZhS0pRTnVEYXVlRXNvT1lobzRYOUE5V3pNa3",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXdyTXBaTEJxa3dwV2NXYjBzWFhGY0sxZ3lIT2w2bGJqZGNBTlRmUjQ4dW0yc25RQmFHN0hrOFMzSnZxWXlnNVZwRkVIajZlcDBCa3ZhS0pRTnVEYXVlRXNvT1lobzRYOUE5V3pNa3R4Z2txWHpaeXMyTWpmX0F2Vmsya0tGSjlKNXJNcGd4eDZaQVF0TzJiVzh0MHBQYS1PZEpwdHhxaWhDUDdpRW1BZzV6dE9IYUNOYmpSdTFYUXRIQ2liZ24tSVRXNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-012",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products declares quarterly dividend of $1.81 per share By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUdnMEV3SmR3X1ZxWE9UR1Vibk94eENSQmtjM0gtb0dSdldBT05ydnFHNmN3OEJQa3pfZEN6bkJJVFFfM19STnZHbkxrd09oUVJURU9Cb1RtX20yTUxmWEV2bnAxVzZPekVvQ01BQ0",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUdnMEV3SmR3X1ZxWE9UR1Vibk94eENSQmtjM0gtb0dSdldBT05ydnFHNmN3OEJQa3pfZEN6bkJJVFFfM19STnZHbkxrd09oUVJURU9Cb1RtX20yTUxmWEV2bnAxVzZPekVvQ01BQ0lpS2c5ZU9JVk5JMW8zcjdBYVJzQlNKWllUYmk3V1NQMkl3bjlvRU5LUVI4SEo3dERhV2c2UjFXTUVGWjZTZ0VEaGJLY2pmQ09TbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-013",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products (APD) Declares $1.81 Quarterly Dividend; 2.4% Yield - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEpleWFEb2dUTUt3enk1TDFZbTdIYWpRa3ZLYUxwRjJ6aXpBMXBGRjlGYm1nUnlScGM2eWZ5WEpnSW9KYWd3bFNhZVJFVlFTWEtLa2NLUjFQYm4wRFF1enp2OUZMMmUzVWhGN0wzTm",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEpleWFEb2dUTUt3enk1TDFZbTdIYWpRa3ZLYUxwRjJ6aXpBMXBGRjlGYm1nUnlScGM2eWZ5WEpnSW9KYWd3bFNhZVJFVlFTWEtLa2NLUjFQYm4wRFF1enp2OUZMMmUzVWhGN0wzTmd1SDM2RGhYbk5NRUVJM2xlbGhtQ3N5b3pLb3gzU25MbUFQdXF5c0ZPcTJZUWZPTjRGY1MwQk9HOGpHeUdQZDdaZ2U3NHE5ak1LSDA3VElNQU4xRk9sY2ww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-014",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals, Inc. Declares A Quarterly Dividend on Common Stock, Payable on February 8, 2027 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDZJanp2VzhOMUY3a0V5U1FjT3lSUmZOQ0cxZEhIQ2ZYcUZmUm1WSGhHOHFOVHYyTmxscWRndXBLcy1RRk9BLVJXNzQ2SGpwQ0NSbElMVE1nT3RJZ3dtWXBrdGc4aWdkd1hTaklYeV",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDZJanp2VzhOMUY3a0V5U1FjT3lSUmZOQ0cxZEhIQ2ZYcUZmUm1WSGhHOHFOVHYyTmxscWRndXBLcy1RRk9BLVJXNzQ2SGpwQ0NSbElMVE1nT3RJZ3dtWXBrdGc4aWdkd1hTaklYeVJiUXA2QUY5cFNnN1E3X3ZWV01YNTV2aTY0Y0xjTXRGbzItYTJKNmZvZEVCaWFnc2pNak1udXc3VDZsTnYxaHVGMTNQNnNnUVFjM0dFb09IOWN3UzFicUtNdW44c2k4SlNEZ0drQ2JPcmJGWGc2TXZBMVlRTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-015",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Air Products and Chemicals declares $1.81 dividend - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWJsb0NNSEhVS0ZiMTc5T1FsakE0d3lTemdqWHNsdWh4THVobmhSckxJMVlrYzIzNWRYeHNWRVJOVUFEZGppb1ZNYXc2UHNLWFVZTHo3eENGRFl6OTRScXRha0VTVkJmYUNpMzZwZn",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWJsb0NNSEhVS0ZiMTc5T1FsakE0d3lTemdqWHNsdWh4THVobmhSckxJMVlrYzIzNWRYeHNWRVJOVUFEZGppb1ZNYXc2UHNLWFVZTHo3eENGRFl6OTRScXRha0VTVkJmYUNpMzZwZnlDaEtlRHVMbEFhWjU1WlNVdW1yaEdFZmdFbzVlYURTZ2c2dURBd3JzY00zQXJOYmVFdEpTUFhzZUJyQnhQTGROQVFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "air_products-2026-10-22-016",
+    "date": "2026-10-22",
+    "companies": [
+      "air_products"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Air Products and Chemicals Keeps Quarterly Dividend at $1.81 a Share, Payable Feb. 8, 2027, to Shareholders of Record on Jan. 4 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHNWbU12RXF6emh4bWowX1NHaUxadVlGU3phWDJWalNJSmU4SXplYldyYzRkNHZaRzBhaWs5VVF5Q3R3eXFXUzJobFo4NS1nMjQ1YUl1NVZyM0JyRXBDV1lwSUJDUWhZSUt3SEprRU",
+    "sources": [
+      {
+        "name": "air_products",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHNWbU12RXF6emh4bWowX1NHaUxadVlGU3phWDJWalNJSmU4SXplYldyYzRkNHZaRzBhaWs5VVF5Q3R3eXFXUzJobFo4NS1nMjQ1YUl1NVZyM0JyRXBDV1lwSUJDUWhZSUt3SEprRUQyNnZqRVJfMXZFY2czLXMybVA2Nm94WldSYkxVem9ZLUlKTjZOT2NGYmd0YkNpNmNlNGtVZzRhUDRLQXZUTmh1Y2Zfa29yZEU3WXdvaklhVXVkemRyZF9aZFhLbFlUcWgtWHVsS002WUJWaVVfMVIwRFVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-22-017",
+    "date": "2026-10-22",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nel ASA appoints Morten Holum as chief executive to succeed Håkon Volldal - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWM1cm5yY0tyOGlRZGh6SmQtdTQyYS1lcnlRTWhOOXBmZmpTOVhxNEJvd2VqT0w1Vjd4dFZWZTdGY1ZTUnI2SmhVUU92N0VyU0doTVN0SWdVaGF0Y2RiYjlZRkJSU2h2Y3QwZllpbl",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWM1cm5yY0tyOGlRZGh6SmQtdTQyYS1lcnlRTWhOOXBmZmpTOVhxNEJvd2VqT0w1Vjd4dFZWZTdGY1ZTUnI2SmhVUU92N0VyU0doTVN0SWdVaGF0Y2RiYjlZRkJSU2h2Y3QwZllpblVQNVZ5WVhmXzdXNTBfemZUeDM5N3Y3c3ZjdWtpVXZfaDhHNmlEczRWYmRfdWYyNmRi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nel-2026-10-22-018",
+    "date": "2026-10-22",
+    "companies": [
+      "nel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Morten Holum Appointed New CEO at Nel Hydrogen - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0R6Z1ZSUzlYdDlCMXlpRjdUMlNLZTZNeG51WVJ6N2REbDR4NEVsWHdOcWxwMkYzZlFsSnVTRHQ0VGdDdXloVnluTXp4UkJja3ljbzBCWVRXbXVtdzJ6amRQRHA2YjhUNmU0TjNBNE",
+    "sources": [
+      {
+        "name": "nel",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0R6Z1ZSUzlYdDlCMXlpRjdUMlNLZTZNeG51WVJ6N2REbDR4NEVsWHdOcWxwMkYzZlFsSnVTRHQ0VGdDdXloVnluTXp4UkJja3ljbzBCWVRXbXVtdzJ6amRQRHA2YjhUNmU0TjNBNE53emdsN3UyUnFPX0FCb04wYmxYdWNxODA3eV93N2tYUW5KX1BPcnl3S2NfeEVtRjViTXk5c1VIcVlZNXdzcE53WGJZVTNBQmsyWHNxV3F6T2RtZW40OG52MndKRGt5NFZG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siemens_energy-2026-10-22-019",
+    "date": "2026-10-22",
+    "companies": [
+      "siemens_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siemens Energy Files on Ratepayer Protection Act and Trade - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSFF2emFnaERpZzdaclE2QzQwVk0wak4zUlpvR0ttM0ZOTTdfTkxYTHZXQThNOXZmcm9OM25SeUZMQ2lZUnhvWmVrVzd6WHZESUZqeTVZQy1JWlh5YjdFb2Z2X0FlYkxvbkJpaDBoMF",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSFF2emFnaERpZzdaclE2QzQwVk0wak4zUlpvR0ttM0ZOTTdfTkxYTHZXQThNOXZmcm9OM25SeUZMQ2lZUnhvWmVrVzd6WHZESUZqeTVZQy1JWlh5YjdFb2Z2X0FlYkxvbkJpaDBoMFdBVXZoenNSR0hJVW51dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-020",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai unit will add 1,275 more jobs at Joliet truck factory - Crain's Chicago Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdxVmpLTDdWamJCMWJPbndEcXY1eVhabTQzQWpVWlVBa2ZObGpOMGFsQnpfVS1VMjhJZ3hYTUp6QThpTGY5MGZzQmFyNmRwdTJmQkhHRHBWMDhKSHZRa2FYcWd6WTZmSDlrYkpLRU",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdxVmpLTDdWamJCMWJPbndEcXY1eVhabTQzQWpVWlVBa2ZObGpOMGFsQnpfVS1VMjhJZ3hYTUp6QThpTGY5MGZzQmFyNmRwdTJmQkhHRHBWMDhKSHZRa2FYcWd6WTZmSDlrYkpLRUNhaGpSRWVxdXNWb0U1VWRmSF9RR3BEUWRPV3NGcnR6eW9CbGVMX1BmR0VqRmdtbmst?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-021",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pritzker says new Will County Hyundai plant will create 3,750 new jobs - Shaw Local",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVpiUTVhc1ZzTnFQVkhoM19KYms4U050SElfLWFXazY5MU9qaGxKeXM3VG5FU2dEazFIdk9QbXBkcGJYdVNENUlSQm02Tmwwa3NlY0wxVWtmeHJieDFiTjdodk1xVURucU9LZnVaRX",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVpiUTVhc1ZzTnFQVkhoM19KYms4U050SElfLWFXazY5MU9qaGxKeXM3VG5FU2dEazFIdk9QbXBkcGJYdVNENUlSQm02Tmwwa3NlY0wxVWtmeHJieDFiTjdodk1xVURucU9LZnVaRXlxYm9yVnI5blpIaWF0STdoTkMtMlZzV2lleEpsUEQzbGliTDU4LVloVXlJLUxfTmF5V1FLbnBUbmxtYzFSa3dGZ2g3MnVlVHBxUHNrMF9wRTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-022",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Hyundai Stellar Wagon Never Went Rallying. Project712 Filed the Paperwork Anyway. - Korean Car Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9GOGxUR3NiYm9ETGx2VVV1TzdQeU01NVFwYnNlWjI0b2ZKOGJ4Tml4UEtXTVpEa1hjM0dtRjFseWVjVU5mWTRnYmRicUVKU0U3UWVwYy1CcFdkcWhuM1pTTVNoVldYc3psVklRaVdmX1",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GOGxUR3NiYm9ETGx2VVV1TzdQeU01NVFwYnNlWjI0b2ZKOGJ4Tml4UEtXTVpEa1hjM0dtRjFseWVjVU5mWTRnYmRicUVKU0U3UWVwYy1CcFdkcWhuM1pTTVNoVldYc3psVklRaVdmX1pJODNZUGE1a3BB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-023",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "All-New Hyundai Tucson Hits Record 15,045 Pre-Orders on Day One - Korean Car Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmdrcTMwLW05TDU3TXZzWGpNSXVqOGh6TnpLY2Nmd1dPMUM4UVBxaXdRWnJmcTZIXzN5UjA5QjBFUGkxaTRpMC1PMUJmVmp4SU83Tmo1eUFXX0xZSmJORnh2MF9LOXVqazlISVRxXz",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmdrcTMwLW05TDU3TXZzWGpNSXVqOGh6TnpLY2Nmd1dPMUM4UVBxaXdRWnJmcTZIXzN5UjA5QjBFUGkxaTRpMC1PMUJmVmp4SU83Tmo1eUFXX0xZSmJORnh2MF9LOXVqazlISVRxXzIwNHJiY292Vm9Ubk5uRTU0ZF9kZTJHa2FQYUhCRF9yVHJmMzlMSEI0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-024",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Hyundai's South Georgia plant expands its wastewater permit to support 200,000 vehicle production - Georgia Public Broadcasting",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzNmeWlCVGVCanFNQU5VSXpyV3hZOFRWaW0zbEMwaGkyRUlYc1g0WEVvYnh4cjlnWkJGa0U2a2FSZ1AzLUNPWG9laWEwZzlFNHYxdWtnNWVmaDd2c182Y25XQ2JIdEdfUFZPWHhvcH",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzNmeWlCVGVCanFNQU5VSXpyV3hZOFRWaW0zbEMwaGkyRUlYc1g0WEVvYnh4cjlnWkJGa0U2a2FSZ1AzLUNPWG9laWEwZzlFNHYxdWtnNWVmaDd2c182Y25XQ2JIdEdfUFZPWHhvcHYxQzVERXIzbFlZUW9HNHdjRUF5c013RGN4TFY5amtDWFpReUlRMlB5NHJZdmZBdG9ORW1TS0R5RXJLaU1VT0p1VnFPN0Q3WF8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-025",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Metaplant makes largest-ever donation to United Way of Southeast Georgia - Statesboro Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzBleW1pdXc0VFhYTU5uUWdEQVREX0pYNDE4a0hQaDlyU1lTM0hlUDZHZ2EtcEJjWHA5RWpCOElpUElOREN5cy0wal90TFVuZHhEeC1JTDd5OWRtb3ltYjJvVDUzYmhUY0x0Z3Vabl",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzBleW1pdXc0VFhYTU5uUWdEQVREX0pYNDE4a0hQaDlyU1lTM0hlUDZHZ2EtcEJjWHA5RWpCOElpUElOREN5cy0wal90TFVuZHhEeC1JTDd5OWRtb3ltYjJvVDUzYmhUY0x0Z3Vablozb3FYSkFSbFRRRHNqSWU0cFU5RHF5dWstRy1obVA5R0ROYVVERDI2UVBHN0NYVk5jb3BLZkpnMHdEZUxPNzhHcFpkMWVYQmFiVGh2Qg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-22-026",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor Securities Co.,Ltd. authorizes a buyback plan. - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNemMwejdmNF9SVUd4Zk5Sd09CT3p4Z21vTkNBVTFyWUpSSm5vNkpEWVA3UzQzRkZTeGV4UVZqYzR5NEtWOGtRdkwwcU5RaDdHT1dzTUY5aVVxZDRqdzRoUHNwSEdkekxyb0JVeWd4S1",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemMwejdmNF9SVUd4Zk5Sd09CT3p4Z21vTkNBVTFyWUpSSm5vNkpEWVA3UzQzRkZTeGV4UVZqYzR5NEtWOGtRdkwwcU5RaDdHT1dzTUY5aVVxZDRqdzRoUHNwSEdkekxyb0JVeWd4S1JNUU41c0JjTzc0VFRTN21iOG50Mk8xbDMybjE0QVlGemRkMDIyMVhNcGZrdldxc1FQX1RBWGx6dGVLWjRZRFdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-027",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/22/green-investment/dutch-researcher-wins-up-to-850-000-to-develop-magnetic-catalysts-for-green-hydrogen-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-028",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "Korea Pallet Pool and Lotte Chilsung Beverage Trial Hydrogen Fuel Cell Trucks in Logistics Operations",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/19/h2/korea-pallet-pool-and-lotte-chilsung-beverage-trial-hydrogen-fuel-cell-trucks-in-logistics-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-029",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Grafrath Drops Wider Energy Park Plan but Keeps Green Hydrogen Project",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/22/h2/grafrath-drops-wider-energy-park-plan-but-keeps-green-hydrogen-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-030",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "DUT Researcher Earns Recognition for Seawater Green Hydrogen Innovation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/20/h2/dut-researcher-earns-recognition-for-seawater-green-hydrogen-innovation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-031",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "PowerCell Revenue Falls 61% as China Hydrogen Vehicle Slump Hits Royalties, Bosch Partnership Targets Data Centres",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/10/22/electrolyzer/powercell-revenue-falls-61-percent-as-china-hydrogen-vehicle-slump-hits-royalties-bosch-partnership-targets-data-centres",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-032",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost",
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Electrolyzer Cell Stack Module Assemblies Market Forecast to 2035: Green Hydrogen Mandates Drive 30–40% CAGR - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZG5sME1vZGF0YUNWbjFoVEhDUzF6cmVRakV2YWxkU3BlRjd1Y0NrR0ptNFFtYXp1dVhtR21NOTJlRDEyZUtlakdoT1NyNG9JRHh1a3ZLU0RkRTlWUDNqVFFXSVpJUS1lRzdpdzgxb3",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZG5sME1vZGF0YUNWbjFoVEhDUzF6cmVRakV2YWxkU3BlRjd1Y0NrR0ptNFFtYXp1dVhtR21NOTJlRDEyZUtlakdoT1NyNG9JRHh1a3ZLU0RkRTlWUDNqVFFXSVpJUS1lRzdpdzgxb3otTU1hOVJROEtRdzF3dVFZTUpaekpVazdsTjduQktnbXc1aGstM1UxNDNkb3hRXzNpNUY3WXdJWTZXQlg0MEFIdG1tSmNJTjgxSnNpcUx3TGp0MFZGTFBicWloWTRSbkJRVEE?oc=5",
         "type": "rss"
       }
     ]
