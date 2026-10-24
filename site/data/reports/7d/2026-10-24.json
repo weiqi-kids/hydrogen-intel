@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-24",
+  "date_range": {
+    "start": "2026-10-18",
+    "end": "2026-10-24"
+  },
+  "generated_at": "2026-10-24T12:18:59.874082Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "itm_power-2026-10-18-002",
+      "date": "2026-10-18",
+      "title": "ITM Power's 2029 Horizon: A 150MW Refinery Deal, a Trimmed Loss Forecast, and the Long Wait for Reve - ad-hoc-news.de",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "electrolyzer_capacity": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": -0.07
+    },
+    "green_hydrogen_cost": {
+      "this_week": 13,
+      "last_week": 18,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.0
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "itm_power": {
+      "event_count": 19,
+      "sentiment_avg": -0.16,
+      "rank": 1
+    },
+    "siemens_energy": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "air_products": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 7
+    },
+    "fuelcell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 155,
+        "last": 207,
+        "change_pct": -25.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-18",
+      "event_count": 8,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 41,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 34,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 33,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-18 ~ 2026-10-24）共 155 則事件，重點為「ITM Power's 2029 Horizon: A 150MW Refinery Deal...」。Plug Power情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Plug Power",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

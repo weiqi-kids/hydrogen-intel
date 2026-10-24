@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 86,
+  "gate2_fail": 35,
+  "passed": 12,
+  "gate2_samples": [
+    "NEL ASA Estimates – OSL:NEL - TradingView",
+    "Up 38% in One Week: OHB Takes Off - Could Nel ASA and First Hydrogen Be Next? | 2026-10-18 | Investi",
+    "Stockpickers: Aberdeen, ITM Power, Tristel - Financial Times",
+    "ITM Power plc (ITM.L) stock price, news, quote and history - Yahoo Finance UK",
+    "ITM Power Plc (ITM.L) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
