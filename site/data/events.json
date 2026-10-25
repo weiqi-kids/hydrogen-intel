@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-24-001",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "HDF Energy Acquires Full Control of Renewstable Barbados Project: A Step Towards Green Hydrogen Innovation",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1792800385754.jpeg\" alt=\"HDF Energy Acquires Full Control of Renewstable Barbados Project: A Step Towards Green Hydrogen Innovation\" /></p>HDF Energ",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/hdf-energy-acquires-full-control-of-renewstable-barbados-project-a-step-towards-/8576932/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hyundai-2026-10-23-001",
     "date": "2026-10-23",
     "companies": [
@@ -833,6 +851,24 @@
     ]
   },
   {
+    "id": "ballard-2026-10-22-034",
+    "date": "2026-10-22",
+    "companies": [
+      "ballard"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Ballard Power Systems Outlines Path to Adjusted EBITDA Profitability and Hydrogen Power Unit Expansion",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1792918173896.jpeg\" alt=\"Ballard Power Systems Outlines Path to Adjusted EBITDA Profitability and Hydrogen Power Unit Expansion\" /></p>Ballard Power",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/ballard-power-systems-outlines-path-to-adjusted-ebitda-profitability-and-hydroge/8576929/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "air_products-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -1444,6 +1480,42 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcDdlM2NNd2J3cHM2dVdZTGMxR2pyTmViSlNZSnl2ODhfaVNtcWVrSU9OMFdPUXViSjdaWUg1QzBTR2NGZXRyWjN5WTU2eW94c2xOTHRFSG1MRTRQaEdwU1hGRkpTTUtVS0RaU1hQa3hoNE5RS0lIcEtzb2hueWVjUEE2YjNEb0RpaEsxZ0V4NXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-21-035",
+    "date": "2026-10-21",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Metaplant donates $150K to United Way chapters - WTOC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG1uTnJQZUxqYkdMNTItbFRXdDFtbUFZVHlXU1Q5NklPTENVaFZ4MHdraE5RcDJqbVpVNXExUjQ5MG02X2ZMcmJvTTltYXVXRHduV1lHWjNBUjNXd05nZnBySlF5b2Zlc1M0N1Y2Wn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG1uTnJQZUxqYkdMNTItbFRXdDFtbUFZVHlXU1Q5NklPTENVaFZ4MHdraE5RcDJqbVpVNXExUjQ5MG02X2ZMcmJvTTltYXVXRHduV1lHWjNBUjNXd05nZnBySlF5b2Zlc1M0N1Y2WnBnLXY5UVY3QUlLNEFJdVphQ0M2cVpYejNfY0NnN2N30gGiAUFVX3lxTFAtRm5ZYjFkMnUtU0hzX2RmaHpWRDM5NVJvUk4ybFRuWXpJTjZlZ29YYUxJWGk4X2N1bzdfY3dtek5WeS1heHBMelAydHBmbzNkS2g2Y3p2TVZtdVd0enlRVUNtYmlQTlpmQmdfUmZCTzlYaGF4N09PWDhDZHdxbUo1RkdmU2tIaU1NWUx3OGY3MVdHSFRjaE9yZzVnX3k4b29OQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-036",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "fuel_cell_vehicle"
+    ],
+    "impact": "neutral",
+    "title": "GAZOO Racing accelerates preparations for its 2027 Dakar Rally FCEV - GAZOO Racing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZlZsLXRFcWFkNkpXbWE0WnlTMFFzNmhNVDJJTEpwVTBrZHlwV1lCdlp1YVZmT0pWbTNPenZhS3lsdFdoWF9MbjNDRUVNQjkwSnA2WG5NLUxnSGl5NmdRX29MZ0RTSzV5?oc=5\" tar",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZlZsLXRFcWFkNkpXbWE0WnlTMFFzNmhNVDJJTEpwVTBrZHlwV1lCdlp1YVZmT0pWbTNPenZhS3lsdFdoWF9MbjNDRUVNQjkwSnA2WG5NLUxnSGl5NmdRX29MZ0RTSzV5?oc=5",
         "type": "rss"
       }
     ]

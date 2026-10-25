@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 87,
+  "gate2_fail": 30,
+  "passed": 4,
+  "gate2_samples": [
+    "NEL ASA Estimates – OSL:NEL - TradingView",
+    "Stockpickers: Aberdeen, ITM Power, Tristel - Financial Times",
+    "ITM Power Plc (ITMPF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "ITM Power applies for block listing of 299,638 shares on AIM - Investing.com",
+    "ITM Power Plc (ITM.L) stock price, news, quote and history - Yahoo Finance Australia"
+  ]
+}
