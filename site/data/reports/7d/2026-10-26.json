@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-26",
+  "date_range": {
+    "start": "2026-10-20",
+    "end": "2026-10-26"
+  },
+  "generated_at": "2026-10-26T14:39:33.495502Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-10-20-008",
+      "date": "2026-10-20",
+      "title": "Hyundai Motor Securities Held Liable in Las Vegas Resort Investment Loss Case; Appeals Court Upholds approximately $6.8 Million Damages - BigGo Finance",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 11,
+      "last_week": 12,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.0
+    },
+    "electrolyzer_capacity": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": -0.1
+    },
+    "fuel_cell_vehicle": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "nel": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "itm_power": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "siemens_energy": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "air_products": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "plug_power": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 7
+    },
+    "fuelcell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 127,
+        "last": 210,
+        "change_pct": -39.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-20",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 36,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 35,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 10,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-20 ~ 2026-10-26）共 127 則事件，重點為「Hyundai Motor Securities Held Liable in Las Veg...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Plug Power",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nel ASA",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITM Power",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

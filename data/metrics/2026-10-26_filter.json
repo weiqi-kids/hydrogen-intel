@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 97,
+  "gate2_fail": 22,
+  "passed": 17,
+  "gate2_samples": [
+    "Air Products and Chemicals, Inc. Estimates – NYSE:APD - TradingView",
+    "NEL ASA Estimates – OSL:NEL - TradingView",
+    "Stockpickers: Aberdeen, ITM Power, Tristel - Financial Times",
+    "ITM Power Plc (ITMPF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "ITM Power applies for block listing of 299,638 shares on AIM - Investing.com"
+  ]
+}
