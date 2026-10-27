@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:43:43.828976Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-27-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Leads the Charge in Hydrogen Vehicle Sales in South Korea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "http://www.hydrogenfuelnews.com/hyundai-leads-the-charge-in-hydrogen-vehicle-sales-in-south-korea/8576949/"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-10-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products names new group presidents for Americas, EMEA and Asia - gasworld",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGRMTUNidURCeHAtQllqWVRpQ2ozcWlVX1lVY2xmcFdkSTNKVFE5N1RJVlJFSm1jNllmemU5ekM1eUp0SkVPOW1qODJ6X1pmNTVQYlBvdVY1ZDY1TG04VjA3NHNlOHF0cnNxS0xfZEdTOWV3OUxpRThONG5GVUdtdXF4SUZnWk9yaVppVUxLTUNkSFBPY2lkaTN2YWhDbTVmY1NwUDJRc2RRbllzTjI2Q2xvZEs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-10-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Germany's Siemens Energy to Open Wind Power Maintenance Base in Hokkaido as Japan Courts Foreign Players for Offshore Wind \"Localization\" - BigGo Finance",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BLUpXd01zc2RhaDZhZXgzVFo5aWRqc3UyaGFCME9hOXZpcnVxVHdXWnVrSDdhRW9wTkdoWndYWTF1MWZUSlJMczhTUmpEcjVEX2x0eG9HZkVKTjBENk96SEZOMHZ1Q0x6bzAzWFcwMXFac0g5dkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-10-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy to Partner with Japanese Companies to Develop Fusion Power Technology - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXBRREp0bmM1ZkQ1Q0JCbFRvcEFsZjlyaU5teWhraHZTQ2EyQ204Q085cGZyYjg1S1ZJc3kzbFlka1hzcVA3SGMxT09ITVdqREcwR2tDQlhkaXVrX0RDa2NRbWpaY1ktZkthak52YlVyd05KeURUeDNyRkhzX0tXNUx5ZWJuUWxpcU43b0VNcEpya0p6ZTlGQ0s2MUFaUk1LYnVlN0tNcEF3Tkp1U01lU2dUN3NXcGdoSzNLWWpwWHJOZ3ZuY1N4WXdCVTVIb3NHVVY0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-10-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India Launches Technology Centre to Train Goa’s Youth - The CSR Universe",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWldRWXQ5bFVBMnM1dmN2TkVBb0pxclBuNk91NEZQNWFrWVdyeUNzZkFCTG1aMWRKQ2hBd1JvY2ZUcEtZU01PUnQwR0pTTWQtUm8yQ05CM0dqbHZoZ1dIUm1RVmJNcTVYWHliZjRNdmthVml2RFl1VGFNZWdTclZWbnlWOFZqZUhRY2F0ZU5VdVZNMWwyTk5rcTlXNlgzRUxnZnpzOWtqYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 92,
+    "too_old": 105,
+    "gate1_blocked": 98,
+    "gate2_blocked": 25,
+    "passed": 30,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - PR Newswire",
+      "Air Products and Chemicals, Inc. Estimates – NYSE:APD - TradingView",
+      "NEL ASA Estimates – OSL:NEL - TradingView",
+      "Rheinmetall (XTRA:RHM) Teams Up With Nel ASA, Is The Upside Already Priced In? - Simply Wall Street",
+      "REG - ITM Power PLC - Block Listing Application (Update) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Hyundai Leads the Charge in Hydrogen Vehicle Sales in Sou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Leads the Charge in Hydrogen Vehicle Sales in South Korea（燃料電池車）",
+        "level": "green"
+      },
+      {
+        "text": "Air Products names new group presidents for Americas, EMEA and Asia - gasworld",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

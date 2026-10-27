@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 98,
+  "gate2_fail": 25,
+  "passed": 30,
+  "gate2_samples": [
+    "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - PR Newswire",
+    "Air Products and Chemicals, Inc. Estimates – NYSE:APD - TradingView",
+    "NEL ASA Estimates – OSL:NEL - TradingView",
+    "Rheinmetall (XTRA:RHM) Teams Up With Nel ASA, Is The Upside Already Priced In? - Simply Wall Street",
+    "REG - ITM Power PLC - Block Listing Application (Update) - TradingView"
+  ]
+}
