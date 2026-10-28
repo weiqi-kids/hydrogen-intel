@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 100,
+  "gate2_fail": 25,
+  "passed": 39,
+  "gate2_samples": [
+    "Jefferies Adjusts Price Target on Air Products and Chemicals to $355 From $351 - Yahoo Finance",
+    "REG - ITM Power PLC - Vesting of option awards - TradingView",
+    "Stockpickers: Aberdeen, ITM Power, Tristel - Financial Times",
+    "REG - ITM Power PLC - Block Listing Application (Update) - TradingView",
+    "Siemens Energy: Time To Plug In After The Sell-Off - Seeking Alpha"
+  ]
+}
