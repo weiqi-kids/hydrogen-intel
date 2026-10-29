@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:44:31.071947Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itm_power-2026-10-29-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ITM Power (LSE:ITM) Hits Record Revenue, Unveils Hydropulse - Kalkine Media",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGJ4S3lzZDdRTDhIREtoWnB1R21WQlZRVGRIR25IUHBXMG03WlFHN1lxOEdSMURDdXFhUFRNdkN5a1JpR2hYQ0RUMVVlVktrOEFwY05TcDVZdHRfSzZiaUJaZmVoX29BeTRoRWxyV29SRF8xb1lDbXBjZ1Z2bVF5TjdEYnRER0J6eGdoa0dnUHd0bFEtNkRRS0lsYmg0dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-10-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA names Morten Holum CEO. Nel ASA stock stands at EUR 0.19 - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlJBai1DTk1OTlZ5cGtfUGcxSzB4TEt5SjRPQUtqVmNsSU9EbWQyM2kzZFYzekZhdnViaUhLYm5IWDAwU3FXOFRfQm4wZlB1OUttMFNlMmRYaEQxQ3BsejRWZUhudWdaLWdZcVFrWV83bGE0QkxjMkkxdy1KSUhHZXc4XzBHUnFmamdnMUg0NTcxRXNPWjJqV0trSmxoQnhjQktOTkVhSGFwT3dab3lTblBpeU1RUmdjVHQyamdGaElWWXRW?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-10-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Siemens Energy stock climbing today? - Investing.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjJSaHFNeWM1UTBaUzEyMVB2ZjF2RVAzcHppSnlEdG96WjZyNFJDT3F1SlhUZkJvLW56SVhfTTd2ZVdJVkRURUsyeS03NFp1dVlUV0diUGppNWRydVNlaXZGeGdPTVBNZ3k0dWJXNEsyeS1DRFdhRVF5aTZzRzBPNk9qcHNlSThDVmowdHlrN0JjdVJtZHpFU1ZBblBBcWYxT1B2ci1NOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-10-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy stock rises on positive sector read-across - Investing.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkJqRDhBT2tTSzBxREEyMGVZWGVQZWFBRGdDRHVsYUttWmRSeFZtRFVrcEtzbjRDNDhoQ21PQ1FvaDR1OEhmZllfNzk5YjVRVHVadENZNHBmVXhDSXdRX3hyMG0wQVBwRTNVcjlUS2xMZDRNYUtONGQ3ZUFyM3VTazRGbENXeV9OSnFUakN2QjBzUWM0YWFwMjdLZTUxazlCZG5xRW5fZDZhUWljMENSRE5xQ0owYzBxcWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-10-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tokyo and Siemens Energy sign floating wind MoU - Trending Now Sustainable Construction",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMWRzVkJxeW9FOW5VZ3lnSHcybWcxZzBfaGZadVFnUnJaemtBNE5hcXdqTTAyU1hYemF6TzZxWjlYTlh6Y1NQejAySmxBQ1JsMGk0NUYzeGpRNFFIYVFNbm0yYmR2X3RjSEpVNU56dkdzbWE3SExWSm5vMThvOTVxMVhOdmxuVzJUVjlZMmJFS2RXVElfMDBUYTNjSm53Ym1Rc2swX01aZlFXaHFFMnB5RU9LTjZ5M3VidFRZNzVCUnBIYW5MNDNaYmp0VDVFc1dpaFRsUkpad1M1SS10VTc2bWpmRnNXM2syU20zYVY4dTlRNEY4S1VveF8yNU40TWhERy1VV2Zxek16TF8yVHd1WU5vLXJtdmdMS1VCODN3UHBMUWlCc1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hydrogen_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 3
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "hydrogen_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 81,
+    "too_old": 95,
+    "gate1_blocked": 96,
+    "gate2_blocked": 36,
+    "passed": 43,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Air Products names two group presidents - Pennsylvania Business Report -",
+      "At $307.12 each, 338 shares were delivered or withheld by an Air Products (APD) accounting officer. ",
+      "Form 4 Air Products and Chemicals Inc: William J. Pellicciotti Jr (Principal Accounting Officer) For",
+      "Air Products (APD) Stock Could Be A Bargain On Cash Flow - Simply Wall St",
+      "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為現代汽車、豐田、西門子能源相關動態：「ITM Power (LSE:ITM) Hits Record Revenue, Unveils Hydropul...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ITM Power (LSE:ITM) Hits Record Revenue, Unveils Hydropulse - Kalkine Media",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA names Morten Holum CEO. Nel ASA stock stands at EUR 0.19 - ad-hoc-new...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

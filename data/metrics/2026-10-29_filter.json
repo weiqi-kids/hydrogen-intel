@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 96,
+  "gate2_fail": 36,
+  "passed": 43,
+  "gate2_samples": [
+    "Air Products names two group presidents - Pennsylvania Business Report -",
+    "At $307.12 each, 338 shares were delivered or withheld by an Air Products (APD) accounting officer. ",
+    "Form 4 Air Products and Chemicals Inc: William J. Pellicciotti Jr (Principal Accounting Officer) For",
+    "Air Products (APD) Stock Could Be A Bargain On Cash Flow - Simply Wall St",
+    "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - PR Newswire"
+  ]
+}
