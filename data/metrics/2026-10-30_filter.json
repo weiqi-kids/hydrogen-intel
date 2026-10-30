@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 94,
+  "gate2_fail": 33,
+  "passed": 31,
+  "gate2_samples": [
+    "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+    "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+    "Air Products And Chemicals (APD) Appoints Two Group Presidents - Yahoo Finance",
+    "Air Products names two group presidents - Pennsylvania Business Report -",
+    "Air Products and Chemicals, Inc. (APD) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
