@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T13:59:23.532600Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nel-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book and Its Income Statement Are Moving in Opposite Directions - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWdDZkdDRFJsU2d0TkNfalpvcTlPdXQ4LWxid1VEYjhCRVJvcmlReGtpUUpoQmlnTF91Y3FuZE1SRHp5OWxSRGxKREZKNHVsZ1JtWnZwZjFSNlFGTVMtSHg0WEFtQ0Z0NWZCZFptblZ4X2daeUt0S2hqZW42QUNIcjVBU1VjeDhvOFNHd2tvRWVCVWZxVVQzUms0d0U1QmNvXzFXbzZTYUtXeEdiN3RoSExIdE9CcGJRMHRNdnNXZEgwaVFVS1FWYW1wNTg0c0ZCZ1FRclNTNUVPcHVmZ212bFRIX09MZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean envoy to US vows support for bilateral investment at Hyundai's Alabama plant - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmlFai15OUkybjV4YmdtclhnczFtNVppeUd0eVdSNEhsYUxSOWJPbEV3dmVtLVRVNk9zSzluYnV4b2VxU0JxSnVLM1JhV0hqeHo3MjNhaFdXakJIbDJfZlZuV2VEM18wNXV3ekRadTZ3LVcwNll0ZWN0SGlxR3ZqSHBhZmw4NzZYUFhWaURVQU9waHl6ZV9GTzJqdk9pRl9UQXJVMVJyWUZLOG51TWI5Z0JXR3B5Rk9aMF9NZTFUZFBkRWlMTkEwdUJCbi1MZ1NGajZnbW5n0gHbAUFVX3lxTE1tTEVRa3RzbWhVR2p3TUxCZE9kazlwYWNTdk02Zk1OVEpPU21NVGpIVGNMczlybEtZT0NuTjY2RUtVa3M2UnVNQXhORUFRYkYxWER5aWg1NXVPNVdnNFhhNlE5RFU3Wm82U0N3eFF4Yl9meFpfbG1fZ1NLMTA0ZnRLUWszWEx6d09kZElLMkZvNklhRncxS29xek1UbjItOTVBMXVCQk5BTGxOWnk3Wk5xTTcwX3BsOUdCd2EwR19QTEhOcEgyZzNBUWN2TjY0VURmcVBXLUgzZERBUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India seals the world’s largest Green Hydrogen order; Japan, Germany and Korea line up for Indian hydrogen supply - Organiser",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUW56RkF4OFhGRXR1eVVwcl90NUVmRXZ5d2pmN0tCdmdocUxabGtrbzlmWTkxUFFBeC1XSWpYMEZ1cWxPblB5WXBGM01heTRNaTlITEhlSWdUMGloU3BERGZYVkRndUl4N0V2MWNrVjBhbXdkWmVBeVg3QXYyR3BpNnl4djJNUmlVWC1naU8waWxBSzhhMndDc09iSkVmOEVNaUxMcGlnRWhzVmZEVkRHNGJxaVNTX1NjeTVMb2NVeVBWR1dyUmlNd0t0bGd5ZExXRGJRdlV2RUVvem1ORVU2bXhfR3pJSWtqM0xXcjh30gHzAUFVX3lxTE5GdUhsZHZSQlNQSTB3am42dFRNWGxWM3QwdTVSMGZpSDJyTlNmQ0VSTDJ5b2RqNktjLVBacFZqLTRGRUZ0Qy1Fd1pZVklQSFZsc08yZEZSYnNMZW5kWVJLRlhEZXlDOXlKQ2RMc3A0aDZJd0dtaVYyTzljTzZ0TlpwRDJYSHFmcVVMSEdNMWRZS1Y3bHJNV1hyM2RubWxyd2wyRXJWcVRoYjRZVU5Vc2tUV0paUVdTYi1Cd3haN1VtMFBVM2htX2p1cjJyLWNtWWk2UHQ1Wndmc1djWEZXUXdZcTdXZWw4UlBxTUk3N1NZa2drWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-10-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota & Waymo Advance Autonomous Driving Collaboration for Safer Streets and Freedom of Movement for All",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 100,
+    "too_old": 108,
+    "gate1_blocked": 93,
+    "gate2_blocked": 36,
+    "passed": 14,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+      "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - Air Products",
+      "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+      "Defence industry bets on hydrogen? Rheinmetall, Nel ASA, SFC Energy and HPQ Silicon aim to benefit -",
+      "ITM Power Plc (ITM.L) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nel ASA、現代汽車、豐田相關動態：「Nel ASA's Order Book and Its Income Statement Are Moving ...」。主要關注主題為綠氫成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nel ASA's Order Book and Its Income Statement Are Moving in Opposite Directio...",
+        "level": "green"
+      },
+      {
+        "text": "Korean envoy to US vows support for bilateral investment at Hyundai's Alabama...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

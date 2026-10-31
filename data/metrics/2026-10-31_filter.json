@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 93,
+  "gate2_fail": 36,
+  "passed": 14,
+  "gate2_samples": [
+    "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+    "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - Air Products",
+    "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+    "Defence industry bets on hydrogen? Rheinmetall, Nel ASA, SFC Energy and HPQ Silicon aim to benefit -",
+    "ITM Power Plc (ITM.L) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

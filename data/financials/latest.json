@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:40:27.542861Z",
+  "updated_at": "2026-10-31T13:59:18.826796Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "林德",
       "ticker": "LIN",
       "currency": "USD",
-      "ar": 5632000000,
-      "ar_prev": 5321000000,
-      "ar_qoq": "+6%",
+      "ar": 5595000000,
+      "ar_prev": 5632000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 2122000000,
-      "inv_prev": 2079000000,
-      "inv_qoq": "+2%",
+      "inventory": 2129000000,
+      "inv_prev": 2122000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "nel",
