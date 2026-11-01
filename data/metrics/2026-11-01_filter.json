@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 90,
+  "gate2_fail": 39,
+  "passed": 14,
+  "gate2_samples": [
+    "Air Products And Chemicals (APD) Appoints Two Group Presidents - Yahoo Finance",
+    "Air Products names two group presidents - Pennsylvania Business Report -",
+    "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+    "ITM Power Plc (ITM.L) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "REG - ITM Power PLC - Vesting of option awards - TradingView"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:36:13.059182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals, Inc. (APD) - Milk Road",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzYjdkSUNienk1TzB3YUFBZS00YllwdVI5OVBWS1lZdWtUTHdFb1AtWHpoTGJzWXNYMXNHM0JJVlYta2VrQWUw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-11-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA stock: Q3 orders jump as revenue falls 63 percent - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXNOc2RQRzZpaEhKdTVEcWRya3BuZVVPQmV3a2ZfTGx3RDFPRTJFMGlxdkcyTExxWGZOUU5tRWs5d2ptNFBic0hEbVVRUWsyMVQyaG5NejUtTEFuLW13Z0dPSjJXSno2ZXozNHVfZjhCNlMtYnBBRTFHRTBUeWM0Yk9pcFR6dnJGYnl3aHFMVUE5WFcwS0g4cGVJZXktbXR0ZmZBbHlzYVAwN0ROVDNneUw0cnA1VFRnb2hJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-11-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Swells as Revenue Dwindles — and a Leadership Handover Looms - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUTZNT185Y2tXaERTZy0yVnZtNUF1cHZzWGFqTzRwdFY0UHZHYVFHODNVZC1TLS1ORzVZSU4wNGFZel95V211N2pJQzJQRGNfMko1ZFZhVWRyUV9PZ19yUDFWeFFPY2w5czNfeUt5TXk1OGJQdk5sQzdsREJ0NUNIVDFOR1VHZm5iQ1hrdUFrRFhWOGVvblozWlFDOEpkS2JGeWtNSmx2VDdOTVloazFBeFhUZV9aU3FwRVBhTGd2NjdnazJwWEd3T0xDY01ILU5TTVIycUJPSDh1cmVnRC1Ecy1GVFo5UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Builds for 1 GW While Its Alkaline Revenue Dwindles to NOK 23 Million - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRHpfWHN3OXdsVzFPalNwMDNrRUV1aTdDN3FoV053Vkxua0paRDR3c21rNmpZYWpPZUFnMzFjNW1kakhZU3pMQlBIUngzRXlTZXdBZi1OeGhRUm5aeTRORjlkeFhQSWVMMVVmVFRRcE1VYUtTa2hZa0o3cHhSSnY3RnkwRzVJTmJRZHl5S1dNWXpVQW92Z3ZkVmZ0NkJIcGEtakhrd3dLd3hhVzBLVGVtaGlQWGJxRGMyVDN2VFpiSWlHODIwdjlJRU9sQnVfNFB2a1VFT0JrUlFOQnUyckhKcWctVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-11-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Triples While Revenue Shrinks 63% — and a New CEO Inherits the Gap - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0JBRzdNeE5CQkN5aGNLaXA0UmV5Vm1uc19DX3M0TkkxS0VxYkxQVENhS1o5a0V0a0RkNnVHSVNGeGppSFliS1MtSFctMHRNWXgzekpQcUNTWnJ6ZmRUSU8wTE5WTFhnQ0hlZHlrRGtXa0V6RXFPQ1UyT2EzSUlERTJuNk5obmNEN2Iya2N1UmVndkp4d2xJXzF0bGxYRjMyS2g1bzdjbUlxakRmamdoX3diZWllQ3FSNHpkTUdBYU42YmROdjBTcTV2dFlkaExySnlmMlFVTm01RjVCMjNKd3ZGVzh3a2toMVJBbg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nel",
+        "count": 7
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 102,
+    "too_old": 106,
+    "gate1_blocked": 90,
+    "gate2_blocked": 39,
+    "passed": 14,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Air Products And Chemicals (APD) Appoints Two Group Presidents - Yahoo Finance",
+      "Air Products names two group presidents - Pennsylvania Business Report -",
+      "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+      "ITM Power Plc (ITM.L) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "REG - ITM Power PLC - Vesting of option awards - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Nel ASA、Air Products、現代汽車相關動態：「Air Products & Chemicals, Inc. (APD) - Milk Road」。主要關注主題為電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Air Products & Chemicals, Inc. (APD) - Milk Road",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA stock: Q3 orders jump as revenue falls 63 percent - ad-hoc-news.de",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
