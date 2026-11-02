@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:31:54.456294Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-02-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor October Global Sales Decline 6.3% - marketscreener.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdE1aV3BrMUVtX0ZoTEs5SWtpRHptS1RJVGtSN0U3VVY5Q1FGU0JwYV9zUzA1aktESGtua2pSYVN3OFlISVlmZGRCU3FjcGN3SHlPOUQ0Tnlya3QzV1ZIeW5Zay15ejZlbzA4X2d2eTQ4UURvTFNVOV93LS1pRklwNnBidi0yODZTWTVFQzltY0RqeWpkY2hIc2Izd09Ic0c1?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Analyst Projections for Key Metrics Reveal About Air Products and Chemicals (APD) Q4 Earnings - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVJQbjllOWhFQXBYYTRzZ3hpZTF6MVcyRVhteEV3SENyNkNWSkhQUmxQb0gzcWpiU1hIMHpTcnYzWmZmc0trMkFaYVRQM1BBeE5XWEVjcGxGM0FlQkVUS3BweGxNenJMMlZJVjV6dmRJZW53dVJ2Z0JMZFI0V05FSXBxM09HUkY1QnZ3T0hTdlpRcTA4VUJNVWpGX2x2VTh1aEQ4Tktn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-11-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DMWF Spotlight: Less content, more impact: How Siemens Energy steers global communications with Scompler - Marketing Tech News",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQXzJ2Z0pGeHgyZ3ZvSUgyWVZvUWt6TTY4b2RjcEhJS1EtamFvazdfd2RCVVZLUnB2YVI4bXNuX3B4OUVpemVVRjJmUE9oSHhYdTNVUmJsUktGRkZtdjY4SGh6dkt0WlF3VjBUMEVNZGNCQWxxNlRodHY1Z0V0enp6WnEzZ0NGM3AwV1ZvejBwemRNdTE0MFFIZ0ZKOVNjcUZ6UWFYcHhKbUJ1U0tidEw0Wk5WYVp2azV3bnFNVFowdml2Szc5MmdMY1lHbnlYV0FyZVdEREM2WnI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai sales fall 6.3% in October as demand slows globally - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWRGcUZoNzdXQ2w3X3Y4VmNMcXJBOUVlalVMWjAtV25GRjdqTXNHTDllYlZGYV84QzBaX2VMTGs2eGlqRjdoTlhHbzk4TzR6N1BnU01lU0xjYXdKTm9nN3NXMWxJRG95R1huT2lhWGVSSGhlVzB2OHZsN0h4VGNfZlpGb2EwQ2hzMzYzbVFMZ2NoaG9Wa1ZZSWxEa1JmbC1fancwTDZTdjVYeHRzR3FV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai's Genesis production halted amid dispute over new models - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GQ1dJdnlWNDA0WEItd0Ztd3VSRTByMW14S0FpS2hpUzBPRUdycjZHNE1kQkFHbHlpVTFNRTM1ZDVpVnNKYkNlRURCMnduVlFrSS1xeHQwYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 96,
+    "too_old": 110,
+    "gate1_blocked": 94,
+    "gate2_blocked": 34,
+    "passed": 17,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+      "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents - Air Products",
+      "Air Products And Chemicals (APD) Names New Group Presidents, Is It Still Undervalued? - Simply Wall ",
+      "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+      "Nel ASA (NEL.OL) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Hyundai Motor October Global Sales Decline 6.3% - markets...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor October Global Sales Decline 6.3% - marketscreener.com",
+        "level": "green"
+      },
+      {
+        "text": "What Analyst Projections for Key Metrics Reveal About Air Products and Chemic...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
