@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:34:17.155597Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nov. U.S. auto sales: Hyundai, Kia ride hybrids, retail demand to October gains - Automotive News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JNDdNam51VDJaOVFQWnRjaS15a1JRX28zMW44bWZQazRCOU9HQTZWczQzUzMyM3MtanVYTS1BWTlNZ1daNzktVUI5by13RDNGdmxybjhXc1NZNFBObjRjMTdiRGYwNk9rbHhJSlVwTm5aVWJNRGVxcFBhdVczdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai invests $450 million in Alabama plant for future SUV and EREV production - CBT News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81Qzc1cmduWkdUdW0yVWFqd2ZJX2lkVEdTeFZkYlVvZzZyVWZWVmhKVlJmTFJPRHJ1RHpONTNfb2pNRDRZeGRYV2lfWnNaWHdoYmJfWmNPbEdNUHRSOXBsUjM0azdWdjJveGdFSlQ4WXU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Expands EV Market Share - Businesskorea",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PU0FKeGJ4OTBiT3M5YzUzb1JMZXdCZlF4WHVyOGZxaHFWMDlzaDNCVTQtR0RrRFZZc3pvV1pPMXVLU1RnSWpPUGxEVkMwUW5aakhrOEFWMXYxX3JsN0M1aV9OV0VEVlg1YTEtcXNDRGZEV3Fa?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "POSCO Future M, Hyundai Motor Group explore Vietnam anode investment - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek1UZk4zSk9ycWFGaEpLaDlNY3oybE01MWpRaEFoMVNOVWlRZUpIU2ZyNWEzMWZtRndWUk85ekl1SGU5UGJobnNoRzdNeWo5YWlqSHVoMmZDdjdSSmIxZ0FBbl9PRGlUcTBjX1huZ0doVzNtdWt5ZVZ2SnhvSHZpVkdtOUE3c2hnZGtIcXdTOS1OenZNdl9ZRTZoeFBrWGpIbFlPSEMwWERsNzF5bkhiRTNnbUI3WVpqcFhMeF8yOVNId9IBxwFBVV95cUxOVy1pYzlKRWgwcXRFR1ZzT0ctdjBPdmpjTW1TNlNkVDR1U2l1WXBtOVA5aTVaZzhyQ3VTcmRlM0p2NUw2eHh4cV9zY1ZpblJwQnJfbF9pY3kweDJXZmotXzRnVHlobUFIb09KM1JJQ2NqcjFkUVlVYl9LSHZNcy1vNFItRTgwQkdLdnI0Zy1VRTh4dEc2R25lX3lJMHN6bkJXOGlMbmwxd2lWZWJRS000aWxidjNrbkFheDl3QUU2T2hXaVBmRVVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai announces new ‘Ioniq P’ EV for India - electrive.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUdzNllBQWg3cGFhcTY2SXhISmJhSE1ERUNRalZfSDFYNXFUOHpxZmtBMFFuRTRxeU9EMlh5RHlBYkdtTnA5dll2TXUtZnFjRTJCbzhnd3pIYlhxeG4wWXFGWjN6VVB2SHF6dldqNnIyWVM4R0FZZ0VBM0NUZmRYVUhfYjZDTzQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 98,
+    "too_old": 108,
+    "gate1_blocked": 95,
+    "gate2_blocked": 28,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+      "Air Products stock heads into fiscal fourth-quarter results - ad-hoc-news.de",
+      "D7GA Stock Price and Chart — SWB:D7GA - TradingView",
+      "Nel ASA (NEL.OL) Seasonal returns chart - Yahoo Finance Australia",
+      "Sat Out ITM Power's Rally? Here Is What Holders Saw - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為現代汽車相關動態：「Nov. U.S. auto sales: Hyundai, Kia ride hybrids, retail d...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nov. U.S. auto sales: Hyundai, Kia ride hybrids, retail demand to October gai...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai invests $450 million in Alabama plant for future SUV and EREV product...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

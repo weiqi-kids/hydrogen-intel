@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 95,
+  "gate2_fail": 28,
+  "passed": 21,
+  "gate2_samples": [
+    "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+    "Air Products stock heads into fiscal fourth-quarter results - ad-hoc-news.de",
+    "D7GA Stock Price and Chart — SWB:D7GA - TradingView",
+    "Nel ASA (NEL.OL) Seasonal returns chart - Yahoo Finance Australia",
+    "Sat Out ITM Power's Rally? Here Is What Holders Saw - Yahoo Finance"
+  ]
+}
