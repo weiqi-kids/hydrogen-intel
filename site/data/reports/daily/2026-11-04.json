@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:51:09.087884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-04-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor America posts record October sales on hybrid, SUV demand - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3hpQ2FjRnhnT2FTSHhXTGk0c2l4Zmh6TF9yQnZQaG9Eb1FhTVg1d3pmeXdTM0ZDNkNmUW1WSDRjbTM2YTc3dW9HakRHdllZTFRqV2laSnNqZ0luZ3hYb1R0eHhUZXQzVHpLRVdwMmpaQXpCcXBoV3hhM0ZVcWV6SXlYVXlkMWhnUnd5UkFzYXZjeGJhd2duTHU5OFE4bmlBdk1WZXpHdmdUSkozbWNFR2Z0Nk9NVFlzbF9yVGh6dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products stock heads into fiscal fourth-quarter update - ad-hoc-news.de",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNk0yQ3BwZWN2N0l6aE1zQzljWWtHVGlWWGJMN2ZITUdRQ2duWlRIdjJ1NFNXYnJSa2hLQXJ4U1hHUXFuSnFDSklhRnNmRWM2alRSWmtjeTJFQkUzcVJvYkwwRW8teW45TmtSelJOaU1HanhjWWQ5N3BkZFNfa0JPZW9Pd0tRVDVTMGxrdFJkc0daZ0RUdHg2TW9ZNHg2QXpPellVdHdYczItVldHd2dUVm14TmtYR1ROeFczTnNR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-11-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Ties Incoming CEO's Pay to Equity as Revenue Collapse Sets the Real Test - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMER6NmlfWmIxaDFTWGJZSzE2S2lmaEwzRGc3dFd3RTlwMG5yRk5HbF9OT0ZGZmJmVlJUWDNWUjE4Y2t1Mnc3X1A0Y2ozLWhHVW1mOEdKakZCWVJVM0NYQlMzU2I0WTdXOFJzVnJVVS1MSWdPeVh4TWdNaEJBSVNna05zeDZEeHFsV3BLelBWRWZYSUF3Vm10UU85N25xUk9nTzRHbXA4TDl0UEJPVUlHbDBaeklPQ1JEcS1pTGNXbC1UdUVteDhGa1htWlR5dk82aHpZWmx5cGEwQUZJZHFKdWN0SWJWYmM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nel-2026-11-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA's Order Book Is Growing, but Its Income Statement Has Yet to Notice - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGVPT1FXTzZsTzhZNHJDVkppQjRpby1tbk56Nm9wUUVpWXZVRTVNWmJtMXljWDNlc1psSkZLU2pkaTNrUEFoVnZzS1NTYTE4UWNZNW9UY2ZKMHBnNFVVRkNoRnlQdExQdkVQZFBOQzlLclBLRDBrMFJEVVdmYUNpeXVtcjViSHNPd1FFQ0EtVUNGYXpjZGF3cnZSWHV3eVN1SFl4SVZYVUZWZWJLMXFIVHd6R3hSUFRNSFQ4Wkw2YXZzUkdWeXVNTVZURldMamZuUG9oRXRINnBZTE1IU0NJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nel-2026-11-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA Pairs a 500 MW Herøya Build-Out With a Leadership Handover as Orders Outrun Billings - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcW1BX1Qyand2YmZzcmM1RnFIS1pGN3FteUtsSkliX0pYclB5Yk9CQ0pIYmJ0cnBzM0J1S0E3dThXZktyMmhUNG5GUHhRLVk4TC1uTl9NSDRnME5iQ2w1NnFjc01vbzktUkswVWZzckpOQ2N1cmtHSTZxVDRqMVh2cVd5eVl5dW9sTjJXUmkxZVRKOTI2V3ZYX004SEI2aGtDN1lEbm9OMUFyN1hPSE50RlZ3UUxFeGFUaEJ4amw3TVlBaEwtTDQyQ0FFOG5BeDAxYlhCQV9kcldEQmFGUmhYQ0Y4cTJ5UWxISXlRWERtYTBoY3dZaXFv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "nel",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      },
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 82,
+    "too_old": 112,
+    "gate1_blocked": 94,
+    "gate2_blocked": 28,
+    "passed": 33,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+      "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+      "Air Products stock heads into fiscal fourth-quarter results - ad-hoc-news.de",
+      "Sat Out ITM Power's Rally? Here Is What Holders Saw - Yahoo Finance",
+      "BofA Keeps Siemens Energy at Buy on Positive Peer Read-across for Grid Business - www.marketscreener"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為現代汽車、Nel ASA、豐田相關動態：「Hyundai Motor America posts record October sales on hybri...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor America posts record October sales on hybrid, SUV demand - Kore...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products stock heads into fiscal fourth-quarter update - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

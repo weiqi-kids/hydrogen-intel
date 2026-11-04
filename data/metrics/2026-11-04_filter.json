@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 94,
+  "gate2_fail": 28,
+  "passed": 33,
+  "gate2_samples": [
+    "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+    "Air Products and Chemicals stock hits 52-week high at 315.38 USD - Investing.com",
+    "Air Products stock heads into fiscal fourth-quarter results - ad-hoc-news.de",
+    "Sat Out ITM Power's Rally? Here Is What Holders Saw - Yahoo Finance",
+    "BofA Keeps Siemens Energy at Buy on Positive Peer Read-across for Grid Business - www.marketscreener"
+  ]
+}
