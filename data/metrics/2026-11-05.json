@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-05",
+  "total_events": 36,
+  "by_company": {
+    "air_products": {
+      "count": 16,
+      "sentiment_avg": 0.12
+    },
+    "nel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    }
+  },
+  "by_topic": {
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "green_hydrogen_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

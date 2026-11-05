@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:53:40.328773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-11-05-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Air Products and Chemicals (APD) Surpasses Q4 Earnings and Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWNBU0pyU1d1WG1VZk1FWWswb216Wm55SW56NkYzXzlDcWxIckl6UVQ3YjJYUnBuY0R1Z1JRdmVsUnQ1UjVMaHR5TS1qZlliU2ZLblQxUkE0Ti1Qa1NyZ1hXZ3B2aVVaNFE3cUJOb1BjRGd4Vjh0MnlSRTNmNzhGanBoVFZVdTFCLV9LNjJkS0tUS0ltdm9DZG55V25jUzFBXzlV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products gains in premarket trading as FY27 earnings outlook tops estimates - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZyU1dFdlB2c2g3M185RFBjMTJHbm1hZFlabVo3ZlhoQzJfQjRnelE1cmwtRGJiWXNHNlNGLXI3N3FRRFlsdU4zSWdkaHd1Qjd6OEpzalo2NF85ZV9Wd2VJbFktcnFEV0xTUk9GSHk1U1dQbWUzOHR1S0RBdV82LUphZ2RUWEhHajZ3aHlPNzh1Z0RfNjYyWENFS2V1Nk9wOHJN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "air_products-2026-11-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products (APD) Q4 2026: Revenue Beats by 6.6% as Management Guides 2027 EPS Growth - 24/7 Wall St.",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSExwVFVvcVM1dng3ZlpSRzZfN2V4cDI0Q3hPVmt3aHlTaURNTkFwTjRxMWhyc0dIS1RqRVcwNmkzYTlhWGcwSGdTdHZkV0pvU3RrLVRDOTdKb194QWhobF9UN2FrTmt1aHNadDducnd6VFZoaFlvckRuNW9jVTZFTzBRa2JHTEJPSjNnOUxWMlF6ekRyMEhaWWlWQ3liNklyNWpPZQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "air_products-2026-11-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products & Chemicals Q4 2026 Earnings Call Transcript - Benzinga",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVlDb1hyckZvQzNBMk1TSmpkS1gtazlKbWRISEI4WVR5VlZXSUhfaktLWFpDYnBidkxId0YySHV3SUVOelA5UDBVRDNNdVNEdklqQ2ZyNkpEbFNBbUw0QW02ajY2RTEzOEM1SzJEc2p0c3gxLWc4WTlwNGxiNEFiQ2U1b1ZZZWphU2t3R3U2X3RuWDJqZVBraklUd0RRU2IzV0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "air_products-2026-11-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products and Chemicals Reports Q4 FY2026 Results: Adjusted E - GuruFocus",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajlVaXg4WHVRVno4SEx1eEl1UGI1UGJGTE1OQ2dyNXVhYlV5UTEtS2txTnd3WlVyZVhhZk1kNUNCVXZPMUVINnRHYmY1ZjVlZ0V5NS1OSjFFRU1HR0NLX28zOEZGSi1ZbWtZOThsbDdPMlVUS2huNjFHbHBkcjZhSHhYc01laXFTZFdnZjNOVWdCWFBKeHdvTEFCWC1KS0hwTUE0QmRtYkFQeE9KZExobFN6WUNpZ0EyV3ZrNnBITlZ3TmZmMVZhYjFsMHUwTGgza2VxRjZ5T3BqX01jTjN1dTNDUnMyWWUtdGhkTmFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 16
+      },
+      {
+        "id": "toyota",
+        "count": 15
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 79,
+    "too_old": 106,
+    "gate1_blocked": 94,
+    "gate2_blocked": 22,
+    "passed": 49,
+    "pass_rate": "18.1%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Linde eyes full Beaumont hydrogen output in 2028 as Woodside seeks to sell down - gasworld",
+      "Air Products exits two Chinese coal gasification projects - gasworld",
+      "Air Products and Chemicals (APD) Reports Q4 Results, Highlights Mixed Signals Amid Loss-Making Statu",
+      "Air Products & Chemicals : News CenterAir Products Reports Fiscal 2026 Fourth Quarter Results - www.",
+      "Sat Out ITM Power's Rally? Here Is What Holders Saw - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為Air Products、豐田、現代汽車相關動態：「Air Products and Chemicals (APD) Surpasses Q4 Earnings an...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Air Products and Chemicals (APD) Surpasses Q4 Earnings and Revenue Estimates ...",
+        "level": "green"
+      },
+      {
+        "text": "Air Products gains in premarket trading as FY27 earnings outlook tops estimat...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
