@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 91,
+  "gate2_fail": 18,
+  "passed": 30,
+  "gate2_samples": [
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "RBC Raises Price Target on Air Products & Chemicals to $359 From $346, Keeps Outperform Rating - mar",
+    "Air Products exits two Chinese coal gasification projects - gasworld",
+    "Siemens Energy: Middle East power push straining gas turbine supply - Arab News",
+    "Energy security is now national security, Siemens Energy regional president says - thenationalnews.c"
+  ]
+}
