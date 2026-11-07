@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 90,
+  "gate2_fail": 24,
+  "passed": 16,
+  "gate2_samples": [
+    "We Expect More Disciplined Capital Allocation From Air Products' New Management - Morningstar",
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "Siemens Energy AG (ENR.F) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "Siemens Energy: Middle East power push straining gas turbine supply - Arab News",
+    "JPMorgan keeps Siemens Energy at 'Overweight' - target €245 - www.marketscreener.com"
+  ]
+}

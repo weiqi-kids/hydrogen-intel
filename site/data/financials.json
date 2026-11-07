@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:28:04.899160Z",
+  "updated_at": "2026-11-07T14:29:52.868653Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "康明斯",
       "ticker": "CMI",
       "currency": "USD",
-      "ar": 6528000000,
-      "ar_prev": 5818000000,
-      "ar_qoq": "+12%",
+      "ar": 6638000000,
+      "ar_prev": 6528000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 6126000000,
-      "inv_prev": 5822000000,
-      "inv_qoq": "+5%",
+      "inventory": 6811000000,
+      "inv_prev": 6126000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "fuelcell",
@@ -228,17 +228,17 @@
       "name": "豐田",
       "ticker": "7203.T",
       "currency": "JPY",
-      "ar": 18105982000000,
-      "ar_prev": 15561191000000,
-      "ar_qoq": "+16%",
+      "ar": 17795473000000,
+      "ar_prev": 18105982000000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 5469806000000,
-      "inv_prev": 5134996000000,
-      "inv_qoq": "+7%",
+      "inventory": 5502113000000,
+      "inv_prev": 5469806000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
