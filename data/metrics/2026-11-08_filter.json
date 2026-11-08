@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 90,
+  "gate2_fail": 16,
+  "passed": 16,
+  "gate2_samples": [
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "Siemens Energy: Middle East power push straining gas turbine supply - Arab News",
+    "JPMorgan keeps Siemens Energy at 'Overweight' - target €245 - www.marketscreener.com",
+    "Bernstein Recommends Siemens, Siemens Energy, and Schneider Elec - GuruFocus",
+    "Energy security is now national security, Siemens Energy regional president says - thenationalnews.c"
+  ]
+}
