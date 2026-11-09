@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:55:52.707405Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-09-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor Group, Air Liquide to Cooperate in China’s Hydrogen Mobility Market - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "hyundai",
+        "air_liquide"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4cEVKekJjV0pQMExzR1FMNkVVVS1DTTVKbkN4bWJhTHNiZTZqZ055RTFZTnFfTDE1WWtqSFZQZnZwSXk2ZXY3N2Y2b0hHY1l1ZXlwRXdieG00bmhIbWRMNHJlb0R0TTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-11-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FILE PHOTO: Gas turbine at Siemens Energy in Berlin - The Daily News | Texas' Oldest Newspaper",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQejdTM19UYVdTaEU0S3FSX3MtYkVOV2dVN2lRQXlob2hfVndVcE1yc1RJVXo1ZnNJYVlueXAwMnRJbGQtdGhleE9TMExRbmlIR1dCZTNzRENmNWRFYmdqRGN5dGhGeS0wc3FpZVFxRjUycGtUSEo4UURfdHlUQVhOMzJ1d0k1elNKdjNZQW9tM0FrYWlfX09WVUN5aDAwUzA4elZ0cDVyM1dHY19BUjNXM2YyMkN0bnU0RFhfZEJmalBxNjBKZXk4dXhGUS03SlFSSVI2WUo0enZqdmNndnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-11-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RBC Thinks Siemens Energy Has Room For A Big Buyback - Finimize",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjU1ZkwySFpET0s2NVBjY0JhV05wMTFjUHBpbVEzVExlNTkyMUlqMzh3ZW5zOGxQaU1mSlJvUDhkQ2NETVRBZmpmX3p3RXVIUEdWckFTUTNnMWw0QVlSaW41TElNYm03VVZwNklndFYydzJVOGJvV1poVUFqaDN1Vksya2I4VDRX?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-11-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AIQ and Siemens Energy announce collaboration to advance autonomous digital capabilities for energy and process industries - Zawya",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTFZ2c3V6WUtmNi1jS2IzZ244VGdiallCRDNIcnpwb2tRZjMwU01QYXBMOTZkUkYtYmFKVk9Ob3pfSkd3LVBnNDI0d3lIMXJEODRVSE8zcjVZTXJFNUN0YmxybkJfQlBmcmRiMkt4X2JWZjdkcDU5bjFVQkRyTWw4QVdIX2IwOWRJYk9hVUtyZmdCWGpCc2ZBMkR3NE1Vb3FaZTc2WWxjVE5ZanZHWEN5UkgzUzRZR3V2YndwcGExMU5jRE9kakVMQ1ZMT0txT0hFeXpGZjR1eHFZMnZpSHFnWTU1T3NYTXVXb29NT096LXJTS0dienl1S0Zacm1UZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-11-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RBC Forecasts 'Strong' Fiscal Q4 for Siemens Energy, In-line Midterm Guidance - www.marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWhOUWtvVDgycXdfMmdYZDNxQ3hlS2d3Z1NtX0RjRUw1WV9DaEZiSGppb3JqWGNtVzBDQVhMQnpwUmRfZDBuZ29naTY5MDVDUUdTQ2RqLVdrbWw0cVUwMFppT0pOQk4zUHUtTjVRQVdiNVQ5NWZxWUN4VDQ1SnFydm0wZzBjZ09UeUktMk9OekdoT3UtSnBubXdhdS1aNG9LdHU3cjM5S2w0ZGhUeU5nZFkxM1FZMjhKa1dWYVNBNTIyUjdZRXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 2
+      },
+      {
+        "id": "air_liquide",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 88,
+    "too_old": 115,
+    "gate1_blocked": 98,
+    "gate2_blocked": 23,
+    "passed": 27,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+      "Where Does Air Products And Chemicals (APD) Valuation Sit On Its Latest Results? - Simply Wall St",
+      "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance",
+      "Siemens Energy AG : Bernstein maintains a Buy rating - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為現代汽車、西門子能源、thyssenkrupp nucera相關動態：「Hyundai Motor Group, Air Liquide to Cooperate in China’s ...」。主要關注主題為電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Group, Air Liquide to Cooperate in China’s Hydrogen Mobility Ma...",
+        "level": "red"
+      },
+      {
+        "text": "FILE PHOTO: Gas turbine at Siemens Energy in Berlin - The Daily News | Texas'...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

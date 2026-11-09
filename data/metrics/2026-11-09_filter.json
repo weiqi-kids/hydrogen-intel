@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 88,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 98,
+  "gate2_fail": 23,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "Where Does Air Products And Chemicals (APD) Valuation Sit On Its Latest Results? - Simply Wall St",
+    "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance",
+    "Siemens Energy AG : Bernstein maintains a Buy rating - www.marketscreener.com"
+  ]
+}
