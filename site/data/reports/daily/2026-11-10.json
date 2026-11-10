@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:54:43.164151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "plug_power-2026-11-10-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Plug Power Q3 2026: $201M Revenue, Record Low Cash Usage - Fuel Cells Works",
+      "companies": [
+        "plug_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUFJXcWw3RzM3N25qYzk2dUhjSHZWZFRadzBfTWU4NV9rN1pRdExZT2s1WnJkUEs1SF9CSGQxQXQ2ajdSNGd5ZU5meEt3anA0R25US1NSZHptZ255Rml3RDdLeTNpS0dsYVNJb2dvUk02a0k2Z0NMM3pqT3J2NXYwUUpMYWxFV1ZMWlREN0JwUlJncHJKazA1WC1UTkZLaDNUTWZLNFJSQlVBc1M2SDVINDQzR2d1RjducmdMdE9wSHgxdnlFLXFUa3hsX3ktaDJ6Z3E0Nm5UN2E0eWpCbWZCSjdld2VJd1gzT2s4ZE00dWlTWVlKODk5RlY2ZnAxZ1BiajhPOU9xUTRfcnBNVk5sRmR3MllwVWd5Zldqd2J5T0lvREJzc281MjB6bjN3SWtWaEpzQmF1Y1RUUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nel-2026-11-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA stock trades at 0.19 euros in Tuesday midday session - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkwxQ0xtLWtwd3VZY3J4VHNsZmlNZW9Eczd6Y1VxNkRzQ1BZX0NwZHpYd0R4T1JwWFZ5a0hSYndtV2h6WXhTV3FkejFyTDlkMUMyR29xVXBWZENvci1pbXVMZ2ZpNDkwdUhCTklETFVBVGhYcnp6RmZObVZLcThud1F0Z0VGNkxrMFI2ejczcmNzV0VBRmdtNjNlTFhjRVUyNlpMMjQwdkJDTkV3NEtWa3ozdklkckhiQzRiQW5yS18?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-11-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Transition Industries Signs Definitive EPC Agreement with Siemens Energy and Techint E&C for Pacifico Mexinol 210 MW Electrolyzer Facility - Hydrogen Central",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNa3RuZlZYY0RaY2lsUWowb3EzUnRkNnFzbEdKQ21iWXIwNFQwbzRFRzNpWFhPZlZCaEFrNzRoY1NHNnF3R09wUXdKSUVncWh3QmthOGFqdmd6Z2l4RHZ2WUdVZUhGREljcEdRVDVGQjJrVWdrS2x3S1JZWmQ5Znl4cUJHXzhNSVZxRXhJd0x6SHN1dG81X3gzY01SYndJUzVNQzM5eXgwVjF6SjNhMFBPTl9ZQnMwb3RMS05jMkhtSHBSMm00M1ZCU2g0ZDFVbldCUVdzT3UwYVFoenVkS3g2VGc3NGpWTXhrTXJKVTZfZV9sZlNFcmtONmpQTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-11-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AIQ and Siemens Energy sign deal to build autonomous operations offering around RoboWell - Oil & Gas Middle East",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Yc0o5RC0tNEF2SE1FYUJmSWpic3ItX0R5X3BpLXFuRm93Z1p5bjVEN0Nrc1JrZEdrVzdYdXRZMlJfYWFJNGNOWVVHb3ByUmRBbDdXMk1OT0ZxYXlKQnVaZ09mVGFHLUxrZEg1STBTQ2VTN1FTNXB0WkN3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Genesis launches GV90, Hyundai Motor Group's first car priced over 200 million won - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWjhlMFpoYjNYTkhWZndVaUJjdWVma1cxekRwTkFPMGJfeGttdjBKYUtZa3hlSi1rbFMxZ1F1am5OTkVoWTJfTkFwbUk1STl1ZTBORzFabGNUSmpOUWF1QXZEbGxyTDVkSFY4OXZ4N2l3Y20wUUFRS0l3UENaX0hBVnlQRGtGZ1N2Zk5WT01QWXo5Mkl1bGZZZkg0SE9qUUFSbC1icnF2dWlQb2VCWlY1bGpDSDFfdDBHS1ZMR2F4ajUzWk00cDFkdzBSQklPUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      },
+      {
+        "id": "nel",
+        "count": 1
+      },
+      {
+        "id": "air_liquide",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 89,
+    "too_old": 113,
+    "gate1_blocked": 96,
+    "gate2_blocked": 30,
+    "passed": 24,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "BofA Securities Adjusts Price Target on Air Products and Chemicals to $335 From $314 - marketscreene",
+      "Citigroup maintains Air Products at Neutral, raises price target to $335 from $312 - TradingView",
+      "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - The Twelfth M",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為現代汽車、西門子能源、Nel ASA相關動態：「Plug Power Q3 2026: $201M Revenue, Record Low Cash Usage ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Plug Power Q3 2026: $201M Revenue, Record Low Cash Usage - Fuel Cells Works",
+        "level": "green"
+      },
+      {
+        "text": "Nel ASA stock trades at 0.19 euros in Tuesday midday session - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

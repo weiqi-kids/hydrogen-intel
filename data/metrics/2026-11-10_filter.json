@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 96,
+  "gate2_fail": 30,
+  "passed": 24,
+  "gate2_samples": [
+    "BofA Securities Adjusts Price Target on Air Products and Chemicals to $335 From $314 - marketscreene",
+    "Citigroup maintains Air Products at Neutral, raises price target to $335 from $312 - TradingView",
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - The Twelfth M",
+    "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance"
+  ]
+}
