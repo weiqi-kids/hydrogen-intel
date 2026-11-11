@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:54:38.459089Z",
+  "updated_at": "2026-11-11T15:41:49.718022Z",
   "quarter": "2025-12-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "Plug Power",
       "ticker": "PLUG",
       "currency": "USD",
-      "ar": 125861000,
-      "ar_prev": 106511000,
-      "ar_qoq": "+18%",
+      "ar": 170145000,
+      "ar_prev": 125861000,
+      "ar_qoq": "+35%",
       "ar_period": "QoQ",
-      "inventory": 493445000,
-      "inv_prev": 516153000,
+      "inventory": 472426000,
+      "inv_prev": 493445000,
       "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "siemens_energy",

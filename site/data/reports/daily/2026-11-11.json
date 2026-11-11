@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:41:54.166468Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_liquide-2026-11-11-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor Signs Non-Binding Agreement with Air Liquide to Jointly Develop Hydrogen Mobility Applications in China - Shanghai Metals Market",
+      "companies": [
+        "air_liquide",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcmJmX2RkdldpdGlqeUxoQzA1LUNPY2RpcWNYS1FiZlVfU0ZTVDFUTTB3Z212dUZ0VmJvR3hmTWI4c0o0Uy1Zanh1bDlmbFphY09XaHVKd2tlUUx0dnRnc1B6MTdrRzRya2RqZnhWekZUZDVKdXRoaVJjckFiZDNSQWNUMGlqU0QtaGNFUEtpWEJqQWUyYUg1M3JGcGh5YzVRWU0xNFZmM3VCdlRYMXBrenhXRUtSeU84SjUzNlFsVDZhbGR4MjVMeFNPZGlmVE1WRzV1ckx1cFdPR2g5b0J4UUFObzZmWUhNTzlKOEFldktwYzk3RWI4UVBYYklGWnR0Q3ZaT0VQaV83LXYxaXZzRXFpWEgxVXhTVEhWbg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-11-11-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy More Than Triples Dividend After Record Year - Crude Oil Prices Today | OilPrice.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG1xWUlCcHVNdUs1dWRQMnVwRkxwTDcwQVVaWGdVR0pGb3lodjY1X1FPbXpVODNWOTZnRDU4aTctZ0lJdW9MQVlQcG96ZG0xajNOeVJsTTRaNHM2RlI1TzNma195NnhmY3dCVzctQTAxa05QUE43Y2hjcEZ5dE1Qd1Y5RmctajBHdVN6eWRaTVpZUzVmbG5YSGZheVExc0JhR1B6bUpOQjc0LXk4bFRDX010bFg4d9IBuwFBVV95cUxQZjRZSzczMzFreFFxRk5IM19JQUg2cjdWUjdFZmhtaUZRSXNPeEJkN0VTdC1yODNfdXpFMTFvdzBOREtnMHk0bXlxM3R2V3Rseml2M0NVUGpaSlh0MGF4MnA2N3ZmUFBCeWZYSWZwb2dBSXZGZGlqSXFjOTZzZk5ZSXd5SGRPWUUtRXVrZWM2YU9peUhucGdGQnAwY0ZGc3RVaFhfRUk0c1d5RVNadG9OeXZMRnFqMjg3ZWRr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-11-11-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy jumps 7% as Q4 revenue hits record, dividend triples - Investing.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUMtTnpYeU1HSlpqSXp4NHR2N2cweTNaWGhvSTNKUTBzMGNoRmdVWnVXSXBnOU5naV9lSVRRT0s4eXJhT0lRNGZveFc0dDJXbzU5NEk2T2pfV3hIaFdtRG5lU09IYmhEV0UwRmx1R2JCelVsUkU0UEp1MTBVV01Vam9venNzcXRITFY3ZWUtbjVRZnJ1Q1hackJsU0RWaUJ0aDk0SWY4V1N5Z0R4RTJjWS0wZEtGUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-11-11-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy Shares Climb on 'Record' Fiscal 2026, New Midterm Targets - marketscreener.com",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejVTY19sNU9EeUZJWW1yeVloc3dwNHFLY0tHSUNsei01Z3RMaHRfVUI2VHZGSWpBY1k2cW56eXZzNG01aVRRbjJjbE5pajVhSlVCY3F2ZUx0TXRsb1UtZTl4RHU5RVc4OUpCb0xHUWI4LWw5aU5LUXhWSFVGWXlobzgtSzdmYlladTJBSUg1Zms1ME9peUNveWxUY1BFVWpoaWNtTXF3QjcwUDFhRm9hX0N5Q2ZoS2FCc0hPYU1Sbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-11-11-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy posts record €12.8B Q4 revenue - Breakingthenews.net",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODMwUjBYWGs0dk51dy1veFNpVS04V3kzSV9JazhCVkJHR2tPM1Ffencyc09RR01GZHZITi01ZFRCZ1h5ZEN1SklxNEwxd3dMYzllekV6ZkRPMnFya0FabGlvbWs4M28xZFJ0cGFCaFl2UlBTOF9ENUpNeWItM08wQUlhZVZoalB6TnZXaTlRN3lXODRTOEwtMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 14
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "air_liquide",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 77,
+    "too_old": 107,
+    "gate1_blocked": 94,
+    "gate2_blocked": 35,
+    "passed": 35,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "BofA Securities Adjusts Price Target on Air Products and Chemicals to $335 From $314 - marketscreene",
+      "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+      "Caught Out By Nel's Fall? Here's What The Bears Saw - Simply Wall St",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - The Twelfth M",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為西門子能源、現代汽車、Air Products相關動態：「Hyundai Motor Signs Non-Binding Agreement with Air Liquid...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Signs Non-Binding Agreement with Air Liquide to Jointly Develop...",
+        "level": "red"
+      },
+      {
+        "text": "Siemens Energy More Than Triples Dividend After Record Year - Crude Oil Price...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
