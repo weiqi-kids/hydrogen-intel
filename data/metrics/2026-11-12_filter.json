@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 85,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 91,
+  "gate2_fail": 34,
+  "passed": 27,
+  "gate2_samples": [
+    "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+    "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance",
+    "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+    "Europe's STOXX 600 Near Record High as Siemens Energy, CoreWeave Outlooks Lift Sentiment - U.S. News",
+    "Clearway Energy charts path around renewable tax credit cliff - Recharge News"
+  ]
+}

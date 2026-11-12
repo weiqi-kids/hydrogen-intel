@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:25:33.322005Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-11-12-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy AG (SMEGF) (Q4 2026) Earnings Call Highlights: Record Results, EUR164 Billion ... - Yahoo Finance Singapore",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGNXdDVYanRWeWtHVGJmcnFwVlFocDVheVZQbWtKa1Rjbk10R2drRGRRRGcyaXBGVnRvSGZkTmhCbjZJQnU4eG56Rm9FUFQ1eUFFRGxpZEFka0NSaEY5dllrZ0tlbW82NGVvdXZqVVg4QzVFa24xckNOVERST2I0TQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Plant Supervisor Stade – Air Products – Stade, Lower Saxony - energynews.pro",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mNHU2WUtKV2VPVUk2Z0o2a0VKQVA5bTRnZVk4RjdLLWFndXZ3bVlET2loYXRkSFk2cnZzd25INHJ3WDlwcVptWHA4QmotU3l3MlF1VXpGcmpKWFJjTHhpX3dOSE1ucDc4SngzR2o1SVBkajZzTG01a1RvbVo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nel-2026-11-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nel ASA stock trades at 0.19 euros in Thursday midday session - ad-hoc-news.de",
+      "companies": [
+        "nel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnNOd1lwMGUwS21BTjR1cVpNcUZvdGlDcmFlM29CMDQySWUwRG0wdkJVM1hiSWREUkRpaHpVTnFOTGNjME5qeHdKSk1kWXdEa2RINXZjLVgxZHhsRzNKdmdhUFpIYk1hV0tuUnZMZk5EM0p6NlN4eTI3bHFBS2lNRHBGdFk4dGJOUHQwRkxEYlRvQzdmeEdiWnJ4cGg5MzVVOG5kZGRBbFN5VnBaSXRaakpNQjhfcmp3dEVuNi1pM3R1UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siemens_energy-2026-11-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SSE selects Siemens Energy as preferred supplier for Berwick Bank B - Yahoo Finance",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQW1VNzJrb09rUUN6NTZPLWRJUVFwQXByUjM3RmpPcXhqUE5CM0k2VFRjaXhfUUd1S0UyWENLQlJFdjkzaENSOUw4Y3lIdHFBSjVWMXdYRFNVMVVwZUVqdDFtTkg2cmttN3U1LWZ1NHNIVXhYOHo3TXZ2eHFuM3RVZnBrSjJXRXU5MWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-11-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy CEO warns of workload gap without offshore wind FIDs - Wind Power Monthly",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVThpZGFRSlhmdUlSYVdsQTd5QmlCbHRqSHVwdlZtYWtMUGRDY2VYMDM0LUxSMzVBTDRZSU9xVlNrQ2dNV21mNHdkQXZNZW51UFQ0N2V1blpHZjdPWS1jd2VxQy0zanZSLTBYRThHMWtQWUc3NlgwQUF1dE91Um9tcWd0STBLMFN2NU1QSGcwVm53NjVtUTh4c1hmSmxXaExvSDF0amhXZ0lxbjV3ZTFsX2tuZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "siemens_energy",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "nel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 85,
+    "too_old": 110,
+    "gate1_blocked": 91,
+    "gate2_blocked": 34,
+    "passed": 27,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Air Products to spend $1.5bn closing out energy transition capex in 2027 - gasworld",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - Yahoo Finance",
+      "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+      "Europe's STOXX 600 Near Record High as Siemens Energy, CoreWeave Outlooks Lift Sentiment - U.S. News",
+      "Clearway Energy charts path around renewable tax credit cliff - Recharge News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為西門子能源、現代汽車、豐田相關動態：「Siemens Energy AG (SMEGF) (Q4 2026) Earnings Call Highlig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy AG (SMEGF) (Q4 2026) Earnings Call Highlights: Record Results,...",
+        "level": "green"
+      },
+      {
+        "text": "Plant Supervisor Stade – Air Products – Stade, Lower Saxony - energynews.pro",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

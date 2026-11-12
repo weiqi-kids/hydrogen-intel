@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:41:49.718022Z",
+  "updated_at": "2026-11-12T16:25:29.021228Z",
   "quarter": "2025-12-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "西門子能源",
       "ticker": "ENR.DE",
       "currency": "EUR",
-      "ar": 8313000000,
-      "ar_prev": 8237000000,
-      "ar_qoq": "+1%",
+      "ar": 8785000000,
+      "ar_prev": 8313000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 11996000000,
-      "inv_prev": 11407000000,
-      "inv_qoq": "+5%",
+      "inventory": 12076000000,
+      "inv_prev": 11996000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "thyssenkrupp_nucera",
