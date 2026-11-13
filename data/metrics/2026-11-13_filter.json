@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 87,
+  "gate2_fail": 28,
+  "passed": 30,
+  "gate2_samples": [
+    "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - The Twelfth M",
+    "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+    "Siemens Energy AG : Gets a Buy rating from Goldman Sachs - marketscreener.com",
+    "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+    "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Execution - News and Stati"
+  ]
+}
