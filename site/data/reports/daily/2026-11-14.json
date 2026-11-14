@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:37:07.003009Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-11-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Profit Return Might Change The Case For Investing In Air Products And Chemicals Stock (APD) - Yahoo Finance",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dUNHJfY2Y3b2ptXzM4SE5NUVFmeUJnTEFCUU1naHQ4Zk9CZS1yd1NlUGV3dzBvNzBxU19UVEtua3lWN3dCRktqcGw3ODNBc1VkWWpnNXg3RFdSZk5CcGN4eFdNOHFVeHhycmYySkxMU0dGdXJodmdaOHBrM2VSWGtCYXNxOC1LNy0xV0pPM1NvSlBTcXVkY0V4WHA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Puneet Anand Exits Hyundai Motor India After Nearly 29 Years - MediaNews4U",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVJvZjJ4Z3ZvUnlaSjB2cUtkYmJnTE1faThkMnhIV2lMM2lYVmlhUW1EV28xYm43anJyM3poVmFGVGhIZ0FmcHpQNGpEbGtqblRKeGwtQ01LQTVSOXZoTmpNRVAzeVhNd3lzMzFELWtiTzRYWkd1eE9mODJPQlJadnZyMjl4eDQ0dEUwVnNlTm0yTG8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai – fuel cell vehicle sales in South Korea top 50,000 units - Hydrogen Central",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fuel_cell_vehicle"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWkyOHVZaEhXX244SEpld3FvdUM5RFNOVmxaZjE1MURnNFYxZ1Nja2xiRDlqQkNMWURpUU1OcnU1V21YWU5Sa3laa2pER2lNNUNqMzZXckZ4VXdiMDZ2VGh4N3ZlLUQxOVhEbklJZTNzdjBaQUowX3M4RXRxUWZVMzRMb2ZBbnR3QWltYUNBcDVyZktTMUo4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "End of an era: Puneet Anand walks out of Hyundai Motor India after nearly 29 years - Indian Television Dot Com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2czMFh3Z29jam1vOFAzblMwLVVnMVBkekg2RHlzaGtXMFc1VUVjVUxiQWdyTkNycTRqZnVLRjN0a2hkdjZoTmRROFJmU1NUd0hEaS1MRmZKc0MtcHljaUNIZzNPWWJ6ZWNaQklVUE9QVDNXOGZhMHVUT3REd0F2VDI3alh1V1VhTm5WRTVyYUFHR3J2RWtIcEEwM0pYMUVjZ2hqd1BmWk8zNG9qMkUwRlc0OHhDUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-11-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Tundra Recalled Again Over Another V6 Engine Problem - Autoblog",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0dJVWRISzY4YnZTcmk3R1dxRGdmTDRDczBMUEhRSkxCLVJSLXI2cnVaSkZHblV2aFVYc0IzNHJ1dFl0bUhHdkVUaXlBem1xc2MyTXdUbnNHQTNYQThwaE5GbWJIOGVqWEZWRGVFQ2R6d1lLZG9WSzVXTzJJM3ZMRTU1TXhHcW5FSGtabExzRGtEeWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fuel_cell_vehicle": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "fuel_cell_vehicle",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 96,
+    "too_old": 119,
+    "gate1_blocked": 83,
+    "gate2_blocked": 29,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook - Yahoo Finance",
+      "£500 buys 650 ITM Power shares, and 1 broker thinks the share price could rise 160%! - The Twelfth M",
+      "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+      "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+      "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Execution - News and Stati"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Profit Return Might Change The Case For Investing In Air ...」。主要關注主題為綠氫成本、燃料電池車，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Profit Return Might Change The Case For Investing In Air Products And Chemica...",
+        "level": "green"
+      },
+      {
+        "text": "Puneet Anand Exits Hyundai Motor India After Nearly 29 Years - MediaNews4U",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
