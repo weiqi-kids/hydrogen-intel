@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 86,
+  "gate2_fail": 32,
+  "passed": 13,
+  "gate2_samples": [
+    "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook - Yahoo Finance",
+    "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook - Simply Wall St",
+    "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+    "Europe’s STOXX 600 near record high as Siemens Energy, CoreWeave outlooks lift sentiment By Reuters ",
+    "Europe's STOXX 600 near record high as Siemens Energy, CoreWeave outlooks lift sentiment - TradingVi"
+  ]
+}

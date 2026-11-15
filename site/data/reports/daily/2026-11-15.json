@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:04:26.316886Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s auto export boom lifts Hyundai Glovis to record profit - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KUkdQYkZCSGRiV0UweE00VmJkekh5TU9fUFpORExtelFsZmxLZzNaUVJvWm5lSnNPNENHcWl4OGpGNzY0QTZiWVpnTUxPVlljWVg1UHExYVkzQVBsQXYwdlhSUVYyZmFIcTVR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group Website Wins 13 Awards at Home and Abroad - Seoul Economic Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDdoRjYzWWZRMVVfcU9IODZNSGlFdmtaQ3p5NENHaWtPVjVrTzY0MDNucWpDWXc3eVdPZDI4V2pHOXpuUlVndi1zZjhPa2hCQnBrZGxvY29RQkM4QS0yTkZCZkZOUkpDd2J4eVFwejFmMFJ4SDRBaExuTHdOZHdQcnRyckZ2WnRMSXpHS2RVWGlLQ1ZKNFI5Rk50R2gtZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 90,
+    "too_old": 131,
+    "gate1_blocked": 86,
+    "gate2_blocked": 32,
+    "passed": 13,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook - Yahoo Finance",
+      "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook - Simply Wall St",
+      "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+      "Europe’s STOXX 600 near record high as Siemens Energy, CoreWeave outlooks lift sentiment By Reuters ",
+      "Europe's STOXX 600 near record high as Siemens Energy, CoreWeave outlooks lift sentiment - TradingVi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為現代汽車相關動態：「China’s auto export boom lifts Hyundai Glovis to record p...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s auto export boom lifts Hyundai Glovis to record profit - KED Global",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Motor Group Website Wins 13 Awards at Home and Abroad - Seoul Economi...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
