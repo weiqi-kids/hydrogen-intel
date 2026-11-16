@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 87,
+  "gate2_fail": 31,
+  "passed": 23,
+  "gate2_samples": [
+    "Maintenance Planner - First Shift – Air Products – Saint-Louis, Missouri - energynews.pro",
+    "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+    "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+    "Siemens Energy AG : Berenberg gives a Buy rating - www.marketscreener.com",
+    "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Execution - News and Stati"
+  ]
+}

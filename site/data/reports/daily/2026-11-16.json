@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:38:04.411348Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-11-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy posts record year with €5.5 billion profit, targets 2030 growth - Utilities Middle East",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yY2p6a2FZNHpTRjQwNWx5NlkwSE56Y0o0Wll4X09wQUtwWkw5MW1UblF1WmdXNGZaZ1U4d0RFbWxvWUpITUxBazZiY0NhOERkT2pHcFN0WDU4dzk2MXhBNjBoZEltSEZIZVczcjNGbHgxQ0szakNz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Better Dividend Stock for Retirees: AT&T vs. Air Products and Chemicals - TIKR.com",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclpGaFp1V2xJSjBXVDk0Mi1fUUtOZW5HeGtqU0hrd0RqRUZqRUE1allYY2VnNFA4emNCc21ldEZHLW9nb2NGSHJKdmRWTG80LVBLYXd5eDRlZEhYNUNuSzNQMl9ud1l0ZTBvWENFQ1A1emRTaVFvZ1FZNzRRREkwUHVsZFFYYnZHUUNmaGN5cW9LUjE2RTh4a0Z3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-11-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK Stock Market News: Grafton, ITM Power, ME Group - The Armchair Trader",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWcWdUZjc5ZWQ1SUdvQU03ZVdVTjFUOFQ4WTc4YTNYeFNGUTNKQzlxdENEaHNOajY1OXJibU05TW5jWkFoOTBWQ1ljVmdreFZMM2x6SzJfaDE2MHJRamRqaFBpNWlrYlVoUVBoQ0VhRjBGS0tVbElmbGZ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-11-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Itm Power Regulatory News (ITM) - London South East",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWm9HVE82cldXZ0t5TzBUNjRybHRzTnRoNWdxQ2VOMmVWVndPYk12bWVTMndoZ2tLUmE3TW5QbTJ1bTJHNzduVHJSSGJHOFZrRndUV1gwbnBONUJQaUJFR1N3MEUwNENXUEtZa2FaX1h4M1lhUTl5TkhLZ1NablBQZDNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siemens_energy-2026-11-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Sees Siemens Energy Turning Cash Into Buybacks - Finimize",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVRyaTQxaFo3eUlnUXVVV05VMlpaVVlQSUlnMXZwbjZkRmJJVURWZ2xCbnhBcmE1cWx3ZnZ4SV9mN3E5dl9fUUR6eE5wV0ZuUHhBaEVyQVRvVndzN1g0TjVubGZ2NllWZkRsTmFJSjVYRnJuU093bmJQRWhkRFgxTFJjSG5kZUhfMnNTdDdn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "siemens_energy",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "itm_power",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 3
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 84,
+    "too_old": 122,
+    "gate1_blocked": 87,
+    "gate2_blocked": 31,
+    "passed": 23,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Maintenance Planner - First Shift – Air Products – Saint-Louis, Missouri - energynews.pro",
+      "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+      "Siemens Energy's Record Q3 Makes It AI's Power Backbone - The Futurum Group",
+      "Siemens Energy AG : Berenberg gives a Buy rating - www.marketscreener.com",
+      "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Execution - News and Stati"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Siemens Energy posts record year with €5.5 billion profit...」。主要關注主題為綠氫成本、電解槽產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens Energy posts record year with €5.5 billion profit, targets 2030 growt...",
+        "level": "green"
+      },
+      {
+        "text": "Better Dividend Stock for Retirees: AT&T vs. Air Products and Chemicals - TIK...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
