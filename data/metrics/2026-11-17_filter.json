@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 71,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 94,
+  "gate2_fail": 32,
+  "passed": 28,
+  "gate2_samples": [
+    "Berenberg Adjusts Price Target on Air Products and Chemicals to $365 From $355, Maintains Buy Rating",
+    "Siemens Energy AG : Bernstein reaffirms its Buy rating - www.marketscreener.com",
+    "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+    "Sexton: Siemens Energy could get $1.1 million in incentives. Why is nobody objecting? - Greensboro N",
+    "Siemens Energy AG : Berenberg gives a Buy rating - www.marketscreener.com"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:10:56.389604Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-17-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor plant utilization falls as global vehicle output declines - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWhnSFg0bTlJd21YQU9ycV9PQk1Qc0VvcmVDaVc5ejVSV0dtT0Jhc3lZY2o4ZnNURW5WUngyLXpYb0dTOG5JLTdrY0JKS05FNHo1Ti1feFNtWk92RUhuZ1BSNF9qRjFQR2Npd1BGcnhXalNGWVl1VGN4U3dsQjJVWFJzSTdocFM1RVZlRjcyX0FoV3NGanliUkk2LVg5M3BYTEFkR0FGdW9qT0xyTkh5XzhxWVNsdHMzU1FDOTg3cnk1Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy India falls 2.44% in Tuesday's session - Global Banking & Finance Review",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDJyU3FfTmRTYWlnY2N1V1JpeGpfMFBENDBJZkNKRHlzZ2gzNEpha1VEeHlia1NFQ0h6RkVIVmJvQXB3RVFlTEJubWtvMGZqYjA4bEFSY0tub0JKMzZEVERGRlllVWVCZXBBN21xaE1UTnA0ZTNzT1ZMZVdEM2JwZHQyMWkzaDlRSENVRmNZWno?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "siemens_energy-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SSE picks Siemens Energy as preferred supplier for 1.4GW Berwick Bank B offshore wind project - Utilities Middle East",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRlBmdS1ZelFOVUlZajU2VC1tX1RWamMwTlQ3cUtxMVBTdV9YNnNzYVVCZ1ZKM0lEa09sUmczNUMweDlodkluc1pZZ29HcVNGN29NUEZEN0gtUFJJV2h0c0JkcGJDSF9UcW9ZaUM3MVNrMTla?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "WeaveGrid and Hyundai Motor Group partner on US smart charging and V2G - electrive.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmtrWU0tbG9YVXk0SkFpWUFSN3FtYUozYXQ0UjVqS0pmbDR3QXVGUXhNQXV6eG9Qd3NCQXVzQ1FvNk5pWkpUSHBuU21sVjZhZlhHWndvUW5aWG5GSkJKdWQ5aG1MeWRORXNDeFJnazQ5SEkwVkZmWExvc0MtRTgybFZwUmlncUFEYm5PY1lPTWRwR0diVkp3bzVpTV93ZTZjX2NLU1FRMUw4MUZx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Confirms Next-Generation Elantra Is Coming To The US - Motor1.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZMm5pV1ZoNThLUnV3UDhiYXI3Mjl4TktrZF91M2g1cngzOFdKb196RE5WRkJJVFRxUmZSZ0xNVnhfbTJRTmUwVUg3SVFWOVQ5ZUpWVjJ1Ty1FaWJWcFI4SFdSZzBDMzBxQTU0cTQwbmZqbzA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "siemens_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 4
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 71,
+    "too_old": 123,
+    "gate1_blocked": 94,
+    "gate2_blocked": 32,
+    "passed": 28,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Berenberg Adjusts Price Target on Air Products and Chemicals to $365 From $355, Maintains Buy Rating",
+      "Siemens Energy AG : Bernstein reaffirms its Buy rating - www.marketscreener.com",
+      "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+      "Sexton: Siemens Energy could get $1.1 million in incentives. Why is nobody objecting? - Greensboro N",
+      "Siemens Energy AG : Berenberg gives a Buy rating - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為現代汽車、豐田、西門子能源相關動態：「Hyundai Motor plant utilization falls as global vehicle o...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor plant utilization falls as global vehicle output declines - Kor...",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy India falls 2.44% in Tuesday's session - Global Banking & Fina...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
