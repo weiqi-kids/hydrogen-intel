@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 91,
+  "gate2_fail": 32,
+  "passed": 23,
+  "gate2_samples": [
+    "Berenberg Adjusts Price Target on Air Products and Chemicals to $365 From $355, Maintains Buy Rating",
+    "Siemens Energy surges, 'MM' focuses on industrial division TI - marketscreener.com",
+    "Can Siemens Energy Shares Return to Spring’s Highs? - Morningstar",
+    "Siemens Energy AG : Bernstein reaffirms its Buy rating - marketscreener.com",
+    "MAIRE Acquires Chart Industries’ LNG Technologies for $220 Million - ChemAnalyst"
+  ]
+}

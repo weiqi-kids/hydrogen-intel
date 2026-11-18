@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-18",
+  "total_events": 10,
+  "by_company": {
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:10:52.137357Z",
+  "updated_at": "2026-11-18T16:47:41.350937Z",
   "quarter": "2025-12-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "Ballard Power Systems",
       "ticker": "BLDP",
       "currency": "USD",
-      "ar": 16838000,
-      "ar_prev": 13229000,
-      "ar_qoq": "+27%",
+      "ar": 22940000,
+      "ar_prev": 16838000,
+      "ar_qoq": "+36%",
       "ar_period": "QoQ",
-      "inventory": 42339000,
-      "inv_prev": 43798000,
-      "inv_qoq": "-3%",
+      "inventory": 56499000,
+      "inv_prev": 42339000,
+      "inv_qoq": "+33%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bloom_energy",
