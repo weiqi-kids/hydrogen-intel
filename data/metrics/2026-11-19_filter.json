@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 67,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 96,
+  "gate2_fail": 44,
+  "passed": 24,
+  "gate2_samples": [
+    "Air Products and Chemicals Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+    "Air Products and Chemicals (APD): Air Products swings to $2.39 EPS on $3.2B in charges - Quantisnow",
+    "Air Products to Nominate Carol Williams for Election to Board of Directors - www.marketscreener.com",
+    "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+    "Air Products to nominate Carol Williams to its board of directors - StreetInsider"
+  ]
+}

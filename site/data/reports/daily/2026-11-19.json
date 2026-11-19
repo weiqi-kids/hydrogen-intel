@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:54:40.620138Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products FY 2026: Revenue $12.99B, EPS $2.39 — 10-K Summary - TradingView",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWM3NTVzZEk3dlF0YnpzLWYxRXZDWlRuaVJtWVRNU1lObEdLR3pDcndqNm53U0l1YzFXUUhXeWk0d21IeDFoOVE1MjNuWk5sekd6QW1BSVJWVUxoNHhkNHNEd0cwREVLd0Z2eTJCVl8wREJGc3dzLWZNU0xxeERYaFJsS0EwTk9KS3hlV2ZuSGxwZjgyTGtIZHJHMWhyT1hFUXo0MlVRRURfUjVNenczWVJ4REp3T3g0aV9F?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "siemens_energy-2026-11-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens Energy signs 200-MW electrolyser deal for Swedish e-SAF site - Renewables Now",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejczN184ZkIyQUJWYTNLd2FydjFfdWZDTVFfLWdCRjE5R2FqMGkxZEQtV1FQbTg5TWtTZkxibnJOdlU4VTdXWXY1VXlQZlk2VnVuUndFYWdqbG11UjVKSzNtM1gxcC1pTE9VQ25lTzhDaER5UEQ0Q1Q5bi1UbGZ2NWxKcDdFWUZkbUFJSDJlTzA0V2xhRHFtWktxX2RaRFlNWDdWTGJrZDlXM0FC?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "All-new Hyundai ELANTRA Global Reveal and Livestream - Hyundai USA Media Center",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWh2bkJVaHQySFdRb2JJdEJ6OGxWVkllaVpLby16WndLNENKb1dPeDhFRGVoYkQ1dzlBdUdHVWRGcGZYM2lKR3ROVW1na21SemF2dmJCemg3VmhhUXRrR0QyUzd1YXZhT3VPS0RsQ3VzMjk2VEwtX05xT3B0T28ta3B6UVFoMURud2xTT3lURmlPSHM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor launches 4 task forces for future mobility - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nVDhIdDJRR0hKTURVaC10eHQ4OC1TRWt6ZlVCY2drWldzZlNHekZGSVZMVHFtdXoyYU00SDkxdlZBOUFKWFhFbTd2cVdMQ0NKWW5pS0hXMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group, 42dot Recruit 3 Self-Driving Executives from Apple, Nvidia to Expand Silicon Valley Organization - BigGo Finance",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZ3lLUVJoakljZTZXOVQ4VjRBQ2tWbEtHdjE3M3hKZ2tvTHVzTVpjbFVDOFVEeXRwRVZSMEdjR2hxUndFZHFNTHBRV3ZIb3ctWnR6ZUZvVElIRGdMTEtXamVaY0NGZ3hrZ2RkZ1cwaGhIcE1kWXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "plug_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 4
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 67,
+    "too_old": 116,
+    "gate1_blocked": 96,
+    "gate2_blocked": 44,
+    "passed": 24,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Air Products and Chemicals Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "Air Products and Chemicals (APD): Air Products swings to $2.39 EPS on $3.2B in charges - Quantisnow",
+      "Air Products to Nominate Carol Williams for Election to Board of Directors - www.marketscreener.com",
+      "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+      "Air Products to nominate Carol Williams to its board of directors - StreetInsider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為現代汽車、豐田、Air Products相關動態：「Air Products FY 2026: Revenue $12.99B, EPS $2.39 — 10-K S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Air Products FY 2026: Revenue $12.99B, EPS $2.39 — 10-K Summary - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "Siemens Energy signs 200-MW electrolyser deal for Swedish e-SAF site - Renewa...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
