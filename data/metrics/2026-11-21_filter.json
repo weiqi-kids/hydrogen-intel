@@ -1,0 +1,16 @@
+{
+  "total_raw": 344,
+  "dup_title": 80,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 93,
+  "gate2_fail": 32,
+  "passed": 20,
+  "gate2_samples": [
+    "Air Products & Chemicals (NYSE:APD) Meets Technical Breakout Criteria - ChartMill",
+    "Air Products and Chemicals (APD): Air Products swings to $2.39 EPS on $3.2B in charges - Quantisnow",
+    "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+    "Why Is Air Products (NYSE:APD) Trading on Heavy Volume? Here Is What We Know - kalkine.ca",
+    "Siemens Energy selected to supply 200 MW electrolyser for Sweden’s e-SAF project - BioEnergy Times"
+  ]
+}
