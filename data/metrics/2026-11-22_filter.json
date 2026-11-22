@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 88,
+  "gate2_fail": 28,
+  "passed": 14,
+  "gate2_samples": [
+    "Air Products & Chemicals (NYSE:APD) Meets Technical Breakout Criteria - ChartMill",
+    "Credit Market Volatility and Rating Risks Threaten Air Products and Chemicals’ Financing Costs and L",
+    "Air Products and Chemicals (APD): Air Products swings to $2.39 EPS on $3.2B in charges - Quantisnow",
+    "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+    "Nel ASA (NLLSY) Stock Price, News & Analysis - Stock Titan"
+  ]
+}

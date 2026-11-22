@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:46:15.467790Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "siemens_energy-2026-11-22-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Siemens Energy’s Record FY2026 Signals a Power Infrastructure Supercycle - The Futurum Group",
+      "companies": [
+        "siemens_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2dJV01OTTlLQVRNSzhIVXExRkVtaWxFclU1djBaZkkxNDlSakotTEFCR0ZaVEtaSlpxS0U0ekI5UURiS3NWelJvT1IyYWoyR2NIWGJ3cXJmVTdIc0o4Tnpaakg5a3VVZThLRkd6NWZnS0RRRVRPQndpNkhRWGxSc2JRbzNCWk91M1ZvZlZMNzlsVjBqVWVFRklSekc3WnVyRlhHYnVXTS16dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck - Electrek",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0wwRERlMnJoMEFEbFBmRkp4dFFyMFBydjJVa0JQeXRSZnpack5hVFY2Mk43NWIxVkc4WnVKTlZpTXJyYVFSQTR3U2ZURDVjYThBalMtSGFvcFlhN01RQ2dLR2ZkbmtpZk9sQ2JrVXFSWVdzR1M3dFZpaE96bFdTWDh3SWNTNlViM2V1bEFONEhjU1VuNEhsQ2U2a1lmcWc0dkdCN2d3SEZ0X3V4U2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI and Automakers Crash the Game Show: Wrtn and Hyundai Motor Bet on Hands-On Marketing at South Korea's G-Star 2026 - BigGo Finance",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54ZmZ6azVsVU9oajVIb3ZIeUFfWm9EckFCTDJQY0VvWTROcTg2TkVZcTBIM0lKVVFCRHdZd3JERzRsWVdMSGFwcUJFVUZzeXkwUXNqQzRLaGhDVkpMSXg2SGdid1FRQWpuS3MwRW41SVVBeXlscFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Mobis wins W1tr in braking, steering system orders - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iaHB6ekx5aTFMN0JCUXhERGVwLXNEMEdGaE8zY1JPZlozdEJRaU1XWl9rbEVfV0trSWxDNi1yT3hjTWJPc0pET3BSVERuUUtVTE1xMjJZRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag risk - Nation Thailand",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NWk41R2VfZTZRNnBlWWFmZ0F2TW5USWt1YnZZbTJWeHpyZno3LUtNM0s3T2Rid1BSQkp3UXp4WWNoWTNXcU9ycVpIQ29uRjlLam9JZXY5TG5KNG1GalFTSnJOdXhzb1U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "siemens_energy",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 81,
+    "too_old": 80,
+    "gate1_blocked": 88,
+    "gate2_blocked": 28,
+    "passed": 14,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Air Products & Chemicals (NYSE:APD) Meets Technical Breakout Criteria - ChartMill",
+      "Credit Market Volatility and Rating Risks Threaten Air Products and Chemicals’ Financing Costs and L",
+      "Air Products and Chemicals (APD): Air Products swings to $2.39 EPS on $3.2B in charges - Quantisnow",
+      "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+      "Nel ASA (NLLSY) Stock Price, News & Analysis - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為現代汽車、西門子能源、豐田相關動態：「Siemens Energy’s Record FY2026 Signals a Power Infrastruc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Siemens Energy’s Record FY2026 Signals a Power Infrastructure Supercycle - Th...",
+        "level": "green"
+      },
+      {
+        "text": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work tru...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
