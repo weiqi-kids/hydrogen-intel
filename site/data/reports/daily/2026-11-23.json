@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:36:42.185988Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp_nucera-2026-11-23-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera braces for worse-than-expected losses from green hydrogen business - Hydrogen Insight",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFZ2b3ZEc2Y2c1dsQ2hZdjhDRU9qdGYwTlhQMHYxeVNMaEg3azFZcXNDQXZ6NXdJTHV2a21wclZOMHV6aFZmZERaWXZ4MktSOHJ4cmhfM3B4UDNJTjRpQ0N1cnRmUlUwQlVoc1daejNJRFNYelB6dmwxdzZscnRkRTQxSEotUnlzaWVZWW9nRmxoZDVqU0VROXV3VmQxTWRvdkxOZG9XT3lubE12bVZyWk9RWnRHVERXYTNSaUk5STc5cXFKN3o3bjN4dkhRZWVIUUpzNndfTXY4RXJZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp_nucera-2026-11-23-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera hits record low - 'A year to forget' - www.marketscreener.com",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW5uTlVnSkUyRWk2X3ZtamgxRkdtV252dnBYN1dhWjZTOEJIWkJJdjVCd0dXbVZueWVHM0E3VnVRbmFPOE9fcHZDcklMaWNvSUQ4Qk9VRXF5aURFWUpwZEQ5V3NKT3NwVXMzUmlSWUtaTFJ6WHpQcU44ZGpCSjFST1ZNU05fcG9lSUllLUZxZUhJaE56S0pEb2t3cy0zV0tncXk0WGFNczc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nucera sees wider 2025/26 loss for green hydrogen segment - Renewables Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTERpazcxV3dOYjQ3ZHViTUlmaUdKdXl3UF9yeG1TSXllRC1lOG9XVnBMVjJqdTY2WVpxZzZ0M2c3N0wyNHdSb0M3bmxHTklHNkRNUjlDcDF6T3JkdFYxWGIzakxDdWs0NFpZM2t6VUdMa25BWTdUVXdQX1g2VlBJbDlhejdHRG1meERWMmdsOF9fV1RZY2R0YWhYTzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly Recap: Shares rise on split plan and 200 MW electrolysis design - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "electrolyzer_capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHVPRE9rWnJLMWtGUHJuUlNWXzNQRXFMQW1KNS10ckhpTHZRaEpJTFZRdTVWUHlWb0hfVVdsOTFMMlpXZVdkUjVOQnlnYWN4NUpqLUg3RXR0UktEUHEtWHV4ZnpZR3dYdGl3OXZSQlg1YW1TMWw0ejRNc1ltallfdURrYnFpa0hXMVVuVW9vUV9VRndOZlRkZnJSaFBab1pORU50SDJLQkVMWE9hMUtfQ1M1TTRJdjV4V3NSMmkwM3NSZm44dG5PSWpLZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucera hit by further €40m in green hydrogen project costs - gasworld",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdtM1pZaTlLcWVoSFpQdmlXSWkzQmRUYUxRNlJiNWdQYm9OaVNFSnpHMW1FUks3WUJBem5hQlhhalBBbkhnemRlaGJUSnI1U01vQkJBaEFSTjZYUU5IUGlSaTc2N3k2Um53RjJNSnpzZnQ4WHFmR3d1UHNoQ3pKY0Jzbm04Nm0wSVJIMlRCbWZSVjV3OE1nbnVJNTctcEU2aURoTnpsZTZvZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.29,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 2
+      },
+      {
+        "id": "plug_power",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 7
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 90,
+    "too_old": 121,
+    "gate1_blocked": 85,
+    "gate2_blocked": 27,
+    "passed": 24,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Air Products making final lease payment in December; creates financial challenge for commission - an",
+      "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+      "Air Products to Nominate Carol Williams for Election to Board of Directors - PR Newswire",
+      "FTSE 100 Alternative: ITM Power (LSE:ITM) Scales Up Chronos Stack - Kalkine Media",
+      "Siemens Energy Selected for 200MW Electrolyser Supply at Swedish E-SAF Project - Fuel Cells Works"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為現代汽車、豐田、thyssenkrupp nucera相關動態：「Thyssenkrupp Nucera braces for worse-than-expected losses...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Nucera braces for worse-than-expected losses from green hydrogen...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Thyssenkrupp Nucera hits record low - 'A year to forget' - www.marketscreener...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

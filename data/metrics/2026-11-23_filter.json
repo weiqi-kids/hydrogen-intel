@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 85,
+  "gate2_fail": 27,
+  "passed": 24,
+  "gate2_samples": [
+    "Air Products making final lease payment in December; creates financial challenge for commission - an",
+    "Wrapped Air Products and Chemicals Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+    "Air Products to Nominate Carol Williams for Election to Board of Directors - PR Newswire",
+    "FTSE 100 Alternative: ITM Power (LSE:ITM) Scales Up Chronos Stack - Kalkine Media",
+    "Siemens Energy Selected for 200MW Electrolyser Supply at Swedish E-SAF Project - Fuel Cells Works"
+  ]
+}

@@ -1,5 +1,315 @@
 [
   {
+    "id": "unknown-2026-11-23-001",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: Shares rise on split plan and 200 MW electrolysis design - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHVPRE9rWnJLMWtGUHJuUlNWXzNQRXFMQW1KNS10ckhpTHZRaEpJTFZRdTVWUHlWb0hfVVdsOTFMMlpXZVdkUjVOQnlnYWN4NUpqLUg3RXR0UktEUHEtWHV4ZnpZR3dYdGl3OXZSQl",
+    "sources": [
+      {
+        "name": "siemens_energy",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHVPRE9rWnJLMWtGUHJuUlNWXzNQRXFMQW1KNS10ckhpTHZRaEpJTFZRdTVWUHlWb0hfVVdsOTFMMlpXZVdkUjVOQnlnYWN4NUpqLUg3RXR0UktEUHEtWHV4ZnpZR3dYdGl3OXZSQlg1YW1TMWw0ejRNc1ltallfdURrYnFpa0hXMVVuVW9vUV9VRndOZlRkZnJSaFBab1pORU50SDJLQkVMWE9hMUtfQ1M1TTRJdjV4V3NSMmkwM3NSZm44dG5PSWpLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-11-23-002",
+    "date": "2026-11-23",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "negative",
+    "title": "Thyssenkrupp Nucera braces for worse-than-expected losses from green hydrogen business - Hydrogen Insight",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFZ2b3ZEc2Y2c1dsQ2hZdjhDRU9qdGYwTlhQMHYxeVNMaEg3azFZcXNDQXZ6NXdJTHV2a21wclZOMHV6aFZmZERaWXZ4MktSOHJ4cmhfM3B4UDNJTjRpQ0N1cnRmUlUwQlVoc1daej",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFZ2b3ZEc2Y2c1dsQ2hZdjhDRU9qdGYwTlhQMHYxeVNMaEg3azFZcXNDQXZ6NXdJTHV2a21wclZOMHV6aFZmZERaWXZ4MktSOHJ4cmhfM3B4UDNJTjRpQ0N1cnRmUlUwQlVoc1daejNJRFNYelB6dmwxdzZscnRkRTQxSEotUnlzaWVZWW9nRmxoZDVqU0VROXV3VmQxTWRvdkxOZG9XT3lubE12bVZyWk9RWnRHVERXYTNSaUk5STc5cXFKN3o3bjN4dkhRZWVIUUpzNndfTXY4RXJZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-003",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Nucera hit by further €40m in green hydrogen project costs - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdtM1pZaTlLcWVoSFpQdmlXSWkzQmRUYUxRNlJiNWdQYm9OaVNFSnpHMW1FUks3WUJBem5hQlhhalBBbkhnemRlaGJUSnI1U01vQkJBaEFSTjZYUU5IUGlSaTc2N3k2Um53RjJNSn",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdtM1pZaTlLcWVoSFpQdmlXSWkzQmRUYUxRNlJiNWdQYm9OaVNFSnpHMW1FUks3WUJBem5hQlhhalBBbkhnemRlaGJUSnI1U01vQkJBaEFSTjZYUU5IUGlSaTc2N3k2Um53RjJNSnpzZnQ4WHFmR3d1UHNoQ3pKY0Jzbm04Nm0wSVJIMlRCbWZSVjV3OE1nbnVJNTctcEU2aURoTnpsZTZvZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-11-23-004",
+    "date": "2026-11-23",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Thyssenkrupp Nucera hits record low - 'A year to forget' - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW5uTlVnSkUyRWk2X3ZtamgxRkdtV252dnBYN1dhWjZTOEJIWkJJdjVCd0dXbVZueWVHM0E3VnVRbmFPOE9fcHZDcklMaWNvSUQ4Qk9VRXF5aURFWUpwZEQ5V3NKT3NwVXMzUmlSWU",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW5uTlVnSkUyRWk2X3ZtamgxRkdtV252dnBYN1dhWjZTOEJIWkJJdjVCd0dXbVZueWVHM0E3VnVRbmFPOE9fcHZDcklMaWNvSUQ4Qk9VRXF5aURFWUpwZEQ5V3NKT3NwVXMzUmlSWUtaTFJ6WHpQcU44ZGpCSjFST1ZNU05fcG9lSUllLUZxZUhJaE56S0pEb2t3cy0zV0tncXk0WGFNczc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-005",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "negative",
+    "title": "Nucera sees wider 2025/26 loss for green hydrogen segment - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPTERpazcxV3dOYjQ3ZHViTUlmaUdKdXl3UF9yeG1TSXllRC1lOG9XVnBMVjJqdTY2WVpxZzZ0M2c3N0wyNHdSb0M3bmxHTklHNkRNUjlDcDF6T3JkdFYxWGIzakxDdWs0NFpZM2t6VU",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTERpazcxV3dOYjQ3ZHViTUlmaUdKdXl3UF9yeG1TSXllRC1lOG9XVnBMVjJqdTY2WVpxZzZ0M2c3N0wyNHdSb0M3bmxHTklHNkRNUjlDcDF6T3JkdFYxWGIzakxDdWs0NFpZM2t6VUdMa25BWTdUVXdQX1g2VlBJbDlhejdHRG1meERWMmdsOF9fV1RZY2R0YWhYTzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-11-23-006",
+    "date": "2026-11-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "All-New Hyundai Elantra Avant Shines Brightly and Practically in CGI, Should the Koreans Build It? - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaUc5cUJvWkFKSHRtWHdiNW5aRVE3YjZxQlNIYkZEVzVfSkVrcXlSbEI4Nm9mSjBMb2V3SDRUVEYtNVhOTzQtZXp0ZS1kVDcwOERQX01kZURXbUtXS3piQ0kzWnRfa1JvTHkxanZUT1",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaUc5cUJvWkFKSHRtWHdiNW5aRVE3YjZxQlNIYkZEVzVfSkVrcXlSbEI4Nm9mSjBMb2V3SDRUVEYtNVhOTzQtZXp0ZS1kVDcwOERQX01kZURXbUtXS3piQ0kzWnRfa1JvTHkxanZUT1VUZmtLMGdxSks2MnIweVFFTk13N1ZnVEtUdUhIbkRtNVNzZENDXzN1STBqMnNPdUNtSlRTaUJUZzh0TmZ6NFNtbnpmQ2Z4UDgxNFgycXlYZGNOSkZrR01WREY0ckhDTmV3bDJNaVhqVjFDcTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-11-23-007",
+    "date": "2026-11-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Motor India Announces Nationwide ‘Hyundai Smart Care Clinic’ Service Camp Across 1,700+ Centres - Telugu Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3VtWDUxYXl5Y2tJYVV1cTg4UUUtNjhpQmVVUkF6X1VtMHJmckJiWWtveXNfVEdxeUhXbUFhMkE4VlhLcjVzbXpjdTlPU3pwb3VNVWlhek8zd1k0elE1VUFlSzVBZjg4MGhzV1dRQV",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3VtWDUxYXl5Y2tJYVV1cTg4UUUtNjhpQmVVUkF6X1VtMHJmckJiWWtveXNfVEdxeUhXbUFhMkE4VlhLcjVzbXpjdTlPU3pwb3VNVWlhek8zd1k0elE1VUFlSzVBZjg4MGhzV1dRQVNnMTNiVzNZbzN3ME0wb1F3cUw5MjJpeEdBT05mTzN5VkwtaWFBUXlJQXRpQ2o3bHdyRWVVZEM5ZVB0b2E3MmlLSEppSndiU2pMY2dyS2xOQlhadzR5eVVXeUxJOVUxMnJ2WTBYMkp2N29wWnZxbG1ISWFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-11-23-008",
+    "date": "2026-11-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2027 Elantra Hybrid: Gleo AI Voice Assistant Launching With Hyundai's New Pleos Connect System - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3liU1NabFhFUjJZMmV3R08zUThTSEZ1WjRiTl9SVW1Nd3FreUNBbEJ1SkNPME5HMklaZEw5d2VEODdPdTNYUkctSVdKQXJfYW5WU28wN09ZZy03Z3g4WjRsNjFTTDljeDdDUkoyTX",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3liU1NabFhFUjJZMmV3R08zUThTSEZ1WjRiTl9SVW1Nd3FreUNBbEJ1SkNPME5HMklaZEw5d2VEODdPdTNYUkctSVdKQXJfYW5WU28wN09ZZy03Z3g4WjRsNjFTTDljeDdDUkoyTXdLUnU4WEJCWnM4N3NzeFJ4UldobHppU3pYMHN4SW1mMHhiRVIwbjFCakpudFBuWmVxNEpWa29aM0I4T2NlTFFWV0lXdHJLT09MUXRacExQTGNjMFcwVGZkY1pydzY2UGc3bHlfRlFHWmZ0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-11-23-009",
+    "date": "2026-11-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai, Kia, and Genesis Share Parts, Not Faces, Thanks to Luc Donckerwolke's Decade-Long Bet - Road Ethos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFlYeWYwWDBnc1l5a2VlQ3dCNjFnelE1Y3N2cGRaaU1rdlgtVXdsdUgzTVJZeWhWTnRmZXpfNlp0U2NLUFZSdUVYSnBMZUF4SlZ6WVpPUGV0eXpXeW1jVnhtYjVOX0FpVVBLWW1IZG",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFlYeWYwWDBnc1l5a2VlQ3dCNjFnelE1Y3N2cGRaaU1rdlgtVXdsdUgzTVJZeWhWTnRmZXpfNlp0U2NLUFZSdUVYSnBMZUF4SlZ6WVpPUGV0eXpXeW1jVnhtYjVOX0FpVVBLWW1IZGRCZHpyNWNRSmtacUJfRWVXLTNKMlJmSVJsYzFKeGd2b1pPLVZGdWNreWtGRHJ6UDdVdHhKX2R1ZVhaVFFJXzlJQnFtWTNNQ28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-11-23-010",
+    "date": "2026-11-23",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1GelVrWlRwd18zNE8wVVRpTnRObHZydXpScEpMQ2ZiczlCazNTaWxTMnFxX2oxbXlfVUx1MEFtVktJV0FQbWpBVzJ3WlRmc21wYnQ5cGdrX3RNUU9oNTJCc0luZy1UbjBiZ0MxM25OcT",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GelVrWlRwd18zNE8wVVRpTnRObHZydXpScEpMQ2ZiczlCazNTaWxTMnFxX2oxbXlfVUx1MEFtVktJV0FQbWpBVzJ3WlRmc21wYnQ5cGdrX3RNUU9oNTJCc0luZy1UbjBiZ0MxM25OcThtOExoaVI0OGVTTVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-11-23-011",
+    "date": "2026-11-23",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle manufacturing expansion plans in State - The Hindu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFdqdmxadFdVM1lyU3lPZFdTVjFSdTl4WmNicnZOdm5UQ2t4ZFZ0ODJCSjJZOFBQNXNqVTFIcVJHaEVZZDlMb3VDWHV1QVNJNzFNUlRwUkNZdFhEbUNGaDktYThtQTk3d2dCMXFoUW",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFdqdmxadFdVM1lyU3lPZFdTVjFSdTl4WmNicnZOdm5UQ2t4ZFZ0ODJCSjJZOFBQNXNqVTFIcVJHaEVZZDlMb3VDWHV1QVNJNzFNUlRwUkNZdFhEbUNGaDktYThtQTk3d2dCMXFoUWtyZlVrLXpESmc1RjV2UDhWSUFwb0EzVUdsWkJLZ3hsZVNnUWZNUVFQbXNDNUtsX1NEazBOYlc1YVk1OHJYcnpzcDZRODIyYmRXU0JIZWFaNnczclVJdUY4LXgyOE5TbG1SLUhWOGxBYTFUbmVoeUdIbVUta2JRa2xhZG9Jb29DTGdMOURPMDVjVXkzVDE3X3NjSHVtNUdFaU5VU3FVZ2VrWVBn0gGYAkFVX3lxTE45MnhVbnJ0ZDNscUZzLW9NYXFaQXVvSXpFSWhlSjVqa00tYTNPMVF1VkIwVHJUbHZxdktKaHNmLUFrRzJZVmZnS1A0MHYxZ1R4cVkyWHRqb1NYeVlQT1ZoWnVrLXh5d0JJTmZsTDRnRW15ZHYyb3pzX1dRSTNNY0dnTmpuQ3VDbUVoSEVvQjJNZ1B6R0h5WG0taGRsMXJtNEg1RXYzNHR1VnE3UnR3MURKZWZMMWE0NzRteXhCS1ZZTl9LTU0wU3JJRHBRVXNEbEJKaFAzMFZrSGVHT2dfbEk5MkFFNlc2a0VfdmJMU2xlRzhrSlZPSjRlamlZUE1WNGludHVZc2pubmhUdHI2eHpmWk1lcld3eGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-11-23-012",
+    "date": "2026-11-23",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Honda and Toyota Recall 1.1M Vehicles In the U.S. Over Takata Airbag Rupture Risk - Latin Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcDVTU2NwaWI3X2swUUhyWXZFeGZfa191aVFsdmtNVDFLSGZPN243MWRjalZHUTc2N3VHU09IdVB5Z0ttejVnYWYycGdhVWtYZzZCSTg3NUtBODJ1S09fclk5ek5jd1k1cFNhUWNQWW",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcDVTU2NwaWI3X2swUUhyWXZFeGZfa191aVFsdmtNVDFLSGZPN243MWRjalZHUTc2N3VHU09IdVB5Z0ttejVnYWYycGdhVWtYZzZCSTg3NUtBODJ1S09fclk5ek5jd1k1cFNhUWNQWWlMQnhsV191WTBpSXk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-11-23-013",
+    "date": "2026-11-23",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Karnataka assures support for Toyota's expansion to one million capacity; CM Shivakumar pitches Japan's affordable hybrid taxi model for State - Deccan Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNa1NPYWx2ZDRsTjNaOWs4czlCVW9vMS1rRkhDeHdjRTM3WWRBR2dZdHk5UldSU3F2YzdycEJhWi16V3R2bTdhUE9CY0kyN3FEQWZVUWZBcXlCVGlWcTFGRnVNUzJtZDdfRjdYeVhnWD",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNa1NPYWx2ZDRsTjNaOWs4czlCVW9vMS1rRkhDeHdjRTM3WWRBR2dZdHk5UldSU3F2YzdycEJhWi16V3R2bTdhUE9CY0kyN3FEQWZVUWZBcXlCVGlWcTFGRnVNUzJtZDdfRjdYeVhnWDFGVWFzSHhQQnlCT1VfRUxuMG9fLVlLZXB1ekhXeGJEWlBnUHZoNWc1SFRnNVZON29JRzBtLURvV0NjYnU5Y0dPTHRmWFRiR0hzNmUtQ1lEb2ZQNEVTYXNuUDNxTnBMTnJyMFZTUS1mLXR1dndWRjdTR0I5dDhaWWx5RU5VUEZqWkRQRXNWYmFabERXYldKclpMTV85R0hpOGtTUGhHaVBpWHhQMVFmUk05WWFNRtIBqgJBVV95cUxQQ3U3NjZJLVlMVDBqQThDblJpN1NpU3haX25qM0otd3hvc1hVNTNKdEwxbjNyMVRYMHF3UFA1bEticDgyVjN3ZlpLaWwzWGEzSmIyX1VzRmlqa0hzUWdXQ19KMERLdHZlZDBfUUVtdzJ6dzhBbUN2LTJoVHRhZGNSa2dkeGswQTFVaUh5UnJxdngteDFWR0tTbXZ0OVpaMWw4WVlHWGUyRi1CUXFGU0dUUjJyRG9IM1loWFA3VU9xa0piYlBrc1lNcy1JdGY4WTRjRXVLU3VfU2ctNS1EeTlTMTZRd1NhNlFJaHBJT21Edzh4NDZBMTltSTNERjVRVk9ySnlWWS1Dd3BhWUdVLU1vSlBYN2dsTDlnMElHVm8waG8yTlhDU3U4UW5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-014",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Stegra Moves Closer to Domestic Iron Ore Supply for Swedish Green Hydrogen Steel Project",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/11/23/h2/stegra-moves-closer-to-domestic-iron-ore-supply-for-swedish-green-hydrogen-steel-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-015",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hellenic Hydrogen Files 25 MW Licence Application to Kick Off 100 MW Green Hydrogen Plant at Former Greek Coal Site",
+    "summary": "",
+    "sources": [
+      {
+        "name": "fuelcellsworks",
+        "url": "https://fuelcellsworks.com/2026/11/21/h2/hellenic-hydrogen-files-25-mw-licence-application-to-kick-off-100-mw-green-hydrogen-plant-at-former-greek-coal-site",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-016",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hopes for green hydrogen revive as industry seeks to cut costs - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUtMTEJCNFh6eVdXak12WWpLSXlJTzF3b3hPMGd4N1BzbWp4UEx4Z0VwZnZsekxrNWhaazlKX1kzWlBmRGM0Nk03Q0Q0T3E1ak45Q0xZVTdrNHVuY0psSFVydWVaS0JIcnNtMDlkT3",
+    "sources": [
+      {
+        "name": "google_news_green_hydrogen",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUtMTEJCNFh6eVdXak12WWpLSXlJTzF3b3hPMGd4N1BzbWp4UEx4Z0VwZnZsekxrNWhaazlKX1kzWlBmRGM0Nk03Q0Q0T3E1ak45Q0xZVTdrNHVuY0psSFVydWVaS0JIcnNtMDlkT3pXaDJhRndTSFZSMWxManpoeG9KbGJ1NTVaTUgxcUNzbWdOTGk1SF9WZW9nWm5VbFRBSXI3M2hiQVBHQnhId0o0dDI0Vmd2QjVWeEpuYmJoYjVEdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "plug_power-2026-11-23-017",
+    "date": "2026-11-23",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
+    "summary": "<p>The startup Plug Power is among the green hydrogen stakeholders carving out more space for renewable energy in the US market, despite last year's sharp U-turn in federal energy policy.</p>\n<p>The p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "siemens_energy-2026-11-22-001",
     "date": "2026-11-22",
     "companies": [
@@ -85,6 +395,24 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NWk41R2VfZTZRNnBlWWFmZ0F2TW5USWt1YnZZbTJWeHpyZno3LUtNM0s3T2Rid1BSQkp3UXp4WWNoWTNXcU9ycVpIQ29uRjlLam9JZXY5TG5KNG1GalFTSnJOdXhzb1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-006",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "China's Green Fuels Initiative: Insights from Suqian's Hydrogen Production Development",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795407851785.jpeg\" alt=\"China&apos;s Green Fuels Initiative: Insights from Suqian&apos;s Hydrogen Production Development\" /></p>China's Green Fuels",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/china-s-green-fuels-initiative-insights-from-suqian-s-hydrogen-production-develo/8577132/",
         "type": "rss"
       }
     ]
@@ -247,6 +575,84 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-11-21-010",
+    "date": "2026-11-21",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp nucera Launches Electrolyser Cell Assembly Hub in Portugal to Support Green Hydrogen Production - Hydrogen Fuel News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORjFoQWJVY2Z3SlFoV1ZpVjZwOTNJaTlYZWE3amNLZEJHUmZvUFJDNUNXU091MEluUlZ4aHlta2lFaVNqdEVzLXRmNjhROWcxd1VJMVp2eFhZbHNoVzh1Wk92ZTVBTm1MaWJ2c0xCc0",
+    "sources": [
+      {
+        "name": "thyssenkrupp_nucera",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjFoQWJVY2Z3SlFoV1ZpVjZwOTNJaTlYZWE3amNLZEJHUmZvUFJDNUNXU091MEluUlZ4aHlta2lFaVNqdEVzLXRmNjhROWcxd1VJMVp2eFhZbHNoVzh1Wk92ZTVBTm1MaWJ2c0xCc05WdFBnN3FTU0F6Z0VoaHF4MU9sQktNRlBRbUdRdXJZVHpMdFQ3N29QSjg4TTdEMUlsSzdEVXdNU0JhVDRxcDhXQy1EZEZSWWd6cXpNaWstaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-011",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "negative",
+    "title": "India's Electrolyser Manufacturing Delays: Navigating Market Demand and Policy Incentives",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795284657739.jpeg\" alt=\"India&apos;s Electrolyser Manufacturing Delays: Navigating Market Demand and Policy Incentives\" /></p>India's green hydroge",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/india-s-electrolyser-manufacturing-delays-navigating-market-demand-and-policy-in/8577128/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp_nucera-2026-11-21-012",
+    "date": "2026-11-21",
+    "companies": [
+      "thyssenkrupp_nucera"
+    ],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp nucera Launches Electrolyser Cell Assembly Hub in Portugal to Support Green Hydrogen Production",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795407504732.jpeg\" alt=\"thyssenkrupp nucera Launches Electrolyser Cell Assembly Hub in Portugal to Support Green Hydrogen Production\" /></p>thyssen",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/thyssenkrupp-nucera-launches-electrolyser-cell-assembly-hub-in-portugal-to-suppo/8577122/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "plug_power-2026-11-21-013",
+    "date": "2026-11-21",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power and Galp Advance Renewable Hydrogen Project in Portugal",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795237494529.jpeg\" alt=\"Plug Power and Galp Advance Renewable Hydrogen Project in Portugal\" /></p>Plug Power and Galp have launched a renewable hyd",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/plug-power-and-galp-advance-renewable-hydrogen-project-in-portugal/8577121/",
         "type": "rss"
       }
     ]
@@ -683,6 +1089,45 @@
       {
         "name": "toyota",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMDE5YndtTnIxRzN3SVV5dEZ0S1pKQXN1bVQzRGJtaG93czhLOWpOanRZQTZPWk9VX1FlUmxqQU1VdjVrUnJGQzdBMU4tRlBSb1JobzMzMjEyd0MtSC01TUxLNjBnazJwOC1TajRiUjNURXZ4anRFZXRfdEZ4RHpJRW5YRkZRTllXd2VmZGt0MUhQOTNCY0h5QXh4LWJVd0VLdWJUZDN0eUJoaVBmUF9ROU5vUHo3eG9ydDZXT0VyZi1UeUNtNDFFLVBzNEVKaE42eWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-025",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "green_hydrogen_cost"
+    ],
+    "impact": "neutral",
+    "title": "China Unveils 195-Kilometer Pure Hydrogen Pipeline to Boost Green Hydrogen Infrastructure",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795190768485.jpeg\" alt=\"China Unveils 195-Kilometer Pure Hydrogen Pipeline to Boost Green Hydrogen Infrastructure\" /></p>China has launched a 195-k",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/china-unveils-195-kilometer-pure-hydrogen-pipeline-to-boost-green-hydrogen-infra/8577115/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "plug_power-2026-11-20-026",
+    "date": "2026-11-20",
+    "companies": [
+      "plug_power"
+    ],
+    "topics": [
+      "electrolyzer_capacity",
+      "hydrogen_policy"
+    ],
+    "impact": "neutral",
+    "title": "Plug Power and Avina Clean Hydrogen Launch Operational Hydrogen Hub in California",
+    "summary": "<p><img src=\"https://media.verna.one/images/resized-1795408426313.jpeg\" alt=\"Plug Power and Avina Clean Hydrogen Launch Operational Hydrogen Hub in California\" /></p>Plug Power has launched the Avina ",
+    "sources": [
+      {
+        "name": "hydrogen_fuel_news",
+        "url": "http://www.hydrogenfuelnews.com/plug-power-and-avina-clean-hydrogen-launch-operational-hydrogen-hub-in-californi/8577114/",
         "type": "rss"
       }
     ]

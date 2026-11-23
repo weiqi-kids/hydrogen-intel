@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-23",
+  "date_range": {
+    "start": "2026-11-17",
+    "end": "2026-11-23"
+  },
+  "generated_at": "2026-11-23T19:36:42.323232Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "chart-2026-11-19-024",
+      "date": "2026-11-19",
+      "title": "Nel ASA (NELO.XC) Seasonal returns chart - Yahoo Finance UK",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "green_hydrogen_cost": {
+      "this_week": 16,
+      "last_week": 12,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.13
+    },
+    "electrolyzer_capacity": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "siemens_energy": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 32,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "air_products": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "plug_power": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "itm_power": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "thyssenkrupp_nucera": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 137,
+        "last": 172,
+        "change_pct": -20.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-17",
+      "event_count": 30,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 20,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 13,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-17 ~ 2026-11-23）共 137 則事件，重點為「Nel ASA (NELO.XC) Seasonal returns chart - Yaho...」。綠氫成本、電解槽產能為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "西門子能源",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "現代汽車",
+        "reason": "本週出現 32 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "豐田",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
