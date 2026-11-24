@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-24",
+  "total_events": 19,
+  "by_company": {
+    "air_products": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itm_power": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "plug_power": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 10,
+      "sentiment_avg": -0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

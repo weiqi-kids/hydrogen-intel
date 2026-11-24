@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:10:59.156156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp_nucera-2026-11-24-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "thyssenkrupp nucera expects EBIT loss of €136 million on green hydrogen charges - energynews.pro",
+      "companies": [
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVpocThXYmxEZXFKMmhvZjFGWGhJMzNEc0dRd2ZJbUlSU1k2TjF3cU12aXRfLXMwWTRXSEdOVFdFQy1RU1YxWHVWTzBxclBxRngxdDdHZjFqd3NaSExEdjZWNVFTcVFTN1h3MDBPRDF2RjItUGVVVkh4Tm84RDRESlp1Vk9xQ2d2Y29mTkM4TGtQN0F1RVVQYnVOcHlDVUtKV0pyaGdsbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "air_products-2026-11-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Air Products: A Better Business Still Needs To Deliver (NYSE:APD) - Seeking Alpha",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb01ld2FURGdnNGd5S1gzTC1kNXYwWVZla0gwWThaZzMtTE4xaVNqbkFGN3gwZjV2WmZPeW1Nd0NYYlVuc0N4ZktQcXd4TEI5RUR4SFcxZV9fQXZxSTlBallPU3RoeTc1Zy1NLV82UnVZd21xR0hsVG5WVkRnMzczZGlWb1NqVHRrb0VyWUNPT3ltYW1JbU9waC1n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-11-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman upgrades ITM Power as share slump improves risk-reward balance - Investing.com",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1dqUmwxVHlHSTdCNTRZS1R6VHNEVWVTR0JiRTlqNlhwNmtFOXVsSWo5YTBfVHN1YkdsYnFFRWNqZkJwelZVb2pkY3hQSDJNd3c1N3FJVXpzcjFDdFVYV0VmTUpNa3RRaUNraTE4NWN2V3I3dU5lUzRaSWxBb1VtdF9oc2owTXVYU2RMR1YtQjdSd292b2duTXZFNGNTSi1ZZV8wcVBYRzBDd3RKLVNKRndqbmNOM2NBSVNXTEtHZTdBb3Vs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pentagon taps automakers for drone production, Volkswagen union tensions grow, Hyundai CEO outlines future strategy - CBT News",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jeEZVWUl3SmxkMWVCS1YzWkw2SFpoS3NHWnhXWnhmYjlKV1FObVVaZzczVkhwQU40X1BrNjF5alFyZFhIN3RVNkM2ZVMxSFFHRVU1QklkSFhGbm1SVXBEQnczRG9hVVpPaVcxRUJ4T3BGQUk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Deploys ST1 EVs to Wildfire Sites in Year-Long Trial with South Korea's Forest Service - BigGo Finance",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNEF2Tm0wMWpEQ0Y0SVdYRjVxRWsyUHNnamhjQmxqZ0JJWG1ycHFTb2g5UTBrVFBkdVFqellhdERDaFJfMi1hZkdSdmJFdFNWdW1wdHdMZ1BxUnZwS3hlZ3Joc1VWZlVxZDdoV1BCaDZVcG44LWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "itm_power",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp_nucera",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 89,
+    "too_old": 104,
+    "gate1_blocked": 91,
+    "gate2_blocked": 36,
+    "passed": 28,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - TradingV",
+      "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - Quantisn",
+      "Air Products & Chemicals (NYSE:APD) Meets Technical Breakout Criteria - ChartMill",
+      "Air Products and Chemicals Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "Air Products group president sells $142,584 in shares - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為現代汽車、豐田、Air Products相關動態：「thyssenkrupp nucera expects EBIT loss of €136 million on ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "thyssenkrupp nucera expects EBIT loss of €136 million on green hydrogen charg...（綠氫成本）",
+        "level": "green"
+      },
+      {
+        "text": "Air Products: A Better Business Still Needs To Deliver (NYSE:APD) - Seeking A...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 10 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

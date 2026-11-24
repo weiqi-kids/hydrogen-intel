@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 91,
+  "gate2_fail": 36,
+  "passed": 28,
+  "gate2_samples": [
+    "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - TradingV",
+    "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - Quantisn",
+    "Air Products & Chemicals (NYSE:APD) Meets Technical Breakout Criteria - ChartMill",
+    "Air Products and Chemicals Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "Air Products group president sells $142,584 in shares - Investing.com"
+  ]
+}
