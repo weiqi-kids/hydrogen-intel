@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 85,
+  "gate2_fail": 28,
+  "passed": 39,
+  "gate2_samples": [
+    "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - Quantisn",
+    "Air Products group president sells $142,584 in shares - Investing.com",
+    "Air Products making final lease payment in December; creates financial challenge for commission - an",
+    "Air Products and Chemicals Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "Nel ASA (D7GA.F) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

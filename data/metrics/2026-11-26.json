@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-26",
+  "total_events": 26,
+  "by_company": {
+    "siemens_energy": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "toyota": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "green_hydrogen_cost": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
