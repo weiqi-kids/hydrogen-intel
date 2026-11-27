@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 88,
+  "gate2_fail": 30,
+  "passed": 29,
+  "gate2_samples": [
+    "ITM Power buys compression assets from insolvent hydrogen refuelling player - gasworld",
+    "ITM Power acquires assets of European hydrogen refuelling specialist - Insider Media Ltd",
+    "Siemens Energy AG (SMERY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "How Siemens Energy transformed field service operations - Atlassian",
+    "Broker’s call: Siemens Energy (Buy) - BusinessLine"
+  ]
+}

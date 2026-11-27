@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:43:18.250736Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "chart-2026-11-27-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "thyssenkrupp nucera AG & Co (NCH2.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "companies": [
+        "chart",
+        "thyssenkrupp_nucera"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDc2VWMHZDS0dERURnM05DSXNaR09Pd0JnZ1B2VGstU1NscEcwX2VtZk9SUkdaQ0tBQVBtX1lWVm1PcndNZ0l3OW1YaXQtQ25XdHBKbFA0dGpwYjV6cklDd1NjVTBTUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itm_power-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power acquires technology of failed Dutch hydrogen refuelling firm - Renewables Now",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSi0xSDBnOW16dHRXcVFkbUJSXzdhdHo0LVFDbWhyY2gtZVFIcVZoOEhHcmdabk5KUHR4cnlXSm1fSVdQMEQ4Tjlla3phcXdBeUJFSVZZcHhRZlRRbEdVS25tRkVYNFVuYVlJRW1OYW5JV09oMWI2d0lYLTRzUUNxWkNOcmFuZElqMUVGb2UzMU9Camd1ZTQzdlZickx2eHhkdWJWX1oxNndZbHlnYzkw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itm_power-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power expands hydrogen technology portfolio with €3 million Resato acquisition - Proactive financial news",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQME5lQkRtR1oxVDBmWXZsalVCbk5zbEJKVkJocGJBaEstMjc1Y1c3c0tQS3lhZXluTUZ3SXhrV3NYaGVlcFVwTjVaTGpkUzA0Vzg3QS0zcnNxcEVvSjRoemtmVE5WV1dGcDMzYWpmMlB4ZzJhQ3RpQmxfRzkwWjVSY3FaMkUwZ0NtV3JNQTQ4WHBFczFUSGprZjc5cTlrY05CQ1V0ZFZCM1E2QUVhTVd6UnlFSDc1YWF3MHhnbUFETXJSdHpfbmloM1FOcGFaR3g3WjNEMm5lTmZHMWJfdy1ma0NiU2hfUms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itm_power-2026-11-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power Acquires Resato Hydrogen Technology for €3M - Fuel Cells Works",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2E0Qnp4bkEtZWFnOERURWdvQ2h6ZXVaY2NnXzlLTU9yLTVuS0ZibUcxSEtkU08xaHM4WVZ3UldPck9fSzZLWmRPZmtHTlQ0NjNCd2JTWUdsd0xXbmQ1dDJGM3dzNXFObU01TWV4Nm1PcVZrZVFsZjRFX0R2OXJJcERDc0lUNFlUbXJKQ2toZ3ZGeG4zdmpvVGE5eUNZa3JOT1JNM1BURjN2bGx5dkE1RXczaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itm_power-2026-11-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ITM Power buys insolvent Resato's hydrogen tech for €3M - Dealroom",
+      "companies": [
+        "itm_power"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXVwWTNHSXoyakpSVDA3MmFZb0d2MWhOYWhQVVAxQkFCXzVXMUx5RzhiS2c0THN5dlFxXzk4ZE9FZDc4OGVRM2xxT1QxMGZKNGhTT1Z2U3ZuRlJQYU1BZ1lnX3I0Y25HUzhnUmpqN0RqdXowdVlHdE9OS2h2d2pjTy1idERic19iWmdZSXRVdUFGUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "electrolyzer_capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "green_hydrogen_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "itm_power",
+        "count": 9
+      },
+      {
+        "id": "siemens_energy",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "chart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 2
+      },
+      {
+        "id": "electrolyzer_capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 94,
+    "too_old": 108,
+    "gate1_blocked": 88,
+    "gate2_blocked": 30,
+    "passed": 29,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "ITM Power buys compression assets from insolvent hydrogen refuelling player - gasworld",
+      "ITM Power acquires assets of European hydrogen refuelling specialist - Insider Media Ltd",
+      "Siemens Energy AG (SMERY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "How Siemens Energy transformed field service operations - Atlassian",
+      "Broker’s call: Siemens Energy (Buy) - BusinessLine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為ITM Power、西門子能源、現代汽車相關動態：「thyssenkrupp nucera AG & Co (NCH2.MU) Seasonal Returns Ch...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "thyssenkrupp nucera AG & Co (NCH2.MU) Seasonal Returns Chart - Yahoo Finance ...",
+        "level": "yellow"
+      },
+      {
+        "text": "ITM Power acquires technology of failed Dutch hydrogen refuelling firm - Rene...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

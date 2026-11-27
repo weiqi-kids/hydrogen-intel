@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-27",
+  "total_events": 22,
+  "by_company": {
+    "itm_power": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    },
+    "siemens_energy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "chart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp_nucera": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "electrolyzer_capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "green_hydrogen_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
