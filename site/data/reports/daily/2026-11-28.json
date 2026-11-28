@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:28:47.889884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "air_products-2026-11-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Many Shares of Air Products and Chemicals or RPM International Pay $1,000 a Month in Dividends? - TIKR.com",
+      "companies": [
+        "air_products"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ3VtWEprR1BtY1c1NWdHbkRrRWFJOW1ieUVHQnpHOGtoWXhiYkdPTWprM0xGTUJjNE5scklyX01jT3JpY0ZPdThQOGRxeDRIZ1F4MUZLTzdpbkNhb2FzaU1kQ2V4emZkWEJqTVFKTjZ4c0lVZ0hZZkstMlcwSE1kN2FVM2MwZDBGeDdxVWhRanltSzdNa0JVbWR1Tjc1ek54cXkzaTBFWkJyNzBXZWFUcXY0RjFubjF1QjA3UHFuaVhTSW04OEhqNGFsMHZMcHN5TGFOSmtWeXBJOVhoalVnOGtubGRIRHBNNWgwX0NXQlJCMzdKNGpFU0VvOGRKM2pf?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Hyundai Stellar Four-Door Sedan Is a Virtual Proposal For a Very Different Kind of Aesthetics - autoevolution",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWl3WHN0NWxjOFNnWXl3M1Brdl9WM0EtQlpCb2JCQURCVHVUSTVRTFYyX0tBNHVwRHY1bHhVZ2dXbWFKeGpqU3FNcUd1dmVXZFNLeXdhdEtRU3FtQjl4eGtjVlVlQ1gtM05lR2ZOMzhlNnhfMmxJa3BXVlpJVEkwTVFjdnpsRHcwYk8wNklZMGt0azE0ZGE3UnVvUndIU3dyQnRGYW01N1FlZjFOT1BVTjR2Rl9VUzNya21tampqSmlMV1dJYnZGdmpndUx5UmJrOXk2dkxjUDRVZ0VU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Motor: U.S. Sales Can Recover While China Profits Remain Under Pressure (NYSE:TM) - Seeking Alpha",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0lFSHNsbzFDckNxblc5OW1aZXBOWi1yTWJFRHVvSUt0Uk5RX3pIcUVZYzZxYnBOTDhhRlVRMDdtbjFxUmpPQTN5ZktkamllZ0xPNzBiMzdSZ3RGbmZOSkJCdFVXNVI3ZUtrMVNaaXpId2JlQVVEaVRhSnBJR21PQU44VXVmRVNYLWtkZ3NEb2pHbjQ2NzN1RGM2MlNVU1BFdmttRVRhNVpndWkwaURJaWVsYzk2d2s?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hybrid Renewable Systems Could Cut On-Site Green Hydrogen Emissions by 99 Percent - Bioengineer.org",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "green_hydrogen_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ3VDeUJ0aHczVXJJLTh4N3d2TVM5MUxSWjFXRm83YW14NDZCTGlNNi11YlRlOXBhWEwwN2kxb0YzbWlNZFpJWXJfTFVNOFJsSlBRdVpxRG1IS1dRaEVCVzl3UmpHbVBYTW4yX1ZzckJ3d25yRHNfR3hLWWpCWG1JVFVvYnNmMTlHU195U2NQXzQ5U3ZMSnl2aThzTUxZRHpXbEpaeEVvRFRqdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "green_hydrogen_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "air_products",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "green_hydrogen_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 110,
+    "too_old": 105,
+    "gate1_blocked": 85,
+    "gate2_blocked": 31,
+    "passed": 21,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Air Products Reaches a Fresh One-Year High at $319.04 - 24/7 Wall St.",
+      "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - TradingV",
+      "Air Products making final lease payment in December; creates financial challenge for commission - an",
+      "Air Products group president sells $142,584 in shares - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Air Products、現代汽車、豐田相關動態：「How Many Shares of Air Products and Chemicals or RPM Inte...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How Many Shares of Air Products and Chemicals or RPM International Pay $1,000...",
+        "level": "green"
+      },
+      {
+        "text": "The Hyundai Stellar Four-Door Sedan Is a Virtual Proposal For a Very Differen...",
+        "level": "green"
+      },
+      {
+        "text": "綠氫成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

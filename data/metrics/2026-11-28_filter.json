@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 85,
+  "gate2_fail": 31,
+  "passed": 21,
+  "gate2_samples": [
+    "Linde plc (LIN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Air Products Reaches a Fresh One-Year High at $319.04 - 24/7 Wall St.",
+    "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2 - TradingV",
+    "Air Products making final lease payment in December; creates financial challenge for commission - an",
+    "Air Products group president sells $142,584 in shares - Investing.com"
+  ]
+}
